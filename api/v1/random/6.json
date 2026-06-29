@@ -1,0 +1,18 @@
+{
+  "id": "grug-refactor",
+  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
+  "categories": [
+    "grug",
+    "wisdom"
+  ],
+  "tags": [
+    "refactoring",
+    "discipline"
+  ],
+  "grug_level": 5,
+  "spiciness": 1
+}

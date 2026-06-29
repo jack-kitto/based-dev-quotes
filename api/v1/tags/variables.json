@@ -1,0 +1,24 @@
+{
+  "tag": "variables",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "naming-things-hard",
+      "text": "I spent 45 minutes naming a variable today. This is fine. This is normal. I am a professional.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "naming",
+        "variables",
+        "time-waste"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

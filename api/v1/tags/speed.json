@@ -1,0 +1,60 @@
+{
+  "tag": "speed",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "levels-12-startups",
+      "text": "Build 12 startups in 12 months. Most will fail. The ones that don't will change your life.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "12 Startups in 12 Months challenge, 2014",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "startups",
+        "speed",
+        "experimentation"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "move-fast-break-things",
+      "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "facebook",
+        "speed",
+        "caution"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

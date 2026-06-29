@@ -1,0 +1,19 @@
+{
+  "id": "wall-perl",
+  "text": "The three chief virtues of a programmer are: Laziness, Impatience, and Hubris.",
+  "author": "Larry Wall",
+  "author_slug": "wall",
+  "source": "Programming Perl, 1991",
+  "categories": [
+    "funny",
+    "wisdom"
+  ],
+  "tags": [
+    "virtues",
+    "laziness",
+    "perl",
+    "classic"
+  ],
+  "grug_level": 4,
+  "spiciness": 1
+}

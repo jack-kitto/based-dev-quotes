@@ -1,0 +1,79 @@
+{
+  "author": "Paul Graham",
+  "slug": "graham",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "graham-do-things-that-dont-scale",
+      "text": "Do things that don't scale.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Do Things That Don't Scale, 2013",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "startups",
+        "hustle",
+        "growth",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-maker-schedule",
+      "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Maker's Schedule, Manager's Schedule, 2009",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "focus",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "graham-default-alive",
+      "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Default Alive or Default Dead?, 2015",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "survival",
+        "profitability",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-wealth",
+      "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Startup = Growth, 2012",
+      "categories": [
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "growth",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

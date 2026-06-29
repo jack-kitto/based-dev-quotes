@@ -1,0 +1,42 @@
+{
+  "tag": "containers",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "works-on-my-machine",
+      "text": "It works on my machine. Then we'll ship your machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "deployment",
+        "docker",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "docker-works-here",
+      "text": "Docker: because 'it works on my machine' wasn't a good enough answer, so now we ship the machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "docker",
+        "containers",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

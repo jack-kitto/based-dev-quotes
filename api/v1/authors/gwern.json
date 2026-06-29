@@ -1,0 +1,25 @@
+{
+  "author": "Gwern Branwen",
+  "slug": "gwern",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "gwern-on-finishing",
+      "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+      "author": "Gwern Branwen",
+      "author_slug": "gwern",
+      "source": "gwern.net",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "discipline",
+        "projects"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

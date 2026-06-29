@@ -1,0 +1,23 @@
+{
+  "tag": "meta",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "recursion-joke",
+      "text": "To understand recursion, you must first understand recursion.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "CS101 folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "recursion",
+        "cs101",
+        "meta"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

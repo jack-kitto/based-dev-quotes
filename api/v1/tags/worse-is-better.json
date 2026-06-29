@@ -1,0 +1,25 @@
+{
+  "tag": "worse-is-better",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "worse-is-better",
+      "text": "The right thing is frequently a mass mass complex thing. Worse is better. New Jersey style wins.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "source": "Worse Is Better, 1989",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "worse-is-better",
+        "simplicity",
+        "pragmatism",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    }
+  ]
+}

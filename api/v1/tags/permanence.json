@@ -1,0 +1,25 @@
+{
+  "tag": "permanence",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "temporary-solution",
+      "text": "Nothing is more permanent than a temporary solution that works.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "wisdom"
+      ],
+      "tags": [
+        "technical-debt",
+        "permanence",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

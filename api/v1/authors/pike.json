@@ -1,0 +1,41 @@
+{
+  "author": "Rob Pike",
+  "slug": "pike",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "pike-complexity-moved",
+      "text": "A little copying is better than a little dependency.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Go Proverbs",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "dependencies",
+        "simplicity",
+        "go"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "pike-data-dominates",
+      "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Notes on Programming in C, 1989",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

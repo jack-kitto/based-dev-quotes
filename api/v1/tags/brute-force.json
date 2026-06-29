@@ -1,0 +1,25 @@
+{
+  "tag": "brute-force",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "thompson-unix-c",
+      "text": "When in doubt, use brute force.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Unix philosophy",
+      "categories": [
+        "wisdom",
+        "grug",
+        "unix"
+      ],
+      "tags": [
+        "brute-force",
+        "pragmatism",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tag": "agile",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "agile-is-dead",
+      "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "agile",
+        "scrum",
+        "methodology",
+        "management"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    }
+  ]
+}

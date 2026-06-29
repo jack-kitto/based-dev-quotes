@@ -1,0 +1,24 @@
+{
+  "tag": "action",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

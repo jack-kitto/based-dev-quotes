@@ -1,0 +1,25 @@
+{
+  "author": "Marc Lou",
+  "slug": "marclou",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

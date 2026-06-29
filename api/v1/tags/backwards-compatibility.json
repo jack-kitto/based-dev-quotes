@@ -1,0 +1,25 @@
+{
+  "tag": "backwards-compatibility",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "feature-request-vs-bug",
+      "text": "A bug becomes a feature the moment a customer depends on it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Software engineering folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "customers",
+        "backwards-compatibility"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

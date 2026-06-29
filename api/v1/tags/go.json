@@ -1,0 +1,24 @@
+{
+  "tag": "go",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "pike-complexity-moved",
+      "text": "A little copying is better than a little dependency.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Go Proverbs",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "dependencies",
+        "simplicity",
+        "go"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

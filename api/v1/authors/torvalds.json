@@ -1,0 +1,78 @@
+{
+  "author": "Linus Torvalds",
+  "slug": "torvalds",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "torvalds-good-taste",
+      "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "TED Interview, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "taste",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-bad-programmers",
+      "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "torvalds-c-plus-plus",
+      "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List, 2007",
+      "categories": [
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "c++",
+        "languages",
+        "rant"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    }
+  ]
+}

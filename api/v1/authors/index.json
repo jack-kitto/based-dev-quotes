@@ -1,0 +1,185 @@
+{
+  "total": 45,
+  "authors": {
+    "atwood": {
+      "name": "Jeff Atwood",
+      "count": 2
+    },
+    "berra": {
+      "name": "Yogi Berra (applied to programming)",
+      "count": 1
+    },
+    "blow": {
+      "name": "Jonathan Blow",
+      "count": 3
+    },
+    "brooks": {
+      "name": "Fred Brooks",
+      "count": 2
+    },
+    "cantrill": {
+      "name": "Bryan Cantrill",
+      "count": 2
+    },
+    "carmack": {
+      "name": "John Carmack",
+      "count": 3
+    },
+    "conway": {
+      "name": "Damian Conway",
+      "count": 1
+    },
+    "coveyou": {
+      "name": "Robert R. Coveyou",
+      "count": 1
+    },
+    "dijkstra": {
+      "name": "Edsger W. Dijkstra",
+      "count": 3
+    },
+    "eagleson": {
+      "name": "Eagleson",
+      "count": 1
+    },
+    "feathers": {
+      "name": "Michael Feathers",
+      "count": 1
+    },
+    "fortes": {
+      "name": "Filipe Fortes",
+      "count": 1
+    },
+    "gabriel": {
+      "name": "Richard P. Gabriel",
+      "count": 1
+    },
+    "graham": {
+      "name": "Paul Graham",
+      "count": 4
+    },
+    "grug": {
+      "name": "The Grug Brained Developer",
+      "count": 6
+    },
+    "gwern": {
+      "name": "Gwern Branwen",
+      "count": 1
+    },
+    "hickey": {
+      "name": "Rich Hickey",
+      "count": 4
+    },
+    "hoare": {
+      "name": "C.A.R. Hoare",
+      "count": 1
+    },
+    "hoffman": {
+      "name": "Reid Hoffman",
+      "count": 1
+    },
+    "hofstadter": {
+      "name": "Douglas Hofstadter",
+      "count": 1
+    },
+    "jeffries": {
+      "name": "Ron Jeffries / XP",
+      "count": 1
+    },
+    "kernighan": {
+      "name": "Brian Kernighan",
+      "count": 1
+    },
+    "knuth": {
+      "name": "Donald Knuth",
+      "count": 1
+    },
+    "lampson": {
+      "name": "Butler Lampson (modified)",
+      "count": 1
+    },
+    "levels": {
+      "name": "Pieter Levels",
+      "count": 2
+    },
+    "marclou": {
+      "name": "Marc Lou",
+      "count": 1
+    },
+    "martin": {
+      "name": "Robert C. Martin (Uncle Bob)",
+      "count": 1
+    },
+    "mcilroy": {
+      "name": "Doug McIlroy",
+      "count": 1
+    },
+    "metz": {
+      "name": "Sandi Metz",
+      "count": 1
+    },
+    "muratori": {
+      "name": "Casey Muratori",
+      "count": 1
+    },
+    "norvig": {
+      "name": "Peter Norvig",
+      "count": 1
+    },
+    "patio11": {
+      "name": "Patrick McKenzie (patio11)",
+      "count": 2
+    },
+    "perlis": {
+      "name": "Alan Perlis",
+      "count": 2
+    },
+    "pike": {
+      "name": "Rob Pike",
+      "count": 2
+    },
+    "raymond": {
+      "name": "Eric S. Raymond",
+      "count": 1
+    },
+    "spolsky": {
+      "name": "Joel Spolsky",
+      "count": 2
+    },
+    "stroustrup": {
+      "name": "Bjarne Stroustrup",
+      "count": 1
+    },
+    "tanenbaum": {
+      "name": "Andrew S. Tanenbaum",
+      "count": 1
+    },
+    "thompson": {
+      "name": "Ken Thompson",
+      "count": 2
+    },
+    "torvalds": {
+      "name": "Linus Torvalds",
+      "count": 4
+    },
+    "unknown": {
+      "name": "Unknown",
+      "count": 63
+    },
+    "wall": {
+      "name": "Larry Wall",
+      "count": 1
+    },
+    "wulf": {
+      "name": "W.A. Wulf",
+      "count": 1
+    },
+    "yegge": {
+      "name": "Steve Yegge",
+      "count": 1
+    },
+    "zawinski": {
+      "name": "Jamie Zawinski",
+      "count": 1
+    }
+  }
+}

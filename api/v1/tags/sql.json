@@ -1,0 +1,25 @@
+{
+  "tag": "sql",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "select-star-production",
+      "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "sql",
+        "production",
+        "database",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

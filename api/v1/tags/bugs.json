@@ -1,0 +1,96 @@
+{
+  "tag": "bugs",
+  "count": 5,
+  "quotes": [
+    {
+      "id": "dijkstra-testing",
+      "text": "Testing shows the presence, not the absence of bugs.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "Notes on Structured Programming, 1970",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "testing",
+        "bugs",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "99-bugs-wall",
+      "text": "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "debugging",
+        "song"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "fix-bug-introduce-three",
+      "text": "Fixing one bug and introducing three more is called job security.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "job-security",
+        "entropy"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "it-compiled",
+      "text": "My code doesn't have bugs. It just develops random features.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "denial"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "feature-request-vs-bug",
+      "text": "A bug becomes a feature the moment a customer depends on it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Software engineering folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "customers",
+        "backwards-compatibility"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "tag": "abstraction",
+  "count": 5,
+  "quotes": [
+    {
+      "id": "grug-abstraction",
+      "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shipping"
+      ],
+      "tags": [
+        "abstraction",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "blow-layers",
+      "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "layers",
+        "understanding"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "spolsky-leaky-abstractions",
+      "text": "All non-trivial abstractions, to some degree, are leaky.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "The Law of Leaky Abstractions, 2002",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "leaky",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "sandi-metz-wrong-abstraction",
+      "text": "Duplication is far cheaper than the wrong abstraction.",
+      "author": "Sandi Metz",
+      "author_slug": "metz",
+      "source": "The Wrong Abstraction, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "duplication",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "lampson-abstraction",
+      "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+      "author": "Butler Lampson (modified)",
+      "author_slug": "lampson",
+      "source": "Attributed, with modification from David Wheeler's original",
+      "categories": [
+        "funny",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "indirection",
+        "abstraction",
+        "layers",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

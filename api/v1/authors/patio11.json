@@ -1,0 +1,43 @@
+{
+  "author": "Patrick McKenzie (patio11)",
+  "slug": "patio11",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "patio11-charge-more",
+      "text": "Charge more.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Accumulated indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "pricing",
+        "business",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "patio11-salary-negotiation",
+      "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Don't Call Yourself a Programmer, 2011",
+      "categories": [
+        "career",
+        "indie-hacker"
+      ],
+      "tags": [
+        "career",
+        "positioning",
+        "salary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

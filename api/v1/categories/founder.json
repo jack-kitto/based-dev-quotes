@@ -1,0 +1,169 @@
+{
+  "category": "founder",
+  "count": 9,
+  "quotes": [
+    {
+      "id": "graham-default-alive",
+      "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Default Alive or Default Dead?, 2015",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "survival",
+        "profitability",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-wealth",
+      "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Startup = Growth, 2012",
+      "categories": [
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "growth",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-low-level",
+      "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Masters of Doom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "resourcefulness",
+        "hustle"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "audience-first",
+      "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "audience",
+        "marketing",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "ramen-profitable",
+      "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture (term from Paul Graham)",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "profitability",
+        "ramen",
+        "survival"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "revenue-vanity-profit-sanity",
+      "text": "Revenue is vanity, profit is sanity, cash is reality.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Business proverb",
+      "categories": [
+        "founder",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "profit",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "bootstrapped-vc",
+      "text": "The best funding round is revenue.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Bootstrapper culture",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "vc",
+        "funding",
+        "revenue"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "product-nobody-wants",
+      "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup culture",
+      "categories": [
+        "founder",
+        "suffering"
+      ],
+      "tags": [
+        "product-market-fit",
+        "validation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "cto-startup-titles",
+      "text": "At a startup, CTO stands for 'Currently The Only developer.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup folklore",
+      "categories": [
+        "funny",
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "titles",
+        "solo-dev"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

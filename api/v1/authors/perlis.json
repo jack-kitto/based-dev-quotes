@@ -1,0 +1,43 @@
+{
+  "author": "Alan Perlis",
+  "slug": "perlis",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "perlis-lisp",
+      "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "thinking",
+        "learning",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "perlis-optimization",
+      "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "evolution",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

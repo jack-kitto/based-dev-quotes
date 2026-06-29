@@ -1,0 +1,62 @@
+{
+  "tag": "languages",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "torvalds-c-plus-plus",
+      "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List, 2007",
+      "categories": [
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "c++",
+        "languages",
+        "rant"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "java-sufficiently-smart",
+      "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup",
+      "author_slug": "stroustrup",
+      "source": "The Design and Evolution of C++",
+      "categories": [
+        "funny",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "complaints",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "perlis-lisp",
+      "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "thinking",
+        "learning",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "tag": "classic",
+  "count": 32,
+  "quotes": [
+    {
+      "id": "grug-complexity-bad",
+      "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "knuth-premature-optimization",
+      "text": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth",
+      "author_slug": "knuth",
+      "source": "Structured Programming with go to Statements, 1974",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "optimization",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "kernighan-debugging",
+      "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "source": "The Elements of Programming Style, 1978",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "cleverness",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hoare-two-ways",
+      "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "design",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "brooks-mythical-man-month",
+      "text": "Adding manpower to a late software project makes it later.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "The Mythical Man-Month, 1975",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "management",
+        "teams",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "brooks-silver-bullet",
+      "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "No Silver Bullet, 1986",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "productivity",
+        "silver-bullet",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-testing",
+      "text": "Testing shows the presence, not the absence of bugs.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "Notes on Structured Programming, 1970",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "testing",
+        "bugs",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-simplicity",
+      "text": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "EWD498",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-humble-programmer",
+      "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "The Humble Programmer, 1972 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "grug"
+      ],
+      "tags": [
+        "humility",
+        "competence",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "mcilroy-unix-philosophy",
+      "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
+      "author": "Doug McIlroy",
+      "author_slug": "mcilroy",
+      "source": "Bell System Technical Journal, 1978",
+      "categories": [
+        "unix",
+        "wisdom"
+      ],
+      "tags": [
+        "unix",
+        "philosophy",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "thompson-cant-trust",
+      "text": "You can't trust code that you did not totally create yourself.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "security",
+        "trust",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "salomon-30-hours",
+      "text": "Weeks of coding can save you hours of planning.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "planning",
+        "coding",
+        "irony",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "two-hard-things",
+      "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Unknown (based on Phil Karlton)",
+      "author_slug": "unknown",
+      "source": "Programming folklore / internet",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "cache",
+        "naming",
+        "off-by-one",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "regex-two-problems",
+      "text": "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.",
+      "author": "Jamie Zawinski",
+      "author_slug": "zawinski",
+      "source": "comp.lang.emacs Usenet post, 1997",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "regex",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "java-sufficiently-smart",
+      "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup",
+      "author_slug": "stroustrup",
+      "source": "The Design and Evolution of C++",
+      "categories": [
+        "funny",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "complaints",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "hofstadter-law",
+      "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+      "author": "Douglas Hofstadter",
+      "author_slug": "hofstadter",
+      "source": "Gödel, Escher, Bach, 1979",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "estimation",
+        "time",
+        "recursive",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "patio11-charge-more",
+      "text": "Charge more.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Accumulated indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "pricing",
+        "business",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "graham-do-things-that-dont-scale",
+      "text": "Do things that don't scale.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Do Things That Don't Scale, 2013",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "startups",
+        "hustle",
+        "growth",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "spolsky-leaky-abstractions",
+      "text": "All non-trivial abstractions, to some degree, are leaky.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "The Law of Leaky Abstractions, 2002",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "leaky",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "spolsky-rewrite",
+      "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "Things You Should Never Do, Part I, 2000",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "rewrite",
+        "legacy-code",
+        "strategy",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "norvig-10-years",
+      "text": "Teach Yourself Programming in Ten Years.",
+      "author": "Peter Norvig",
+      "author_slug": "norvig",
+      "source": "Essay title, 2001",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "learning",
+        "mastery",
+        "patience",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "raymond-enough-eyeballs",
+      "text": "Given enough eyeballs, all bugs are shallow.",
+      "author": "Eric S. Raymond",
+      "author_slug": "raymond",
+      "source": "The Cathedral and the Bazaar, 1999",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "debugging",
+        "community",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "perlis-lisp",
+      "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "thinking",
+        "learning",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "atwood-any-application",
+      "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "Atwood's Law, 2007",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "javascript",
+        "inevitability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "wulf-goto",
+      "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+      "author": "W.A. Wulf",
+      "author_slug": "wulf",
+      "source": "A Case Against the GOTO, 1972",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "efficiency",
+        "optimization",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "dns-always-dns",
+      "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "sysadmin folklore (SSBroski / haiku)",
+      "categories": [
+        "funny",
+        "debugging",
+        "suffering"
+      ],
+      "tags": [
+        "dns",
+        "debugging",
+        "networking",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "worse-is-better",
+      "text": "The right thing is frequently a mass mass complex thing. Worse is better. New Jersey style wins.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "source": "Worse Is Better, 1989",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "worse-is-better",
+        "simplicity",
+        "pragmatism",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "yagni",
+      "text": "You aren't gonna need it.",
+      "author": "Ron Jeffries / XP",
+      "author_slug": "jeffries",
+      "source": "Extreme Programming Installed, 2000",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "yagni",
+        "simplicity",
+        "over-engineering",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "wall-perl",
+      "text": "The three chief virtues of a programmer are: Laziness, Impatience, and Hubris.",
+      "author": "Larry Wall",
+      "author_slug": "wall",
+      "source": "Programming Perl, 1991",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "virtues",
+        "laziness",
+        "perl",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "lampson-abstraction",
+      "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+      "author": "Butler Lampson (modified)",
+      "author_slug": "lampson",
+      "source": "Attributed, with modification from David Wheeler's original",
+      "categories": [
+        "funny",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "indirection",
+        "abstraction",
+        "layers",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tag": "production",
+  "count": 5,
+  "quotes": [
+    {
+      "id": "cantrill-debugging-production",
+      "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Platform as a Reflection of Values, 2018",
+      "categories": [
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "production",
+        "fear",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "money-printer",
+      "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter (loosely based on Napoleon)",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "production",
+        "friday",
+        "deployments"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "select-star-production",
+      "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "sql",
+        "production",
+        "database",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "production-is-different",
+      "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+      "author": "Yogi Berra (applied to programming)",
+      "author_slug": "berra",
+      "source": "Various attributions",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "theory",
+        "practice",
+        "production"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "prod-env-staging",
+      "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "testing",
+        "production",
+        "environments"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

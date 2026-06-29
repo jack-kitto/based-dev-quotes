@@ -1,0 +1,78 @@
+{
+  "tag": "git",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "code-comments-why",
+      "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "comments",
+        "git",
+        "blame"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "rm-rf-solution",
+      "text": "Sometimes the most productive thing you can do is delete everything and start with a clear head. But maybe git stash first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shipping"
+      ],
+      "tags": [
+        "deletion",
+        "restart",
+        "git"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "git-rebase-force-push",
+      "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "git",
+        "danger",
+        "teams"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "git-commit-messages",
+      "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / every git log ever",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "git",
+        "commits",
+        "entropy",
+        "discipline"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "tag": "definition",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "graham-wealth",
+      "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Startup = Growth, 2012",
+      "categories": [
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "growth",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "martin-legacy-code",
+      "text": "Legacy code is simply code without tests.",
+      "author": "Michael Feathers",
+      "author_slug": "feathers",
+      "source": "Working Effectively with Legacy Code, 2004",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "legacy-code",
+        "testing",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "tag": "solo-dev",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "cto-startup-titles",
+      "text": "At a startup, CTO stands for 'Currently The Only developer.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup folklore",
+      "categories": [
+        "funny",
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "titles",
+        "solo-dev"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

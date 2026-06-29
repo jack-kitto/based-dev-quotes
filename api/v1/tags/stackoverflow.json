@@ -1,0 +1,57 @@
+{
+  "tag": "stackoverflow",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "copy-paste-stackoverflow",
+      "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "copy-paste"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "stackoverflow-driven",
+      "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "stackoverflow",
+        "debugging",
+        "cargo-cult"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "sleep-sort",
+      "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "hacking",
+        "approximation"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "category": "complexity",
+  "count": 19,
+  "quotes": [
+    {
+      "id": "grug-complexity-bad",
+      "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "grug-microservices",
+      "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "microservices",
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "knuth-premature-optimization",
+      "text": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth",
+      "author_slug": "knuth",
+      "source": "Structured Programming with go to Statements, 1974",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "optimization",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hoare-two-ways",
+      "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "design",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-good-taste",
+      "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "TED Interview, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "taste",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-simplicity",
+      "text": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "EWD498",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "pike-complexity-moved",
+      "text": "A little copying is better than a little dependency.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Go Proverbs",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "dependencies",
+        "simplicity",
+        "go"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "hickey-simple-easy",
+      "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Simple Made Easy, Strange Loop 2011",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "blow-simplest-thing",
+      "text": "I want the simplest possible thing that satisfies my actual requirements, and I want to understand every single line of it.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "understanding",
+        "control"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "blow-civilization",
+      "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "suffering",
+        "complexity"
+      ],
+      "tags": [
+        "decline",
+        "software-crisis",
+        "civilization"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    },
+    {
+      "id": "blow-layers",
+      "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "layers",
+        "understanding"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "muratori-clean-code",
+      "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+      "author": "Casey Muratori",
+      "author_slug": "muratori",
+      "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "clean-code",
+        "performance",
+        "aesthetics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "spolsky-leaky-abstractions",
+      "text": "All non-trivial abstractions, to some degree, are leaky.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "The Law of Leaky Abstractions, 2002",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "leaky",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "atwood-best-code",
+      "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "The Best Code is No Code At All, 2007",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "less-code",
+        "simplicity",
+        "maintenance"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "wulf-goto",
+      "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+      "author": "W.A. Wulf",
+      "author_slug": "wulf",
+      "source": "A Case Against the GOTO, 1972",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "efficiency",
+        "optimization",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "sandi-metz-wrong-abstraction",
+      "text": "Duplication is far cheaper than the wrong abstraction.",
+      "author": "Sandi Metz",
+      "author_slug": "metz",
+      "source": "The Wrong Abstraction, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "duplication",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "kubernetes-yaml",
+      "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "devops",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "lampson-abstraction",
+      "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+      "author": "Butler Lampson (modified)",
+      "author_slug": "lampson",
+      "source": "Attributed, with modification from David Wheeler's original",
+      "categories": [
+        "funny",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "indirection",
+        "abstraction",
+        "layers",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "enterprise-fizzbuzz",
+      "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / Enterprise FizzBuzz meme",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "fizzbuzz",
+        "design-patterns",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

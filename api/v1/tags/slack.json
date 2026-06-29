@@ -1,0 +1,25 @@
+{
+  "tag": "slack",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "meetings-email",
+      "text": "This meeting could have been an email. That email could have been a Slack message. That Slack message could have been nothing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Corporate dev culture",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "email",
+        "slack",
+        "productivity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

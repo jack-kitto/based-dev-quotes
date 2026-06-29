@@ -1,0 +1,24 @@
+{
+  "tag": "blame",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "code-comments-why",
+      "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "comments",
+        "git",
+        "blame"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

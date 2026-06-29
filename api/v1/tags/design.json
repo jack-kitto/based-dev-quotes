@@ -1,0 +1,127 @@
+{
+  "tag": "design",
+  "count": 7,
+  "quotes": [
+    {
+      "id": "hoare-two-ways",
+      "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "design",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-good-taste",
+      "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "TED Interview, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "taste",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-bad-programmers",
+      "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "pike-data-dominates",
+      "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Notes on Programming in C, 1989",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hickey-simple-easy",
+      "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Simple Made Easy, Strange Loop 2011",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hickey-design-like-coding",
+      "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Design, Composition, and Performance, 2013",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "design",
+        "decomposition",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "perlis-optimization",
+      "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "evolution",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

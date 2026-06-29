@@ -1,0 +1,25 @@
+{
+  "tag": "pain",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "css-centering",
+      "text": "CSS is the only language where you can mass mass mass mass years of experience and still mass mass not center a div on the first try.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "centering",
+        "frontend",
+        "pain"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

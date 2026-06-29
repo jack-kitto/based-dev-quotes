@@ -1,0 +1,24 @@
+{
+  "tag": "fragmentation",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "standards-xkcd",
+      "text": "The nice thing about standards is that there are so many to choose from.",
+      "author": "Andrew S. Tanenbaum",
+      "author_slug": "tanenbaum",
+      "source": "Computer Networks, 1981",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "standards",
+        "fragmentation",
+        "xkcd-energy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

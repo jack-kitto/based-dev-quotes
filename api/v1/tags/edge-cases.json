@@ -1,0 +1,24 @@
+{
+  "tag": "edge-cases",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "users-find-way",
+      "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "UX folklore",
+      "categories": [
+        "suffering",
+        "wisdom"
+      ],
+      "tags": [
+        "users",
+        "edge-cases",
+        "chaos"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

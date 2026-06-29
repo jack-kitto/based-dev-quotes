@@ -1,0 +1,78 @@
+{
+  "tag": "deployment",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "cantrill-debugging-production",
+      "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Platform as a Reflection of Values, 2018",
+      "categories": [
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "production",
+        "fear",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "works-on-my-machine",
+      "text": "It works on my machine. Then we'll ship your machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "deployment",
+        "docker",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "friday-deploy",
+      "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "friday",
+        "deployment",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "docker-works-here",
+      "text": "Docker: because 'it works on my machine' wasn't a good enough answer, so now we ship the machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "docker",
+        "containers",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "im-in-this-picture",
+  "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
+  "categories": [
+    "funny",
+    "suffering"
+  ],
+  "tags": [
+    "legacy-code",
+    "past-self",
+    "humility"
+  ],
+  "grug_level": 5,
+  "spiciness": 2
+}

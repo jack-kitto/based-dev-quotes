@@ -1,0 +1,44 @@
+{
+  "tag": "ai",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "ai-replace-devs",
+      "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter, 2023",
+      "categories": [
+        "funny",
+        "career",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "replacement",
+        "jobs",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "machine-learning-if-else",
+      "text": "Machine learning is just spicy if/else statements.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

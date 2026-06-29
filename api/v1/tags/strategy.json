@@ -1,0 +1,25 @@
+{
+  "tag": "strategy",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "spolsky-rewrite",
+      "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "Things You Should Never Do, Part I, 2000",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "rewrite",
+        "legacy-code",
+        "strategy",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    }
+  ]
+}

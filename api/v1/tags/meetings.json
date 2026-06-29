@@ -1,0 +1,43 @@
+{
+  "tag": "meetings",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "graham-maker-schedule",
+      "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Maker's Schedule, Manager's Schedule, 2009",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "focus",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "meetings-email",
+      "text": "This meeting could have been an email. That email could have been a Slack message. That Slack message could have been nothing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Corporate dev culture",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "email",
+        "slack",
+        "productivity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

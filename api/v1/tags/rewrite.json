@@ -1,0 +1,44 @@
+{
+  "tag": "rewrite",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "spolsky-rewrite",
+      "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "Things You Should Never Do, Part I, 2000",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "rewrite",
+        "legacy-code",
+        "strategy",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "rewrite-in-rust",
+      "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News / Reddit",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "rust",
+        "rewrite",
+        "hype"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    }
+  ]
+}

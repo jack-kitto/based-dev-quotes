@@ -1,0 +1,25 @@
+{
+  "author": "Jamie Zawinski",
+  "slug": "zawinski",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "regex-two-problems",
+      "text": "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.",
+      "author": "Jamie Zawinski",
+      "author_slug": "zawinski",
+      "source": "comp.lang.emacs Usenet post, 1997",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "regex",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

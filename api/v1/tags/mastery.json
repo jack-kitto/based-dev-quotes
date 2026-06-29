@@ -1,0 +1,25 @@
+{
+  "tag": "mastery",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "norvig-10-years",
+      "text": "Teach Yourself Programming in Ten Years.",
+      "author": "Peter Norvig",
+      "author_slug": "norvig",
+      "source": "Essay title, 2001",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "learning",
+        "mastery",
+        "patience",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

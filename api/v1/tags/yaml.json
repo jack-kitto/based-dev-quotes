@@ -1,0 +1,45 @@
+{
+  "tag": "yaml",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "kubernetes-yaml",
+      "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "devops",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "yaml-indentation",
+      "text": "YAML: where your entire infrastructure can be brought down by a single misplaced space.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "yaml",
+        "indentation",
+        "devops",
+        "config"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

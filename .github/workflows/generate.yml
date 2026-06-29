@@ -1,0 +1,42 @@
+name: Update Quotes API
+
+on:
+  schedule:
+    # Regenerate daily at midnight UTC (rotates today.json + random.json)
+    - cron: '0 0 * * *'
+  push:
+    paths:
+      - 'quotes/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate quotes
+        run: python3 scripts/validate.py
+
+      - name: Generate static API
+        run: python3 scripts/generate.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "based-bot"
+          git config user.email "bot@based-dev-quotes.dev"
+          git add api/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🧠 $(date -u +%Y-%m-%d) — regenerate API"
+            git push
+          fi

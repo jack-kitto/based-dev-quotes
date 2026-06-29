@@ -1,0 +1,23 @@
+{
+  "tag": "trust",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "thompson-cant-trust",
+      "text": "You can't trust code that you did not totally create yourself.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "security",
+        "trust",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

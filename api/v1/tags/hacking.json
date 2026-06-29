@@ -1,0 +1,23 @@
+{
+  "tag": "hacking",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "sleep-sort",
+      "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "hacking",
+        "approximation"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

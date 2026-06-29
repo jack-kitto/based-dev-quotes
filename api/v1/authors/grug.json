@@ -1,0 +1,119 @@
+{
+  "author": "The Grug Brained Developer",
+  "slug": "grug",
+  "count": 6,
+  "quotes": [
+    {
+      "id": "grug-complexity-bad",
+      "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "grug-type-system",
+      "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shitpost"
+      ],
+      "tags": [
+        "types",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "grug-microservices",
+      "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "microservices",
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "grug-refactor",
+      "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "discipline"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "grug-abstraction",
+      "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shipping"
+      ],
+      "tags": [
+        "abstraction",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "grug-closures",
+      "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "debugging"
+      ],
+      "tags": [
+        "closures",
+        "debugging",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

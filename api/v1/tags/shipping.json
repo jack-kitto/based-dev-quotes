@@ -1,0 +1,114 @@
+{
+  "tag": "shipping",
+  "count": 6,
+  "quotes": [
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "levels-just-ship",
+      "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "Twitter / nomadlist.com",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "iteration",
+        "feedback"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "yegge-done",
+      "text": "The most important thing in software engineering is not which tools or methodologies you use. It's finishing the damn thing.",
+      "author": "Steve Yegge",
+      "author_slug": "yegge",
+      "source": "Various blog posts",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "shipping",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "shipping-beats-perfection",
+      "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "perfection",
+        "mvp"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "best-marketing-ship",
+      "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "marketing",
+        "shipping",
+        "seo"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

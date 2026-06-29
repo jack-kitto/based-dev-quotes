@@ -1,0 +1,19 @@
+{
+  "id": "yagni",
+  "text": "You aren't gonna need it.",
+  "author": "Ron Jeffries / XP",
+  "author_slug": "jeffries",
+  "source": "Extreme Programming Installed, 2000",
+  "categories": [
+    "wisdom",
+    "shipping"
+  ],
+  "tags": [
+    "yagni",
+    "simplicity",
+    "over-engineering",
+    "classic"
+  ],
+  "grug_level": 5,
+  "spiciness": 1
+}

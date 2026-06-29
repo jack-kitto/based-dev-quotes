@@ -1,0 +1,24 @@
+{
+  "tag": "resourcefulness",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "carmack-low-level",
+      "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Masters of Doom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "resourcefulness",
+        "hustle"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

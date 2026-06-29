@@ -1,0 +1,42 @@
+{
+  "tag": "survival",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "graham-default-alive",
+      "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Default Alive or Default Dead?, 2015",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "survival",
+        "profitability",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "ramen-profitable",
+      "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture (term from Paul Graham)",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "profitability",
+        "ramen",
+        "survival"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

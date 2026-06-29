@@ -1,0 +1,24 @@
+{
+  "tag": "reliability",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "dijkstra-simplicity",
+      "text": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "EWD498",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

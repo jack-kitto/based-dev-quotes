@@ -1,0 +1,24 @@
+{
+  "tag": "sleep",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "sleep-on-it",
+      "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Developer experience",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "sleep",
+        "debugging",
+        "subconscious"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

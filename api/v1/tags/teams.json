@@ -1,0 +1,41 @@
+{
+  "tag": "teams",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "brooks-mythical-man-month",
+      "text": "Adding manpower to a late software project makes it later.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "The Mythical Man-Month, 1975",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "management",
+        "teams",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "git-rebase-force-push",
+      "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "git",
+        "danger",
+        "teams"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

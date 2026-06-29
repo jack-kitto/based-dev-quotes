@@ -1,0 +1,24 @@
+{
+  "tag": "falsehoods",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "date-time-horror",
+      "text": "If you think you understand time zones, you don't understand time zones.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Falsehoods Programmers Believe About Time",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "timezones",
+        "datetime",
+        "falsehoods"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

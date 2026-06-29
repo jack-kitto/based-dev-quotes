@@ -1,0 +1,24 @@
+{
+  "tag": "caution",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "move-fast-break-things",
+      "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "facebook",
+        "speed",
+        "caution"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

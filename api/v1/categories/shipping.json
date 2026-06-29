@@ -1,0 +1,317 @@
+{
+  "category": "shipping",
+  "count": 17,
+  "quotes": [
+    {
+      "id": "grug-abstraction",
+      "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shipping"
+      ],
+      "tags": [
+        "abstraction",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "levels-just-ship",
+      "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "Twitter / nomadlist.com",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "iteration",
+        "feedback"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "levels-12-startups",
+      "text": "Build 12 startups in 12 months. Most will fail. The ones that don't will change your life.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "12 Startups in 12 Months challenge, 2014",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "startups",
+        "speed",
+        "experimentation"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "carmack-focus",
+      "text": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "focus",
+        "discipline",
+        "work-ethic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-implementation",
+      "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "implementation",
+        "ideas"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "gwern-on-finishing",
+      "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+      "author": "Gwern Branwen",
+      "author_slug": "gwern",
+      "source": "gwern.net",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "discipline",
+        "projects"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "yegge-done",
+      "text": "The most important thing in software engineering is not which tools or methodologies you use. It's finishing the damn thing.",
+      "author": "Steve Yegge",
+      "author_slug": "yegge",
+      "source": "Various blog posts",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "shipping",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "rm-rf-solution",
+      "text": "Sometimes the most productive thing you can do is delete everything and start with a clear head. But maybe git stash first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shipping"
+      ],
+      "tags": [
+        "deletion",
+        "restart",
+        "git"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "worse-is-better",
+      "text": "The right thing is frequently a mass mass complex thing. Worse is better. New Jersey style wins.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "source": "Worse Is Better, 1989",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "worse-is-better",
+        "simplicity",
+        "pragmatism",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "yagni",
+      "text": "You aren't gonna need it.",
+      "author": "Ron Jeffries / XP",
+      "author_slug": "jeffries",
+      "source": "Extreme Programming Installed, 2000",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "yagni",
+        "simplicity",
+        "over-engineering",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "shipping-beats-perfection",
+      "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "perfection",
+        "mvp"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "saas-idea-validation",
+      "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker Twitter",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "saas",
+        "mvp",
+        "spreadsheet",
+        "validation"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "best-marketing-ship",
+      "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "marketing",
+        "shipping",
+        "seo"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

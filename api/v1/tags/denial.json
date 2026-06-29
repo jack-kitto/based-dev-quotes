@@ -1,0 +1,23 @@
+{
+  "tag": "denial",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "it-compiled",
+      "text": "My code doesn't have bugs. It just develops random features.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "denial"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tag": "audience",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "audience-first",
+      "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "audience",
+        "marketing",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

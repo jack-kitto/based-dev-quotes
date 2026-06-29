@@ -1,0 +1,25 @@
+{
+  "tag": "philosophy",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "mcilroy-unix-philosophy",
+      "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
+      "author": "Doug McIlroy",
+      "author_slug": "mcilroy",
+      "source": "Bell System Technical Journal, 1978",
+      "categories": [
+        "unix",
+        "wisdom"
+      ],
+      "tags": [
+        "unix",
+        "philosophy",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

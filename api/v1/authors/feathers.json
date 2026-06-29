@@ -1,0 +1,25 @@
+{
+  "author": "Michael Feathers",
+  "slug": "feathers",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "martin-legacy-code",
+      "text": "Legacy code is simply code without tests.",
+      "author": "Michael Feathers",
+      "author_slug": "feathers",
+      "source": "Working Effectively with Legacy Code, 2004",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "legacy-code",
+        "testing",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    }
+  ]
+}

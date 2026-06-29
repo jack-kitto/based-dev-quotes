@@ -1,0 +1,24 @@
+{
+  "tag": "inevitability",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "atwood-any-application",
+      "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "Atwood's Law, 2007",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "javascript",
+        "inevitability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

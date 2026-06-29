@@ -1,0 +1,42 @@
+{
+  "tag": "growth",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "graham-do-things-that-dont-scale",
+      "text": "Do things that don't scale.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Do Things That Don't Scale, 2013",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "startups",
+        "hustle",
+        "growth",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-wealth",
+      "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Startup = Growth, 2012",
+      "categories": [
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "growth",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

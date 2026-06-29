@@ -1,0 +1,59 @@
+{
+  "tag": "optimization",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "knuth-premature-optimization",
+      "text": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth",
+      "author_slug": "knuth",
+      "source": "Structured Programming with go to Statements, 1974",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "optimization",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "perlis-optimization",
+      "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "evolution",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "wulf-goto",
+      "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+      "author": "W.A. Wulf",
+      "author_slug": "wulf",
+      "source": "A Case Against the GOTO, 1972",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "efficiency",
+        "optimization",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

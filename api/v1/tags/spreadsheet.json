@@ -1,0 +1,25 @@
+{
+  "tag": "spreadsheet",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "saas-idea-validation",
+      "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker Twitter",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "saas",
+        "mvp",
+        "spreadsheet",
+        "validation"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

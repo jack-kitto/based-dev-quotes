@@ -1,0 +1,24 @@
+{
+  "tag": "types",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "grug-type-system",
+      "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shitpost"
+      ],
+      "tags": [
+        "types",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

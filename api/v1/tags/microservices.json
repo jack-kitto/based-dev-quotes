@@ -1,0 +1,45 @@
+{
+  "tag": "microservices",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "grug-microservices",
+      "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "microservices",
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    }
+  ]
+}

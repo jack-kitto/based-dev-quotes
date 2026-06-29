@@ -1,0 +1,25 @@
+{
+  "tag": "config",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "yaml-indentation",
+      "text": "YAML: where your entire infrastructure can be brought down by a single misplaced space.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "yaml",
+        "indentation",
+        "devops",
+        "config"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

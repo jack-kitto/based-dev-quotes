@@ -1,0 +1,24 @@
+{
+  "tag": "pricing",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "patio11-charge-more",
+      "text": "Charge more.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Accumulated indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "pricing",
+        "business",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

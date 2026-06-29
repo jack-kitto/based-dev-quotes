@@ -1,0 +1,2483 @@
+{
+  "total": 136,
+  "generated_at": "2026-06-29T10:22:22.297539+00:00",
+  "quotes": [
+    {
+      "id": "grug-complexity-bad",
+      "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "grug-type-system",
+      "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shitpost"
+      ],
+      "tags": [
+        "types",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "grug-microservices",
+      "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "microservices",
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "grug-refactor",
+      "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "discipline"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "grug-abstraction",
+      "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shipping"
+      ],
+      "tags": [
+        "abstraction",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "grug-closures",
+      "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "debugging"
+      ],
+      "tags": [
+        "closures",
+        "debugging",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "knuth-premature-optimization",
+      "text": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth",
+      "author_slug": "knuth",
+      "source": "Structured Programming with go to Statements, 1974",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "optimization",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "kernighan-debugging",
+      "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "source": "The Elements of Programming Style, 1978",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "cleverness",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hoare-two-ways",
+      "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "design",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-talk-is-cheap",
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Linux Kernel Mailing List, 2000",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "action",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "torvalds-good-taste",
+      "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "TED Interview, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "taste",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "torvalds-bad-programmers",
+      "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "torvalds-c-plus-plus",
+      "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List, 2007",
+      "categories": [
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "c++",
+        "languages",
+        "rant"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "brooks-mythical-man-month",
+      "text": "Adding manpower to a late software project makes it later.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "The Mythical Man-Month, 1975",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "management",
+        "teams",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "brooks-silver-bullet",
+      "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "No Silver Bullet, 1986",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "productivity",
+        "silver-bullet",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-testing",
+      "text": "Testing shows the presence, not the absence of bugs.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "Notes on Structured Programming, 1970",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "testing",
+        "bugs",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-simplicity",
+      "text": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "EWD498",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "dijkstra-humble-programmer",
+      "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "The Humble Programmer, 1972 Turing Award Lecture",
+      "categories": [
+        "wisdom",
+        "grug"
+      ],
+      "tags": [
+        "humility",
+        "competence",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "pike-complexity-moved",
+      "text": "A little copying is better than a little dependency.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Go Proverbs",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "dependencies",
+        "simplicity",
+        "go"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "pike-data-dominates",
+      "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Notes on Programming in C, 1989",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data-structures",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "mcilroy-unix-philosophy",
+      "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
+      "author": "Doug McIlroy",
+      "author_slug": "mcilroy",
+      "source": "Bell System Technical Journal, 1978",
+      "categories": [
+        "unix",
+        "wisdom"
+      ],
+      "tags": [
+        "unix",
+        "philosophy",
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "thompson-cant-trust",
+      "text": "You can't trust code that you did not totally create yourself.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "security",
+        "trust",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "hickey-simple-easy",
+      "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Simple Made Easy, Strange Loop 2011",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hickey-hammock",
+      "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Hammock Driven Development, Clojure/conj 2010",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "thinking",
+        "planning",
+        "patience"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "hickey-state",
+      "text": "State. You're doing it wrong.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Are We There Yet?, JVM Language Summit 2009",
+      "categories": [
+        "shitpost",
+        "wisdom"
+      ],
+      "tags": [
+        "state",
+        "functional",
+        "mutability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "hickey-design-like-coding",
+      "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Design, Composition, and Performance, 2013",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "design",
+        "decomposition",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "blow-simplest-thing",
+      "text": "I want the simplest possible thing that satisfies my actual requirements, and I want to understand every single line of it.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "understanding",
+        "control"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "blow-civilization",
+      "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "suffering",
+        "complexity"
+      ],
+      "tags": [
+        "decline",
+        "software-crisis",
+        "civilization"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    },
+    {
+      "id": "blow-layers",
+      "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "layers",
+        "understanding"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "cantrill-debugging-production",
+      "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Platform as a Reflection of Values, 2018",
+      "categories": [
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "production",
+        "fear",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "cantrill-dtrace",
+      "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Debugging Under Fire, 2018",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "mental-models"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "muratori-clean-code",
+      "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+      "author": "Casey Muratori",
+      "author_slug": "muratori",
+      "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "clean-code",
+        "performance",
+        "aesthetics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "salomon-30-hours",
+      "text": "Weeks of coding can save you hours of planning.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "planning",
+        "coding",
+        "irony",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "two-hard-things",
+      "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Unknown (based on Phil Karlton)",
+      "author_slug": "unknown",
+      "source": "Programming folklore / internet",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "cache",
+        "naming",
+        "off-by-one",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "works-on-my-machine",
+      "text": "It works on my machine. Then we'll ship your machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "deployment",
+        "docker",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "regex-two-problems",
+      "text": "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.",
+      "author": "Jamie Zawinski",
+      "author_slug": "zawinski",
+      "source": "comp.lang.emacs Usenet post, 1997",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "regex",
+        "complexity",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "java-sufficiently-smart",
+      "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup",
+      "author_slug": "stroustrup",
+      "source": "The Design and Evolution of C++",
+      "categories": [
+        "funny",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "complaints",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "hofstadter-law",
+      "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+      "author": "Douglas Hofstadter",
+      "author_slug": "hofstadter",
+      "source": "Gödel, Escher, Bach, 1979",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "estimation",
+        "time",
+        "recursive",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "99-bugs-wall",
+      "text": "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "debugging",
+        "song"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "6-months-avoid-reading",
+      "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "documentation",
+        "debugging",
+        "irony"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "senior-dev-google",
+      "text": "A senior developer is just a junior developer who has Googled more things.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "seniority",
+        "experience",
+        "google"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "code-comments-why",
+      "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "comments",
+        "git",
+        "blame"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "im-in-this-picture",
+      "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "legacy-code",
+        "past-self",
+        "humility"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "full-stack-pain",
+      "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "full-stack",
+        "hiring",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "copy-paste-stackoverflow",
+      "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "copy-paste"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "programmer-optimist",
+      "text": "The generation of random numbers is too important to be left to chance.",
+      "author": "Robert R. Coveyou",
+      "author_slug": "coveyou",
+      "source": "Oak Ridge National Laboratory",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "randomness",
+        "irony",
+        "math"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "first-rule-of-programming",
+      "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "stability",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "fix-bug-introduce-three",
+      "text": "Fixing one bug and introducing three more is called job security.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "job-security",
+        "entropy"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "levels-just-ship",
+      "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "Twitter / nomadlist.com",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "iteration",
+        "feedback"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "levels-12-startups",
+      "text": "Build 12 startups in 12 months. Most will fail. The ones that don't will change your life.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "12 Startups in 12 Months challenge, 2014",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "startups",
+        "speed",
+        "experimentation"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "patio11-charge-more",
+      "text": "Charge more.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Accumulated indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "pricing",
+        "business",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "patio11-salary-negotiation",
+      "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Don't Call Yourself a Programmer, 2011",
+      "categories": [
+        "career",
+        "indie-hacker"
+      ],
+      "tags": [
+        "career",
+        "positioning",
+        "salary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "graham-do-things-that-dont-scale",
+      "text": "Do things that don't scale.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Do Things That Don't Scale, 2013",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "startups",
+        "hustle",
+        "growth",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-maker-schedule",
+      "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Maker's Schedule, Manager's Schedule, 2009",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "focus",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "graham-default-alive",
+      "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Default Alive or Default Dead?, 2015",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "survival",
+        "profitability",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-wealth",
+      "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Startup = Growth, 2012",
+      "categories": [
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "growth",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "spolsky-leaky-abstractions",
+      "text": "All non-trivial abstractions, to some degree, are leaky.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "The Law of Leaky Abstractions, 2002",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "leaky",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "spolsky-rewrite",
+      "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+      "author": "Joel Spolsky",
+      "author_slug": "spolsky",
+      "source": "Things You Should Never Do, Part I, 2000",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "rewrite",
+        "legacy-code",
+        "strategy",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "norvig-10-years",
+      "text": "Teach Yourself Programming in Ten Years.",
+      "author": "Peter Norvig",
+      "author_slug": "norvig",
+      "source": "Essay title, 2001",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "learning",
+        "mastery",
+        "patience",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-focus",
+      "text": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "focus",
+        "discipline",
+        "work-ethic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-low-level",
+      "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Masters of Doom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "resourcefulness",
+        "hustle"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-implementation",
+      "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "implementation",
+        "ideas"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "gwern-on-finishing",
+      "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+      "author": "Gwern Branwen",
+      "author_slug": "gwern",
+      "source": "gwern.net",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "discipline",
+        "projects"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "raymond-enough-eyeballs",
+      "text": "Given enough eyeballs, all bugs are shallow.",
+      "author": "Eric S. Raymond",
+      "author_slug": "raymond",
+      "source": "The Cathedral and the Bazaar, 1999",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "debugging",
+        "community",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "perlis-lisp",
+      "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "thinking",
+        "learning",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "perlis-optimization",
+      "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "evolution",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "yegge-done",
+      "text": "The most important thing in software engineering is not which tools or methodologies you use. It's finishing the damn thing.",
+      "author": "Steve Yegge",
+      "author_slug": "yegge",
+      "source": "Various blog posts",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "shipping",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "atwood-any-application",
+      "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "Atwood's Law, 2007",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "javascript",
+        "inevitability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "atwood-best-code",
+      "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "The Best Code is No Code At All, 2007",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "less-code",
+        "simplicity",
+        "maintenance"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "wulf-goto",
+      "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+      "author": "W.A. Wulf",
+      "author_slug": "wulf",
+      "source": "A Case Against the GOTO, 1972",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "efficiency",
+        "optimization",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "martin-legacy-code",
+      "text": "Legacy code is simply code without tests.",
+      "author": "Michael Feathers",
+      "author_slug": "feathers",
+      "source": "Working Effectively with Legacy Code, 2004",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "legacy-code",
+        "testing",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "sandi-metz-wrong-abstraction",
+      "text": "Duplication is far cheaper than the wrong abstraction.",
+      "author": "Sandi Metz",
+      "author_slug": "metz",
+      "source": "The Wrong Abstraction, 2016",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "duplication",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "money-printer",
+      "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter (loosely based on Napoleon)",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "production",
+        "friday",
+        "deployments"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "friday-deploy",
+      "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "friday",
+        "deployment",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "todo-later-means-never",
+      "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Every codebase ever",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "todo",
+        "technical-debt",
+        "procrastination"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "temporary-solution",
+      "text": "Nothing is more permanent than a temporary solution that works.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "wisdom"
+      ],
+      "tags": [
+        "technical-debt",
+        "permanence",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "stackoverflow-driven",
+      "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "stackoverflow",
+        "debugging",
+        "cargo-cult"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "backend-dev-css",
+      "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "frontend",
+        "centering"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "it-compiled",
+      "text": "My code doesn't have bugs. It just develops random features.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "denial"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "documentation-lie",
+      "text": "Documentation is a love letter that you write to your future self.",
+      "author": "Damian Conway",
+      "author_slug": "conway",
+      "source": "Perl Best Practices",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "documentation",
+        "future-self"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "move-fast-break-things",
+      "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "facebook",
+        "speed",
+        "caution"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "10x-developer",
+      "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / HN discourse",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "10x",
+        "teamwork",
+        "productivity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "deleted-code-no-bugs",
+      "text": "Deleted code is debugged code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "deletion",
+        "debugging",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "rm-rf-solution",
+      "text": "Sometimes the most productive thing you can do is delete everything and start with a clear head. But maybe git stash first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shipping"
+      ],
+      "tags": [
+        "deletion",
+        "restart",
+        "git"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "meetings-email",
+      "text": "This meeting could have been an email. That email could have been a Slack message. That Slack message could have been nothing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Corporate dev culture",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "email",
+        "slack",
+        "productivity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "agile-is-dead",
+      "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "agile",
+        "scrum",
+        "methodology",
+        "management"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "docker-works-here",
+      "text": "Docker: because 'it works on my machine' wasn't a good enough answer, so now we ship the machine.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "docker",
+        "containers",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "kubernetes-yaml",
+      "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "devops",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "impostor-syndrome-real",
+      "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "impostor-syndrome",
+        "feelings",
+        "industry"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "dns-always-dns",
+      "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "sysadmin folklore (SSBroski / haiku)",
+      "categories": [
+        "funny",
+        "debugging",
+        "suffering"
+      ],
+      "tags": [
+        "dns",
+        "debugging",
+        "networking",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "git-rebase-force-push",
+      "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "git",
+        "danger",
+        "teams"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "naming-things-hard",
+      "text": "I spent 45 minutes naming a variable today. This is fine. This is normal. I am a professional.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "naming",
+        "variables",
+        "time-waste"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "senior-dev-impostor",
+      "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "seniority",
+        "confidence",
+        "experience"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "select-star-production",
+      "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "sql",
+        "production",
+        "database",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "scope-creep",
+      "text": "Client: 'Can you just add one small feature?' Narrator: It was not, in fact, a small feature.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Freelancer folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "indie-hacker"
+      ],
+      "tags": [
+        "scope-creep",
+        "clients",
+        "freelancing"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "node-modules-black-hole",
+      "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / memes",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "node-modules",
+        "npm",
+        "javascript",
+        "dependencies"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "thompson-unix-c",
+      "text": "When in doubt, use brute force.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Unix philosophy",
+      "categories": [
+        "wisdom",
+        "grug",
+        "unix"
+      ],
+      "tags": [
+        "brute-force",
+        "pragmatism",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "worse-is-better",
+      "text": "The right thing is frequently a mass mass complex thing. Worse is better. New Jersey style wins.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "source": "Worse Is Better, 1989",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "worse-is-better",
+        "simplicity",
+        "pragmatism",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "yagni",
+      "text": "You aren't gonna need it.",
+      "author": "Ron Jeffries / XP",
+      "author_slug": "jeffries",
+      "source": "Extreme Programming Installed, 2000",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "yagni",
+        "simplicity",
+        "over-engineering",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "leave-it-better",
+      "text": "Always leave the code better than you found it.",
+      "author": "Robert C. Martin (Uncle Bob)",
+      "author_slug": "martin",
+      "source": "Clean Code (adapted from Boy Scout Rule)",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "clean-code",
+        "maintenance",
+        "discipline"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "shipping-beats-perfection",
+      "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "perfection",
+        "mvp"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "saas-idea-validation",
+      "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker Twitter",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "saas",
+        "mvp",
+        "spreadsheet",
+        "validation"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "audience-first",
+      "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "audience",
+        "marketing",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "ramen-profitable",
+      "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture (term from Paul Graham)",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "profitability",
+        "ramen",
+        "survival"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "revenue-vanity-profit-sanity",
+      "text": "Revenue is vanity, profit is sanity, cash is reality.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Business proverb",
+      "categories": [
+        "founder",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "profit",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "best-marketing-ship",
+      "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "marketing",
+        "shipping",
+        "seo"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "bootstrapped-vc",
+      "text": "The best funding round is revenue.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Bootstrapper culture",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "vc",
+        "funding",
+        "revenue"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "wall-perl",
+      "text": "The three chief virtues of a programmer are: Laziness, Impatience, and Hubris.",
+      "author": "Larry Wall",
+      "author_slug": "wall",
+      "source": "Programming Perl, 1991",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "virtues",
+        "laziness",
+        "perl",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "eagleson-code",
+      "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson",
+      "author_slug": "eagleson",
+      "source": "Eagleson's Law",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "legacy-code",
+        "memory",
+        "past-self"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "lampson-abstraction",
+      "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+      "author": "Butler Lampson (modified)",
+      "author_slug": "lampson",
+      "source": "Attributed, with modification from David Wheeler's original",
+      "categories": [
+        "funny",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "indirection",
+        "abstraction",
+        "layers",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "debugging-detective",
+      "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+      "author": "Filipe Fortes",
+      "author_slug": "fortes",
+      "source": "Twitter, 2013",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "debugging",
+        "detective",
+        "crime"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "product-nobody-wants",
+      "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup culture",
+      "categories": [
+        "founder",
+        "suffering"
+      ],
+      "tags": [
+        "product-market-fit",
+        "validation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "regex-now-two-problems-extended",
+      "text": "I had a problem, so I decided to use threads. pNow roblems. I two have",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "concurrency",
+        "threads",
+        "race-conditions"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "production-is-different",
+      "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+      "author": "Yogi Berra (applied to programming)",
+      "author_slug": "berra",
+      "source": "Various attributions",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "theory",
+        "practice",
+        "production"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "git-commit-messages",
+      "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / every git log ever",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "git",
+        "commits",
+        "entropy",
+        "discipline"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "ai-replace-devs",
+      "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter, 2023",
+      "categories": [
+        "funny",
+        "career",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "replacement",
+        "jobs",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "yaml-indentation",
+      "text": "YAML: where your entire infrastructure can be brought down by a single misplaced space.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "yaml",
+        "indentation",
+        "devops",
+        "config"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "date-time-horror",
+      "text": "If you think you understand time zones, you don't understand time zones.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Falsehoods Programmers Believe About Time",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "timezones",
+        "datetime",
+        "falsehoods"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "leftpad-lesson",
+      "text": "One 11-line npm package going offline broke half the internet. We learned nothing and kept going.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "left-pad incident, 2016",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "npm",
+        "dependencies",
+        "leftpad",
+        "fragility"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "standards-xkcd",
+      "text": "The nice thing about standards is that there are so many to choose from.",
+      "author": "Andrew S. Tanenbaum",
+      "author_slug": "tanenbaum",
+      "source": "Computer Networks, 1981",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "standards",
+        "fragmentation",
+        "xkcd-energy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "rewrite-in-rust",
+      "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News / Reddit",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "rust",
+        "rewrite",
+        "hype"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    },
+    {
+      "id": "css-centering",
+      "text": "CSS is the only language where you can mass mass mass mass years of experience and still mass mass not center a div on the first try.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "centering",
+        "frontend",
+        "pain"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "recursion-joke",
+      "text": "To understand recursion, you must first understand recursion.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "CS101 folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "recursion",
+        "cs101",
+        "meta"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "machine-learning-if-else",
+      "text": "Machine learning is just spicy if/else statements.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "rubber-duck-debugging",
+      "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
+      "author": "Unknown (extended from Kernighan)",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "rubber-duck",
+        "debugging",
+        "print-statements"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "enterprise-fizzbuzz",
+      "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / Enterprise FizzBuzz meme",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "fizzbuzz",
+        "design-patterns",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "sleep-sort",
+      "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "hacking",
+        "approximation"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "prod-env-staging",
+      "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "testing",
+        "production",
+        "environments"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "blockchain-database",
+      "text": "Blockchain: a database, but slower, and everyone can see your data.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "blockchain",
+        "crypto",
+        "database",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "cto-startup-titles",
+      "text": "At a startup, CTO stands for 'Currently The Only developer.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup folklore",
+      "categories": [
+        "funny",
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "titles",
+        "solo-dev"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "sleep-on-it",
+      "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Developer experience",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "sleep",
+        "debugging",
+        "subconscious"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "users-find-way",
+      "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "UX folklore",
+      "categories": [
+        "suffering",
+        "wisdom"
+      ],
+      "tags": [
+        "users",
+        "edge-cases",
+        "chaos"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "feature-request-vs-bug",
+      "text": "A bug becomes a feature the moment a customer depends on it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Software engineering folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "bugs",
+        "features",
+        "customers",
+        "backwards-compatibility"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

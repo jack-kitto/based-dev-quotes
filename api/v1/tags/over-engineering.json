@@ -1,0 +1,83 @@
+{
+  "tag": "over-engineering",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "kubernetes-yaml",
+      "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "devops",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "yagni",
+      "text": "You aren't gonna need it.",
+      "author": "Ron Jeffries / XP",
+      "author_slug": "jeffries",
+      "source": "Extreme Programming Installed, 2000",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "yagni",
+        "simplicity",
+        "over-engineering",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "enterprise-fizzbuzz",
+      "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / Enterprise FizzBuzz meme",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "fizzbuzz",
+        "design-patterns",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "tag": "hype",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "rewrite-in-rust",
+      "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News / Reddit",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "rust",
+        "rewrite",
+        "hype"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    }
+  ]
+}

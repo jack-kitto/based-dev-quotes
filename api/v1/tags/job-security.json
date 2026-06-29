@@ -1,0 +1,24 @@
+{
+  "tag": "job-security",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "fix-bug-introduce-three",
+      "text": "Fixing one bug and introducing three more is called job security.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "job-security",
+        "entropy"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

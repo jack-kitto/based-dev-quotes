@@ -1,0 +1,25 @@
+{
+  "tag": "complaints",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "java-sufficiently-smart",
+      "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup",
+      "author_slug": "stroustrup",
+      "source": "The Design and Evolution of C++",
+      "categories": [
+        "funny",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "complaints",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    }
+  ]
+}

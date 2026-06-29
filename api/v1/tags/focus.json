@@ -1,0 +1,42 @@
+{
+  "tag": "focus",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "graham-maker-schedule",
+      "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Maker's Schedule, Manager's Schedule, 2009",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "focus",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "carmack-focus",
+      "text": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "focus",
+        "discipline",
+        "work-ethic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

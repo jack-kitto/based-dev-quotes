@@ -1,0 +1,24 @@
+{
+  "tag": "control",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "blow-simplest-thing",
+      "text": "I want the simplest possible thing that satisfies my actual requirements, and I want to understand every single line of it.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "understanding",
+        "control"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

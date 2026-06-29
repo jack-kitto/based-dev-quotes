@@ -1,0 +1,24 @@
+{
+  "tag": "environments",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "prod-env-staging",
+      "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "testing",
+        "production",
+        "environments"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

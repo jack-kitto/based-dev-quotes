@@ -1,0 +1,23 @@
+{
+  "tag": "danger",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "git-rebase-force-push",
+      "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "git",
+        "danger",
+        "teams"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

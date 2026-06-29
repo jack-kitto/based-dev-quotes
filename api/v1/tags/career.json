@@ -1,0 +1,24 @@
+{
+  "tag": "career",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "patio11-salary-negotiation",
+      "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Don't Call Yourself a Programmer, 2011",
+      "categories": [
+        "career",
+        "indie-hacker"
+      ],
+      "tags": [
+        "career",
+        "positioning",
+        "salary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

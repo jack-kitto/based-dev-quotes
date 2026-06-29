@@ -1,0 +1,43 @@
+{
+  "tag": "css",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "backend-dev-css",
+      "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "frontend",
+        "centering"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "css-centering",
+      "text": "CSS is the only language where you can mass mass mass mass years of experience and still mass mass not center a div on the first try.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "centering",
+        "frontend",
+        "pain"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

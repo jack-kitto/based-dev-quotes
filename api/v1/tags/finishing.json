@@ -1,0 +1,42 @@
+{
+  "tag": "finishing",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "gwern-on-finishing",
+      "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+      "author": "Gwern Branwen",
+      "author_slug": "gwern",
+      "source": "gwern.net",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "discipline",
+        "projects"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "yegge-done",
+      "text": "The most important thing in software engineering is not which tools or methodologies you use. It's finishing the damn thing.",
+      "author": "Steve Yegge",
+      "author_slug": "yegge",
+      "source": "Various blog posts",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "shipping",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

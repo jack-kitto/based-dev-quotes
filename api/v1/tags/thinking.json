@@ -1,0 +1,43 @@
+{
+  "tag": "thinking",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "hickey-hammock",
+      "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Hammock Driven Development, Clojure/conj 2010",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "thinking",
+        "planning",
+        "patience"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "perlis-lisp",
+      "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "source": "Epigrams on Programming, 1982",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "languages",
+        "thinking",
+        "learning",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

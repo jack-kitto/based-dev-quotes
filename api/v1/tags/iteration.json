@@ -1,0 +1,24 @@
+{
+  "tag": "iteration",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "levels-just-ship",
+      "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "Twitter / nomadlist.com",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "iteration",
+        "feedback"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

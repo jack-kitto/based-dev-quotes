@@ -1,0 +1,24 @@
+{
+  "tag": "cargo-cult",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "stackoverflow-driven",
+      "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "stackoverflow",
+        "debugging",
+        "cargo-cult"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

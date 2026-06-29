@@ -1,0 +1,26 @@
+{
+  "author": "Douglas Hofstadter",
+  "slug": "hofstadter",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "hofstadter-law",
+      "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+      "author": "Douglas Hofstadter",
+      "author_slug": "hofstadter",
+      "source": "Gödel, Escher, Bach, 1979",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "estimation",
+        "time",
+        "recursive",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

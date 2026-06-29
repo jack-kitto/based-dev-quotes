@@ -1,0 +1,99 @@
+{
+  "tag": "pragmatism",
+  "count": 5,
+  "quotes": [
+    {
+      "id": "grug-abstraction",
+      "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shipping"
+      ],
+      "tags": [
+        "abstraction",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "yegge-done",
+      "text": "The most important thing in software engineering is not which tools or methodologies you use. It's finishing the damn thing.",
+      "author": "Steve Yegge",
+      "author_slug": "yegge",
+      "source": "Various blog posts",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "finishing",
+        "shipping",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "temporary-solution",
+      "text": "Nothing is more permanent than a temporary solution that works.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "wisdom"
+      ],
+      "tags": [
+        "technical-debt",
+        "permanence",
+        "pragmatism"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "thompson-unix-c",
+      "text": "When in doubt, use brute force.",
+      "author": "Ken Thompson",
+      "author_slug": "thompson",
+      "source": "Unix philosophy",
+      "categories": [
+        "wisdom",
+        "grug",
+        "unix"
+      ],
+      "tags": [
+        "brute-force",
+        "pragmatism",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "worse-is-better",
+      "text": "The right thing is frequently a mass mass complex thing. Worse is better. New Jersey style wins.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "source": "Worse Is Better, 1989",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "worse-is-better",
+        "simplicity",
+        "pragmatism",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    }
+  ]
+}

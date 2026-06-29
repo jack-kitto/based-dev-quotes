@@ -1,0 +1,24 @@
+{
+  "tag": "full-stack",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "full-stack-pain",
+      "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "full-stack",
+        "hiring",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    }
+  ]
+}

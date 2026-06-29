@@ -1,0 +1,225 @@
+{
+  "tag": "debugging",
+  "count": 12,
+  "quotes": [
+    {
+      "id": "grug-closures",
+      "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "debugging"
+      ],
+      "tags": [
+        "closures",
+        "debugging",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "kernighan-debugging",
+      "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "source": "The Elements of Programming Style, 1978",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "cleverness",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "cantrill-dtrace",
+      "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Debugging Under Fire, 2018",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "mental-models"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "99-bugs-wall",
+      "text": "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "bugs",
+        "debugging",
+        "song"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "6-months-avoid-reading",
+      "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "documentation",
+        "debugging",
+        "irony"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "raymond-enough-eyeballs",
+      "text": "Given enough eyeballs, all bugs are shallow.",
+      "author": "Eric S. Raymond",
+      "author_slug": "raymond",
+      "source": "The Cathedral and the Bazaar, 1999",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "debugging",
+        "community",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "stackoverflow-driven",
+      "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "stackoverflow",
+        "debugging",
+        "cargo-cult"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "deleted-code-no-bugs",
+      "text": "Deleted code is debugged code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "deletion",
+        "debugging",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "dns-always-dns",
+      "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "sysadmin folklore (SSBroski / haiku)",
+      "categories": [
+        "funny",
+        "debugging",
+        "suffering"
+      ],
+      "tags": [
+        "dns",
+        "debugging",
+        "networking",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "debugging-detective",
+      "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+      "author": "Filipe Fortes",
+      "author_slug": "fortes",
+      "source": "Twitter, 2013",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "debugging",
+        "detective",
+        "crime"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "rubber-duck-debugging",
+      "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
+      "author": "Unknown (extended from Kernighan)",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "rubber-duck",
+        "debugging",
+        "print-statements"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "sleep-on-it",
+      "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Developer experience",
+      "categories": [
+        "funny",
+        "debugging"
+      ],
+      "tags": [
+        "sleep",
+        "debugging",
+        "subconscious"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

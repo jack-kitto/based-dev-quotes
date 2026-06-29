@@ -1,0 +1,26 @@
+{
+  "tag": "replacement",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "ai-replace-devs",
+      "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter, 2023",
+      "categories": [
+        "funny",
+        "career",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "replacement",
+        "jobs",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    }
+  ]
+}

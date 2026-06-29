@@ -1,0 +1,18 @@
+{
+  "id": "sandi-metz-wrong-abstraction",
+  "text": "Duplication is far cheaper than the wrong abstraction.",
+  "author": "Sandi Metz",
+  "author_slug": "metz",
+  "source": "The Wrong Abstraction, 2016",
+  "categories": [
+    "wisdom",
+    "complexity"
+  ],
+  "tags": [
+    "abstraction",
+    "duplication",
+    "simplicity"
+  ],
+  "grug_level": 5,
+  "spiciness": 3
+}

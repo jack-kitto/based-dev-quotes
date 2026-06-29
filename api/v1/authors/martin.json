@@ -1,0 +1,24 @@
+{
+  "author": "Robert C. Martin (Uncle Bob)",
+  "slug": "martin",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "leave-it-better",
+      "text": "Always leave the code better than you found it.",
+      "author": "Robert C. Martin (Uncle Bob)",
+      "author_slug": "martin",
+      "source": "Clean Code (adapted from Boy Scout Rule)",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "clean-code",
+        "maintenance",
+        "discipline"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

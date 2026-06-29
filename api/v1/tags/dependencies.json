@@ -1,0 +1,63 @@
+{
+  "tag": "dependencies",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "pike-complexity-moved",
+      "text": "A little copying is better than a little dependency.",
+      "author": "Rob Pike",
+      "author_slug": "pike",
+      "source": "Go Proverbs",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "dependencies",
+        "simplicity",
+        "go"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "node-modules-black-hole",
+      "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / memes",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "node-modules",
+        "npm",
+        "javascript",
+        "dependencies"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "leftpad-lesson",
+      "text": "One 11-line npm package going offline broke half the internet. We learned nothing and kept going.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "left-pad incident, 2016",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "npm",
+        "dependencies",
+        "leftpad",
+        "fragility"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

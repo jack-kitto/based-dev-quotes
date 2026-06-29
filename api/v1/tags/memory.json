@@ -1,0 +1,24 @@
+{
+  "tag": "memory",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "eagleson-code",
+      "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson",
+      "author_slug": "eagleson",
+      "source": "Eagleson's Law",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "legacy-code",
+        "memory",
+        "past-self"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

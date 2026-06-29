@@ -1,0 +1,61 @@
+{
+  "author": "John Carmack",
+  "slug": "carmack",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "carmack-focus",
+      "text": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "focus",
+        "discipline",
+        "work-ethic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-low-level",
+      "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Masters of Doom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "resourcefulness",
+        "hustle"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-implementation",
+      "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "implementation",
+        "ideas"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

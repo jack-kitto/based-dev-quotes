@@ -1,0 +1,62 @@
+{
+  "tag": "mvp",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "shipping-beats-perfection",
+      "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "perfection",
+        "mvp"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "saas-idea-validation",
+      "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker Twitter",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "saas",
+        "mvp",
+        "spreadsheet",
+        "validation"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

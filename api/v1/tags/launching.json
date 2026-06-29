@@ -1,0 +1,25 @@
+{
+  "tag": "launching",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tag": "stability",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "first-rule-of-programming",
+      "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "stability",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

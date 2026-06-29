@@ -1,0 +1,24 @@
+{
+  "tag": "teamwork",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "10x-developer",
+      "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / HN discourse",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "10x",
+        "teamwork",
+        "productivity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tag": "cleverness",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "kernighan-debugging",
+      "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "source": "The Elements of Programming Style, 1978",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "cleverness",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

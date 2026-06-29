@@ -1,0 +1,153 @@
+{
+  "category": "career",
+  "count": 8,
+  "quotes": [
+    {
+      "id": "senior-dev-google",
+      "text": "A senior developer is just a junior developer who has Googled more things.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "seniority",
+        "experience",
+        "google"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "full-stack-pain",
+      "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "full-stack",
+        "hiring",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3
+    },
+    {
+      "id": "patio11-salary-negotiation",
+      "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Don't Call Yourself a Programmer, 2011",
+      "categories": [
+        "career",
+        "indie-hacker"
+      ],
+      "tags": [
+        "career",
+        "positioning",
+        "salary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "norvig-10-years",
+      "text": "Teach Yourself Programming in Ten Years.",
+      "author": "Peter Norvig",
+      "author_slug": "norvig",
+      "source": "Essay title, 2001",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "learning",
+        "mastery",
+        "patience",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "10x-developer",
+      "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / HN discourse",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "10x",
+        "teamwork",
+        "productivity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "impostor-syndrome-real",
+      "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "impostor-syndrome",
+        "feelings",
+        "industry"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "senior-dev-impostor",
+      "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "seniority",
+        "confidence",
+        "experience"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "ai-replace-devs",
+      "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter, 2023",
+      "categories": [
+        "funny",
+        "career",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "replacement",
+        "jobs",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    }
+  ]
+}

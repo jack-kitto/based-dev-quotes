@@ -1,0 +1,24 @@
+{
+  "tag": "aesthetics",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "muratori-clean-code",
+      "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+      "author": "Casey Muratori",
+      "author_slug": "muratori",
+      "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "clean-code",
+        "performance",
+        "aesthetics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    }
+  ]
+}

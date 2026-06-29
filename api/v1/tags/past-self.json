@@ -1,0 +1,42 @@
+{
+  "tag": "past-self",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "im-in-this-picture",
+      "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "legacy-code",
+        "past-self",
+        "humility"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "eagleson-code",
+      "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson",
+      "author_slug": "eagleson",
+      "source": "Eagleson's Law",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "legacy-code",
+        "memory",
+        "past-self"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

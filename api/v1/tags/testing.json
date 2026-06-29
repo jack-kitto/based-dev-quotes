@@ -1,0 +1,60 @@
+{
+  "tag": "testing",
+  "count": 3,
+  "quotes": [
+    {
+      "id": "dijkstra-testing",
+      "text": "Testing shows the presence, not the absence of bugs.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "source": "Notes on Structured Programming, 1970",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "testing",
+        "bugs",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "martin-legacy-code",
+      "text": "Legacy code is simply code without tests.",
+      "author": "Michael Feathers",
+      "author_slug": "feathers",
+      "source": "Working Effectively with Legacy Code, 2004",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "legacy-code",
+        "testing",
+        "definition"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "prod-env-staging",
+      "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "DevOps folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "testing",
+        "production",
+        "environments"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

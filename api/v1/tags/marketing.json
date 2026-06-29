@@ -1,0 +1,42 @@
+{
+  "tag": "marketing",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "audience-first",
+      "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "audience",
+        "marketing",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "best-marketing-ship",
+      "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "marketing",
+        "shipping",
+        "seo"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

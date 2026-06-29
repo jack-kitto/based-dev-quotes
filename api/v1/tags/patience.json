@@ -1,0 +1,43 @@
+{
+  "tag": "patience",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "hickey-hammock",
+      "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Hammock Driven Development, Clojure/conj 2010",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "thinking",
+        "planning",
+        "patience"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "norvig-10-years",
+      "text": "Teach Yourself Programming in Ten Years.",
+      "author": "Peter Norvig",
+      "author_slug": "norvig",
+      "source": "Essay title, 2001",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "learning",
+        "mastery",
+        "patience",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

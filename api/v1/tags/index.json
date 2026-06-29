@@ -1,0 +1,746 @@
+{
+  "total": 247,
+  "tags": {
+    "10x": {
+      "count": 1
+    },
+    "abstraction": {
+      "count": 5
+    },
+    "action": {
+      "count": 1
+    },
+    "aesthetics": {
+      "count": 1
+    },
+    "agile": {
+      "count": 1
+    },
+    "ai": {
+      "count": 2
+    },
+    "approximation": {
+      "count": 1
+    },
+    "architecture": {
+      "count": 2
+    },
+    "audience": {
+      "count": 1
+    },
+    "automation": {
+      "count": 1
+    },
+    "backwards-compatibility": {
+      "count": 1
+    },
+    "blame": {
+      "count": 1
+    },
+    "blockchain": {
+      "count": 1
+    },
+    "bootstrapping": {
+      "count": 2
+    },
+    "brute-force": {
+      "count": 1
+    },
+    "bugs": {
+      "count": 5
+    },
+    "business": {
+      "count": 1
+    },
+    "c": {
+      "count": 1
+    },
+    "cache": {
+      "count": 1
+    },
+    "career": {
+      "count": 1
+    },
+    "cargo-cult": {
+      "count": 1
+    },
+    "cash-flow": {
+      "count": 1
+    },
+    "caution": {
+      "count": 1
+    },
+    "centering": {
+      "count": 2
+    },
+    "chaos": {
+      "count": 1
+    },
+    "civilization": {
+      "count": 1
+    },
+    "classic": {
+      "count": 32
+    },
+    "clean-code": {
+      "count": 2
+    },
+    "cleverness": {
+      "count": 1
+    },
+    "clients": {
+      "count": 1
+    },
+    "closures": {
+      "count": 1
+    },
+    "coding": {
+      "count": 1
+    },
+    "comments": {
+      "count": 1
+    },
+    "commits": {
+      "count": 1
+    },
+    "community": {
+      "count": 1
+    },
+    "competence": {
+      "count": 1
+    },
+    "competition": {
+      "count": 1
+    },
+    "complaints": {
+      "count": 1
+    },
+    "complexity": {
+      "count": 5
+    },
+    "concurrency": {
+      "count": 1
+    },
+    "confidence": {
+      "count": 1
+    },
+    "config": {
+      "count": 1
+    },
+    "containers": {
+      "count": 2
+    },
+    "control": {
+      "count": 1
+    },
+    "copy-paste": {
+      "count": 1
+    },
+    "crime": {
+      "count": 1
+    },
+    "crypto": {
+      "count": 1
+    },
+    "cs101": {
+      "count": 1
+    },
+    "css": {
+      "count": 2
+    },
+    "customers": {
+      "count": 1
+    },
+    "danger": {
+      "count": 1
+    },
+    "data-structures": {
+      "count": 2
+    },
+    "database": {
+      "count": 2
+    },
+    "datetime": {
+      "count": 1
+    },
+    "debugging": {
+      "count": 12
+    },
+    "decline": {
+      "count": 1
+    },
+    "decomposition": {
+      "count": 1
+    },
+    "definition": {
+      "count": 2
+    },
+    "deletion": {
+      "count": 2
+    },
+    "denial": {
+      "count": 1
+    },
+    "dependencies": {
+      "count": 3
+    },
+    "deployment": {
+      "count": 4
+    },
+    "deployments": {
+      "count": 1
+    },
+    "design": {
+      "count": 7
+    },
+    "design-patterns": {
+      "count": 1
+    },
+    "detective": {
+      "count": 1
+    },
+    "devops": {
+      "count": 2
+    },
+    "discipline": {
+      "count": 5
+    },
+    "distribution": {
+      "count": 1
+    },
+    "dns": {
+      "count": 1
+    },
+    "docker": {
+      "count": 2
+    },
+    "documentation": {
+      "count": 2
+    },
+    "duplication": {
+      "count": 1
+    },
+    "edge-cases": {
+      "count": 1
+    },
+    "efficiency": {
+      "count": 1
+    },
+    "email": {
+      "count": 1
+    },
+    "entropy": {
+      "count": 2
+    },
+    "environments": {
+      "count": 1
+    },
+    "estimation": {
+      "count": 1
+    },
+    "evolution": {
+      "count": 1
+    },
+    "execution": {
+      "count": 1
+    },
+    "experience": {
+      "count": 2
+    },
+    "experimentation": {
+      "count": 1
+    },
+    "facebook": {
+      "count": 1
+    },
+    "failure": {
+      "count": 1
+    },
+    "falsehoods": {
+      "count": 1
+    },
+    "fear": {
+      "count": 4
+    },
+    "features": {
+      "count": 2
+    },
+    "feedback": {
+      "count": 1
+    },
+    "feelings": {
+      "count": 1
+    },
+    "finishing": {
+      "count": 2
+    },
+    "fizzbuzz": {
+      "count": 1
+    },
+    "focus": {
+      "count": 2
+    },
+    "fragility": {
+      "count": 1
+    },
+    "fragmentation": {
+      "count": 1
+    },
+    "freelancing": {
+      "count": 1
+    },
+    "friday": {
+      "count": 2
+    },
+    "frontend": {
+      "count": 2
+    },
+    "full-stack": {
+      "count": 1
+    },
+    "functional": {
+      "count": 1
+    },
+    "fundamentals": {
+      "count": 1
+    },
+    "funding": {
+      "count": 1
+    },
+    "future-self": {
+      "count": 1
+    },
+    "git": {
+      "count": 4
+    },
+    "go": {
+      "count": 1
+    },
+    "google": {
+      "count": 1
+    },
+    "growth": {
+      "count": 2
+    },
+    "hacking": {
+      "count": 1
+    },
+    "hiring": {
+      "count": 1
+    },
+    "humility": {
+      "count": 2
+    },
+    "hustle": {
+      "count": 2
+    },
+    "hype": {
+      "count": 1
+    },
+    "ideas": {
+      "count": 1
+    },
+    "implementation": {
+      "count": 1
+    },
+    "impostor-syndrome": {
+      "count": 1
+    },
+    "indentation": {
+      "count": 1
+    },
+    "indirection": {
+      "count": 1
+    },
+    "industry": {
+      "count": 1
+    },
+    "inevitability": {
+      "count": 1
+    },
+    "irony": {
+      "count": 3
+    },
+    "iteration": {
+      "count": 1
+    },
+    "javascript": {
+      "count": 2
+    },
+    "job-security": {
+      "count": 1
+    },
+    "jobs": {
+      "count": 1
+    },
+    "kubernetes": {
+      "count": 1
+    },
+    "languages": {
+      "count": 3
+    },
+    "launching": {
+      "count": 1
+    },
+    "layers": {
+      "count": 2
+    },
+    "laziness": {
+      "count": 1
+    },
+    "leaky": {
+      "count": 1
+    },
+    "learning": {
+      "count": 2
+    },
+    "leftpad": {
+      "count": 1
+    },
+    "legacy-code": {
+      "count": 4
+    },
+    "less-code": {
+      "count": 1
+    },
+    "machine-learning": {
+      "count": 1
+    },
+    "maintenance": {
+      "count": 2
+    },
+    "management": {
+      "count": 2
+    },
+    "marketing": {
+      "count": 2
+    },
+    "mastery": {
+      "count": 1
+    },
+    "math": {
+      "count": 1
+    },
+    "meetings": {
+      "count": 2
+    },
+    "memory": {
+      "count": 1
+    },
+    "mental-models": {
+      "count": 1
+    },
+    "meta": {
+      "count": 1
+    },
+    "methodology": {
+      "count": 1
+    },
+    "microservices": {
+      "count": 2
+    },
+    "mutability": {
+      "count": 1
+    },
+    "mvp": {
+      "count": 3
+    },
+    "naming": {
+      "count": 2
+    },
+    "networking": {
+      "count": 1
+    },
+    "node-modules": {
+      "count": 1
+    },
+    "npm": {
+      "count": 2
+    },
+    "off-by-one": {
+      "count": 1
+    },
+    "open-source": {
+      "count": 1
+    },
+    "optimization": {
+      "count": 3
+    },
+    "over-engineering": {
+      "count": 4
+    },
+    "pain": {
+      "count": 1
+    },
+    "past-self": {
+      "count": 2
+    },
+    "patience": {
+      "count": 2
+    },
+    "perfection": {
+      "count": 2
+    },
+    "performance": {
+      "count": 1
+    },
+    "perl": {
+      "count": 1
+    },
+    "permanence": {
+      "count": 1
+    },
+    "philosophy": {
+      "count": 1
+    },
+    "planning": {
+      "count": 2
+    },
+    "positioning": {
+      "count": 1
+    },
+    "practice": {
+      "count": 1
+    },
+    "pragmatism": {
+      "count": 5
+    },
+    "pricing": {
+      "count": 1
+    },
+    "print-statements": {
+      "count": 1
+    },
+    "procrastination": {
+      "count": 1
+    },
+    "product-market-fit": {
+      "count": 1
+    },
+    "production": {
+      "count": 5
+    },
+    "productivity": {
+      "count": 4
+    },
+    "profit": {
+      "count": 1
+    },
+    "profitability": {
+      "count": 2
+    },
+    "projects": {
+      "count": 1
+    },
+    "race-conditions": {
+      "count": 1
+    },
+    "ramen": {
+      "count": 1
+    },
+    "randomness": {
+      "count": 1
+    },
+    "rant": {
+      "count": 1
+    },
+    "recursion": {
+      "count": 1
+    },
+    "recursive": {
+      "count": 1
+    },
+    "reductionism": {
+      "count": 2
+    },
+    "refactoring": {
+      "count": 2
+    },
+    "regex": {
+      "count": 1
+    },
+    "reliability": {
+      "count": 1
+    },
+    "replacement": {
+      "count": 1
+    },
+    "resourcefulness": {
+      "count": 1
+    },
+    "restart": {
+      "count": 1
+    },
+    "revenue": {
+      "count": 2
+    },
+    "rewrite": {
+      "count": 2
+    },
+    "rubber-duck": {
+      "count": 1
+    },
+    "rust": {
+      "count": 1
+    },
+    "saas": {
+      "count": 1
+    },
+    "salary": {
+      "count": 1
+    },
+    "scope-creep": {
+      "count": 1
+    },
+    "scrum": {
+      "count": 1
+    },
+    "security": {
+      "count": 1
+    },
+    "seniority": {
+      "count": 2
+    },
+    "seo": {
+      "count": 1
+    },
+    "shipping": {
+      "count": 6
+    },
+    "silver-bullet": {
+      "count": 1
+    },
+    "simplicity": {
+      "count": 16
+    },
+    "slack": {
+      "count": 1
+    },
+    "sleep": {
+      "count": 1
+    },
+    "software-crisis": {
+      "count": 1
+    },
+    "solo-dev": {
+      "count": 1
+    },
+    "song": {
+      "count": 1
+    },
+    "speed": {
+      "count": 3
+    },
+    "spreadsheet": {
+      "count": 1
+    },
+    "sql": {
+      "count": 1
+    },
+    "stability": {
+      "count": 1
+    },
+    "stackoverflow": {
+      "count": 3
+    },
+    "standards": {
+      "count": 1
+    },
+    "startups": {
+      "count": 7
+    },
+    "state": {
+      "count": 1
+    },
+    "strategy": {
+      "count": 1
+    },
+    "subconscious": {
+      "count": 1
+    },
+    "survival": {
+      "count": 2
+    },
+    "taste": {
+      "count": 1
+    },
+    "teams": {
+      "count": 2
+    },
+    "teamwork": {
+      "count": 1
+    },
+    "technical-debt": {
+      "count": 2
+    },
+    "testing": {
+      "count": 3
+    },
+    "theory": {
+      "count": 1
+    },
+    "thinking": {
+      "count": 2
+    },
+    "threads": {
+      "count": 1
+    },
+    "time": {
+      "count": 1
+    },
+    "time-waste": {
+      "count": 1
+    },
+    "timezones": {
+      "count": 1
+    },
+    "titles": {
+      "count": 1
+    },
+    "todo": {
+      "count": 1
+    },
+    "trust": {
+      "count": 1
+    },
+    "types": {
+      "count": 1
+    },
+    "understanding": {
+      "count": 2
+    },
+    "unix": {
+      "count": 1
+    },
+    "users": {
+      "count": 1
+    },
+    "validation": {
+      "count": 2
+    },
+    "variables": {
+      "count": 1
+    },
+    "vc": {
+      "count": 1
+    },
+    "virtues": {
+      "count": 1
+    },
+    "work-ethic": {
+      "count": 1
+    },
+    "worse-is-better": {
+      "count": 1
+    },
+    "xkcd-energy": {
+      "count": 1
+    },
+    "yagni": {
+      "count": 1
+    },
+    "yaml": {
+      "count": 2
+    }
+  }
+}

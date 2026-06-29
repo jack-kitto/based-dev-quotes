@@ -1,0 +1,24 @@
+{
+  "tag": "industry",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "impostor-syndrome-real",
+      "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "impostor-syndrome",
+        "feelings",
+        "industry"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

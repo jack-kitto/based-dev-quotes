@@ -1,0 +1,24 @@
+{
+  "tag": "google",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "senior-dev-google",
+      "text": "A senior developer is just a junior developer who has Googled more things.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "seniority",
+        "experience",
+        "google"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

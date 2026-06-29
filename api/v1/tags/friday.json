@@ -1,0 +1,42 @@
+{
+  "tag": "friday",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "money-printer",
+      "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter (loosely based on Napoleon)",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "production",
+        "friday",
+        "deployments"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "friday-deploy",
+      "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "friday",
+        "deployment",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

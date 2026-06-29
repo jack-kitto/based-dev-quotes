@@ -1,0 +1,44 @@
+{
+  "total": 13,
+  "categories": {
+    "career": {
+      "count": 8
+    },
+    "complexity": {
+      "count": 19
+    },
+    "debugging": {
+      "count": 16
+    },
+    "founder": {
+      "count": 9
+    },
+    "funny": {
+      "count": 63
+    },
+    "grug": {
+      "count": 8
+    },
+    "indie-hacker": {
+      "count": 19
+    },
+    "shipping": {
+      "count": 17
+    },
+    "shitpost": {
+      "count": 20
+    },
+    "suffering": {
+      "count": 28
+    },
+    "tools": {
+      "count": 6
+    },
+    "unix": {
+      "count": 2
+    },
+    "wisdom": {
+      "count": 58
+    }
+  }
+}

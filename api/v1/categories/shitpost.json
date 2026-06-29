@@ -1,0 +1,383 @@
+{
+  "category": "shitpost",
+  "count": 20,
+  "quotes": [
+    {
+      "id": "grug-type-system",
+      "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "shitpost"
+      ],
+      "tags": [
+        "types",
+        "complexity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "grug-microservices",
+      "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+      "author": "The Grug Brained Developer",
+      "author_slug": "grug",
+      "source": "The Grug Brained Developer",
+      "source_url": "https://grugbrain.dev/",
+      "categories": [
+        "grug",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "microservices",
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "torvalds-c-plus-plus",
+      "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+      "author": "Linus Torvalds",
+      "author_slug": "torvalds",
+      "source": "Git Mailing List, 2007",
+      "categories": [
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "c++",
+        "languages",
+        "rant"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "hickey-state",
+      "text": "State. You're doing it wrong.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Are We There Yet?, JVM Language Summit 2009",
+      "categories": [
+        "shitpost",
+        "wisdom"
+      ],
+      "tags": [
+        "state",
+        "functional",
+        "mutability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "muratori-clean-code",
+      "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+      "author": "Casey Muratori",
+      "author_slug": "muratori",
+      "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "clean-code",
+        "performance",
+        "aesthetics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "two-hard-things",
+      "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Unknown (based on Phil Karlton)",
+      "author_slug": "unknown",
+      "source": "Programming folklore / internet",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "cache",
+        "naming",
+        "off-by-one",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "backend-dev-css",
+      "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "frontend",
+        "centering"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "move-fast-break-things",
+      "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "facebook",
+        "speed",
+        "caution"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "agile-is-dead",
+      "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "agile",
+        "scrum",
+        "methodology",
+        "management"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "kubernetes-yaml",
+      "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "devops",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "node-modules-black-hole",
+      "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / memes",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "node-modules",
+        "npm",
+        "javascript",
+        "dependencies"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "regex-now-two-problems-extended",
+      "text": "I had a problem, so I decided to use threads. pNow roblems. I two have",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "concurrency",
+        "threads",
+        "race-conditions"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "ai-replace-devs",
+      "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter, 2023",
+      "categories": [
+        "funny",
+        "career",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "replacement",
+        "jobs",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "leftpad-lesson",
+      "text": "One 11-line npm package going offline broke half the internet. We learned nothing and kept going.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "left-pad incident, 2016",
+      "categories": [
+        "funny",
+        "suffering",
+        "shitpost"
+      ],
+      "tags": [
+        "npm",
+        "dependencies",
+        "leftpad",
+        "fragility"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "rewrite-in-rust",
+      "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News / Reddit",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "rust",
+        "rewrite",
+        "hype"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    },
+    {
+      "id": "css-centering",
+      "text": "CSS is the only language where you can mass mass mass mass years of experience and still mass mass not center a div on the first try.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "css",
+        "centering",
+        "frontend",
+        "pain"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "machine-learning-if-else",
+      "text": "Machine learning is just spicy if/else statements.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "enterprise-fizzbuzz",
+      "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / Enterprise FizzBuzz meme",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "fizzbuzz",
+        "design-patterns",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "blockchain-database",
+      "text": "Blockchain: a database, but slower, and everyone can see your data.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "blockchain",
+        "crypto",
+        "database",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    }
+  ]
+}

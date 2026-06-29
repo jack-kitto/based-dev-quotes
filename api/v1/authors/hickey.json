@@ -1,0 +1,78 @@
+{
+  "author": "Rich Hickey",
+  "slug": "hickey",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "hickey-simple-easy",
+      "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Simple Made Easy, Strange Loop 2011",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "hickey-hammock",
+      "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Hammock Driven Development, Clojure/conj 2010",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "thinking",
+        "planning",
+        "patience"
+      ],
+      "grug_level": 2,
+      "spiciness": 2
+    },
+    {
+      "id": "hickey-state",
+      "text": "State. You're doing it wrong.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Are We There Yet?, JVM Language Summit 2009",
+      "categories": [
+        "shitpost",
+        "wisdom"
+      ],
+      "tags": [
+        "state",
+        "functional",
+        "mutability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    },
+    {
+      "id": "hickey-design-like-coding",
+      "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Design, Composition, and Performance, 2013",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "design",
+        "decomposition",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

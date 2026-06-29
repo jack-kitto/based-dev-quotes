@@ -1,0 +1,22 @@
+{
+  "tag": "copy-paste",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "copy-paste-stackoverflow",
+      "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny"
+      ],
+      "tags": [
+        "stackoverflow",
+        "copy-paste"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

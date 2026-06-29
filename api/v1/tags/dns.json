@@ -1,0 +1,26 @@
+{
+  "tag": "dns",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "dns-always-dns",
+      "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "sysadmin folklore (SSBroski / haiku)",
+      "categories": [
+        "funny",
+        "debugging",
+        "suffering"
+      ],
+      "tags": [
+        "dns",
+        "debugging",
+        "networking",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    }
+  ]
+}

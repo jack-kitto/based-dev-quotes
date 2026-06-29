@@ -1,0 +1,355 @@
+{
+  "category": "indie-hacker",
+  "count": 19,
+  "quotes": [
+    {
+      "id": "hoffman-embarrassed",
+      "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "source": "LinkedIn founder, various interviews",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "launching",
+        "perfection",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "levels-just-ship",
+      "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "Twitter / nomadlist.com",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "iteration",
+        "feedback"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "levels-12-startups",
+      "text": "Build 12 startups in 12 months. Most will fail. The ones that don't will change your life.",
+      "author": "Pieter Levels",
+      "author_slug": "levels",
+      "source": "12 Startups in 12 Months challenge, 2014",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "startups",
+        "speed",
+        "experimentation"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "patio11-charge-more",
+      "text": "Charge more.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Accumulated indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "pricing",
+        "business",
+        "classic"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "patio11-salary-negotiation",
+      "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+      "author": "Patrick McKenzie (patio11)",
+      "author_slug": "patio11",
+      "source": "Don't Call Yourself a Programmer, 2011",
+      "categories": [
+        "career",
+        "indie-hacker"
+      ],
+      "tags": [
+        "career",
+        "positioning",
+        "salary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "graham-do-things-that-dont-scale",
+      "text": "Do things that don't scale.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Do Things That Don't Scale, 2013",
+      "categories": [
+        "indie-hacker",
+        "wisdom"
+      ],
+      "tags": [
+        "startups",
+        "hustle",
+        "growth",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-default-alive",
+      "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Default Alive or Default Dead?, 2015",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "survival",
+        "profitability",
+        "startups"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    },
+    {
+      "id": "carmack-low-level",
+      "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Masters of Doom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "resourcefulness",
+        "hustle"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "microservices-monolith",
+      "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Hacker News wisdom",
+      "categories": [
+        "shitpost",
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "microservices",
+        "startups",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    },
+    {
+      "id": "scope-creep",
+      "text": "Client: 'Can you just add one small feature?' Narrator: It was not, in fact, a small feature.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Freelancer folklore",
+      "categories": [
+        "funny",
+        "suffering",
+        "indie-hacker"
+      ],
+      "tags": [
+        "scope-creep",
+        "clients",
+        "freelancing"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "shipping-beats-perfection",
+      "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "perfection",
+        "mvp"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "saas-idea-validation",
+      "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker Twitter",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "saas",
+        "mvp",
+        "spreadsheet",
+        "validation"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "audience-first",
+      "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "audience",
+        "marketing",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "ramen-profitable",
+      "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker culture (term from Paul Graham)",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "profitability",
+        "ramen",
+        "survival"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "marc-lou-build-fast",
+      "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+      "author": "Marc Lou",
+      "author_slug": "marclou",
+      "source": "Twitter / YouTube",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "speed",
+        "competition",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "revenue-vanity-profit-sanity",
+      "text": "Revenue is vanity, profit is sanity, cash is reality.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Business proverb",
+      "categories": [
+        "founder",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "profit",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "best-marketing-ship",
+      "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Indie hacker wisdom",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "marketing",
+        "shipping",
+        "seo"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "bootstrapped-vc",
+      "text": "The best funding round is revenue.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Bootstrapper culture",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "vc",
+        "funding",
+        "revenue"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    },
+    {
+      "id": "cto-startup-titles",
+      "text": "At a startup, CTO stands for 'Currently The Only developer.'",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup folklore",
+      "categories": [
+        "funny",
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "startups",
+        "titles",
+        "solo-dev"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "graham-wealth",
+  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Startup = Growth, 2012",
+  "categories": [
+    "founder"
+  ],
+  "tags": [
+    "startups",
+    "growth",
+    "definition"
+  ],
+  "grug_level": 2,
+  "spiciness": 1
+}

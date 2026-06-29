@@ -1,0 +1,79 @@
+{
+  "tag": "fear",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "cantrill-debugging-production",
+      "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Platform as a Reflection of Values, 2018",
+      "categories": [
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "production",
+        "fear",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "first-rule-of-programming",
+      "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "stability",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "friday-deploy",
+      "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "friday",
+        "deployment",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 1
+    },
+    {
+      "id": "select-star-production",
+      "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "sql",
+        "production",
+        "database",
+        "fear"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

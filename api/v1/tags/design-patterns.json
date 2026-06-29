@@ -1,0 +1,25 @@
+{
+  "tag": "design-patterns",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "enterprise-fizzbuzz",
+      "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / Enterprise FizzBuzz meme",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "fizzbuzz",
+        "design-patterns",
+        "over-engineering"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "author": "Yogi Berra (applied to programming)",
+  "slug": "berra",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "production-is-different",
+      "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+      "author": "Yogi Berra (applied to programming)",
+      "author_slug": "berra",
+      "source": "Various attributions",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "theory",
+        "practice",
+        "production"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

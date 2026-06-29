@@ -1,0 +1,24 @@
+{
+  "tag": "decline",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "blow-civilization",
+      "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+      "author": "Jonathan Blow",
+      "author_slug": "blow",
+      "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+      "categories": [
+        "suffering",
+        "complexity"
+      ],
+      "tags": [
+        "decline",
+        "software-crisis",
+        "civilization"
+      ],
+      "grug_level": 4,
+      "spiciness": 4
+    }
+  ]
+}

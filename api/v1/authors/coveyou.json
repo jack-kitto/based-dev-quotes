@@ -1,0 +1,25 @@
+{
+  "author": "Robert R. Coveyou",
+  "slug": "coveyou",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "programmer-optimist",
+      "text": "The generation of random numbers is too important to be left to chance.",
+      "author": "Robert R. Coveyou",
+      "author_slug": "coveyou",
+      "source": "Oak Ridge National Laboratory",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "randomness",
+        "irony",
+        "math"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

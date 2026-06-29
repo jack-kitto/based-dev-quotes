@@ -1,0 +1,19 @@
+{
+  "id": "scope-creep",
+  "text": "Client: 'Can you just add one small feature?' Narrator: It was not, in fact, a small feature.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Freelancer folklore",
+  "categories": [
+    "funny",
+    "suffering",
+    "indie-hacker"
+  ],
+  "tags": [
+    "scope-creep",
+    "clients",
+    "freelancing"
+  ],
+  "grug_level": 4,
+  "spiciness": 2
+}

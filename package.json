@@ -1,0 +1,26 @@
+{
+  "name": "based-dev-quotes",
+  "version": "1.0.0",
+  "description": "A static API of curated programming, productivity, and indie hacker quotes for developers. No API key. No rate limits. Just JSON.",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "validate": "node scripts/validate.js",
+    "stats": "node scripts/stats.js"
+  },
+  "keywords": [
+    "quotes",
+    "programming",
+    "developer",
+    "api",
+    "static-api",
+    "grug",
+    "indie-hacker"
+  ],
+  "author": "Jack",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jack-kitto/based-dev-quotes"
+  }
+}

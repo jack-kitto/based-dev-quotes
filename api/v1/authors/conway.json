@@ -1,0 +1,23 @@
+{
+  "author": "Damian Conway",
+  "slug": "conway",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "documentation-lie",
+      "text": "Documentation is a love letter that you write to your future self.",
+      "author": "Damian Conway",
+      "author_slug": "conway",
+      "source": "Perl Best Practices",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "documentation",
+        "future-self"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

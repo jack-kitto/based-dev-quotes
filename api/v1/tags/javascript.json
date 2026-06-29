@@ -1,0 +1,43 @@
+{
+  "tag": "javascript",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "atwood-any-application",
+      "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "Atwood's Law, 2007",
+      "categories": [
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "javascript",
+        "inevitability",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "node-modules-black-hole",
+      "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / memes",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "node-modules",
+        "npm",
+        "javascript",
+        "dependencies"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

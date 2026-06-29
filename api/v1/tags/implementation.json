@@ -1,0 +1,24 @@
+{
+  "tag": "implementation",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "carmack-implementation",
+      "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+      "author": "John Carmack",
+      "author_slug": "carmack",
+      "source": "Various interviews",
+      "categories": [
+        "shipping",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "implementation",
+        "ideas"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    }
+  ]
+}

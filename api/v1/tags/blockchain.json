@@ -1,0 +1,25 @@
+{
+  "tag": "blockchain",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "blockchain-database",
+      "text": "Blockchain: a database, but slower, and everyone can see your data.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "blockchain",
+        "crypto",
+        "database",
+        "reductionism"
+      ],
+      "grug_level": 5,
+      "spiciness": 4
+    }
+  ]
+}

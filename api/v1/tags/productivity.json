@@ -1,0 +1,78 @@
+{
+  "tag": "productivity",
+  "count": 4,
+  "quotes": [
+    {
+      "id": "brooks-silver-bullet",
+      "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
+      "author": "Fred Brooks",
+      "author_slug": "brooks",
+      "source": "No Silver Bullet, 1986",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "productivity",
+        "silver-bullet",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    },
+    {
+      "id": "graham-maker-schedule",
+      "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+      "author": "Paul Graham",
+      "author_slug": "graham",
+      "source": "Maker's Schedule, Manager's Schedule, 2009",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "focus",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "10x-developer",
+      "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Dev Twitter / HN discourse",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "10x",
+        "teamwork",
+        "productivity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    },
+    {
+      "id": "meetings-email",
+      "text": "This meeting could have been an email. That email could have been a Slack message. That Slack message could have been nothing.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Corporate dev culture",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "meetings",
+        "email",
+        "slack",
+        "productivity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

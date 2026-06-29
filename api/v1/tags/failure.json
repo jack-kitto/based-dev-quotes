@@ -1,0 +1,24 @@
+{
+  "tag": "failure",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "product-nobody-wants",
+      "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Startup culture",
+      "categories": [
+        "founder",
+        "suffering"
+      ],
+      "tags": [
+        "product-market-fit",
+        "validation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2
+    }
+  ]
+}

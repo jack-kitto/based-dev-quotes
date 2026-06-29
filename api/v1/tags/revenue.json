@@ -1,0 +1,43 @@
+{
+  "tag": "revenue",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "revenue-vanity-profit-sanity",
+      "text": "Revenue is vanity, profit is sanity, cash is reality.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Business proverb",
+      "categories": [
+        "founder",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "profit",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    },
+    {
+      "id": "bootstrapped-vc",
+      "text": "The best funding round is revenue.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Bootstrapper culture",
+      "categories": [
+        "indie-hacker",
+        "founder"
+      ],
+      "tags": [
+        "bootstrapping",
+        "vc",
+        "funding",
+        "revenue"
+      ],
+      "grug_level": 5,
+      "spiciness": 3
+    }
+  ]
+}

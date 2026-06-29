@@ -1,0 +1,42 @@
+{
+  "tag": "deletion",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "deleted-code-no-bugs",
+      "text": "Deleted code is debugged code.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "deletion",
+        "debugging",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    },
+    {
+      "id": "rm-rf-solution",
+      "text": "Sometimes the most productive thing you can do is delete everything and start with a clear head. But maybe git stash first.",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "source": "Programming folklore",
+      "categories": [
+        "funny",
+        "shipping"
+      ],
+      "tags": [
+        "deletion",
+        "restart",
+        "git"
+      ],
+      "grug_level": 5,
+      "spiciness": 2
+    }
+  ]
+}

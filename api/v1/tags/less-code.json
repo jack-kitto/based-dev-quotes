@@ -1,0 +1,24 @@
+{
+  "tag": "less-code",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "atwood-best-code",
+      "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "source": "The Best Code is No Code At All, 2007",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "less-code",
+        "simplicity",
+        "maintenance"
+      ],
+      "grug_level": 4,
+      "spiciness": 1
+    }
+  ]
+}

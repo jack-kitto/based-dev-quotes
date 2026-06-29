@@ -1,0 +1,25 @@
+{
+  "tag": "cache",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "two-hard-things",
+      "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Unknown (based on Phil Karlton)",
+      "author_slug": "unknown",
+      "source": "Programming folklore / internet",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "cache",
+        "naming",
+        "off-by-one",
+        "classic"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

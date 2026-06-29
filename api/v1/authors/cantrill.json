@@ -1,0 +1,42 @@
+{
+  "author": "Bryan Cantrill",
+  "slug": "cantrill",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "cantrill-debugging-production",
+      "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Platform as a Reflection of Values, 2018",
+      "categories": [
+        "suffering",
+        "debugging"
+      ],
+      "tags": [
+        "production",
+        "fear",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 2
+    },
+    {
+      "id": "cantrill-dtrace",
+      "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
+      "author": "Bryan Cantrill",
+      "author_slug": "cantrill",
+      "source": "Debugging Under Fire, 2018",
+      "categories": [
+        "debugging",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "mental-models"
+      ],
+      "grug_level": 3,
+      "spiciness": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "tag": "clean-code",
+  "count": 2,
+  "quotes": [
+    {
+      "id": "muratori-clean-code",
+      "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+      "author": "Casey Muratori",
+      "author_slug": "muratori",
+      "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "clean-code",
+        "performance",
+        "aesthetics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5
+    },
+    {
+      "id": "leave-it-better",
+      "text": "Always leave the code better than you found it.",
+      "author": "Robert C. Martin (Uncle Bob)",
+      "author_slug": "martin",
+      "source": "Clean Code (adapted from Boy Scout Rule)",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "clean-code",
+        "maintenance",
+        "discipline"
+      ],
+      "grug_level": 2,
+      "spiciness": 1
+    }
+  ]
+}

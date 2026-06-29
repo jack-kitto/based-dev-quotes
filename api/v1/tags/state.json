@@ -1,0 +1,24 @@
+{
+  "tag": "state",
+  "count": 1,
+  "quotes": [
+    {
+      "id": "hickey-state",
+      "text": "State. You're doing it wrong.",
+      "author": "Rich Hickey",
+      "author_slug": "hickey",
+      "source": "Are We There Yet?, JVM Language Summit 2009",
+      "categories": [
+        "shitpost",
+        "wisdom"
+      ],
+      "tags": [
+        "state",
+        "functional",
+        "mutability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3
+    }
+  ]
+}
