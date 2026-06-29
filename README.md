@@ -197,6 +197,53 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
 ---
 
+## Automation
+
+### 🤖 Auto-Scraping Pipeline
+
+A weekly GitHub Action scrapes HN, Reddit, and dev communities, then uses an LLM to extract and score quotes. New quotes are opened as PRs for review.
+
+**Setup:**
+1. Add `OPENAI_API_KEY` to your repo's [Secrets](../../settings/secrets/actions)
+2. Optionally set `OPENAI_BASE_URL` for custom LLM endpoints (OpenRouter, local, etc.)
+3. Optionally set `QUOTE_MODEL` (default: `gpt-4o-mini`)
+4. The Action runs every Monday at 6am UTC, or trigger manually via Actions tab
+
+**Manual run:**
+```bash
+# Scrape → Extract → Open PR (full pipeline)
+python3 scripts/scrape.py > /tmp/candidates.json
+python3 scripts/extract.py --input /tmp/candidates.json > /tmp/new_quotes.json
+python3 scripts/merge_pr.py --input /tmp/new_quotes.json
+
+# Or auto-merge without PR
+python3 scripts/merge_pr.py --input /tmp/new_quotes.json --auto-merge
+```
+
+### 🤖 Telegram Submission Bot
+
+Let anyone submit quotes via Telegram. Submissions are queued and batched into PRs.
+
+**Setup:**
+1. Create a bot via [@BotFather](https://t.me/BotFather) on Telegram
+2. Set `TELEGRAM_BOT_TOKEN` env var
+3. Set `GITHUB_TOKEN` env var
+4. Run: `python3 scripts/telegram_bot.py`
+
+**Commands:**
+- `/submit <quote> — <author>` — Submit a quote
+- `/random` — Get a random quote
+- `/today` — Quote of the day
+- `/stats` — Dataset stats
+
+**Process pending submissions:**
+```bash
+python3 scripts/process_submissions.py          # Opens PR
+python3 scripts/process_submissions.py --auto-merge  # Direct merge
+```
+
+---
+
 ## License
 
 MIT — do whatever you want with these quotes. Attribution appreciated but not required.

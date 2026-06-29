@@ -1,0 +1,58 @@
+name: Scrape & Extract Quotes
+
+on:
+  schedule:
+    # Run weekly on Mondays at 6am UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      auto_merge:
+        description: 'Auto-merge without PR (skip review)'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'https://api.openai.com/v1' }}
+  QUOTE_MODEL: ${{ secrets.QUOTE_MODEL || 'gpt-4o-mini' }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  scrape-and-extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure git
+        run: |
+          git config user.name "based-bot"
+          git config user.email "bot@based-dev-quotes.dev"
+
+      - name: Scrape candidates
+        run: python3 scripts/scrape.py > /tmp/candidates.json
+
+      - name: Show candidate count
+        run: python3 -c "import json; d=json.load(open('/tmp/candidates.json')); print(f'Scraped {len(d)} candidates')"
+
+      - name: Extract quotes via LLM
+        run: python3 scripts/extract.py --input /tmp/candidates.json > /tmp/new_quotes.json
+
+      - name: Show extraction results
+        run: python3 -c "import json; d=json.load(open('/tmp/new_quotes.json')); print(f'Extracted {len(d)} quotes')"
+
+      - name: Merge and create PR
+        if: ${{ !inputs.auto_merge }}
+        run: python3 scripts/merge_pr.py --input /tmp/new_quotes.json
+
+      - name: Auto-merge
+        if: ${{ inputs.auto_merge == 'true' }}
+        run: python3 scripts/merge_pr.py --input /tmp/new_quotes.json --auto-merge
