@@ -1,18 +1,18 @@
 {
-  "id": "todo-later-means-never",
-  "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Every codebase ever",
+  "id": "pike-complexity-moved",
+  "text": "A little copying is better than a little dependency.",
+  "author": "Rob Pike",
+  "author_slug": "pike",
+  "source": "Go Proverbs",
   "categories": [
-    "funny",
-    "suffering"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "todo",
-    "technical-debt",
-    "procrastination"
+    "dependencies",
+    "simplicity",
+    "go"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 2
 }

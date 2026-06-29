@@ -1,18 +1,19 @@
 {
-  "id": "impostor-syndrome-real",
-  "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+  "id": "rewrite-in-rust",
+  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Hacker News / Reddit",
   "categories": [
     "funny",
-    "career"
+    "shitpost",
+    "tools"
   ],
   "tags": [
-    "impostor-syndrome",
-    "feelings",
-    "industry"
+    "rust",
+    "rewrite",
+    "hype"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 4
 }

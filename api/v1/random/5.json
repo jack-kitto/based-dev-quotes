@@ -1,19 +1,18 @@
 {
-  "id": "spolsky-rewrite",
-  "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
-  "author": "Joel Spolsky",
-  "author_slug": "spolsky",
-  "source": "Things You Should Never Do, Part I, 2000",
+  "id": "grug-refactor",
+  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "wisdom",
-    "suffering"
+    "grug",
+    "wisdom"
   ],
   "tags": [
-    "rewrite",
-    "legacy-code",
-    "strategy",
-    "classic"
+    "refactoring",
+    "discipline"
   ],
-  "grug_level": 4,
-  "spiciness": 3
+  "grug_level": 5,
+  "spiciness": 1
 }

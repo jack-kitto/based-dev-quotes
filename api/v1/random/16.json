@@ -1,18 +1,18 @@
 {
-  "id": "10x-developer",
-  "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter / HN discourse",
+  "id": "atwood-best-code",
+  "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
+  "source": "The Best Code is No Code At All, 2007",
   "categories": [
     "wisdom",
-    "career"
+    "complexity"
   ],
   "tags": [
-    "10x",
-    "teamwork",
-    "productivity"
+    "less-code",
+    "simplicity",
+    "maintenance"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 4,
+  "spiciness": 1
 }

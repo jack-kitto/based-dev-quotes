@@ -1,17 +1,18 @@
 {
-  "id": "it-compiled",
-  "text": "My code doesn't have bugs. It just develops random features.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "hickey-hammock",
+  "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Hammock Driven Development, Clojure/conj 2010",
   "categories": [
-    "funny"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "bugs",
-    "features",
-    "denial"
+    "thinking",
+    "planning",
+    "patience"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 2,
+  "spiciness": 2
 }

@@ -1,18 +1,20 @@
 {
-  "id": "brooks-mythical-man-month",
-  "text": "Adding manpower to a late software project makes it later.",
-  "author": "Fred Brooks",
-  "author_slug": "brooks",
-  "source": "The Mythical Man-Month, 1975",
+  "id": "agile-is-dead",
+  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "wisdom",
-    "suffering"
+    "funny",
+    "suffering",
+    "shitpost"
   ],
   "tags": [
-    "management",
-    "teams",
-    "classic"
+    "agile",
+    "scrum",
+    "methodology",
+    "management"
   ],
-  "grug_level": 2,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 4
 }

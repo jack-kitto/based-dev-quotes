@@ -1,20 +1,20 @@
 {
-  "id": "hofstadter-law",
-  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
-  "author": "Douglas Hofstadter",
-  "author_slug": "hofstadter",
-  "source": "Gödel, Escher, Bach, 1979",
+  "id": "6-months-avoid-reading",
+  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "suffering"
+    "suffering",
+    "debugging"
   ],
   "tags": [
-    "estimation",
-    "time",
-    "recursive",
-    "classic"
+    "documentation",
+    "debugging",
+    "irony"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "_generated_at": "2026-06-29T10:49:59.227935+00:00"
+  "grug_level": 5,
+  "spiciness": 2,
+  "_generated_at": "2026-06-29T11:15:22.785258+00:00"
 }

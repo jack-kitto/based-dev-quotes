@@ -1,18 +1,19 @@
 {
-  "id": "works-on-my-machine",
-  "text": "It works on my machine. Then we'll ship your machine.",
+  "id": "node-modules-black-hole",
+  "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "Dev Twitter / memes",
   "categories": [
     "funny",
-    "debugging"
+    "shitpost"
   ],
   "tags": [
-    "deployment",
-    "docker",
-    "containers"
+    "node-modules",
+    "npm",
+    "javascript",
+    "dependencies"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 2
 }

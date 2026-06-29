@@ -1,18 +1,19 @@
 {
-  "id": "rubber-duck-debugging",
-  "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
-  "author": "Unknown (extended from Kernighan)",
+  "id": "select-star-production",
+  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+  "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "debugging"
+    "suffering"
   ],
   "tags": [
-    "rubber-duck",
-    "debugging",
-    "print-statements"
+    "sql",
+    "production",
+    "database",
+    "fear"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 3
 }

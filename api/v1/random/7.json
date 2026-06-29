@@ -1,18 +1,19 @@
 {
-  "id": "stackoverflow-driven",
-  "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+  "id": "feature-request-vs-bug",
+  "text": "A bug becomes a feature the moment a customer depends on it.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Software engineering folklore",
   "categories": [
     "funny",
-    "debugging"
+    "wisdom"
   ],
   "tags": [
-    "stackoverflow",
-    "debugging",
-    "cargo-cult"
+    "bugs",
+    "features",
+    "customers",
+    "backwards-compatibility"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 2
 }

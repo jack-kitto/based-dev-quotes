@@ -1,18 +1,19 @@
 {
-  "id": "microservices-monolith",
-  "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Hacker News wisdom",
+  "id": "grug-microservices",
+  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "shitpost",
-    "indie-hacker",
-    "shipping"
+    "grug",
+    "complexity",
+    "shitpost"
   ],
   "tags": [
     "microservices",
-    "startups",
-    "over-engineering"
+    "architecture",
+    "simplicity"
   ],
   "grug_level": 5,
   "spiciness": 4

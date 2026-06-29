@@ -1,18 +1,18 @@
 {
-  "id": "senior-dev-impostor",
-  "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "id": "gwern-on-finishing",
+  "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+  "author": "Gwern Branwen",
+  "author_slug": "gwern",
+  "source": "gwern.net",
   "categories": [
-    "funny",
-    "career"
+    "shipping",
+    "wisdom"
   ],
   "tags": [
-    "seniority",
-    "confidence",
-    "experience"
+    "finishing",
+    "discipline",
+    "projects"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 1
 }

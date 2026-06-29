@@ -1,19 +1,17 @@
 {
-  "id": "mcilroy-unix-philosophy",
-  "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
-  "author": "Doug McIlroy",
-  "author_slug": "mcilroy",
-  "source": "Bell System Technical Journal, 1978",
+  "id": "brooks-silver-bullet",
+  "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
+  "author": "Fred Brooks",
+  "author_slug": "brooks",
+  "source": "No Silver Bullet, 1986",
   "categories": [
-    "unix",
     "wisdom"
   ],
   "tags": [
-    "unix",
-    "philosophy",
-    "simplicity",
+    "productivity",
+    "silver-bullet",
     "classic"
   ],
-  "grug_level": 3,
+  "grug_level": 2,
   "spiciness": 1
 }

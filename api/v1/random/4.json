@@ -1,19 +1,17 @@
 {
-  "id": "grug-complexity-bad",
-  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "leave-it-better",
+  "text": "Always leave the code better than you found it.",
+  "author": "Robert C. Martin (Uncle Bob)",
+  "author_slug": "martin",
+  "source": "Clean Code (adapted from Boy Scout Rule)",
   "categories": [
-    "grug",
-    "complexity"
+    "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "complexity",
-    "classic"
+    "clean-code",
+    "maintenance",
+    "discipline"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 2,
+  "spiciness": 1
 }

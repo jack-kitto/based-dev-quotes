@@ -1,19 +1,17 @@
 {
-  "id": "dns-always-dns",
-  "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+  "id": "backend-dev-css",
+  "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "sysadmin folklore (SSBroski / haiku)",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "debugging",
-    "suffering"
+    "shitpost"
   ],
   "tags": [
-    "dns",
-    "debugging",
-    "networking",
-    "classic"
+    "css",
+    "frontend",
+    "centering"
   ],
   "grug_level": 5,
   "spiciness": 1
