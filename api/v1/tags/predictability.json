@@ -1,0 +1,22 @@
+{
+  "tag": "predictability",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best SaaS businesses have predictable revenue. Predictable revenue comes from predictable customers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "revenue",
+        "predictability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    }
+  ]
+}

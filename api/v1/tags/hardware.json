@@ -1,0 +1,23 @@
+{
+  "tag": "hardware",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Hardware: the parts of a computer system that can be kicked.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "hardware",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-hardware-the-parts-of",
+      "source": "Community sourced"
+    }
+  ]
+}

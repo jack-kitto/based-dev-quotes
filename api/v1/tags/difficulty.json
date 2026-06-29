@@ -1,0 +1,22 @@
+{
+  "tag": "difficulty",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "difficulty",
+        "opportunity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-in-the-middle-of",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tag": "knowledge",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Knowledge is power. Applied knowledge is superpower. Hoarded knowledge is a hoarder.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "knowledge",
+        "application"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-knowledge-is-power-applied",
+      "source": "Community sourced"
+    }
+  ]
+}

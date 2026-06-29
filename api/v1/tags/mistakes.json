@@ -1,0 +1,22 @@
+{
+  "tag": "mistakes",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The only real mistake is the one from which we learn nothing.",
+      "author": "Henry Ford",
+      "author_slug": "ford",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "mistakes",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ford-the-only-real-mistake",
+      "source": "Community sourced"
+    }
+  ]
+}

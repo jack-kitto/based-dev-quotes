@@ -1,6 +1,6 @@
 {
   "tag": "classic",
-  "count": 32,
+  "count": 37,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -593,6 +593,91 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Leon Bambrick",
+      "author_slug": "bambrick",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "classic",
+        "off-by-one"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "bambrick-there-are-two-hard",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "wisdom",
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Have you tried turning it off and on again?",
+      "author": "Roy (IT Crowd)",
+      "author_slug": "it-crowd",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "it-crowd-have-you-tried-turning",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Less is more.",
+      "author": "Ludwig Mies van der Rohe",
+      "author_slug": "mies",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "minimalism",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "mies-less-is-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate form of sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
     }
   ]
 }

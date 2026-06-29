@@ -1,6 +1,6 @@
 {
   "tag": "cash-flow",
-  "count": 1,
+  "count": 5,
   "quotes": [
     {
       "id": "revenue-vanity-profit-sanity",
@@ -19,6 +19,71 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-vanity-profit",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business model is one where the customer pays you before you have to do the work. Find it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "cash-flow"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-business-model",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Cash flow is oxygen. Profit is nice. Revenue is nice. But without cash flow, you're dead.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "cash-flow",
+        "survival"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-cash-flow-is-oxygen",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is just a number. Profit is what matters. Cash flow is what keeps you alive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-just-a",
+      "source": "Community sourced"
     }
   ]
 }

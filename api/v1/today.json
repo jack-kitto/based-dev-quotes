@@ -1,19 +1,17 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "The cloud is just someone else's computer that charges you rent and occasionally catches fire.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "shitpost"
+    "engineering"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "cloud",
+    "servers"
   ],
-  "grug_level": 5,
+  "grug_level": 4,
   "spiciness": 3,
+  "id": "based-the-cloud-is-just",
+  "source": "Community sourced",
   "_date": "2026-06-29"
 }

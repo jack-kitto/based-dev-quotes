@@ -1,0 +1,23 @@
+{
+  "tag": "checkout",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your checkout page is where money goes to die if you add friction. Every extra field costs you 10% of conversions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "checkout",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-checkout-page-is",
+      "source": "Community sourced"
+    }
+  ]
+}

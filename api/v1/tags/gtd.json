@@ -1,0 +1,22 @@
+{
+  "tag": "gtd",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If it takes less than 2 minutes, do it now. If it takes less than 2 hours, do it today. If it takes longer, schedule it and then don't schedule it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "gtd",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-if-it-takes-less",
+      "source": "Community sourced"
+    }
+  ]
+}

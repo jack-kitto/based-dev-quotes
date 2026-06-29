@@ -1,0 +1,23 @@
+{
+  "author": "Vidal Sassoon",
+  "slug": "sassoon",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The only time success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon",
+      "author_slug": "sassoon",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sassoon-the-only-time-success",
+      "source": "Community sourced"
+    }
+  ]
+}

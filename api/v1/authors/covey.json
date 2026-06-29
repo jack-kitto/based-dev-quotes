@@ -1,0 +1,24 @@
+{
+  "author": "Stephen Covey",
+  "slug": "covey",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Stephen Covey",
+      "author_slug": "covey",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "covey-the-key-is-not",
+      "source": "Community sourced"
+    }
+  ]
+}

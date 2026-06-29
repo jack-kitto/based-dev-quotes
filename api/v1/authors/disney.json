@@ -1,0 +1,23 @@
+{
+  "author": "Walt Disney",
+  "slug": "disney",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "author_slug": "disney",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "action",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "disney-the-way-to-get",
+      "source": "Community sourced"
+    }
+  ]
+}

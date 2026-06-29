@@ -1,0 +1,23 @@
+{
+  "tag": "self-awareness",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Debugging is detective work. You look for clues, form theories, and test them. Sometimes the culprit is you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "self-awareness"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-debugging-is-detective-work",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tag": "protection",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your most productive hours are the ones you protect. Guard them ruthlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "productivity",
+        "protection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-productive-hours",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important work requires deep focus. Protect it like your life depends on it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "protection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-work",
+      "source": "Community sourced"
+    }
+  ]
+}

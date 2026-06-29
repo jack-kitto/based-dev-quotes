@@ -1,6 +1,6 @@
 {
   "tag": "growth",
-  "count": 2,
+  "count": 21,
   "quotes": [
     {
       "id": "graham-do-things-that-dont-scale",
@@ -37,6 +37,312 @@
       ],
       "grug_level": 2,
       "spiciness": 1
+    },
+    {
+      "text": "Imposter syndrome means you're in the right room. If you're the smartest person in the room, you're in the wrong room.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-imposter-syndrome-means-youre",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "growth",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow is to make your current customers successful. Happy customers bring new customers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "growth",
+        "customers"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "integrations",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-integrations-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who talk to users grow faster than indie hackers who code in isolation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "user-feedback",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-talk",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first 1000 email subscribers are the hardest to get. The next 9,000 are easier. Start collecting.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1000-email",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an indie business is to make your existing customers happier. New customers come from happy ones.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first $1k in revenue is the hardest. The next $9k is easier. The next $90k is harder. The next $900k is the hardest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest growth comes from your biggest failures. Embrace them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Growth is never by mere chance; it is the result of forces working together.",
+      "author": "James Cash Penney",
+      "author_slug": "penney",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "forces"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "penney-growth-is-never-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth should be organic, not forced. Forced growth breaks things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "organic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from solving a problem so well that people tell their friends.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth rate matters less than your retention rate. A leaky bucket can't be filled.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "growth",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-rate-matters",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth strategy should be unique to your business. Copying others' strategies is a recipe for mediocrity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-strategy-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from compounding. Small improvements, consistently, over time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth strategy is to make your product so good that marketing is optional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "growth",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who make others better. Not just themselves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an indie project is to make your users successful. Their success is your success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "growth",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project is your baby. Take care of it. Feed it. Grow it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "care",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-indie-project-is",
+      "source": "Community sourced"
     }
   ]
 }

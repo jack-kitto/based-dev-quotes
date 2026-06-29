@@ -1,0 +1,72 @@
+{
+  "tag": "legacy",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The code works. Don't touch it. I don't know why it works. Don't ask.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "cargo-cult"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-code-works-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Legacy code is just code that nobody has the courage to delete yet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "legacy",
+        "courage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-legacy-code-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "fear"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-code-works",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every codebase has that one file that nobody dares to touch. That file is your biggest risk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "legacy",
+        "risk"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-codebase-has-that",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tag": "planting",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now. Same goes for building your business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "timing",
+        "planting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

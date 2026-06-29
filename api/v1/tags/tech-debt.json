@@ -1,0 +1,39 @@
+{
+  "tag": "tech-debt",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tech-debt",
+        "procrastination"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-technical-debt-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The worst kind of technical debt is the kind you don't know you have.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tech-debt",
+        "hidden"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-worst-kind-of",
+      "source": "Community sourced"
+    }
+  ]
+}

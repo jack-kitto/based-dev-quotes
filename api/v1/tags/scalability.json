@@ -1,0 +1,22 @@
+{
+  "tag": "scalability",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to think about scalability is when you have 100 users. Not when you have 100 million.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scalability",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

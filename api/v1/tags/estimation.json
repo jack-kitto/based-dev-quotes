@@ -1,6 +1,6 @@
 {
   "tag": "estimation",
-  "count": 1,
+  "count": 3,
   "quotes": [
     {
       "id": "hofstadter-law",
@@ -20,6 +20,39 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+      "author": "Tom Cargill",
+      "author_slug": "cargill",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cargill-the-first-90-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS has a 'this should be simple' feature that takes 3 weeks to build. Budget for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-saas-has-a",
+      "source": "Community sourced"
     }
   ]
 }

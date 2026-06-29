@@ -1,0 +1,22 @@
+{
+  "tag": "corporate",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every designer wants to make the world more beautiful. Then they get hired to darken a CTA button 2% darker for the 47th time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "corporate",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-designer-wants-to",
+      "source": "Community sourced"
+    }
+  ]
+}

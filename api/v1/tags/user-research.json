@@ -1,0 +1,57 @@
+{
+  "tag": "user-research",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Watch what users do, not what they say. They'll tell you they use your product daily. Their login history tells a different story.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "behavior"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-watch-what-users-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product decisions come from observing users, not surveying them. Surveys measure opinions. Observations measure behavior.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "observations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-decisions",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best user research is watching someone use your product without telling them what to do. The discomfort reveals everything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "observation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-user-research",
+      "source": "Community sourced"
+    }
+  ]
+}

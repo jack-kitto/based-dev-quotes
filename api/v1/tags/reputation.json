@@ -1,0 +1,102 @@
+{
+  "tag": "reputation",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "Your brand isn't what you say it is. It's what Google says it is. And what Reddit says. And what that one angry customer says.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-brand-isnt-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business is only as good as its worst customer experience. One viral complaint can undo a year of good work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-experience",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-only",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is what people say about you when you're not in the room. Make sure they're saying good things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-brand-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation is built on how you handle failure, not how you handle success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-reputation-is-built",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your personal brand is what people say about you when you're not in the room. Make sure it's worth saying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-personal-brand-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation precedes you. Build it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-reputation-precedes-you",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "author": "Frank Sinatra",
+  "slug": "sinatra",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "author_slug": "sinatra",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinatra-the-best-revenge-is",
+      "source": "Community sourced"
+    }
+  ]
+}

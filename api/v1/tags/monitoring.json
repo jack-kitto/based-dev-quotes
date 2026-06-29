@@ -1,0 +1,74 @@
+{
+  "tag": "monitoring",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best alerting system is one that pages you about things that actually matter. The worst is one that pages you about everything so you ignore it all.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "alerting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-alerting-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Monitoring tells you what's broken. Observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-monitoring-tells-you-whats",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "logging",
+        "monitoring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-logging-should-tell",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-monitoring-tells",
+      "source": "Community sourced"
+    }
+  ]
+}

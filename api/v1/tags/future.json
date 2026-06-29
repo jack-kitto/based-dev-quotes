@@ -1,0 +1,71 @@
+{
+  "tag": "future",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "One-person businesses are the future. Not because they're trendy, but because leverage makes it possible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "leverage",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-oneperson-businesses-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to predict your future is to create it. Start today.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "future",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business is a bet on the future. The best bets are the ones where you're building the future you're betting on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "bet",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your habits shape your future. Choose them wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-habits-shape-your",
+      "source": "Community sourced"
+    }
+  ]
+}

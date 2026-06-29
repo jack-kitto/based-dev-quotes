@@ -1,0 +1,54 @@
+{
+  "tag": "motivation",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best productivity hack is a deadline. The second best is consequences.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're waiting for motivation, you'll be waiting forever. Motivation follows action, not the other way around.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "motivation",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-waiting-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "author_slug": "sinatra",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinatra-the-best-revenge-is",
+      "source": "Community sourced"
+    }
+  ]
+}

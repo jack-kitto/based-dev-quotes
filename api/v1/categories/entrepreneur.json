@@ -1,0 +1,560 @@
+{
+  "category": "entrepreneur",
+  "count": 33,
+  "quotes": [
+    {
+      "text": "The best time to start a business was yesterday. The second best time is now. The worst time is 'when the market is ready.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "start",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Nobody cares about your startup. They care about their problem. If your startup solves it, they'll care about you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "customer-focus",
+        "problem"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-nobody-cares-about-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business plan is fiction until the first customer pays. Then it's a hypothesis.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "business-plan",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-plan-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Bootstrapping isn't about being cheap. It's about being forced to find product-market fit before you run out of runway.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "bootstrapping",
+        "pmf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-bootstrapping-isnt-about-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Raising money is easy. Building something people want is hard. Most founders get these confused.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "fundraising",
+        "product-market-fit"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-raising-money-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful business is a bet that the world is different than most people think.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "conviction",
+        "contrarian"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-business-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The lean startup method is just the scientific method for people who failed biology.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur",
+        "shitpost"
+      ],
+      "tags": [
+        "lean-startup",
+        "methodology"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-lean-startup-method",
+      "source": "Community sourced"
+    },
+    {
+      "text": "First principles thinking sounds profound until you realize it's just 'ask why' without the philosophy degree.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "first-principles",
+        "thinking"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-first-principles-thinking-sounds",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best exit strategy is the one you don't need because the business is printing money.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "exit",
+        "sustainability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-exit-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "risk",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Fail fast, fail forward, fail cheaply. But most importantly: learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-fail-fast-fail-forward",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-graveyard-of-failed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your business can't survive without you, you don't have a business. You have a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-business-cant",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You don't need permission to start. You don't need a co-founder to start. You don't need funding to start. You need to start.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "start",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-dont-need-permission",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best validation is someone giving you money. Everything else — surveys, waitlists, likes — is just flirting.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "validation",
+        "sales"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-best-validation-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are built on one simple insight: 'This could be so much better.' Execute that insight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "insight",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful entrepreneur has a story that starts with 'I had no idea what I was doing.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "beginner",
+        "courage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-entrepreneur-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a business is when you're young and have nothing to lose. The second best time is when you're experienced and have something to build with.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "timing",
+        "age"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are built on obsession, not inspiration. Inspiration fades. Obsession endures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "obsession",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can hold two contradictory ideas in their head and still act.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "paradox",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business starts with one person who decided to stop asking for permission.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "permission",
+        "courage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-starts-with",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of being your own boss is that your boss is an asshole who never lets you rest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "self-employment",
+        "work-life"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-hardest-part-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to quit your job is when you have 6 months of runway. Not when you're fed up. Not when you're rich.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "entrepreneur"
+      ],
+      "tags": [
+        "quitting",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "passive-income",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-business-should-make",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can fail gracefully and come back stronger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Entrepreneurship is living a few years of your life like most people won't, so you can spend the rest like most people can't.",
+      "author": "Warren Tracy",
+      "author_slug": "tracy",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "sacrifice",
+        "freedom"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "tracy-entrepreneurship-is-living-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can see opportunities where others see problems.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "opportunity",
+        "perception"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first startup will probably fail. Your second might too. Your third might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "startup",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-startup-will",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Entrepreneurship is not a job. It's a lifestyle. Choose it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "lifestyle",
+        "choice"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-entrepreneurship-is-not-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your startup is a bet on yourself. Bet big.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "bet",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-startup-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can make decisions with incomplete information.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "decisions",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your startup's biggest asset is your ability to learn faster than your competitors.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "learning",
+        "speed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-startups-biggest-asset",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start is now. Not when you're ready. You'll never be ready.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "start",
+        "readiness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

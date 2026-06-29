@@ -1,0 +1,55 @@
+{
+  "tag": "wealth",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best way to get rich is to solve expensive problems for rich people. The second best is to solve cheap problems for everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "market-selection"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get rich is to solve a problem so well that people tell their friends about it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "What's the object-oriented way to become wealthy? Inheritance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "oop",
+        "wealth"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-whats-the-objectoriented-way",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tag": "first-impression",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your README is your first impression. If it's bad, nobody will find out how good your code is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "readme",
+        "first-impression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-readme-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "first-impression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be",
+      "source": "Community sourced"
+    }
+  ]
+}

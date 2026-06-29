@@ -1,0 +1,38 @@
+{
+  "tag": "freedom",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Indie hackers don't have exit strategies. They have 'make enough money to not get a real job' strategies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "lifestyle",
+        "freedom"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hackers-dont-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Entrepreneurship is living a few years of your life like most people won't, so you can spend the rest like most people can't.",
+      "author": "Warren Tracy",
+      "author_slug": "tracy",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "sacrifice",
+        "freedom"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "tracy-entrepreneurship-is-living-a",
+      "source": "Community sourced"
+    }
+  ]
+}

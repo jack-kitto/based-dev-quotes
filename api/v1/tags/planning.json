@@ -1,6 +1,6 @@
 {
   "tag": "planning",
-  "count": 2,
+  "count": 12,
   "quotes": [
     {
       "id": "hickey-hammock",
@@ -38,6 +38,172 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "author_slug": "johnson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "problem-solving",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "johnson-first-solve-the-problem",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Paul J. Meyer",
+      "author_slug": "meyer",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "planning",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "meyer-productivity-is-never-an",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Stephen Covey",
+      "author_slug": "covey",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "covey-the-key-is-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about data migration is during schema design. Not after you've got 10TB of data.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "migrations",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about internationalization is when you're building your first date picker. Not after you've hardcoded American dates everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "i18n",
+        "planning"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your future self is a stranger you're building a life for. Be kind to them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "future-self",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-future-self-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to quit your job is when you have 6 months of runway. Not when you're fed up. Not when you're rich.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "entrepreneur"
+      ],
+      "tags": [
+        "quitting",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about revenue is on day one. Not 'someday.' Not 'after we launch.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a financial model is before you need one. The second best time is when you're panicking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "financial-model",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "tag": "behavior",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Watch what users do, not what they say. They'll tell you they use your product daily. Their login history tells a different story.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "behavior"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-watch-what-users-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Users don't read. They scan, they click, they get frustrated. Design for that reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "reading",
+        "behavior"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-users-dont-read-they",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your culture isn't what you say. It's what you tolerate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "culture",
+        "behavior"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-culture-isnt-what",
+      "source": "Community sourced"
+    }
+  ]
+}

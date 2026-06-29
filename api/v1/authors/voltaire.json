@@ -1,0 +1,23 @@
+{
+  "author": "Voltaire",
+  "slug": "voltaire",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best is the enemy of the good.",
+      "author": "Voltaire",
+      "author_slug": "voltaire",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "perfectionism",
+        "good-enough"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "voltaire-the-best-is-the",
+      "source": "Community sourced"
+    }
+  ]
+}

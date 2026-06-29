@@ -1,0 +1,22 @@
+{
+  "tag": "market-selection",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to get rich is to solve expensive problems for rich people. The second best is to solve cheap problems for everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "market-selection"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tag": "premature-optimization",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Stop building for scale you don't have. You're not Google. You have 47 users and 3 of them are your mom.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scale",
+        "premature-optimization"
+      ],
+      "grug_level": 5,
+      "spiciness": 4,
+      "id": "based-stop-building-for-scale",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about scalability is when you have 100 users. Not when you have 100 million.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scalability",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about performance is never. The second best time is when users complain.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "performance",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

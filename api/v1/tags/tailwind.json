@@ -1,0 +1,22 @@
+{
+  "tag": "tailwind",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-tailwind-css-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

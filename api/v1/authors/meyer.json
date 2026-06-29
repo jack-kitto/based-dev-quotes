@@ -1,0 +1,24 @@
+{
+  "author": "Paul J. Meyer",
+  "slug": "meyer",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Paul J. Meyer",
+      "author_slug": "meyer",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "planning",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "meyer-productivity-is-never-an",
+      "source": "Community sourced"
+    }
+  ]
+}

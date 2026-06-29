@@ -1,6 +1,6 @@
 {
   "tag": "features",
-  "count": 2,
+  "count": 11,
   "quotes": [
     {
       "id": "it-compiled",
@@ -37,6 +37,156 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product",
+        "engineering"
+      ],
+      "tags": [
+        "features",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-feature-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS feature request is the one you can implement in an afternoon and charge for monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "features",
+        "roi"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-goes-through",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every feature you add creates a new path for users to get confused. Add features like you'd add rooms to a house: with purpose.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "features",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-feature-you-add",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's value is measured in time saved, not features added. Add features that save time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "value",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-value-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses start with one feature that works perfectly. Then they add a second one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS features are the ones users discover naturally. Not the ones you have to explain in a tutorial.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "discovery"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-features",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It's not a bug. It's an undocumented feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-its-not-a-bug",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best features are the ones you don't build. Every feature adds maintenance burden.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "features",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-features-are",
+      "source": "Community sourced"
     }
   ]
 }

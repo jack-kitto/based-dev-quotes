@@ -1,0 +1,22 @@
+{
+  "tag": "decision-fatigue",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your modal has 3 buttons and a close icon. The user has no idea which one to click. That's your fault.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "modals",
+        "decision-fatigue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-modal-has-3",
+      "source": "Community sourced"
+    }
+  ]
+}

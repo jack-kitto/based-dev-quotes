@@ -1,0 +1,39 @@
+{
+  "tag": "scale",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Stop building for scale you don't have. You're not Google. You have 47 users and 3 of them are your mom.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scale",
+        "premature-optimization"
+      ],
+      "grug_level": 5,
+      "spiciness": 4,
+      "id": "based-stop-building-for-scale",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Edge cases aren't edge cases when you have enough users. They're Tuesday.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "edge-cases",
+        "scale"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-edge-cases-arent-edge",
+      "source": "Community sourced"
+    }
+  ]
+}

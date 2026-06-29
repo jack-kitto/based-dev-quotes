@@ -1,6 +1,6 @@
 {
   "tag": "todo",
-  "count": 1,
+  "count": 3,
   "quotes": [
     {
       "id": "todo-later-means-never",
@@ -19,6 +19,38 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-todo-list-isnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive thing you can do today is delete half your to-do list.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "simplification"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-productive-thing",
+      "source": "Community sourced"
     }
   ]
 }

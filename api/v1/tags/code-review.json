@@ -1,0 +1,86 @@
+{
+  "tag": "code-review",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best code review comment is 'LGTM' after 0 seconds of review. The most honest is 'I'll look at this tomorrow' repeated 47 times.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "honesty"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-best-code-review",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fix a bug is during code review. The second best time is never because you shipped it to production and nobody noticed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "code-review"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best PR is the smallest one that solves the problem. The best code review is the one that actually happens.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "pr",
+        "code-review"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-pr-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "knowledge-sharing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-code-reviews-arent-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your code review should take less than 30 minutes. If it takes longer, the PR is too big.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "size"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-code-review-should",
+      "source": "Community sourced"
+    }
+  ]
+}

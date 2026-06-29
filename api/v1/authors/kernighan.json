@@ -1,7 +1,7 @@
 {
   "author": "Brian Kernighan",
   "slug": "kernighan",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "kernighan-debugging",
@@ -20,6 +20,23 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "essence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "kernighan-controlling-complexity-is-the",
+      "source": "Community sourced"
     }
   ]
 }

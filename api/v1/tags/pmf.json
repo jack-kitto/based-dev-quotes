@@ -1,0 +1,39 @@
+{
+  "tag": "pmf",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Bootstrapping isn't about being cheap. It's about being forced to find product-market fit before you run out of runway.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "bootstrapping",
+        "pmf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-bootstrapping-isnt-about-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about scaling is when you have a product people actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "pmf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

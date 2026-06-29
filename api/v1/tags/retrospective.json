@@ -1,0 +1,22 @@
+{
+  "tag": "retrospective",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best team retrospectives are the ones where people actually say what they think. Not what they think the boss wants to hear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retrospective",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-team-retrospectives",
+      "source": "Community sourced"
+    }
+  ]
+}

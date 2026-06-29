@@ -1,0 +1,71 @@
+{
+  "tag": "excellence",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best way to get more done is to do less. Say no to the mediocre so you can say yes to the excellent.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "saying-no",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products do less, but do it perfectly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should do one thing exceptionally well. Not ten things mediocrely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant",
+      "author_slug": "durant",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "habits",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "durant-we-are-what-we",
+      "source": "Community sourced"
+    }
+  ]
+}

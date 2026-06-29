@@ -1,0 +1,23 @@
+{
+  "tag": "niche",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best indie businesses are built on boring niches. Boring niches have paying customers. Exciting niches have Twitter followers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "niche",
+        "revenue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-indie-businesses",
+      "source": "Community sourced"
+    }
+  ]
+}

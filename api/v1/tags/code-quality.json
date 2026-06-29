@@ -1,0 +1,72 @@
+{
+  "tag": "code-quality",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "If your code needs comments to be understood, rewrite the code. If your code needs comments to be maintained, document the architecture.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "comments",
+        "code-quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-code-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only valid measurement of code quality is how many times you have to read it to understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-quality",
+        "readability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-only-valid-measurement",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "code-quality",
+        "boy-scout"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-leave",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who make other engineers better. Write code that teaches.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "mentorship",
+        "code-quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    }
+  ]
+}

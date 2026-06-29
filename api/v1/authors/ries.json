@@ -1,0 +1,23 @@
+{
+  "author": "Eric Ries",
+  "slug": "ries",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
+      "author": "Eric Ries",
+      "author_slug": "ries",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "startup",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ries-a-startup-is-a",
+      "source": "Community sourced"
+    }
+  ]
+}

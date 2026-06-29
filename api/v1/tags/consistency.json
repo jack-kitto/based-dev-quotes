@@ -1,0 +1,102 @@
+{
+  "tag": "consistency",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The best marketing is word of mouth. The second best is showing up consistently. The worst is buying followers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "word-of-mouth",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's design should be consistent enough that users don't have to re-learn it on every page.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "consistency",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-design-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build trust is to be consistent. Consistency compounds like interest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "trust",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an audience is to give them value consistently. Not once. Consistently.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best marketing channel is the one you can sustain. Consistency beats brilliance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "consistency",
+        "sustainability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-marketing-channel",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best personal brands are built on consistency. Show up, add value, repeat.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-personal-brands",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tag": "advice",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best business advice is free: talk to your customers. The worst business advice is expensive: hire a consultant who's never done what you're doing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customers",
+        "advice"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-business-advice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Most business advice is survivorship bias. The successful founders tell you what worked. The failed ones knew what didn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "advice",
+        "bias"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-most-business-advice-is",
+      "source": "Community sourced"
+    }
+  ]
+}

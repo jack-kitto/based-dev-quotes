@@ -1,0 +1,22 @@
+{
+  "tag": "early-decisions",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to choose your database was yesterday. The second best time is before you have 10,000 users, not after.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "early-decisions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

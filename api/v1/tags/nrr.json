@@ -1,0 +1,22 @@
+{
+  "tag": "nrr",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best SaaS metric is Net Revenue Retention. If it's above 100%, your customers are growing with you. Below 100%, you're leaking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "nrr",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-metric",
+      "source": "Community sourced"
+    }
+  ]
+}

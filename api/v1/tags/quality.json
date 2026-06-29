@@ -1,0 +1,185 @@
+{
+  "tag": "quality",
+  "count": 11,
+  "quotes": [
+    {
+      "text": "Done is better than perfect. But also: good is better than done-but-broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who submits a bug report with screenshots and steps to reproduce is worth their weight in gold.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users"
+      ],
+      "tags": [
+        "bug-reports",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-user-who-submits",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only way to go fast is to go well.",
+      "author": "Robert C. Martin",
+      "author_slug": "martin",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "speed",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "martin-the-only-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "metrics",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-measuring-programming-progress-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's biggest asset isn't their code. It's their taste. Build things with taste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "taste",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-indie-hackers-biggest",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business is only as good as its worst user experience. Fix the leaks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "ux",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best bug reports are the ones that include steps to reproduce. The worst are 'it doesn't work.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bug-reports",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-bug-reports",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your data pipeline is only as good as its weakest transformation. Garbage in, garbage out.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-data-pipeline-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your marketing should be as good as your product. If it's not, the product wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "marketing",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-marketing-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your marketing budget should be proportional to your product's quality. Great products need less marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "budget",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-marketing-budget-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pride",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should",
+      "source": "Community sourced"
+    }
+  ]
+}

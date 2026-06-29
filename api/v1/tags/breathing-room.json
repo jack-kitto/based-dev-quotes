@@ -1,0 +1,22 @@
+{
+  "tag": "breathing-room",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "White space isn't wasted space. It's breathing room for your content.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "breathing-room"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-white-space-isnt-wasted",
+      "source": "Community sourced"
+    }
+  ]
+}

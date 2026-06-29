@@ -1,0 +1,22 @@
+{
+  "tag": "day-one",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to start monetizing is on day one. Not 'someday.' Not 'after we have 10k users.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "day-one"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

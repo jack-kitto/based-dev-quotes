@@ -1,0 +1,86 @@
+{
+  "tag": "business-model",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best business model is one where the customer pays you before you have to do the work. Find it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "cash-flow"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-business-model",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business model is one where you get paid to learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-model",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business model is just 'charge money for value' with extra steps.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-model-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your business model in one sentence, you don't have one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-model-should",
+      "source": "Community sourced"
+    }
+  ]
+}

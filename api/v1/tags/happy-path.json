@@ -1,0 +1,23 @@
+{
+  "tag": "happy-path",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Happy path development is what you do when you've never met a user. Users don't take happy paths. They take confused paths.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "happy-path",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-happy-path-development-is",
+      "source": "Community sourced"
+    }
+  ]
+}

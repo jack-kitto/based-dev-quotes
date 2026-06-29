@@ -1,0 +1,22 @@
+{
+  "tag": "modularity",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best architecture is the one that lets you swap out any component without the rest of the system noticing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "modularity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architecture-is",
+      "source": "Community sourced"
+    }
+  ]
+}

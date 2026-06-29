@@ -1,0 +1,23 @@
+{
+  "tag": "politics",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your first job teaches you skills. Your second teaches you politics. Your third teaches you which one matters more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-job-teaches",
+      "source": "Community sourced"
+    }
+  ]
+}

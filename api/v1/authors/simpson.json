@@ -1,0 +1,24 @@
+{
+  "author": "Homer Simpson",
+  "slug": "simpson",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The Internet? Is that thing still around?",
+      "author": "Homer Simpson",
+      "author_slug": "simpson",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "internet",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "simpson-the-internet-is-that",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "author": "Jonathan Ive",
+  "slug": "ive",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Simplicity is not the absence of clutter; it's the presence of order.",
+      "author": "Jonathan Ive",
+      "author_slug": "ive",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ive-simplicity-is-not-the",
+      "source": "Community sourced"
+    }
+  ]
+}

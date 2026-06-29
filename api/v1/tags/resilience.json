@@ -1,0 +1,104 @@
+{
+  "tag": "resilience",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The best error handling is the kind that never fires. The second best is the kind that fires with a helpful message.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "error-handling",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-handling",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "resilience",
+        "progressive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should work offline. Not because everyone needs offline, but because 'no internet' happens to everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "offline",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can fail gracefully and come back stronger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to recover from failure is to start something new immediately. Don't let the failure define you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build resilience is to get knocked down and get back up. Every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "resilience",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

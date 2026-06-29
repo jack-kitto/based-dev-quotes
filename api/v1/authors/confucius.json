@@ -1,0 +1,23 @@
+{
+  "author": "Confucius",
+  "slug": "confucius",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "author_slug": "confucius",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "progress"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "confucius-it-does-not-matter",
+      "source": "Community sourced"
+    }
+  ]
+}

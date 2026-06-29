@@ -1,0 +1,301 @@
+{
+  "tag": "clarity",
+  "count": 18,
+  "quotes": [
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "author_slug": "fowler",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "fowler-any-fool-can-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your architecture in 3 sentences, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best icon is no icon. The second best is one with a label. The worst is a cryptic SVG from 2007.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "icons",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-icon-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your business model in one sentence, you don't have one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your product in 30 seconds, your marketing page can't explain it in 30 seconds either.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "marketing"
+      ],
+      "tags": [
+        "pitch",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers know the difference between clever code and clear code. They choose clear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "cleverness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-know",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your SaaS has an 'enterprise' tier, your pricing page should explain the difference in one sentence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-saas-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your user interface should be like a good joke: if you have to explain it, it's not good.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "ux",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-user-interface-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "author_slug": "abelson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "abelson-programs-must-be-written",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your modal should have one action. Two actions means you're asking the user to decide. Three means you're confusing them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "modals",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-modal-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a 'plans' page that explains pricing in plain language. Not jargon. Plain language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "dashboard",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-dashboard-should-answer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's output is a function of clarity, not hours. Clear goals beat long hours.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "clarity",
+        "output"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-teams-output-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your product's value in one sentence, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "value",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's homepage should answer: what does it do, who is it for, why should I care? In that order.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "homepage",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-homepage-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be something you can explain to your parents. If you can't, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "clarity",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be simple enough to explain in one sentence. If it takes a paragraph, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "simplicity",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
+    }
+  ]
+}

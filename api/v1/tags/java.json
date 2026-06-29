@@ -1,0 +1,23 @@
+{
+  "tag": "java",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Why do Java developers wear glasses? Because they can't C#.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "java",
+        "csharp"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-java-developers",
+      "source": "Community sourced"
+    }
+  ]
+}

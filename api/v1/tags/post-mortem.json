@@ -1,0 +1,23 @@
+{
+  "tag": "post-mortem",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "post-mortem",
+        "improvement"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-postmortems-are-like-therapy",
+      "source": "Community sourced"
+    }
+  ]
+}

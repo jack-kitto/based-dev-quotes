@@ -1,6 +1,6 @@
 {
   "tag": "competition",
-  "count": 1,
+  "count": 9,
   "quotes": [
     {
       "id": "marc-lou-build-fast",
@@ -19,6 +19,136 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "Your competitors aren't your problem. Your customers' indifference is your problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "customer-focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-competitors-arent-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "inaction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-competition-isnt-other",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competitors will copy your features. They can't copy your taste. Build something with taste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "design"
+      ],
+      "tags": [
+        "competition",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-competitors-will-copy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful business started with someone saying 'I can do this better.' Most businesses fail because 'better' isn't enough.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-business-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to beat competition is to not have any. Build something so unique that there's nothing to compare it to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to compete with big companies is to be faster, more personal, and more focused. You can't outspend them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competition isn't other products. It's inertia. Most people choose to do nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "inertia"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-competition-isnt-other",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to beat competition is to build something they can't copy: your culture, your taste, your community.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
     }
   ]
 }

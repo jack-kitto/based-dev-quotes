@@ -1,0 +1,120 @@
+{
+  "tag": "moat",
+  "count": 7,
+  "quotes": [
+    {
+      "text": "The best SaaS moat isn't technology. It's habit. Make yourself part of their daily workflow and you're unmovable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "wisdom"
+      ],
+      "tags": [
+        "moat",
+        "habit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-moat",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a moat is when you don't need one. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "competitive-advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best moat is a product so good that switching feels like a downgrade.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "switching-cost"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-moat-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is your moat. Competitors can copy your features. They can't copy your identity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "brand",
+        "moat"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-brand-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your network is a moat. Your community is a moat. Your data is a moat. Build all three.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "assets"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-network-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer relationships are your moat. Deep relationships are harder to break than contracts.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "relationships"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customer-relationships-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's ecosystem is your moat. The more integrations, the harder to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "moat",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-ecosystem-is",
+      "source": "Community sourced"
+    }
+  ]
+}

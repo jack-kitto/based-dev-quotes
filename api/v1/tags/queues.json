@@ -1,0 +1,22 @@
+{
+  "tag": "queues",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best message queue is the one that never loses messages. The second best is the one that's easy to debug when it does.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "queues",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-message-queue",
+      "source": "Community sourced"
+    }
+  ]
+}

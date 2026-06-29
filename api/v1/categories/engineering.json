@@ -1,0 +1,3904 @@
+{
+  "category": "engineering",
+  "count": 235,
+  "quotes": [
+    {
+      "text": "The gap between what a designer hands off and what a developer builds is where user experience goes to die.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "handoff",
+        "implementation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-gap-between-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Accessibility isn't a nice-to-have. It's the law and basic human decency. Pick whichever motivates you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "accessibility",
+        "a11y"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-accessibility-isnt-a-nicetohave",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best UI component library is the one that gets out of your way. The worst is the one you have to fight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "components",
+        "libraries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ui-component",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Leon Bambrick",
+      "author_slug": "bambrick",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "classic",
+        "off-by-one"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "bambrick-there-are-two-hard",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It works on my machine. Ship my machine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "docker",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-it-works-on-my",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I don't have a backup plan. I have 'recreate it worse from memory' plan.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "disaster-recovery",
+        "backups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-i-dont-have-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A monorepo is just a repo that gave up on boundaries. A polyrepo is just a monorepo that gave up on simplicity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "monorepo",
+        "polyrepo"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-monorepo-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The cloud is just someone else's computer that charges you rent and occasionally catches fire.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "cloud",
+        "servers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-cloud-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code review comment is 'LGTM' after 0 seconds of review. The most honest is 'I'll look at this tomorrow' repeated 47 times.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "honesty"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-best-code-review",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "sql",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-a-sql-query-walks",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There are 10 types of people in the world: those who understand binary and those who don't. And those who expected base-3.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "binary",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-there-are-10-types",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+      "author": "Tom Cargill",
+      "author_slug": "cargill",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cargill-the-first-90-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "programming"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-if-debugging-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programming is 10% writing code and 90% understanding why it doesn't work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-programming-is-10-writing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The code works. Don't touch it. I don't know why it works. Don't ask.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "cargo-cult"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-code-works-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Premature optimization is the root of all evil. But premature abstraction is the root of all suffering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "abstraction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-premature-optimization-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every Junior Dev: 'I'll just use a regex for this.' Every Senior Dev: 'I'll just use a regex for this.' Every Staff Dev: 'I'll just use a regex for this.' None of them have learned.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "regex",
+        "learning"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-every-junior-dev-ill",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best error message is the one that never appears. The second best tells me what I did wrong, not what the code did wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "design"
+      ],
+      "tags": [
+        "error-messages",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-message",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every time you write a comment explaining 'why', a senior dev somewhere nods. Every time you write a comment explaining 'what', a senior dev somewhere drinks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "comments",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-time-you-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your code needs comments to be understood, rewrite the code. If your code needs comments to be maintained, document the architecture.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "comments",
+        "code-quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-code-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fix a bug is during code review. The second best time is never because you shipped it to production and nobody noticed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "code-review"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Clean code always looks like it was written by someone who cares. Messy code looks like it was written by someone who's about to quit.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "clean-code",
+        "morale"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-clean-code-always-looks",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only valid measurement of code quality is how many times you have to read it to understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-quality",
+        "readability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-only-valid-measurement",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tech-debt",
+        "procrastination"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-technical-debt-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A 10x developer isn't someone who codes 10x faster. It's someone who creates 10x less work for everyone else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "10x",
+        "teamwork"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-a-10x-developer-isnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The worst part about being a senior developer isn't the complexity. It's knowing that the simple solution you proposed was right all along.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "senior",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-worst-part-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rewriting from scratch is always tempting. It's also always a terrible idea. But you won't believe me until you've done it yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "rewrite",
+        "experience"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rewriting-from-scratch-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The problem with Object-Oriented Programming is that it was invented by academics, and everything they do is overcomplicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "oop",
+        "opinion"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-problem-with-objectoriented",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every framework is somebody's way of saying 'I disagree with how you write code' and then charging you for the privilege.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "frameworks",
+        "opinion"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-framework-is-somebodys",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best database schema is the one that answers your questions without making you write a 47-line SQL query.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "schema"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-database-schema",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Unit tests don't prevent bugs. They prevent the specific bugs you anticipated. Production finds the rest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-unit-tests-dont-prevent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're writing boilerplate, you're not programming. You're typing. Find a better abstraction or a better language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "boilerplate",
+        "abstraction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-youre-writing-boilerplate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to choose your database was yesterday. The second best time is before you have 10,000 users, not after.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "early-decisions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "TypeScript is just JavaScript wearing a trench coat and fake mustache pretending to be a serious language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-typescript-is-just-javascript",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best API is one where you don't need the docs. The second best is docs that are actually complete. Neither exists.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-api-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-good-abstraction-starts",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your microservices aren't microservices. They're just modules that hate each other and communicate via HTTP.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "microservices",
+        "architecture"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-your-microservices-arent-microservices",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to set up CI/CD was when you started the project. The second best time is now. The worst time is after your third 'it works on my machine' incident.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "cicd",
+        "deployment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your README has more badges than content, your project is a resume builder, not software.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "readme",
+        "open-source"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-if-your-readme-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every dev who says 'I don't need version control' has a story that starts with 'So I accidentally deleted production and...'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "git",
+        "disaster"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-dev-who-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code that's easy to delete is better than code that's easy to write.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "deletion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-code-thats-easy-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code is no code at all. Every line of code is a liability.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "less-code"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "atwood-the-best-code-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is a prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-simplicity-is-a-prerequisite",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch",
+      "author_slug": "booch",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "abstraction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "booch-the-function-of-good",
+      "source": "Community sourced"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "author_slug": "johnson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "problem-solving",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "johnson-first-solve-the-problem",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "author_slug": "fowler",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "fowler-any-fool-can-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+      "author": "Grace Hopper",
+      "author_slug": "hopper",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "tradition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "hopper-the-most-dangerous-phrase",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-then-test-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to refactor is when the code is fresh in your mind. The worst time is when you're debugging a production incident at 3 AM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every codebase is one junior dev away from a complete rewrite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "junior",
+        "rewrite"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-codebase-is-one",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You can't refactor what you can't read. You can't read what you can't understand. Start there.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-cant-refactor-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The difference between a senior and a junior dev isn't knowledge. It's knowing which shortcuts will haunt you later.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "experience",
+        "shortcuts"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your test suite takes more than 5 minutes, people won't run it. If people don't run it, it doesn't exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "developer-experience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-test-suite",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers aren't the ones who write the most code. They're the ones who delete the most code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Legacy code is just code that nobody has the courage to delete yet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "legacy",
+        "courage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-legacy-code-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Naming things is easy. Naming things well is a skill. Naming things in a way that still makes sense 2 years later is a superpower.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "naming",
+        "maintainability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-naming-things-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architects are the ones who can draw boundaries, not the ones who can draw boxes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "architecture",
+        "boundaries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architects-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Stop building for scale you don't have. You're not Google. You have 47 users and 3 of them are your mom.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scale",
+        "premature-optimization"
+      ],
+      "grug_level": 5,
+      "spiciness": 4,
+      "id": "based-stop-building-for-scale",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best technology choice is the one your team knows. The second best is the one that's actually right. Usually they're different.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "technology-choices",
+        "team"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-technology-choice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your system design document should fit on one page. If it doesn't, your system design is too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "system-design",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-system-design-document",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most expensive part of software isn't the code. It's the maintenance. Plan for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "maintenance",
+        "cost"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-most-expensive-part",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every database migration is a small act of violence against your future self. Write the rollback first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "migrations",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-database-migration-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The worst kind of technical debt is the kind you don't know you have.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tech-debt",
+        "hidden"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-worst-kind-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Deploy on Friday if you want. Just don't deploy on Friday afternoon and then leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "friday"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-deploy-on-friday-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best alerting system is one that pages you about things that actually matter. The worst is one that pages you about everything so you ignore it all.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "alerting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-alerting-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your staging environment should be a copy of production. If it's not, it's a lie you tell yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "staging",
+        "environments"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-staging-environment-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Kubernetes is what happens when sysadmins get bored and decide to turn 'turn it off and on again' into a distributed system.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops",
+        "shitpost"
+      ],
+      "tags": [
+        "kubernetes",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-kubernetes-is-what-happens",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Docker: because 'it works on my machine' stopped being acceptable. Now it works on everyone's machine but nobody understands why.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "docker",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-docker-because-it-works",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-you-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Monitoring tells you what's broken. Observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-monitoring-tells-you-whats",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best incident response is the one where you don't need to respond because the system healed itself. The second best is one with a runbook.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incident-response",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-incident-response",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "post-mortem",
+        "improvement"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-postmortems-are-like-therapy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "pricing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-api-rate-limits-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Multi-tenant architecture is great until one customer's query takes down everyone else's Saturday.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "multi-tenant",
+        "noisy-neighbor"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-multitenant-architecture-is-great",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a CLI version of your SaaS is when your power users ask for it. They're your best advocates.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "cli",
+        "power-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-saas-companies-think",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "engineering"
+      ],
+      "tags": [
+        "tech-stack",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-tech-stack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The problem with requirements is that they're written by people who don't have to implement them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "requirements",
+        "disconnect"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-problem-with-requirements",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'easy' feature request is just code someone else doesn't have to write.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-easy-feature-request",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Edge cases aren't edge cases when you have enough users. They're Tuesday.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "edge-cases",
+        "scale"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-edge-cases-arent-edge",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-user-who-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product",
+        "engineering"
+      ],
+      "tags": [
+        "features",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-feature-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Happy path development is what you do when you've never met a user. Users don't take happy paths. They take confused paths.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "happy-path",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-happy-path-development-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code you'll ever write is the code you delete.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-code-youll",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every time you copy-paste code, a unit test dies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "copy-paste",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-time-you-copypaste",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is like being a detective in a crime movie where you're also the suspect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-debugging-is-like-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "fear"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-code-works",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architecture is the one that doesn't need an architecture diagram.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architecture-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "functions",
+        "single-responsibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-a-function-that-does",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Git blame isn't about finding who's responsible. It's about finding who's qualified to explain what this code was supposed to do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "git",
+        "blame"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-git-blame-isnt-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best PR is the smallest one that solves the problem. The best code review is the one that actually happens.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "pr",
+        "code-review"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-pr-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Write code as if the person maintaining it is a violent psychopath who knows where you live.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "maintenance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-write-code-as-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only constant in software development is the changing of requirements.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "requirements",
+        "change"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-only-constant-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your architecture in 3 sentences, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn about security is before you get hacked. The second best time is after. The worst time is never.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-programmer-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn a new language is when you need it. The worst is when you think it'll make you a better programmer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "languages",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best developers aren't the ones who write the most clever code. They're the ones who write the most boring code that works.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "boring-code",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-developers-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your code is a love letter to the future developer who maintains it. Write it like you care about their mental health.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "empathy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-code-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "css",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-css-file",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write the fewest lines of code. The worst engineers write the most features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "efficiency",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't test it, you can't ship it. If you can't ship it, you can't charge for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-test",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about scalability is when you have 100 users. Not when you have 100 million.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scalability",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "foundation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-database-schema-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best error handling is the kind that never fires. The second best is the kind that fires with a helpful message.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "error-handling",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-handling",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're debugging for more than an hour, stop. Walk away. The answer is usually something obvious you're too tired to see.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "fatigue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-debugging-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best security practice is assuming you've already been breached.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "mindset"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-security-practice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every new dependency is a potential vulnerability. Audit them like you audit your employees.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "dependencies",
+        "security"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-new-dependency-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about performance is never. The second best time is when users complain.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "performance",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Caching is the answer to everything until it's the source of everything that's broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "invalidation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-caching-is-the-answer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "code-quality",
+        "boy-scout"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-leave",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production incident is a lesson. If you're not learning from them, you're just collecting them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incidents",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-incident-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to set up backups is before you need them. The second best time is immediately after you needed them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "backups",
+        "disaster-recovery"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't describe your deployment process in 3 steps, it's too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-describe",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't have fewer bugs. They catch them earlier. Shift left, not right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "shift-left"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your CI pipeline is your safety net. If it's slow, developers skip it. If they skip it, you're shipping bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "ci",
+        "speed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-ci-pipeline-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "knowledge-sharing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-code-reviews-arent-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about data migration is during schema design. Not after you've got 10TB of data.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "migrations",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "logging",
+        "monitoring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-logging-should-tell",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't write more code. They write less code that does more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "leverage",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you don't have a type system, your tests are your type system. If you have both, you're just being thorough.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "types",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-dont-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your code is to delete half of it. Then delete half again.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every codebase has that one file that nobody dares to touch. That file is your biggest risk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "legacy",
+        "risk"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-codebase-has-that",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who make other engineers better. Write code that teaches.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "mentorship",
+        "code-quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your feature flags are more complex than your code, you've built a configuration management system.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "feature-flags",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-feature-flags",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every line of code is a liability. Every feature is a bet. Every deploy is a risk. Ship accordingly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "risk",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-line-of-code",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your README is your first impression. If it's bad, nobody will find out how good your code is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "readme",
+        "first-impression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-readme-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are lazy in the right ways: lazy about doing things twice, not lazy about doing things right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "laziness",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production database needs a backup. Every backup needs a test. Every test needs a schedule.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "backups",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-production-database-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to refactor is when nobody is watching. The second best time is between features. The worst time is during an incident.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "refactoring",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "github",
+        "resume"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-github-profile-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to teach. The best way to teach is to build something that explains itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get better at coding is to code. Not to watch tutorials. Not to read books. To code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "practice"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "growth",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-isnt-a-technical",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about internationalization is when you're building your first date picker. Not after you've hardcoded American dates everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "i18n",
+        "planning"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS should have an API. Every API should have docs. Every docs page should have examples.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best API design is one where the next endpoint is exactly where you'd expect it to be.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "intuition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-api-design",
+      "source": "Community sourced"
+    },
+    {
+      "text": "REST APIs are just CRUD with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "api",
+        "rest"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rest-apis-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "GraphQL is what happens when you tell frontend developers they can have exactly what they want. They want everything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "graphql",
+        "frontend"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-graphql-is-what-happens",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architecture is the one that lets you swap out any component without the rest of the system noticing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "modularity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architecture-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Event-driven architecture is great until you have to debug why an event from 3 days ago triggered a cascade of failures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "events",
+        "debugging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-eventdriven-architecture-is-great",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best message queue is the one that never loses messages. The second best is the one that's easy to debug when it does.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "queues",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-message-queue",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your database is your system's memory. Treat it with respect. Backup it. Index it. Never let it forget.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-database-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to scale is horizontally. The best way to stay sane is vertically. Choose wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scaling",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your CI pipeline should be faster than your coffee break. If it's not, optimize it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "ci",
+        "speed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-ci-pipeline-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write code that writes code. The second best write code. The worst write comments.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your database has more than 50 tables, you probably need a domain expert, not a better ORM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-database-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add caching is when profiling tells you to. Not when you think it might help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every system has a bottleneck. Find it. Fix it. Then find the next one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bottleneck",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-system-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers know that premature abstraction is worse than premature optimization.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-know",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your code review should take less than 30 minutes. If it takes longer, the PR is too big.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "size"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-code-review-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't just write code. They write the tools that help others write code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tools",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every database query should have an index. Every index should have a reason. Every reason should be tested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-database-query-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about security is before you ship. The second best time is after you've been breached.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your test suite is your safety net. If it's full of holes, you'll fall through.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "coverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-test-suite-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers know the difference between clever code and clear code. They choose clear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "cleverness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-know",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your API versioning should be boring and predictable. If it's exciting, something's wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "versioning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-api-versioning-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "author_slug": "saint-exupery",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "simplicity",
+        "perfection"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "saint-exupery-perfection-is-achieved-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck",
+      "author_slug": "beck",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "process",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "beck-make-it-work-make",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only way to go fast is to go well.",
+      "author": "Robert C. Martin",
+      "author_slug": "martin",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "speed",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "martin-the-only-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "author_slug": "abelson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "abelson-programs-must-be-written",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The purpose of software engineering is to control complexity, not to create it.",
+      "author": "Barbara Liskov",
+      "author_slug": "liskov",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "control"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "liskov-the-purpose-of-software",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity does not precede complexity, but follows it.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "perlis-simplicity-does-not-precede",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "metrics",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-measuring-programming-progress-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "intention",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoare-the-most-important-property",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Worse is better.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "gabriel-worse-is-better",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "innovation",
+        "problems"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-the-computer-was-born",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "essence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "kernighan-controlling-complexity-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most dangerous thing in the world is a programmer who thinks they understand security.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "humility"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-dangerous-thing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who know what not to build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "discipline",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code is no code at all. The second best code is code that writes itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "simplicity",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-code-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "design",
+        "results"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-every-system-is-perfectly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best on-call rotation is the one that never fires. The second best is the one that fires at reasonable hours.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "on-call",
+        "alerts"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-oncall-rotation",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your deployment process requires a runbook, it's too complicated. Simplify it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-deployment-process",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add health checks is before you need them. Not during an incident.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "health-checks",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rollback is not a failure. Rollback is a feature. Use it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "rollback",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-rollback-is-not-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best on-call engineers are the ones who fix the problem AND the alert. Not just the problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "on-call",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-oncall-engineers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production incident should result in exactly two things: a fix and a better alert.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incidents",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-incident-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-monitoring-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SLA should be honest. If you can't hit 99.9%, don't promise it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "sla",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-sla-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best incident response is one where you don't panic. Panic is the enemy of resolution.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incident-response",
+        "calm"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-incident-response",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your staging environment should match production. If it doesn't, your staging is lying to you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "staging",
+        "parity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-staging-environment-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "resilience",
+        "progressive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle errors is to prevent them. The second best is to catch them early. The third is to show a useful message.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "errors",
+        "prevention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging tool is a good night's sleep. Most bugs look obvious in the morning.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-tool",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you've been debugging for more than an hour, stop. Walk away. The answer is usually something obvious.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "fresh-eyes"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youve-been-debugging",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to find a bug is to write a test that reproduces it. Not to stare at the code until it confesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is detective work. You look for clues, form theories, and test them. Sometimes the culprit is you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "self-awareness"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-debugging-is-detective-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best bug reports are the ones that include steps to reproduce. The worst are 'it doesn't work.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bug-reports",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-bug-reports",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your test suite should catch regressions. If it doesn't, it's just running code for no reason.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "regression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-test-suite-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who can debug without looking at the code. They understand the system, not just the syntax.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every bug has a root cause. Find it. Don't just fix the symptom.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "root-cause"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-bug-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't just fix bugs. They write tests that prevent them from coming back.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "prevention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can reproduce it, you can fix it. If you can't reproduce it, it doesn't exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "reproduction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-can-reproduce",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to prevent bugs is to write simple code. Simple code has fewer places to hide bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "bugs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your logging should be detailed enough to debug, but not so detailed that it drowns in noise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-logging-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add logging is before you need it. The second best time is during the incident you're having.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your error logs are empty, your logging is broken. Errors happen. Capture them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "errors"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-error-logs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "logging"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your stack trace is your best friend. Read it. Understand it. It's trying to help you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "stack-trace",
+        "debugging"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-stack-trace-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production bug is a missed test. Write the test first next time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "tdd"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-bug-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to fix a bug is to write a test that reproduces it, then fix the code until the test passes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tdd",
+        "debugging"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Data is the new oil. But like oil, it's useless until you refine it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-data-is-the-new",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your data pipeline is only as good as its weakest transformation. Garbage in, garbage out.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-data-pipeline-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "My code doesn't have bugs. It has 'random features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-my-code-doesnt-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I don't always test my code, but when I do, I do it in production.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "testing",
+        "production"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-i-dont-always-test",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code never lies. Comments sometimes do.",
+      "author": "Ron Jeffries",
+      "author_slug": "jeffries",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "comments",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "jeffries-code-never-lies-comments",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There are only 10 types of people in the world: those who understand binary and those who don't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "binary",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-there-are-only-10",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A programmer's wife tells him: 'Go to the store and buy a loaf of bread. If they have eggs, buy a dozen.' He comes home with 12 loaves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "logic",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-a-programmers-wife-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "dark-mode",
+        "bugs"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-programmers-prefer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "What's the object-oriented way to become wealthy? Inheritance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "oop",
+        "wealth"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-whats-the-objectoriented-way",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Why do Java developers wear glasses? Because they can't C#.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "java",
+        "csharp"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-java-developers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook",
+      "author_slug": "cook",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "idiots",
+        "universe"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cook-programming-today-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "boolean",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-the-best-thing-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Hardware: the parts of a computer system that can be kicked.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "hardware",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-hardware-the-parts-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation.",
+      "author": "Leo Cherne",
+      "author_slug": "cherne",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "computers",
+        "humans"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cherne-the-computer-is-incredibly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There's no place like 127.0.0.1.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "localhost",
+        "home"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-theres-no-place-like",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The Internet? Is that thing still around?",
+      "author": "Homer Simpson",
+      "author_slug": "simpson",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "internet",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "simpson-the-internet-is-that",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It's not a bug. It's an undocumented feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-its-not-a-bug",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Have you tried turning it off and on again?",
+      "author": "Roy (IT Crowd)",
+      "author_slug": "it-crowd",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "it-crowd-have-you-tried-turning",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get a flat tire is to not have a spare.",
+      "author": "Murphy",
+      "author_slug": "murphy",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "murphys-law",
+        "preparedness"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "murphy-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best error message is the one you never see. The second best is one that makes you laugh.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "error-messages",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-message",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best IDE is the one that disappears. You shouldn't be thinking about the tool.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "ide",
+        "flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ide-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn React is to build something with it. Not to read about it. Build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "react",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-tailwind-css-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-database-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rust is what happens when C++ developers get tired of segfaults. It's also what happens when they get tired of productivity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "rust",
+        "c++"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rust-is-what-happens",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "frameworks",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-frontend-framework",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Git is the best version control system. That's not saying much, but it's still true.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "git",
+        "version-control"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-git-is-the-best",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best Python is the Python you don't write. Use libraries.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "python",
+        "libraries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-python-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best JavaScript is the JavaScript you don't write. Use TypeScript instead.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-javascript-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Docker is just a fancy way of saying 'it works on my machine' and then shipping your machine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "docker",
+        "containers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-docker-is-just-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best API is the one you don't need to build. Use a service.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "services"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-api-is",
+      "source": "Community sourced"
+    }
+  ]
+}

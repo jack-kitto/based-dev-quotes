@@ -1,0 +1,87 @@
+{
+  "tag": "compounding",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "Compounding works for businesses the same way it works for interest. Small, consistent improvements beat moonshot pivots every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "compounding",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-compounding-works-for-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build in public is always. Transparency compounds like interest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "build-in-public",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best competitive advantage is one that compounds. Network effects, data flywheels, brand recognition.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "compounding",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-competitive-advantage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from compounding. Small improvements, consistently, over time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones that compound. Small daily improvements lead to remarkable results.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are",
+      "source": "Community sourced"
+    }
+  ]
+}

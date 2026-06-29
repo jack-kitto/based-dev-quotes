@@ -1,0 +1,39 @@
+{
+  "tag": "shortcuts",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The difference between a senior and a junior dev isn't knowledge. It's knowing which shortcuts will haunt you later.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "experience",
+        "shortcuts"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your keyboard shortcuts are your superpowers. Learn them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "shortcuts",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-keyboard-shortcuts-are",
+      "source": "Community sourced"
+    }
+  ]
+}

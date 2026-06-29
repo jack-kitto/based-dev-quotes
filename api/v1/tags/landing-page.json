@@ -1,0 +1,124 @@
+{
+  "tag": "landing-page",
+  "count": 7,
+  "quotes": [
+    {
+      "text": "Your landing page has 7 CTAs. That's not a landing page, that's a panic attack.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "cta",
+        "landing-page"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-your-landing-page-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "landing-page",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-if-your-saas-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best landing page converts at 5%. The average is 2%. Your landing page converts at 0.1% but you think it's 'fine.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-landing-page",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS landing page explains what you do in one sentence. If it takes a paragraph, rewrite it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-landing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page should do one thing: get the visitor to take one action. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page is your best salesperson. Make it work while you sleep.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an indie idea is to build a landing page, collect emails, and see who signs up.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "landing-page"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

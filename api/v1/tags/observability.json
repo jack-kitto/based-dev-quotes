@@ -1,0 +1,40 @@
+{
+  "tag": "observability",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Monitoring tells you what's broken. Observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-monitoring-tells-you-whats",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "monitoring",
+        "observability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-monitoring-tells",
+      "source": "Community sourced"
+    }
+  ]
+}

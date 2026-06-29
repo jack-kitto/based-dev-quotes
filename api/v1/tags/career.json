@@ -1,6 +1,6 @@
 {
   "tag": "career",
-  "count": 1,
+  "count": 6,
   "quotes": [
     {
       "id": "patio11-salary-negotiation",
@@ -19,6 +19,89 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "The best career advice is: nobody is coming to save you. You have to build your own thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "self-reliance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-career-advice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first job teaches you skills. Your second teaches you politics. Your third teaches you which one matters more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-job-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get promoted is to do the job you want, not the job you have. But don't do it for free.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "career",
+        "promotion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Side projects are the best career insurance. They prove you can build things, not just talk about them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to update your resume is when you don't need one. The second best is when you're too late.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "resume",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
     }
   ]
 }

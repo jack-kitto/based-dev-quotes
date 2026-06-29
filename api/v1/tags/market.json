@@ -1,0 +1,38 @@
+{
+  "tag": "market",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The market doesn't care about your tech stack. The market cares about whether you solve their problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "tech-stack",
+        "market"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-market-doesnt-care",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses solve expensive problems for people who can afford to pay. Everything else is a hobby.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "problem-selection",
+        "market"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-businesses-solve",
+      "source": "Community sourced"
+    }
+  ]
+}

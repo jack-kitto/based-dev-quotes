@@ -1,0 +1,39 @@
+{
+  "tag": "reading",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Users don't read. They scan, they click, they get frustrated. Design for that reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "reading",
+        "behavior"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-users-dont-read-they",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "ideas",
+        "reading"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-ideas-come",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "tag": "backups",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "I don't have a backup plan. I have 'recreate it worse from memory' plan.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "disaster-recovery",
+        "backups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-i-dont-have-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to set up backups is before you need them. The second best time is immediately after you needed them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "backups",
+        "disaster-recovery"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production database needs a backup. Every backup needs a test. Every test needs a schedule.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "backups",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-production-database-needs",
+      "source": "Community sourced"
+    }
+  ]
+}

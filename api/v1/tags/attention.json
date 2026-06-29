@@ -1,0 +1,54 @@
+{
+  "tag": "attention",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Nobody reads ads. People read what interests them. Sometimes it's an ad.",
+      "author": "Howard Gossage",
+      "author_slug": "gossage",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "advertising",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gossage-nobody-reads-ads-people",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your attention is your most valuable resource. Spend it like you'd spend your last dollar.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "attention",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-attention-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-deep-work-is-not",
+      "source": "Community sourced"
+    }
+  ]
+}

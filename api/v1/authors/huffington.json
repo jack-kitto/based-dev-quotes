@@ -1,0 +1,23 @@
+{
+  "author": "Arianna Huffington",
+  "slug": "huffington",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Failure is not the opposite of success. It's part of it.",
+      "author": "Arianna Huffington",
+      "author_slug": "huffington",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "huffington-failure-is-not-the",
+      "source": "Community sourced"
+    }
+  ]
+}

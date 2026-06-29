@@ -1,0 +1,22 @@
+{
+  "tag": "small",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to start is to start small. One feature. One customer. One success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "starting",
+        "small"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

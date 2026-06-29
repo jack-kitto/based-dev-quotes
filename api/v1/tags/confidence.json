@@ -1,6 +1,6 @@
 {
   "tag": "confidence",
-  "count": 1,
+  "count": 3,
   "quotes": [
     {
       "id": "senior-dev-impostor",
@@ -19,6 +19,38 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "The best investment is in yourself. The best return is confidence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-investment-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your startup is a bet on yourself. Bet big.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "bet",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-startup-is-a",
+      "source": "Community sourced"
     }
   ]
 }

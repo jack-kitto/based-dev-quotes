@@ -1,0 +1,23 @@
+{
+  "tag": "results",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "design",
+        "results"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-every-system-is-perfectly",
+      "source": "Community sourced"
+    }
+  ]
+}

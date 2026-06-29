@@ -1,0 +1,23 @@
+{
+  "tag": "growth-hacking",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Growth hacking is just marketing with a better haircut.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "shitpost"
+      ],
+      "tags": [
+        "growth-hacking",
+        "marketing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-growth-hacking-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

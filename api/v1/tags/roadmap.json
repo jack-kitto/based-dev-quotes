@@ -1,0 +1,23 @@
+{
+  "tag": "roadmap",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your product roadmap should be based on user needs, not competitor features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "roadmap",
+        "users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-roadmap-should",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "influencer",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Influencer marketing is just paying someone to pretend they like your product. The audience knows. They just don't care.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "influencer",
+        "authenticity"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-influencer-marketing-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

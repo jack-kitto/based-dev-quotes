@@ -1,0 +1,23 @@
+{
+  "author": "James Cash Penney",
+  "slug": "penney",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Growth is never by mere chance; it is the result of forces working together.",
+      "author": "James Cash Penney",
+      "author_slug": "penney",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "forces"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "penney-growth-is-never-by",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "usage",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Time is what we want most, but what we use worst.",
+      "author": "William Penn",
+      "author_slug": "penn",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "time",
+        "usage"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "penn-time-is-what-we",
+      "source": "Community sourced"
+    }
+  ]
+}

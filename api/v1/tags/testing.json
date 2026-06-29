@@ -1,6 +1,6 @@
 {
   "tag": "testing",
-  "count": 3,
+  "count": 13,
   "quotes": [
     {
       "id": "dijkstra-testing",
@@ -55,6 +55,169 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "Unit tests don't prevent bugs. They prevent the specific bugs you anticipated. Production finds the rest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-unit-tests-dont-prevent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-then-test-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your test suite takes more than 5 minutes, people won't run it. If people don't run it, it doesn't exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "developer-experience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-test-suite",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every time you copy-paste code, a unit test dies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "copy-paste",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-time-you-copypaste",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't test it, you can't ship it. If you can't ship it, you can't charge for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-test",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you don't have a type system, your tests are your type system. If you have both, you're just being thorough.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "types",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-dont-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your test suite is your safety net. If it's full of holes, you'll fall through.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "coverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-test-suite-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to find a bug is to write a test that reproduces it. Not to stare at the code until it confesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your test suite should catch regressions. If it doesn't, it's just running code for no reason.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "regression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-test-suite-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I don't always test my code, but when I do, I do it in production.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "testing",
+        "production"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-i-dont-always-test",
+      "source": "Community sourced"
     }
   ]
 }

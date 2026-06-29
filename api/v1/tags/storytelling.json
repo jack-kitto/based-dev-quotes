@@ -1,0 +1,54 @@
+{
+  "tag": "storytelling",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Marketing is just storytelling for commerce. If you can't tell a good story, hire someone who can.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "storytelling",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-marketing-is-just-storytelling",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your marketing should tell a story. Not features. Not benefits. A story. People remember stories.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "storytelling",
+        "memorable"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-marketing-should-tell",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your marketing should tell a story. Not just sell a product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "storytelling",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-marketing-should-tell",
+      "source": "Community sourced"
+    }
+  ]
+}

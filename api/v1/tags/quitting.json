@@ -1,0 +1,23 @@
+{
+  "tag": "quitting",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to quit your job is when you have 6 months of runway. Not when you're fed up. Not when you're rich.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "entrepreneur"
+      ],
+      "tags": [
+        "quitting",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

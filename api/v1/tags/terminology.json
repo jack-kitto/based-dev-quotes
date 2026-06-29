@@ -1,0 +1,24 @@
+{
+  "tag": "terminology",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "saas",
+        "shitpost"
+      ],
+      "tags": [
+        "terminology",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-saying-im-building-a",
+      "source": "Community sourced"
+    }
+  ]
+}

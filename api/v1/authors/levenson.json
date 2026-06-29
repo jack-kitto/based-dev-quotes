@@ -1,0 +1,23 @@
+{
+  "author": "Sam Levenson",
+  "slug": "levenson",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "author_slug": "levenson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "levenson-dont-watch-the-clock",
+      "source": "Community sourced"
+    }
+  ]
+}

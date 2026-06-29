@@ -1,0 +1,55 @@
+{
+  "tag": "tech-stack",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The market doesn't care about your tech stack. The market cares about whether you solve their problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "tech-stack",
+        "market"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-market-doesnt-care",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "engineering"
+      ],
+      "tags": [
+        "tech-stack",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-tech-stack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your stack doesn't matter. Your ship rate does. Ship weekly or don't ship at all.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "tech-stack"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-stack-doesnt-matter",
+      "source": "Community sourced"
+    }
+  ]
+}

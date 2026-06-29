@@ -1,6 +1,6 @@
 {
   "tag": "debugging",
-  "count": 12,
+  "count": 27,
   "quotes": [
     {
       "id": "grug-closures",
@@ -220,6 +220,252 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "programming"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-if-debugging-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programming is 10% writing code and 90% understanding why it doesn't work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-programming-is-10-writing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is like being a detective in a crime movie where you're also the suspect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-debugging-is-like-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-programmer-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're debugging for more than an hour, stop. Walk away. The answer is usually something obvious you're too tired to see.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "fatigue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-debugging-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Event-driven architecture is great until you have to debug why an event from 3 days ago triggered a cascade of failures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "events",
+        "debugging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-eventdriven-architecture-is-great",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging tool is a good night's sleep. Most bugs look obvious in the morning.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-tool",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you've been debugging for more than an hour, stop. Walk away. The answer is usually something obvious.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "fresh-eyes"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youve-been-debugging",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to find a bug is to write a test that reproduces it. Not to stare at the code until it confesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is detective work. You look for clues, form theories, and test them. Sometimes the culprit is you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "self-awareness"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-debugging-is-detective-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who can debug without looking at the code. They understand the system, not just the syntax.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "logging"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your stack trace is your best friend. Read it. Understand it. It's trying to help you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "stack-trace",
+        "debugging"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-stack-trace-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to fix a bug is to write a test that reproduces it, then fix the code until the test passes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tdd",
+        "debugging"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Have you tried turning it off and on again?",
+      "author": "Roy (IT Crowd)",
+      "author_slug": "it-crowd",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "it-crowd-have-you-tried-turning",
+      "source": "Community sourced"
     }
   ]
 }

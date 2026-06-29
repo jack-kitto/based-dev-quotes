@@ -1,0 +1,23 @@
+{
+  "tag": "i18n",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to think about internationalization is when you're building your first date picker. Not after you've hardcoded American dates everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "i18n",
+        "planning"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

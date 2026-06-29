@@ -1,0 +1,23 @@
+{
+  "tag": "video",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your hero section doesn't need a video background. Nobody is on your landing page for the cinematography.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "hero",
+        "video"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-hero-section-doesnt",
+      "source": "Community sourced"
+    }
+  ]
+}

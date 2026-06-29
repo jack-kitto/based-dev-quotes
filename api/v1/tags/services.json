@@ -1,0 +1,22 @@
+{
+  "tag": "services",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best API is the one you don't need to build. Use a service.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "services"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-api-is",
+      "source": "Community sourced"
+    }
+  ]
+}

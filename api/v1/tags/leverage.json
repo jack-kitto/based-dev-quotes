@@ -1,0 +1,139 @@
+{
+  "tag": "leverage",
+  "count": 8,
+  "quotes": [
+    {
+      "text": "If your business can't survive without you, you don't have a business. You have a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-business-cant",
+      "source": "Community sourced"
+    },
+    {
+      "text": "One-person businesses are the future. Not because they're trendy, but because leverage makes it possible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "leverage",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-oneperson-businesses-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't write more code. They write less code that does more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "leverage",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write code that writes code. The second best write code. The worst write comments.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't just write code. They write the tools that help others write code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tools",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business is a machine. Build it to run without you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "passive-income",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-business-should-make",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to negotiate a deal is when you don't need it. The worst is when you desperately do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "negotiation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "tag": "helpfulness",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best content is the content that helps someone solve a problem they've been struggling with.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a personal brand is to be genuinely helpful. Not performative. Helpful.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "personal-brand",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build an audience is to be consistently helpful. Not consistently promotional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

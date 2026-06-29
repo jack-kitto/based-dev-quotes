@@ -1,0 +1,22 @@
+{
+  "tag": "customer-experience",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your business is only as good as its worst customer experience. One viral complaint can undo a year of good work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-experience",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-only",
+      "source": "Community sourced"
+    }
+  ]
+}

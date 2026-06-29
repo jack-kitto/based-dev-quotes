@@ -1,0 +1,71 @@
+{
+  "tag": "intention",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "intention",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoare-the-most-important-property",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is not about absence. It's about presence of the right things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-simplicity-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Minimalism isn't about having less. It's about making room for more of what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "minimalism",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-minimalism-isnt-about-having",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation precedes you. Build it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-reputation-precedes-you",
+      "source": "Community sourced"
+    }
+  ]
+}

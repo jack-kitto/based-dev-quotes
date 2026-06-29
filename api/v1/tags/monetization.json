@@ -1,0 +1,54 @@
+{
+  "tag": "monetization",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best time to start monetizing is the day you launch. The worst is 'someday.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add monetization is when you have users who'd miss your product if it disappeared.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start monetizing is on day one. Not 'someday.' Not 'after we have 10k users.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "day-one"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

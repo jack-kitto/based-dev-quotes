@@ -1,0 +1,54 @@
+{
+  "tag": "work",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Rest is not the opposite of work. It's the foundation of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "rest",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-rest-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only time success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon",
+      "author_slug": "sassoon",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sassoon-the-only-time-success",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "author_slug": "jefferson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "work",
+        "luck"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jefferson-i-find-that-the",
+      "source": "Community sourced"
+    }
+  ]
+}

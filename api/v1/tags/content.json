@@ -1,0 +1,214 @@
+{
+  "tag": "content",
+  "count": 13,
+  "quotes": [
+    {
+      "text": "Content is king. Distribution is god. The graveyard is full of kings nobody visited.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "distribution"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-content-is-king-distribution",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SEO is a long game. If you want results today, run ads. If you want results in 6 months, write content.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "seo",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-seo-is-a-long",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Content marketing takes 6 months to work. If you quit at 3 months, you've just wasted 3 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-content-marketing-takes-6",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get traffic is to create something worth linking to. Everything else is paying for attention.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "traffic",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing is solving someone's problem publicly. Show, don't tell.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "demonstration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette is the one that's invisible. The content should be the hero.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Content is king, but engagement is queen, and she runs the house.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "engagement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-content-is-king-but",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content is the content that helps someone solve a problem they've been struggling with.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best content is the content you'd want to read. Write for yourself first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-content-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content marketing doesn't feel like marketing. It feels like a helpful conversation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "conversation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-marketing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content is the content that's easy to consume. Short paragraphs. Clear headings. Simple language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "readability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Content marketing is a marathon, not a sprint. The results compound over time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "patience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-content-marketing-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content is the content that teaches something. Not the content that sells something.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "technology-choices",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best technology choice is the one your team knows. The second best is the one that's actually right. Usually they're different.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "technology-choices",
+        "team"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-technology-choice",
+      "source": "Community sourced"
+    }
+  ]
+}

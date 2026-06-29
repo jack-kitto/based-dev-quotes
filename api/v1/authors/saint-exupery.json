@@ -1,0 +1,24 @@
+{
+  "author": "Antoine de Saint-Exupéry",
+  "slug": "saint-exupery",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "author_slug": "saint-exupery",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "simplicity",
+        "perfection"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "saint-exupery-perfection-is-achieved-not",
+      "source": "Community sourced"
+    }
+  ]
+}

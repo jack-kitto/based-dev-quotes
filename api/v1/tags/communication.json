@@ -1,0 +1,22 @@
+{
+  "tag": "communication",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to give feedback is to be specific, timely, and kind. Not vague, delayed, and brutal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "feedback",
+        "communication"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "author": "Kent Beck",
+  "slug": "beck",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck",
+      "author_slug": "beck",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "process",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "beck-make-it-work-make",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "tag": "saying-no",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The most productive people aren't the ones who do the most. They're the ones who say no the most.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "saying-no"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to do less. Say no to the mediocre so you can say yes to the excellent.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "saying-no",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product managers are the ones who can say 'no' to 99% of requests and still be loved.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "saying-no",
+        "prioritization"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-product-managers",
+      "source": "Community sourced"
+    }
+  ]
+}

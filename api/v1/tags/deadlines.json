@@ -1,0 +1,102 @@
+{
+  "tag": "deadlines",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The best productivity hack is a deadline. The second best is consequences.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If it's not on your calendar, it doesn't exist. Dreams without deadlines are just fantasies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "calendar",
+        "deadlines"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-its-not-on",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your deadline is your friend. It forces decisions. Embrace it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "decisions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-deadline-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to meet a deadline is to set intermediate deadlines. The big deadline is just a collection of small ones.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "decomposition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Parkinson's Law: work expands to fill the time available. Set shorter deadlines.",
+      "author": "C. Northcote Parkinson",
+      "author_slug": "parkinson",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "parkinsons-law",
+        "deadlines"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "parkinson-parkinsons-law-work-expands",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best deadline is the one you set yourself. External deadlines are just external pressure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "self-imposed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-deadline-is",
+      "source": "Community sourced"
+    }
+  ]
+}

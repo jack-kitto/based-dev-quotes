@@ -1,0 +1,41 @@
+{
+  "author": "Leonardo da Vinci",
+  "slug": "davinci",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "wisdom",
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate form of sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
+    }
+  ]
+}

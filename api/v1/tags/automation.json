@@ -1,6 +1,6 @@
 {
   "tag": "automation",
-  "count": 1,
+  "count": 12,
   "quotes": [
     {
       "id": "ai-replace-devs",
@@ -21,6 +21,185 @@
       ],
       "grug_level": 3,
       "spiciness": 3
+    },
+    {
+      "text": "The best incident response is the one where you don't need to respond because the system healed itself. The second best is one with a runbook.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incident-response",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-incident-response",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your business can't survive without you, you don't have a business. You have a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-business-cant",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You can't scale what you don't understand. If you can't do it manually, you can't automate it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-cant-scale-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write code that writes code. The second best write code. The worst write comments.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page is your best salesperson. Make it work while you sleep.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code is no code at all. The second best code is code that writes itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "simplicity",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-code-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business is a machine. Build it to run without you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to scale is to automate the repetitive and eliminate the unnecessary.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to optimize your workflow is when you're doing the same thing for the third time. Automate it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to automate is when you're doing the same task for the third time. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "automation",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should run without you eventually. Build systems, not tasks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "automation",
+        "systems"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
     }
   ]
 }

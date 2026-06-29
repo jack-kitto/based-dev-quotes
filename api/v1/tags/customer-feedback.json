@@ -1,0 +1,22 @@
+{
+  "tag": "customer-feedback",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best customer feedback comes from watching, not asking. Observations beat surveys.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-feedback",
+        "observation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-feedback",
+      "source": "Community sourced"
+    }
+  ]
+}

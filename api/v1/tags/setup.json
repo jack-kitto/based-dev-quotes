@@ -1,0 +1,22 @@
+{
+  "tag": "setup",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "You don't need a second monitor. You need fewer tabs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "setup",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-you-dont-need-a",
+      "source": "Community sourced"
+    }
+  ]
+}

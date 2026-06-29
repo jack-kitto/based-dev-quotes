@@ -1,0 +1,22 @@
+{
+  "tag": "competitive-advantage",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to build a moat is when you don't need one. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "competitive-advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

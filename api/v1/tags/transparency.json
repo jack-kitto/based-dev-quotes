@@ -1,0 +1,54 @@
+{
+  "tag": "transparency",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Building in public is just showing your work. But it also means everyone sees your mistakes, your pivots, and your 3 AM commits.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "build-in-public",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-building-in-public-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a status page is when you have 10 users, not when you have 10,000 and they're already angry.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "status-page",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS metrics should be on a dashboard that's visible to everyone. Transparency builds trust.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "metrics",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-saas-metrics-should",
+      "source": "Community sourced"
+    }
+  ]
+}

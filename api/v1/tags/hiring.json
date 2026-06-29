@@ -1,6 +1,6 @@
 {
   "tag": "hiring",
-  "count": 1,
+  "count": 6,
   "quotes": [
     {
       "id": "full-stack-pain",
@@ -19,6 +19,86 @@
       ],
       "grug_level": 4,
       "spiciness": 3
+    },
+    {
+      "text": "Every indie hacker who says 'I'll never hire' eventually hires someone. The smart ones wait until they absolutely have to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "hiring",
+        "scaling"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-indie-hacker-who",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first hire should be someone who's good at the thing you're worst at.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "complementary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-hire-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fire someone is immediately after you've decided you need to. Every day you wait costs you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "firing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a great team is to hire people who are smarter than you and get out of their way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a great culture is to hire for values first, skills second. Skills can be taught. Values can't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "culture",
+        "hiring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
     }
   ]
 }

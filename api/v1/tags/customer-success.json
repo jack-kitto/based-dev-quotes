@@ -1,0 +1,56 @@
+{
+  "tag": "customer-success",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best customer success strategy is to build a product so good that customers never need help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-success",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customer-success-team",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer's success is your success. Align incentives and everyone wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-success",
+        "incentives"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customers-success-is",
+      "source": "Community sourced"
+    }
+  ]
+}

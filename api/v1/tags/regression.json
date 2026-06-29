@@ -1,0 +1,22 @@
+{
+  "tag": "regression",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your test suite should catch regressions. If it doesn't, it's just running code for no reason.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "regression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-test-suite-should",
+      "source": "Community sourced"
+    }
+  ]
+}

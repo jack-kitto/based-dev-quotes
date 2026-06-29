@@ -1,6 +1,6 @@
 {
   "tag": "failure",
-  "count": 1,
+  "count": 17,
   "quotes": [
     {
       "id": "product-nobody-wants",
@@ -19,6 +19,266 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "Fail fast, fail forward, fail cheaply. But most importantly: learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-fail-fast-fail-forward",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-graveyard-of-failed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product failure isn't a failure. It's tuition. You just paid for a masterclass.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-failure",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Failure is not the opposite of success. It's part of it.",
+      "author": "Arianna Huffington",
+      "author_slug": "huffington",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "huffington-failure-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every mistake is a lesson. Every lesson makes you better. Fail fast, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-mistake-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to fail. The second best is to learn from someone else's failure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest growth comes from your biggest failures. Embrace them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can fail gracefully and come back stronger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first failure is your most expensive lesson. Make it count.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "lesson"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-failure-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed product teaches you something that no successful product could.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-failed-product-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to recover from failure is to start something new immediately. Don't let the failure define you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation is built on how you handle failure, not how you handle success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-reputation-is-built",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn from failure is to write about it. Your future self will thank you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed startup is a case study. Every successful startup is a survivorship bias.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "bias"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-failed-startup-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn from failure is immediately after it happens. Not years later.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "tag": "paying-customers",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best SaaS businesses are built on boring problems. Boring problems have paying customers. Exciting problems have Twitter threads.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "paying-customers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    }
+  ]
+}

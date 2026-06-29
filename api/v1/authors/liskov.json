@@ -1,0 +1,24 @@
+{
+  "author": "Barbara Liskov",
+  "slug": "liskov",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The purpose of software engineering is to control complexity, not to create it.",
+      "author": "Barbara Liskov",
+      "author_slug": "liskov",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "control"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "liskov-the-purpose-of-software",
+      "source": "Community sourced"
+    }
+  ]
+}

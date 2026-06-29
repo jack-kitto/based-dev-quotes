@@ -1,0 +1,40 @@
+{
+  "author": "Steve Jobs",
+  "slug": "jobs",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "creativity",
+        "connections"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-creativity-is-just-connecting",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is saying no to a thousand things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-innovation-is-saying-no",
+      "source": "Community sourced"
+    }
+  ]
+}

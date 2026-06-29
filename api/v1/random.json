@@ -1,20 +1,18 @@
 {
-  "id": "temporary-solution",
-  "text": "Nothing is more permanent than a temporary solution that works.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "Raising money is easy. Building something people want is hard. Most founders get these confused.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering",
-    "wisdom"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "technical-debt",
-    "permanence",
-    "pragmatism"
+    "fundraising",
+    "product-market-fit"
   ],
-  "grug_level": 5,
-  "spiciness": 2,
-  "_generated_at": "2026-06-29T23:00:22.249971+00:00"
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-raising-money-is-easy",
+  "source": "Community sourced",
+  "_generated_at": "2026-06-29T23:58:33.394733+00:00"
 }

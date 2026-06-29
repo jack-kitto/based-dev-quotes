@@ -1,19 +1,19 @@
 {
-  "id": "saas-idea-validation",
-  "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Indie hacker Twitter",
+  "id": "mcilroy-unix-philosophy",
+  "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
+  "author": "Doug McIlroy",
+  "author_slug": "mcilroy",
+  "source": "Bell System Technical Journal, 1978",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "unix",
+    "wisdom"
   ],
   "tags": [
-    "saas",
-    "mvp",
-    "spreadsheet",
-    "validation"
+    "unix",
+    "philosophy",
+    "simplicity",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 1
 }

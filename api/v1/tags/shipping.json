@@ -1,6 +1,6 @@
 {
   "tag": "shipping",
-  "count": 6,
+  "count": 23,
   "quotes": [
     {
       "id": "torvalds-talk-is-cheap",
@@ -109,6 +109,286 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-then-test-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. But also: good is better than done-but-broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product should embarrass you. If it doesn't ship fast enough, it's too polished.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-product-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your first release, you launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoffman-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship fast, charge early, iterate often. This is the indie hacker's trifecta. Pick all three.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-fast-charge-early",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "engineering"
+      ],
+      "tags": [
+        "tech-stack",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-tech-stack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "bugs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-it-then-fix",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a 'What's New' page is after you've shipped something worth announcing. Not before.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "changelog",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't test it, you can't ship it. If you can't ship it, you can't charge for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-test",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every line of code is a liability. Every feature is a bet. Every deploy is a risk. Ship accordingly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "risk",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-line-of-code",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who ship weekly grow faster than indie hackers who ship quarterly. Ship more, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your stack doesn't matter. Your ship rate does. Ship weekly or don't ship at all.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "tech-stack"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-stack-doesnt-matter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. Shipped is better than done. Revenue is better than shipped.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who ship weekly have 10x the chances of finding product-market fit than those who ship quarterly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS teams ship weekly. Not because speed is a virtue, but because momentum compounds.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "shipping",
+        "momentum"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-teams",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship weekly or don't ship at all. The gap between weekly and quarterly is the gap between learning and guessing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-weekly-or-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project doesn't need a perfect logo. It needs paying customers. Ship.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-indie-project-doesnt",
+      "source": "Community sourced"
     }
   ]
 }

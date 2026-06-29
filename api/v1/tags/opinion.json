@@ -1,0 +1,38 @@
+{
+  "tag": "opinion",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The problem with Object-Oriented Programming is that it was invented by academics, and everything they do is overcomplicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "oop",
+        "opinion"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-problem-with-objectoriented",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every framework is somebody's way of saying 'I disagree with how you write code' and then charging you for the privilege.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "frameworks",
+        "opinion"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-framework-is-somebodys",
+      "source": "Community sourced"
+    }
+  ]
+}

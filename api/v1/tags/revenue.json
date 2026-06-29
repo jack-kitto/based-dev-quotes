@@ -1,6 +1,6 @@
 {
   "tag": "revenue",
-  "count": 2,
+  "count": 19,
   "quotes": [
     {
       "id": "revenue-vanity-profit-sanity",
@@ -38,6 +38,282 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-vanity-profit",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "metrics",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-marketing-metric-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "MRR is just a fancy way of saying 'people are paying us.' The fancy part matters less than the paying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "mrr",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-mrr-is-just-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "efficiency",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hacker",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first $1k MRR feels like conquering the world. Your first $10k MRR feels like a Tuesday. The journey between is where you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "milestones"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-mrr",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue doesn't lie. Everything else might.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-doesnt-lie-everything",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Growing revenue is easy. Growing profit is hard. Growing both is rare.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "profit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-growing-revenue-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The difference between a side project and a business is revenue. The difference between a business and a sustainable business is margin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "margin"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are built on boring niches. Boring niches have paying customers. Exciting niches have Twitter followers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "niche",
+        "revenue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-indie-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have predictable revenue. Predictable revenue comes from predictable customers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "revenue",
+        "predictability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about revenue is on day one. Not 'someday.' Not 'after we launch.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business should be boring to run and exciting to bank.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-business-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first $1k in revenue is the hardest. The next $9k is easier. The next $90k is harder. The next $900k is the hardest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric is the one that predicts revenue. Everything else is a proxy.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is just a number. Profit is what matters. Cash flow is what keeps you alive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-just-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric as an indie hacker is revenue per hour worked. Optimize for that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first $100 in revenue is worth more than your first 10,000 free users.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first",
+      "source": "Community sourced"
     }
   ]
 }

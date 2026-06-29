@@ -1,6 +1,6 @@
 {
   "tag": "copy-paste",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "copy-paste-stackoverflow",
@@ -17,6 +17,23 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "Every time you copy-paste code, a unit test dies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "copy-paste",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-time-you-copypaste",
+      "source": "Community sourced"
     }
   ]
 }

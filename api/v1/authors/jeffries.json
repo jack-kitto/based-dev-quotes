@@ -1,7 +1,7 @@
 {
   "author": "Ron Jeffries / XP",
   "slug": "jeffries",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "yagni",
@@ -21,6 +21,23 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "Code never lies. Comments sometimes do.",
+      "author": "Ron Jeffries",
+      "author_slug": "jeffries",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "comments",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "jeffries-code-never-lies-comments",
+      "source": "Community sourced"
     }
   ]
 }

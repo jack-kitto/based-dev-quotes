@@ -1,0 +1,38 @@
+{
+  "tag": "foundation",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "foundation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-database-schema-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be built on something you'd do even if nobody paid you. That's the foundation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "foundation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
+    }
+  ]
+}

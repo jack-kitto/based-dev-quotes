@@ -1,0 +1,23 @@
+{
+  "tag": "mockups",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A pixel-perfect mockup of a broken flow is still a broken flow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "mockups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-pixelperfect-mockup-of",
+      "source": "Community sourced"
+    }
+  ]
+}

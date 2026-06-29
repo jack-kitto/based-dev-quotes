@@ -1,0 +1,56 @@
+{
+  "tag": "power-users",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best time to build a CLI version of your SaaS is when your power users ask for it. They're your best advocates.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "cli",
+        "power-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's 'power users' are your best evangelists. Make them look smart and they'll sell for you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "power-users",
+        "evangelism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-power-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your power users will forgive bugs. Your new users won't. Design for both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "power-users",
+        "new-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-power-users-will",
+      "source": "Community sourced"
+    }
+  ]
+}

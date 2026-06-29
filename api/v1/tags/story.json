@@ -1,0 +1,39 @@
+{
+  "tag": "story",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Every SaaS needs a 'why this exists' page. Not a features page. A 'why' page.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "story",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-needs-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch on Indie Hackers is when you have a working product and a story to tell.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "launch",
+        "story"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

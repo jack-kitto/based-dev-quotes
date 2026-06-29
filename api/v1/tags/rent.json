@@ -1,0 +1,22 @@
+{
+  "tag": "rent",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "SaaS is just software that you rent instead of own. Like an apartment, except the landlord can change the floor plan while you're sleeping.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "rent"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-saas-is-just-software",
+      "source": "Community sourced"
+    }
+  ]
+}

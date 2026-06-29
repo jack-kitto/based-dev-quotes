@@ -1,0 +1,24 @@
+{
+  "author": "Tom Cargill",
+  "slug": "cargill",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+      "author": "Tom Cargill",
+      "author_slug": "cargill",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cargill-the-first-90-of",
+      "source": "Community sourced"
+    }
+  ]
+}

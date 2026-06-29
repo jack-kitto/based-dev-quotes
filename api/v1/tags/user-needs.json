@@ -1,0 +1,23 @@
+{
+  "tag": "user-needs",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to simplify is to start with the user's needs, not your features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "user-needs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

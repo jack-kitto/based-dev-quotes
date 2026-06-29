@@ -1,0 +1,54 @@
+{
+  "tag": "whitespace",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Every pixel of whitespace is a deliberate choice to not add something stupid.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-pixel-of-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'add more whitespace' suggestion is just 'I don't know how to fix this content' with better PR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "shitpost"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-add-more-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "White space isn't wasted space. It's breathing room for your content.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "breathing-room"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-white-space-isnt-wasted",
+      "source": "Community sourced"
+    }
+  ]
+}

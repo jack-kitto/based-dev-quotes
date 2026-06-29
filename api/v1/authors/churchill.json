@@ -1,0 +1,39 @@
+{
+  "author": "Winston Churchill",
+  "slug": "churchill",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-stumbling-from",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "courage",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-not-final",
+      "source": "Community sourced"
+    }
+  ]
+}

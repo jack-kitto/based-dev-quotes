@@ -1,6 +1,6 @@
 {
   "tag": "efficiency",
-  "count": 1,
+  "count": 12,
   "quotes": [
     {
       "id": "wulf-goto",
@@ -19,6 +19,186 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "efficiency",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hacker",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones that don't happen. The second best are the ones that end early.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-meetings-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write the fewest lines of code. The worst engineers write the most features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "efficiency",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't write more code. They write less code that does more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "leverage",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are lazy in the right ways: lazy about doing things twice, not lazy about doing things right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "laziness",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to increase profit is to decrease waste. Not to increase revenue.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones with clear agendas, time limits, and action items. Everything else is a waste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-meetings-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your keyboard shortcuts are your superpowers. Learn them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "shortcuts",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-keyboard-shortcuts-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to automate is when you're doing the same task for the third time. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "automation",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to do less things with more focus.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric as an indie hacker is revenue per hour worked. Optimize for that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric",
+      "source": "Community sourced"
     }
   ]
 }

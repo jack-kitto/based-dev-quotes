@@ -1,0 +1,22 @@
+{
+  "tag": "notifications",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The most productive 2 hours of your day are the ones where you're not checking notifications.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "notifications",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-2",
+      "source": "Community sourced"
+    }
+  ]
+}

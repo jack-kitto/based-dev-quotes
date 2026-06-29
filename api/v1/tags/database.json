@@ -1,6 +1,6 @@
 {
   "tag": "database",
-  "count": 2,
+  "count": 9,
   "quotes": [
     {
       "id": "select-star-production",
@@ -39,6 +39,118 @@
       ],
       "grug_level": 5,
       "spiciness": 4
+    },
+    {
+      "text": "The best database schema is the one that answers your questions without making you write a 47-line SQL query.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "schema"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-database-schema",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to choose your database was yesterday. The second best time is before you have 10,000 users, not after.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "early-decisions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "foundation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-database-schema-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your database is your system's memory. Treat it with respect. Backup it. Index it. Never let it forget.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-database-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your database has more than 50 tables, you probably need a domain expert, not a better ORM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-database-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every database query should have an index. Every index should have a reason. Every reason should be tested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-database-query-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-database-is",
+      "source": "Community sourced"
     }
   ]
 }

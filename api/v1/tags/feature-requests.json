@@ -1,0 +1,90 @@
+{
+  "tag": "feature-requests",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-feature-requests-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest lie in SaaS: 'We'll add that feature.' You won't. You'll ship what you have and hope nobody notices.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "feature-requests",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-biggest-lie-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'easy' feature request is just code someone else doesn't have to write.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-easy-feature-request",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-user-who-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important feature request is the one users haven't asked for yet, but would change their life if it existed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "insight"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-feature",
+      "source": "Community sourced"
+    }
+  ]
+}

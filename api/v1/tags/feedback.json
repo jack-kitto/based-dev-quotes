@@ -1,6 +1,6 @@
 {
   "tag": "feedback",
-  "count": 1,
+  "count": 6,
   "quotes": [
     {
       "id": "levels-just-ship",
@@ -19,6 +19,89 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "The fastest way to find out if your design is good is to show it to someone who doesn't care about you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "usability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-fastest-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "User feedback is data. But data without context is just noise. Always ask 'why?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "context"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-user-feedback-is-data",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who gives you critical feedback is your best friend. The user who silently leaves is your biggest risk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users"
+      ],
+      "tags": [
+        "feedback",
+        "churn"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-user-who-gives",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's biggest flaw is the one your users complain about most. Fix that first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "prioritization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-biggest-flaw",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to give feedback is to be specific, timely, and kind. Not vague, delayed, and brutal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "feedback",
+        "communication"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
     }
   ]
 }

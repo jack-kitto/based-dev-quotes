@@ -1,6 +1,6 @@
 {
   "tag": "iteration",
-  "count": 1,
+  "count": 5,
   "quotes": [
     {
       "id": "levels-just-ship",
@@ -19,6 +19,70 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "The hardest part of SaaS isn't building the product. It's maintaining it while building the next version of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "maintenance",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product taught you everything. Your second product teaches you what actually matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "learning",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-taught",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best prototypes are ugly ones. If it's pretty, you'll fall in love with it. If it's ugly, you'll iterate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "prototyping",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-prototypes-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product won't be your best. Your second won't either. Your tenth might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "iteration",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-wont",
+      "source": "Community sourced"
     }
   ]
 }

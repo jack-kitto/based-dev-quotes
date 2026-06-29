@@ -1,6 +1,6 @@
 {
   "tag": "complexity",
-  "count": 5,
+  "count": 20,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -93,6 +93,256 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-good-abstraction-starts",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-you-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "complexity",
+        "enterprise"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-saas-goes-through",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'easy' feature request is just code someone else doesn't have to write.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-easy-feature-request",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "feature-requests",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-user-who-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your product has a 'getting started' guide that's 47 pages long, your product is too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-product-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "css",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-css-file",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your feature flags are more complex than your code, you've built a configuration management system.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "feature-flags",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-feature-flags",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every feature you add creates a new path for users to get confused. Add features like you'd add rooms to a house: with purpose.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "features",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-feature-you-add",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your database has more than 50 tables, you probably need a domain expert, not a better ORM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-database-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS demos are 5 minutes long. If yours is 30 minutes, your product is too complex.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "demo",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-demos",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The purpose of software engineering is to control complexity, not to create it.",
+      "author": "Barbara Liskov",
+      "author_slug": "liskov",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "control"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "liskov-the-purpose-of-software",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity does not precede complexity, but follows it.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "perlis-simplicity-does-not-precede",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "essence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "kernighan-controlling-complexity-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's complexity is your enemy. Simplify relentlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "complexity",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-complexity-is",
+      "source": "Community sourced"
     }
   ]
 }

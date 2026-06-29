@@ -1,0 +1,70 @@
+{
+  "tag": "starting",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "author_slug": "disney",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "action",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "disney-the-way-to-get",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a project is before you're ready. You'll never be ready.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "starting",
+        "readiness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to start is to start small. One feature. One customer. One success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "starting",
+        "small"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

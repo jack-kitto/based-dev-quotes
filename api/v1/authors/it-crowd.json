@@ -1,0 +1,24 @@
+{
+  "author": "Roy (IT Crowd)",
+  "slug": "it-crowd",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Have you tried turning it off and on again?",
+      "author": "Roy (IT Crowd)",
+      "author_slug": "it-crowd",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "it-crowd-have-you-tried-turning",
+      "source": "Community sourced"
+    }
+  ]
+}

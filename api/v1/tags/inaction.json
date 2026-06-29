@@ -1,0 +1,22 @@
+{
+  "tag": "inaction",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "inaction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-competition-isnt-other",
+      "source": "Community sourced"
+    }
+  ]
+}

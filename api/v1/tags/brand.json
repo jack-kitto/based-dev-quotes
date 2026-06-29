@@ -1,0 +1,70 @@
+{
+  "tag": "brand",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "Your brand isn't what you say it is. It's what Google says it is. And what Reddit says. And what that one angry customer says.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-brand-isnt-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is what people say about you when you're not in the room. Make sure they're saying good things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-brand-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is your promise. Your product is your proof. Your customers are your witnesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "brand",
+        "promise"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-brand-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is your moat. Competitors can copy your features. They can't copy your identity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "brand",
+        "moat"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-brand-is-your",
+      "source": "Community sourced"
+    }
+  ]
+}

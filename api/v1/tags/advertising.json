@@ -1,0 +1,22 @@
+{
+  "tag": "advertising",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Nobody reads ads. People read what interests them. Sometimes it's an ad.",
+      "author": "Howard Gossage",
+      "author_slug": "gossage",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "advertising",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gossage-nobody-reads-ads-people",
+      "source": "Community sourced"
+    }
+  ]
+}

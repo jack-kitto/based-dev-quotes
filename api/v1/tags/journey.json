@@ -1,0 +1,22 @@
+{
+  "tag": "journey",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The indie hacker's journey: idea → build → launch → crickets → iterate → crickets → pivot → crickets → ship better → $100 MRR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "journey",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-journey",
+      "source": "Community sourced"
+    }
+  ]
+}

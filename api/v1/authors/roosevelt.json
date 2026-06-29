@@ -1,0 +1,23 @@
+{
+  "author": "Franklin D. Roosevelt",
+  "slug": "roosevelt",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "author_slug": "roosevelt",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "doubt",
+        "potential"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "roosevelt-the-only-limit-to",
+      "source": "Community sourced"
+    }
+  ]
+}

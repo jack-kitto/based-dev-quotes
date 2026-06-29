@@ -1,0 +1,22 @@
+{
+  "tag": "hierarchy",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The most common design mistake: treating every element as equally important. Prioritize. Something should be bigger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "hierarchy",
+        "prioritization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-common-design",
+      "source": "Community sourced"
+    }
+  ]
+}

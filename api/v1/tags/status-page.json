@@ -1,0 +1,38 @@
+{
+  "tag": "status-page",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best time to add a status page is when you have 10 users, not when you have 10,000 and they're already angry.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "status-page",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a status page that's always up to date. When it's down, your status page is the only thing users trust.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "status-page",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have",
+      "source": "Community sourced"
+    }
+  ]
+}

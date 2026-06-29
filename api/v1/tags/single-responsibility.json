@@ -1,0 +1,23 @@
+{
+  "tag": "single-responsibility",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "functions",
+        "single-responsibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-a-function-that-does",
+      "source": "Community sourced"
+    }
+  ]
+}

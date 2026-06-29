@@ -1,0 +1,23 @@
+{
+  "tag": "vision",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Vision without execution is hallucination.",
+      "author": "Thomas Edison",
+      "author_slug": "edison",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "vision"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "edison-vision-without-execution-is",
+      "source": "Community sourced"
+    }
+  ]
+}

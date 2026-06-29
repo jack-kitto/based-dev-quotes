@@ -1,0 +1,22 @@
+{
+  "tag": "schedule",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The indie hacker's calendar: Monday — plan. Tuesday — code. Wednesday — code. Thursday — code. Friday — panic about marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "schedule",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-calendar",
+      "source": "Community sourced"
+    }
+  ]
+}

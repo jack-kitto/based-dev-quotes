@@ -1,0 +1,39 @@
+{
+  "tag": "problem-solving",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "author_slug": "johnson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "problem-solving",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "johnson-first-solve-the-problem",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "problem-solving",
+        "pain"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-solve",
+      "source": "Community sourced"
+    }
+  ]
+}

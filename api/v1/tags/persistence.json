@@ -1,0 +1,151 @@
+{
+  "tag": "persistence",
+  "count": 9,
+  "quotes": [
+    {
+      "text": "Content marketing takes 6 months to work. If you quit at 3 months, you've just wasted 3 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-content-marketing-takes-6",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product won't be your best. Your second won't either. Your tenth might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "iteration",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-wont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are built on obsession, not inspiration. Inspiration fades. Obsession endures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "obsession",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-stumbling-from",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build resilience is to get knocked down and get back up. Every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "resilience",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first startup will probably fail. Your second might too. Your third might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "startup",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-startup-will",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "author_slug": "levenson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "levenson-dont-watch-the-clock",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "courage",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-not-final",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "author_slug": "confucius",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "progress"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "confucius-it-does-not-matter",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "tag": "api",
+  "count": 9,
+  "quotes": [
+    {
+      "text": "The best API is one where you don't need the docs. The second best is docs that are actually complete. Neither exists.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-api-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "pricing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-api-rate-limits-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-saas-companies-think",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-isnt-a-technical",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS should have an API. Every API should have docs. Every docs page should have examples.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best API design is one where the next endpoint is exactly where you'd expect it to be.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "intuition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-api-design",
+      "source": "Community sourced"
+    },
+    {
+      "text": "REST APIs are just CRUD with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "api",
+        "rest"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rest-apis-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your API versioning should be boring and predictable. If it's exciting, something's wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "versioning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-api-versioning-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best API is the one you don't need to build. Use a service.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "services"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-api-is",
+      "source": "Community sourced"
+    }
+  ]
+}

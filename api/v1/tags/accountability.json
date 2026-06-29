@@ -1,0 +1,22 @@
+{
+  "tag": "accountability",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "accountability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-teams-performance-is",
+      "source": "Community sourced"
+    }
+  ]
+}

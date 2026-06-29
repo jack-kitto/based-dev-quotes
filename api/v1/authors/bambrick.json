@@ -1,0 +1,24 @@
+{
+  "author": "Leon Bambrick",
+  "slug": "bambrick",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Leon Bambrick",
+      "author_slug": "bambrick",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "classic",
+        "off-by-one"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "bambrick-there-are-two-hard",
+      "source": "Community sourced"
+    }
+  ]
+}

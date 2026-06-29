@@ -1,0 +1,22 @@
+{
+  "tag": "cognitive-load",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to reduce cognitive load is to present information in layers. Don't overwhelm. Reveal gradually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "cognitive-load",
+        "layering"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "quick-start",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every SaaS should have a 'quick start' that takes 5 minutes. If your quick start takes 30 minutes, you've lost everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "quick-start",
+        "onboarding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-should-have",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "tag": "advantage",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best way to compete with big companies is to be faster, more personal, and more focused. You can't outspend them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best competitive advantage is speed. Big companies can't move fast. You can.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "speed",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-competitive-advantage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best competitive advantage is one that compounds. Network effects, data flywheels, brand recognition.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "compounding",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-competitive-advantage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's biggest advantage is that you care more than anyone else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-biggest",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "author": "Grace Hopper",
+  "slug": "hopper",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+      "author": "Grace Hopper",
+      "author_slug": "hopper",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "tradition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "hopper-the-most-dangerous-phrase",
+      "source": "Community sourced"
+    }
+  ]
+}

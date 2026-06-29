@@ -1,0 +1,22 @@
+{
+  "tag": "enjoyment",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your side project should be fun. If it's not fun, it's just another job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "fun",
+        "enjoyment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-should",
+      "source": "Community sourced"
+    }
+  ]
+}

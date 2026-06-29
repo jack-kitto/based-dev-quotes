@@ -1,0 +1,22 @@
+{
+  "tag": "evidence",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Without data, you're just another person with an opinion.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data",
+        "evidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-without-data-youre-just",
+      "source": "Community sourced"
+    }
+  ]
+}

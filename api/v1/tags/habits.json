@@ -1,0 +1,167 @@
+{
+  "tag": "habits",
+  "count": 10,
+  "quotes": [
+    {
+      "text": "The best habit is the one you actually maintain. Not the one that looks best on paper.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "realism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habit-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build good habits is when you don't need them. The worst time is when you desperately do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant",
+      "author_slug": "durant",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "habits",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "durant-we-are-what-we",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones you don't have to think about. Make them automatic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "automatic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones that compound. Small daily improvements lead to remarkable results.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you want to change your life, change your habits first. Habits are the compound interest of self-improvement.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "change"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-want-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a habit is to start small. Ridiculously small. Then build from there.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "small-steps"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones that align with your identity. You're not 'trying to write.' You're a writer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "identity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your habits shape your future. Choose them wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-habits-shape-your",
+      "source": "Community sourced"
+    }
+  ]
+}

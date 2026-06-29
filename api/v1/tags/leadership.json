@@ -1,0 +1,182 @@
+{
+  "tag": "leadership",
+  "count": 11,
+  "quotes": [
+    {
+      "text": "Your team's velocity is a reflection of your leadership. If they're slow, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "velocity",
+        "leadership"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-teams-velocity-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A leader is one who knows the way, goes the way, and shows the way.",
+      "author": "John C. Maxwell",
+      "author_slug": "maxwell",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "example"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "maxwell-a-leader-is-one",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who listen more than they talk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "accountability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-teams-performance-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders empower others to lead. Not just to follow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "empowerment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-empower",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your leadership style should be as unique as your personality. Don't copy others' styles.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-leadership-style-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who make others better. Not just themselves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+      "author": "Simon Sinek",
+      "author_slug": "sinek",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "care"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinek-leadership-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to lead is by example. Not by authority.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "example"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your leadership is defined by the decisions you make when nobody's watching.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "integrity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-leadership-is-defined",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who can admit they're wrong. Vulnerability is strength.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "vulnerability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are",
+      "source": "Community sourced"
+    }
+  ]
+}

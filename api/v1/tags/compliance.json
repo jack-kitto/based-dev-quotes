@@ -1,0 +1,22 @@
+{
+  "tag": "compliance",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "compliance",
+        "security"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-soc-2-compliance-is",
+      "source": "Community sourced"
+    }
+  ]
+}

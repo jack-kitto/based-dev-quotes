@@ -1,0 +1,201 @@
+{
+  "tag": "metrics",
+  "count": 12,
+  "quotes": [
+    {
+      "text": "Brand awareness is what you measure when you can't measure anything useful.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "branding",
+        "metrics"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-brand-awareness-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "metrics",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-marketing-metric-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SaaS metrics that matter: retention, retention, retention. Everything else is a vanity metric you report to investors.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "metrics",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-saas-metrics-that-matter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every product team says they're 'user-focused.' Then they prioritize internal metrics over user needs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-focus",
+        "metrics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-product-team-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS metric is Net Revenue Retention. If it's above 100%, your customers are growing with you. Below 100%, you're leaking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "nrr",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-metric",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS metrics should be on a dashboard that's visible to everyone. Transparency builds trust.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "metrics",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-saas-metrics-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "metrics",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-measuring-programming-progress-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is a lagging indicator. Customer satisfaction is a leading indicator. Measure both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-a-lagging",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have a 'churn rate' that's under 5%. If yours is over 10%, you have a retention problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best metrics are actionable. If a metric doesn't tell you what to do next, it's not a metric — it's a number.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "metrics",
+        "actionable"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-metrics-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every metric has a blind spot. Triangulate. Use at least three metrics to understand reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "triangulation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-metric-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric is the one that predicts revenue. Everything else is a proxy.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric",
+      "source": "Community sourced"
+    }
+  ]
+}

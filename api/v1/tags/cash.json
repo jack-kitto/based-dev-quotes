@@ -1,0 +1,22 @@
+{
+  "tag": "cash",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to build a financial cushion is when business is good. The worst time is when it's bad.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "cash",
+        "preparation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    }
+  ]
+}

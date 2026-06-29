@@ -1,0 +1,22 @@
+{
+  "tag": "spam",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The difference between spam and marketing is whether the recipient asked for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "spam",
+        "consent"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-spam",
+      "source": "Community sourced"
+    }
+  ]
+}

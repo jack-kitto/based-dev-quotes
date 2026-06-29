@@ -1,0 +1,39 @@
+{
+  "tag": "empowerment",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your users are smarter than you think. Stop holding their hand. Give them tools and get out of the way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "empowerment",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-users-are-smarter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders empower others to lead. Not just to follow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "empowerment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-empower",
+      "source": "Community sourced"
+    }
+  ]
+}
