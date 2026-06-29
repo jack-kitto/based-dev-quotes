@@ -35,7 +35,7 @@ ROOT = Path(__file__).parent.parent
 QUOTES_PATH = ROOT / "quotes" / "quotes.json"
 SUBMISSIONS_PATH = ROOT / "quotes" / "submissions.json"
 
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_TOKEN = "8009828977:AAFQ-H2niuFQn0wCCQ9MdzvxMCJiBofB6rE"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 REPO_OWNER = "jack-kitto"
 REPO_NAME = "based-dev-quotes"
@@ -47,7 +47,7 @@ HELP_TEXT = """🧠 *based\\-dev\\-quotes* — Submit quotes\\!
 `/submit <quote> — <author>` Submit a quote
 `/submit <quote>` Submit \\(author: Unknown\\)
 `/random` Get a random quote
-`/today` Get today's quote
+`/today` Quote of the day
 `/stats` Dataset stats
 `/help` This message
 
@@ -58,7 +58,6 @@ HELP_TEXT = """🧠 *based\\-dev\\-quotes* — Submit quotes\\!
 ✅ Grug\\-brained wisdom, indie hacker truth, funny dev observations
 ❌ LinkedIn motivational garbage, AI\\-generated slop
 """
-
 
 def tg_request(method: str, data: dict = None) -> dict | None:
     """Make a Telegram Bot API request."""
@@ -77,7 +76,6 @@ def tg_request(method: str, data: dict = None) -> dict | None:
         print(f"TG API error: {e}", file=sys.stderr)
         return None
 
-
 def send_message(chat_id: int, text: str, parse_mode: str = "MarkdownV2"):
     """Send a message to a Telegram chat."""
     tg_request("sendMessage", {
@@ -86,11 +84,9 @@ def send_message(chat_id: int, text: str, parse_mode: str = "MarkdownV2"):
         "parse_mode": parse_mode
     })
 
-
 def load_quotes() -> list[dict]:
     with open(QUOTES_PATH, encoding="utf-8") as f:
         return json.load(f)
-
 
 def load_submissions() -> list[dict]:
     if SUBMISSIONS_PATH.exists():
@@ -98,28 +94,23 @@ def load_submissions() -> list[dict]:
             return json.load(f)
     return []
 
-
 def save_submissions(subs: list[dict]):
     with open(SUBMISSIONS_PATH, "w", encoding="utf-8") as f:
         json.dump(subs, f, indent=2, ensure_ascii=False)
         f.write("\n")
-
 
 def escape_md(text: str) -> str:
     """Escape MarkdownV2 special characters."""
     special = r'_*[]()~`>#+-=|{}.!'
     return re.sub(f'([{re.escape(special)}])', r'\\\1', text)
 
-
 def handle_submit(chat_id: int, text: str, username: str):
     """Handle a /submit command."""
-    # Parse: /submit <quote> — <author>
     text = text.strip()
     if not text:
         send_message(chat_id, "Usage: `/submit <quote> — <author>`")
         return
 
-    # Split on em dash or double hyphen
     parts = re.split(r'\s*[—–]\s*|\s*--\s*', text, maxsplit=1)
     quote_text = parts[0].strip().strip('"\'""''')
     author = parts[1].strip() if len(parts) > 1 else "Unknown"
@@ -132,7 +123,6 @@ def handle_submit(chat_id: int, text: str, username: str):
         send_message(chat_id, "Quote too long\\! Keep it punchy\\. ✂️")
         return
 
-    # Save submission
     submission = {
         "text": quote_text,
         "author": author,
@@ -158,11 +148,13 @@ def handle_submit(chat_id: int, text: str, username: str):
         f"📋 {pending} quotes pending review"
     )
 
-
 def handle_random(chat_id: int):
     """Send a random quote."""
     import random
     quotes = load_quotes()
+    if not quotes:
+        send_message(chat_id, "No quotes available yet! Add some? `/submit ...`")
+        return
     q = random.choice(quotes)
     text = escape_md(q["text"])
     author = escape_md(q["author"])
@@ -177,11 +169,13 @@ def handle_random(chat_id: int):
         f"\\[{cats}\\] {grug}"
     )
 
-
 def handle_today(chat_id: int):
     """Send today's quote."""
     import hashlib
     quotes = load_quotes()
+    if not quotes:
+        send_message(chat_id, "No quotes available yet! Add some? `/submit ...`")
+        return
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     idx = int(hashlib.sha256(today.encode()).hexdigest()[:8], 16) % len(quotes)
     q = quotes[idx]
@@ -198,14 +192,13 @@ def handle_today(chat_id: int):
         f"\\[{cats}\\]"
     )
 
-
 def handle_stats(chat_id: int):
     """Send dataset stats."""
     quotes = load_quotes()
     subs = load_submissions()
     pending = len([s for s in subs if s["status"] == "pending"])
 
-    authors = len(set(q["author_slug"] for q in quotes))
+    authors = len(set(q["author_slug"] for q in quotes if q.get("author_slug")))
     categories = len(set(c for q in quotes for c in q.get("categories", [])))
 
     send_message(
@@ -217,15 +210,19 @@ def handle_stats(chat_id: int):
         f"📋 {pending} pending submissions"
     )
 
-
 def handle_update(update: dict):
     """Process a single Telegram update."""
     msg = update.get("message", {})
     text = msg.get("text", "")
-    chat_id = msg.get("chat", {}).get("id")
+    chat = msg.get("chat", {})
+    chat_id = chat.get("id")
     username = msg.get("from", {}).get("username", "")
 
     if not chat_id or not text:
+        return
+
+    # Ignore if message is from the bot itself
+    if msg.get("from", {}).get("is_bot", False):
         return
 
     if text.startswith("/submit"):
@@ -239,21 +236,24 @@ def handle_update(update: dict):
     elif text.startswith("/help") or text.startswith("/start"):
         send_message(chat_id, HELP_TEXT)
 
-
 def main():
     if not TELEGRAM_TOKEN:
         print("❌ Set TELEGRAM_BOT_TOKEN env var", file=sys.stderr)
         sys.exit(1)
+    if not GITHUB_TOKEN:
+        print("⚠️ GITHUB_TOKEN not set. PR creation will be disabled.", file=sys.stderr)
 
     print("🤖 based-dev-quotes bot starting...", file=sys.stderr)
 
-    # Get bot info
     me = tg_request("getMe")
     if me and me.get("ok"):
         bot_name = me["result"].get("username", "unknown")
         print(f"   Bot: @{bot_name}", file=sys.stderr)
+    else:
+        print("   Could not get bot info. Check token.", file=sys.stderr)
 
     offset = 0
+    retries = 0
     while True:
         updates = tg_request("getUpdates", {
             "offset": offset,
@@ -262,13 +262,22 @@ def main():
         })
 
         if updates and updates.get("ok"):
+            retries = 0  # Reset retries on successful fetch
             for update in updates["result"]:
                 offset = update["update_id"] + 1
                 try:
                     handle_update(update)
                 except Exception as e:
-                    print(f"Error handling update: {e}", file=sys.stderr)
+                    print(f"Error handling update {update.get('update_id', None)}: {e}", file=sys.stderr)
+        else:
+            retries += 1
+            print(f"   Failed to get updates (retry {retries}/5)...", file=sys.stderr)
+            if retries >= 5:
+                print("   Too many failed attempts, exiting.", file=sys.stderr)
+                break
+            time.sleep(5) # Wait longer after errors
 
+        # Small delay to prevent hammering the API
         time.sleep(1)
 
 
