@@ -1,19 +1,18 @@
 {
-  "id": "grug-closures",
-  "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "levels-just-ship",
+  "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
+  "author": "Pieter Levels",
+  "author_slug": "levels",
+  "source": "Twitter / nomadlist.com",
   "categories": [
-    "grug",
-    "debugging"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "closures",
-    "debugging",
-    "complexity"
+    "shipping",
+    "iteration",
+    "feedback"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 2
 }

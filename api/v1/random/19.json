@@ -1,17 +1,18 @@
 {
-  "id": "grug-abstraction",
-  "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+  "id": "grug-closures",
+  "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
   "author": "The Grug Brained Developer",
   "author_slug": "grug",
   "source": "The Grug Brained Developer",
   "source_url": "https://grugbrain.dev/",
   "categories": [
     "grug",
-    "shipping"
+    "debugging"
   ],
   "tags": [
-    "abstraction",
-    "pragmatism"
+    "closures",
+    "debugging",
+    "complexity"
   ],
   "grug_level": 5,
   "spiciness": 3

@@ -1,19 +1,18 @@
 {
-  "id": "6-months-avoid-reading",
-  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "hoare-two-ways",
+  "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+  "author": "C.A.R. Hoare",
+  "author_slug": "hoare",
+  "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
   "categories": [
-    "funny",
-    "suffering",
-    "debugging"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "documentation",
-    "debugging",
-    "irony"
+    "simplicity",
+    "design",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1
 }

@@ -1,18 +1,18 @@
 {
-  "id": "audience-first",
-  "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+  "id": "todo-later-means-never",
+  "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Indie hacker wisdom",
+  "source": "Every codebase ever",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "audience",
-    "marketing",
-    "distribution"
+    "todo",
+    "technical-debt",
+    "procrastination"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

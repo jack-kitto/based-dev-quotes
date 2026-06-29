@@ -1,18 +1,18 @@
 {
-  "id": "atwood-any-application",
-  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
-  "source": "Atwood's Law, 2007",
+  "id": "rubber-duck-debugging",
+  "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
+  "author": "Unknown (extended from Kernighan)",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "tools"
+    "debugging"
   ],
   "tags": [
-    "javascript",
-    "inevitability",
-    "classic"
+    "rubber-duck",
+    "debugging",
+    "print-statements"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

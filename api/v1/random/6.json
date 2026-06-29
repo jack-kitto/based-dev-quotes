@@ -1,17 +1,17 @@
 {
-  "id": "regex-now-two-problems-extended",
-  "text": "I had a problem, so I decided to use threads. pNow roblems. I two have",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "torvalds-talk-is-cheap",
+  "text": "Talk is cheap. Show me the code.",
+  "author": "Linus Torvalds",
+  "author_slug": "torvalds",
+  "source": "Linux Kernel Mailing List, 2000",
   "categories": [
-    "funny",
-    "shitpost"
+    "shipping",
+    "wisdom"
   ],
   "tags": [
-    "concurrency",
-    "threads",
-    "race-conditions"
+    "shipping",
+    "action",
+    "classic"
   ],
   "grug_level": 4,
   "spiciness": 2

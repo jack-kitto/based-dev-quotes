@@ -1,17 +1,18 @@
 {
-  "id": "torvalds-bad-programmers",
-  "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "Git Mailing List",
+  "id": "dijkstra-simplicity",
+  "text": "Simplicity is prerequisite for reliability.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "EWD498",
   "categories": [
-    "wisdom"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "data-structures",
-    "design",
-    "fundamentals"
+    "simplicity",
+    "reliability",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1
 }

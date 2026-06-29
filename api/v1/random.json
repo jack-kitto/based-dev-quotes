@@ -1,19 +1,20 @@
 {
-  "id": "hickey-state",
-  "text": "State. You're doing it wrong.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Are We There Yet?, JVM Language Summit 2009",
+  "id": "temporary-solution",
+  "text": "Nothing is more permanent than a temporary solution that works.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "shitpost",
+    "funny",
+    "suffering",
     "wisdom"
   ],
   "tags": [
-    "state",
-    "functional",
-    "mutability"
+    "technical-debt",
+    "permanence",
+    "pragmatism"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "_generated_at": "2026-06-29T22:29:57.564499+00:00"
+  "grug_level": 5,
+  "spiciness": 2,
+  "_generated_at": "2026-06-29T23:00:22.249971+00:00"
 }

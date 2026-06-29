@@ -1,18 +1,19 @@
 {
-  "id": "patio11-charge-more",
-  "text": "Charge more.",
-  "author": "Patrick McKenzie (patio11)",
-  "author_slug": "patio11",
-  "source": "Accumulated indie hacker wisdom",
+  "id": "norvig-10-years",
+  "text": "Teach Yourself Programming in Ten Years.",
+  "author": "Peter Norvig",
+  "author_slug": "norvig",
+  "source": "Essay title, 2001",
   "categories": [
-    "indie-hacker",
-    "wisdom"
+    "wisdom",
+    "career"
   ],
   "tags": [
-    "pricing",
-    "business",
+    "learning",
+    "mastery",
+    "patience",
     "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 2,
+  "spiciness": 1
 }

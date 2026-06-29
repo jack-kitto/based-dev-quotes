@@ -1,18 +1,19 @@
 {
-  "id": "ramen-profitable",
-  "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+  "id": "saas-idea-validation",
+  "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Indie hacker culture (term from Paul Graham)",
+  "source": "Indie hacker Twitter",
   "categories": [
     "indie-hacker",
-    "founder"
+    "shipping"
   ],
   "tags": [
-    "profitability",
-    "ramen",
-    "survival"
+    "saas",
+    "mvp",
+    "spreadsheet",
+    "validation"
   ],
   "grug_level": 5,
-  "spiciness": 2
+  "spiciness": 3
 }

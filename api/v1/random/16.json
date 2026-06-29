@@ -1,19 +1,19 @@
 {
-  "id": "select-star-production",
-  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "id": "graham-do-things-that-dont-scale",
+  "text": "Do things that don't scale.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Do Things That Don't Scale, 2013",
   "categories": [
-    "funny",
-    "suffering"
+    "indie-hacker",
+    "wisdom"
   ],
   "tags": [
-    "sql",
-    "production",
-    "database",
-    "fear"
+    "startups",
+    "hustle",
+    "growth",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 1
 }

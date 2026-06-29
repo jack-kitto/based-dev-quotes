@@ -1,19 +1,18 @@
 {
-  "id": "cto-startup-titles",
-  "text": "At a startup, CTO stands for 'Currently The Only developer.'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Startup folklore",
+  "id": "knuth-premature-optimization",
+  "text": "Premature optimization is the root of all evil.",
+  "author": "Donald Knuth",
+  "author_slug": "knuth",
+  "source": "Structured Programming with go to Statements, 1974",
   "categories": [
-    "funny",
-    "indie-hacker",
-    "founder"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "startups",
-    "titles",
-    "solo-dev"
+    "optimization",
+    "simplicity",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1
 }

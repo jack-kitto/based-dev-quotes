@@ -1,17 +1,18 @@
 {
-  "id": "graham-wealth",
-  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Startup = Growth, 2012",
+  "id": "grug-abstraction",
+  "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "founder"
+    "grug",
+    "shipping"
   ],
   "tags": [
-    "startups",
-    "growth",
-    "definition"
+    "abstraction",
+    "pragmatism"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

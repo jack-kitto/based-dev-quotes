@@ -1,20 +1,18 @@
 {
-  "id": "lampson-abstraction",
-  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
-  "author": "Butler Lampson (modified)",
-  "author_slug": "lampson",
-  "source": "Attributed, with modification from David Wheeler's original",
+  "id": "fix-bug-introduce-three",
+  "text": "Fixing one bug and introducing three more is called job security.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "wisdom",
-    "complexity"
+    "debugging"
   ],
   "tags": [
-    "indirection",
-    "abstraction",
-    "layers",
-    "classic"
+    "bugs",
+    "job-security",
+    "entropy"
   ],
-  "grug_level": 3,
+  "grug_level": 4,
   "spiciness": 2
 }
