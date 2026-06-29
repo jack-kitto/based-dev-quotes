@@ -1,18 +1,18 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "id": "wulf-goto",
+  "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+  "author": "W.A. Wulf",
+  "author_slug": "wulf",
+  "source": "A Case Against the GOTO, 1972",
   "categories": [
-    "funny",
-    "wisdom"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "efficiency",
+    "optimization",
+    "classic"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

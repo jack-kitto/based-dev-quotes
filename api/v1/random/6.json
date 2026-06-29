@@ -1,18 +1,19 @@
 {
-  "id": "backend-dev-css",
-  "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
+  "id": "enterprise-fizzbuzz",
+  "text": "The difference between a junior and senior developer is that the senior developer writes FizzBuzz with 47 design patterns and a microservice architecture, then deletes it all and writes a for loop.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Dev Twitter / Enterprise FizzBuzz meme",
   "categories": [
     "funny",
-    "shitpost"
+    "shitpost",
+    "complexity"
   ],
   "tags": [
-    "css",
-    "frontend",
-    "centering"
+    "fizzbuzz",
+    "design-patterns",
+    "over-engineering"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 3
 }

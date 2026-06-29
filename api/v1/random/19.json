@@ -1,19 +1,18 @@
 {
-  "id": "rewrite-in-rust",
-  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+  "id": "friday-deploy",
+  "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Hacker News / Reddit",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "shitpost",
-    "tools"
+    "suffering"
   ],
   "tags": [
-    "rust",
-    "rewrite",
-    "hype"
+    "friday",
+    "deployment",
+    "fear"
   ],
-  "grug_level": 4,
-  "spiciness": 4
+  "grug_level": 5,
+  "spiciness": 1
 }

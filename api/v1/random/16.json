@@ -1,18 +1,18 @@
 {
-  "id": "atwood-best-code",
-  "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
-  "source": "The Best Code is No Code At All, 2007",
+  "id": "sandi-metz-wrong-abstraction",
+  "text": "Duplication is far cheaper than the wrong abstraction.",
+  "author": "Sandi Metz",
+  "author_slug": "metz",
+  "source": "The Wrong Abstraction, 2016",
   "categories": [
     "wisdom",
     "complexity"
   ],
   "tags": [
-    "less-code",
-    "simplicity",
-    "maintenance"
+    "abstraction",
+    "duplication",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

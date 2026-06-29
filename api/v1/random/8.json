@@ -1,18 +1,18 @@
 {
-  "id": "gwern-on-finishing",
-  "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
-  "author": "Gwern Branwen",
-  "author_slug": "gwern",
-  "source": "gwern.net",
+  "id": "machine-learning-if-else",
+  "text": "Machine learning is just spicy if/else statements.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "shipping",
-    "wisdom"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "finishing",
-    "discipline",
-    "projects"
+    "machine-learning",
+    "ai",
+    "reductionism"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

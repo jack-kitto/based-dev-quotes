@@ -1,17 +1,17 @@
 {
-  "id": "cantrill-dtrace",
-  "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
-  "author": "Bryan Cantrill",
-  "author_slug": "cantrill",
-  "source": "Debugging Under Fire, 2018",
+  "id": "hickey-design-like-coding",
+  "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Design, Composition, and Performance, 2013",
   "categories": [
-    "debugging",
     "wisdom"
   ],
   "tags": [
-    "debugging",
-    "mental-models"
+    "design",
+    "decomposition",
+    "architecture"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2
 }

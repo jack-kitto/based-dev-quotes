@@ -1,17 +1,19 @@
 {
-  "id": "leave-it-better",
-  "text": "Always leave the code better than you found it.",
-  "author": "Robert C. Martin (Uncle Bob)",
-  "author_slug": "martin",
-  "source": "Clean Code (adapted from Boy Scout Rule)",
+  "id": "two-hard-things",
+  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+  "author": "Unknown (based on Phil Karlton)",
+  "author_slug": "unknown",
+  "source": "Programming folklore / internet",
   "categories": [
-    "wisdom"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "clean-code",
-    "maintenance",
-    "discipline"
+    "cache",
+    "naming",
+    "off-by-one",
+    "classic"
   ],
-  "grug_level": 2,
+  "grug_level": 3,
   "spiciness": 1
 }

@@ -1,20 +1,19 @@
 {
-  "id": "grug-microservices",
-  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "git-commit-messages",
+  "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter / every git log ever",
   "categories": [
-    "grug",
-    "complexity",
-    "shitpost"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "microservices",
-    "architecture",
-    "simplicity"
+    "git",
+    "commits",
+    "entropy",
+    "discipline"
   ],
   "grug_level": 5,
-  "spiciness": 4
+  "spiciness": 1
 }

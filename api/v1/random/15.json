@@ -1,16 +1,17 @@
 {
-  "id": "brooks-silver-bullet",
-  "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
-  "author": "Fred Brooks",
-  "author_slug": "brooks",
-  "source": "No Silver Bullet, 1986",
+  "id": "programmer-optimist",
+  "text": "The generation of random numbers is too important to be left to chance.",
+  "author": "Robert R. Coveyou",
+  "author_slug": "coveyou",
+  "source": "Oak Ridge National Laboratory",
   "categories": [
+    "funny",
     "wisdom"
   ],
   "tags": [
-    "productivity",
-    "silver-bullet",
-    "classic"
+    "randomness",
+    "irony",
+    "math"
   ],
   "grug_level": 2,
   "spiciness": 1

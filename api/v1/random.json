@@ -1,20 +1,19 @@
 {
-  "id": "6-months-avoid-reading",
-  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "production-is-different",
+  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+  "author": "Yogi Berra (applied to programming)",
+  "author_slug": "berra",
+  "source": "Various attributions",
   "categories": [
     "funny",
-    "suffering",
-    "debugging"
+    "wisdom"
   ],
   "tags": [
-    "documentation",
-    "debugging",
-    "irony"
+    "theory",
+    "practice",
+    "production"
   ],
-  "grug_level": 5,
-  "spiciness": 2,
-  "_generated_at": "2026-06-29T11:15:22.785258+00:00"
+  "grug_level": 3,
+  "spiciness": 1,
+  "_generated_at": "2026-06-29T22:25:13.851768+00:00"
 }

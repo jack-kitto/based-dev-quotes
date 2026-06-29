@@ -1,19 +1,19 @@
 {
-  "id": "select-star-production",
-  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "id": "hofstadter-law",
+  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+  "author": "Douglas Hofstadter",
+  "author_slug": "hofstadter",
+  "source": "Gödel, Escher, Bach, 1979",
   "categories": [
     "funny",
     "suffering"
   ],
   "tags": [
-    "sql",
-    "production",
-    "database",
-    "fear"
+    "estimation",
+    "time",
+    "recursive",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 1
 }

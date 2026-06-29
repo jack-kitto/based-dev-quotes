@@ -1,18 +1,19 @@
 {
-  "id": "regex-two-problems",
-  "text": "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.",
-  "author": "Jamie Zawinski",
-  "author_slug": "zawinski",
-  "source": "comp.lang.emacs Usenet post, 1997",
+  "id": "6-months-avoid-reading",
+  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "wisdom"
+    "suffering",
+    "debugging"
   ],
   "tags": [
-    "regex",
-    "complexity",
-    "classic"
+    "documentation",
+    "debugging",
+    "irony"
   ],
-  "grug_level": 4,
+  "grug_level": 5,
   "spiciness": 2
 }

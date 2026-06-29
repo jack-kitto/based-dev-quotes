@@ -1,19 +1,18 @@
 {
-  "id": "feature-request-vs-bug",
-  "text": "A bug becomes a feature the moment a customer depends on it.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Software engineering folklore",
+  "id": "hickey-state",
+  "text": "State. You're doing it wrong.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Are We There Yet?, JVM Language Summit 2009",
   "categories": [
-    "funny",
+    "shitpost",
     "wisdom"
   ],
   "tags": [
-    "bugs",
-    "features",
-    "customers",
-    "backwards-compatibility"
+    "state",
+    "functional",
+    "mutability"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 3
 }

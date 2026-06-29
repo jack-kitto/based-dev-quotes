@@ -1,18 +1,20 @@
 {
-  "id": "hickey-hammock",
-  "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Hammock Driven Development, Clojure/conj 2010",
+  "id": "ai-replace-devs",
+  "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter, 2023",
   "categories": [
-    "wisdom",
-    "suffering"
+    "funny",
+    "career",
+    "shitpost"
   ],
   "tags": [
-    "thinking",
-    "planning",
-    "patience"
+    "ai",
+    "replacement",
+    "jobs",
+    "automation"
   ],
-  "grug_level": 2,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 3
 }

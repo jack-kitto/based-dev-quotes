@@ -1,20 +1,18 @@
 {
-  "id": "agile-is-dead",
-  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+  "id": "first-rule-of-programming",
+  "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "suffering",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "agile",
-    "scrum",
-    "methodology",
-    "management"
+    "refactoring",
+    "stability",
+    "fear"
   ],
   "grug_level": 5,
-  "spiciness": 4
+  "spiciness": 2
 }

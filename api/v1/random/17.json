@@ -1,18 +1,19 @@
 {
-  "id": "rubber-duck-debugging",
-  "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
-  "author": "Unknown (extended from Kernighan)",
+  "id": "yaml-indentation",
+  "text": "YAML: where your entire infrastructure can be brought down by a single misplaced space.",
+  "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "DevOps folklore",
   "categories": [
     "funny",
-    "debugging"
+    "suffering"
   ],
   "tags": [
-    "rubber-duck",
-    "debugging",
-    "print-statements"
+    "yaml",
+    "indentation",
+    "devops",
+    "config"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 2
 }
