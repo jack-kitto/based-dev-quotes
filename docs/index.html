@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>based dev quotes — curated programming wisdom for the masses masses masses</title>
+  <meta name="description" content="A free, static API of curated programming quotes for developers who've mass mass seen some things.">
+  <meta property="og:title" content="based dev quotes">
+  <meta property="og:description" content="Curated programming wisdom for the grug-brained developer.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💬</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a0f;
+      --bg-elevated: #12121a;
+      --bg-card: #16161f;
+      --bg-card-hover: #1c1c28;
+      --bg-input: #1a1a25;
+      --border: #2a2a3a;
+      --border-focus: #a3e635;
+      --text-primary: #e8e8ed;
+      --text-secondary: #9090a8;
+      --text-muted: #606078;
+      --accent: #a3e635;
+      --accent-dim: #6b8f20;
+      --accent-glow: rgba(163, 230, 53, 0.12);
+      --accent-glow-strong: rgba(163, 230, 53, 0.25);
+      --danger: #ef4444;
+      --spice-1: #60a5fa;
+      --spice-2: #a3e635;
+      --spice-3: #facc15;
+      --spice-4: #f97316;
+      --spice-5: #ef4444;
+      --grug-1: #94a3b8;
+      --grug-2: #a3e635;
+      --grug-3: #facc15;
+      --grug-4: #f97316;
+      --grug-5: #ef4444;
+      --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+      --font-sans: 'Source Sans 3', 'Inter', system-ui, sans-serif;
+      --radius: 8px;
+      --radius-lg: 12px;
+      --transition: 180ms ease-out;
+      --max-width: 960px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-sans);
+      background: var(--bg);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      background-image: radial-gradient(circle at 50% 0%, rgba(163, 230, 53, 0.03) 0%, transparent 50%);
+    }
+
+    /* ── Nav ── */
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10, 10, 15, 0.85);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 0 clamp(1rem, 3vw, 2rem);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .nav-logo {
+      font-family: var(--font-mono);
+      font-weight: 800;
+      font-size: 1rem;
+      color: var(--text-primary);
+      text-decoration: none;
+      letter-spacing: -0.03em;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .nav-logo .accent { color: var(--accent); }
+    .nav-links {
+      display: flex;
+      gap: 0.25rem;
+      list-style: none;
+    }
+    .nav-links a {
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      text-decoration: none;
+      padding: 0.375rem 0.75rem;
+      border-radius: var(--radius);
+      transition: color var(--transition), background var(--transition);
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-primary);
+      background: var(--bg-card);
+    }
+    .nav-hamburger {
+      display: none;
+      background: none;
+      border: none;
+      color: var(--text-primary);
+      font-size: 1.25rem;
+      cursor: pointer;
+      padding: 0.5rem;
+    }
+
+    /* ── Sections ── */
+    .section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: clamp(2rem, 5vw, 4rem) clamp(1rem, 3vw, 2rem);
+    }
+    .section-header {
+      margin-bottom: 2rem;
+    }
+    .section-title {
+      font-family: var(--font-mono);
+      font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 0.25rem;
+      text-wrap: balance;
+    }
+    .section-subtitle {
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+    }
+
+    /* ── Hero ── */
+    .hero {
+      padding: clamp(3rem, 8vw, 6rem) clamp(1rem, 3vw, 2rem);
+      text-align: center;
+    }
+    .hero-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
+    }
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--accent);
+      background: var(--accent-glow);
+      border: 1px solid rgba(163, 230, 53, 0.2);
+      padding: 0.375rem 0.875rem;
+      border-radius: 999px;
+      margin-bottom: 2rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .hero-badge .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+    .hero-quote {
+      font-family: var(--font-mono);
+      font-size: clamp(1.5rem, 4vw, 2.5rem);
+      font-weight: 600;
+      line-height: 1.35;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 1.5rem;
+      text-wrap: balance;
+      max-width: 75ch;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .hero-author {
+      font-size: 1.0625rem;
+      color: var(--text-secondary);
+      margin-bottom: 2.5rem;
+    }
+    .hero-author strong {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+    .hero-meta {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+    }
+    .hero-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-size: 0.8125rem;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+    }
+    .hero-meta-item .value {
+      color: var(--text-secondary);
+      font-weight: 600;
+    }
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    /* ── Buttons ── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.625rem 1.25rem;
+      border-radius: var(--radius);
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: all var(--transition);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .btn-primary {
+      background: var(--accent);
+      color: #0a0a0f;
+      border-color: var(--accent);
+    }
+    .btn-primary:hover {
+      background: #b8f04a;
+      box-shadow: 0 0 20px var(--accent-glow-strong);
+    }
+    .btn-secondary {
+      background: var(--bg-card);
+      color: var(--text-primary);
+      border-color: var(--border);
+    }
+    .btn-secondary:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--text-muted);
+    }
+    .btn-ghost {
+      background: transparent;
+      color: var(--text-secondary);
+      border-color: transparent;
+    }
+    .btn-ghost:hover {
+      color: var(--text-primary);
+      background: var(--bg-card);
+    }
+
+    /* ── Quote Card ── */
+    .quote-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: clamp(1.25rem, 3vw, 1.75rem);
+      transition: border-color var(--transition), background var(--transition), box-shadow var(--transition);
+      position: relative;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    }
+    .quote-card:hover {
+      border-color: var(--text-muted);
+      background: var(--bg-card-hover);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    }
+    .quote-card-text {
+      font-family: var(--font-mono);
+      font-size: clamp(0.9375rem, 2vw, 1.125rem);
+      font-weight: 500;
+      line-height: 1.55;
+      letter-spacing: -0.01em;
+      color: var(--text-primary);
+      margin-bottom: 1rem;
+      text-wrap: pretty;
+    }
+    .quote-card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .quote-card-author {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+    .quote-card-author strong {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+    .quote-card-badges {
+      display: flex;
+      gap: 0.375rem;
+      flex-wrap: wrap;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      font-weight: 600;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      background: var(--bg-input);
+      color: var(--text-secondary);
+      border: 1px solid var(--border);
+    }
+    .badge-spice { border-color: var(--border); }
+    .badge-grug { border-color: var(--border); }
+    .quote-card-tags {
+      display: flex;
+      gap: 0.375rem;
+      flex-wrap: wrap;
+      margin-top: 0.75rem;
+    }
+    .tag {
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      color: var(--accent-dim);
+      background: var(--accent-glow);
+      padding: 0.1875rem 0.5rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all var(--transition);
+      border: none;
+      text-decoration: none;
+    }
+    .tag:hover {
+      color: var(--accent);
+      background: var(--accent-glow-strong);
+    }
+    .quote-card-actions {
+      display: flex;
+      gap: 0.25rem;
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      opacity: 0;
+      transition: opacity var(--transition);
+    }
+    .quote-card:hover .quote-card-actions { opacity: 1; }
+    .quote-card-actions button {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 32px;
+      height: 32px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8125rem;
+      transition: all var(--transition);
+    }
+    .quote-card-actions button:hover {
+      color: var(--text-primary);
+      border-color: var(--text-muted);
+    }
+    .quote-card-actions button.copied {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    /* ── Category Grid ── */
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 0.75rem;
+    }
+    .category-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.25rem;
+      cursor: pointer;
+      transition: all var(--transition);
+      text-decoration: none;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .category-card:hover {
+      border-color: var(--accent);
+      background: var(--bg-card-hover);
+    }
+    .category-card.active {
+      border-color: var(--accent);
+      background: var(--accent-glow);
+    }
+    .category-card-name {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      font-weight: 600;
+    }
+    .category-card-count {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Search ── */
+    .search-bar {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    .search-bar input {
+      width: 100%;
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      padding: 0.75rem 1rem 0.75rem 2.75rem;
+      background: var(--bg-input);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text-primary);
+      outline: none;
+      transition: border-color var(--transition), box-shadow var(--transition);
+    }
+    .search-bar input::placeholder { color: var(--text-muted); }
+    .search-bar input:focus {
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+    .search-bar .search-icon {
+      position: absolute;
+      left: 0.875rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      pointer-events: none;
+    }
+    .search-bar .search-count {
+      position: absolute;
+      right: 0.875rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Stats ── */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+    }
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.25rem;
+      text-align: center;
+      transition: border-color var(--transition);
+    }
+    .stat-card:hover {
+      border-color: var(--accent-dim);
+    }
+    .stat-value {
+      font-family: var(--font-mono);
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      font-weight: 800;
+      color: var(--accent);
+      letter-spacing: -0.03em;
+    }
+    .stat-label {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    /* ── Distribution bars ── */
+    .dist-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.5rem;
+    }
+    .dist-label {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      min-width: 80px;
+      text-align: right;
+    }
+    .dist-bar {
+      flex: 1;
+      height: 8px;
+      background: var(--bg-input);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .dist-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 600ms ease-out;
+    }
+    .dist-count {
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      color: var(--text-muted);
+      min-width: 28px;
+    }
+
+    /* ── Submit Form ── */
+    .submit-form {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: clamp(1.5rem, 3vw, 2rem);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.375rem;
+    }
+    .form-group.full { grid-column: 1 / -1; }
+    .form-group label {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+      letter-spacing: 0.02em;
+    }
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      padding: 0.625rem 0.875rem;
+      background: var(--bg-input);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text-primary);
+      outline: none;
+      transition: border-color var(--transition), box-shadow var(--transition);
+    }
+    .form-group input::placeholder,
+    .form-group textarea::placeholder { color: var(--text-muted); }
+    .form-group input:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+    .form-group textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+    .form-group select {
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%239090a8' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
+      padding-right: 2rem;
+    }
+    .form-group select option {
+      background: var(--bg-card);
+      color: var(--text-primary);
+    }
+    .form-actions {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 1.5rem;
+    }
+    .form-note {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      margin-top: 1rem;
+      line-height: 1.5;
+    }
+    .form-note a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .form-note a:hover { text-decoration: underline; }
+
+    /* ── API Docs ── */
+    .api-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+    }
+    .api-table th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+      border-bottom: 1px solid var(--border);
+      font-size: 0.75rem;
+      letter-spacing: 0.03em;
+    }
+    .api-table td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid rgba(42, 42, 58, 0.5);
+      vertical-align: top;
+    }
+    .api-table tr:hover td { background: var(--bg-card); }
+    .api-table code {
+      background: var(--bg-input);
+      padding: 0.1875rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.8125rem;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+    .api-table .desc {
+      color: var(--text-secondary);
+      font-family: var(--font-sans);
+      font-size: 0.8125rem;
+    }
+
+    /* ── Toast ── */
+    .toast {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      background: var(--bg-elevated);
+      border: 1px solid var(--accent);
+      color: var(--accent);
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      padding: 0.75rem 1.25rem;
+      border-radius: var(--radius);
+      z-index: 1000;
+      transform: translateY(120%);
+      opacity: 0;
+      transition: transform 300ms ease-out, opacity 300ms ease-out;
+    }
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* ── Skeleton ── */
+    .skeleton {
+      background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-card-hover) 50%, var(--bg-card) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s ease-in-out infinite;
+      border-radius: var(--radius);
+    }
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* ── Load more ── */
+    .load-more {
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    /* ── Divider ── */
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 0;
+      border: none;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem clamp(1rem, 3vw, 2rem);
+      text-align: center;
+    }
+    .footer-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
+    }
+    .footer p {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+    .footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .footer a:hover { text-decoration: underline; }
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .footer-links a {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    .footer-links a:hover { color: var(--text-primary); }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .nav-links { display: none; }
+      .nav-links.open {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 56px;
+        left: 0;
+        right: 0;
+        background: var(--bg-elevated);
+        border-bottom: 1px solid var(--border);
+        padding: 0.5rem;
+        gap: 0;
+      }
+      .nav-links.open a { padding: 0.75rem 1rem; }
+      .nav-hamburger { display: block; }
+      .form-row { grid-template-columns: 1fr; }
+      .quote-card-actions { opacity: 1; }
+      .hero-meta { gap: 1rem; }
+      .category-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+    }
+
+    /* ── Reduced motion ── */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+
+    /* ── View transitions ── */
+    .view { display: none; }
+    .view.active { display: block; }
+
+    /* ── Quote list grid ── */
+    .quote-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    /* ── Category pills (inline filter) ── */
+    .filter-bar {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+    .filter-pill {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.375rem 0.875rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .filter-pill:hover {
+      border-color: var(--text-muted);
+      color: var(--text-primary);
+    }
+    .filter-pill.active {
+      border-color: var(--accent);
+      background: var(--accent-glow);
+      color: var(--accent);
+    }
+
+    /* ── Spice/grug indicators ── */
+    .spice-indicator {
+      display: inline-flex;
+      gap: 2px;
+    }
+    .spice-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--border);
+    }
+    .spice-dot.filled {
+      background: var(--spice-color, var(--accent));
+    }
+
+    /* ── Scroll to top ── */
+    .scroll-top {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 1.5rem;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-size: 1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all var(--transition);
+      z-index: 50;
+    }
+    .scroll-top.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .scroll-top:hover {
+      color: var(--text-primary);
+      border-color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Nav -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-logo" onclick="showView('home'); return false;">
+        <span class="accent">💬</span> based<span class="accent">_</span>dev<span class="accent">_</span>quotes
+      </a>
+      <button class="nav-hamburger" onclick="toggleMobileNav()" aria-label="Menu">☰</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#" onclick="showView('home'); return false;" class="active" data-view="home">Home</a></li>
+        <li><a href="#" onclick="showView('browse'); return false;" data-view="browse">Browse</a></li>
+        <li><a href="#" onclick="showView('stats'); return false;" data-view="stats">Stats</a></li>
+        <li><a href="#" onclick="showView('submit'); return false;" data-view="submit">Submit</a></li>
+        <li><a href="#" onclick="showView('api'); return false;" data-view="api">API</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Home View -->
+  <div id="view-home" class="view active">
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-badge">
+          <span class="dot"></span>
+          Quote of the Day
+        </div>
+        <div id="hero-quote" class="hero-quote">
+          <div class="skeleton" style="height: 2.5rem; width: 80%; margin: 0 auto 1rem;"></div>
+          <div class="skeleton" style="height: 1.5rem; width: 40%; margin: 0 auto;"></div>
+        </div>
+        <div id="hero-author" class="hero-author"></div>
+        <div id="hero-meta" class="hero-meta"></div>
+        <div class="hero-actions">
+          <button class="btn btn-primary" onclick="showView('browse')">
+            Browse All Quotes
+          </button>
+          <button class="btn btn-secondary" onclick="randomQuote()">
+            🎲 Random Quote
+          </button>
+          <button class="btn btn-ghost" onclick="copyCurrentQuote()" id="copyBtn">
+            📋 Copy
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider">
+
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">Categories</h2>
+        <p class="section-subtitle">Find quotes by vibe</p>
+      </div>
+      <div id="category-grid" class="category-grid"></div>
+    </section>
+
+    <hr class="divider">
+
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">Recent Quotes</h2>
+        <p class="section-subtitle">Fresh from the grug brain</p>
+      </div>
+      <div id="recent-quotes" class="quote-list"></div>
+      <div class="load-more">
+        <button class="btn btn-secondary" onclick="showView('browse')">View All →</button>
+      </div>
+    </section>
+  </div>
+
+  <!-- Browse View -->
+  <div id="view-browse" class="view">
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">Browse Quotes</h2>
+        <p class="section-subtitle" id="browse-count"></p>
+      </div>
+
+      <div class="search-bar">
+        <span class="search-icon">⌕</span>
+        <input type="text" id="search-input" placeholder="Search quotes, authors, tags..." oninput="filterQuotes()">
+        <span class="search-count" id="search-count"></span>
+      </div>
+
+      <div id="filter-pills" class="filter-bar"></div>
+
+      <div id="browse-quotes" class="quote-list"></div>
+
+      <div class="load-more" id="load-more-container">
+        <button class="btn btn-secondary" id="load-more-btn" onclick="loadMore()">Load More</button>
+      </div>
+    </section>
+  </div>
+
+  <!-- Stats View -->
+  <div id="view-stats" class="view">
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">Dataset Stats</h2>
+        <p class="section-subtitle">The numbers behind the wisdom</p>
+      </div>
+
+      <div id="stats-overview" class="stats-grid" style="margin-bottom: 2.5rem;"></div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 2rem;">
+        <div>
+          <h3 style="font-family: var(--font-mono); font-size: 0.875rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 1rem;">🧠 Grug Level</h3>
+          <div id="grug-dist"></div>
+        </div>
+        <div>
+          <h3 style="font-family: var(--font-mono); font-size: 0.875rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 1rem;">🌶️ Spiciness</h3>
+          <div id="spice-dist"></div>
+        </div>
+      </div>
+
+      <h3 style="font-family: var(--font-mono); font-size: 0.875rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 1rem;">Top Tags</h3>
+      <div id="top-tags" style="display: flex; flex-wrap: wrap; gap: 0.5rem;"></div>
+    </section>
+  </div>
+
+  <!-- Submit View -->
+  <div id="view-submit" class="view">
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">Submit a Quote</h2>
+        <p class="section-subtitle">Got a based take? Share it with the masses masses masses.</p>
+      </div>
+
+      <div class="submit-form">
+        <div class="form-row">
+          <div class="form-group full">
+            <label for="submit-text">Quote *</label>
+            <textarea id="submit-text" placeholder="Your most based programming take..." required></textarea>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="submit-author">Author *</label>
+            <input type="text" id="submit-author" placeholder="e.g. The Grug Brained Developer" required>
+          </div>
+          <div class="form-group">
+            <label for="submit-source">Source</label>
+            <input type="text" id="submit-source" placeholder="e.g. grugbrain.dev">
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="submit-source-url">Source URL</label>
+            <input type="url" id="submit-source-url" placeholder="https://...">
+          </div>
+          <div class="form-group">
+            <label for="submit-categories">Categories</label>
+            <select id="submit-categories" multiple>
+              <option value="grug">🧠 grug</option>
+              <option value="suffering">🔥 suffering</option>
+              <option value="indie-hacker">🚀 indie-hacker</option>
+              <option value="unix">🐧 unix</option>
+              <option value="debugging">🐛 debugging</option>
+              <option value="complexity">🏗️ complexity</option>
+              <option value="shipping">📦 shipping</option>
+              <option value="career">💼 career</option>
+              <option value="wisdom">📜 wisdom</option>
+              <option value="shitpost">💩 shitpost</option>
+              <option value="founder">🏴‍☠️ founder</option>
+              <option value="tools">🔧 tools</option>
+              <option value="funny">😂 funny</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="submit-tags">Tags (comma-separated)</label>
+            <input type="text" id="submit-tags" placeholder="e.g. simplicity, complexity, classic">
+          </div>
+          <div class="form-group">
+            <label for="submit-grug">Grug Level (1-5)</label>
+            <select id="submit-grug">
+              <option value="3">3 — Balanced</option>
+              <option value="1">1 — Academic</option>
+              <option value="2">2 — Thoughtful</option>
+              <option value="4">4 — Pragmatic</option>
+              <option value="5">5 — Full grug</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="submit-spice">Spiciness (1-5)</label>
+            <select id="submit-spice">
+              <option value="1">1 — Universal</option>
+              <option value="2">2 — Mild</option>
+              <option value="3">3 — Warm</option>
+              <option value="4">4 — Hot</option>
+              <option value="5">5 — Thermonuclear</option>
+            </select>
+          </div>
+          <div class="form-group"></div>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-primary" onclick="submitQuote()">
+            Submit via GitHub →
+          </button>
+          <button class="btn btn-secondary" onclick="previewQuote()">
+            Preview
+          </button>
+        </div>
+        <p class="form-note">
+          Quotes are submitted as <a href="https://github.com/jack-kitto/based-dev-quotes/issues" target="_blank" rel="noopener">GitHub Issues</a> for review.
+          We curate for quality — no LinkedIn motivational garbage, no AI-generated slop.
+        </p>
+      </div>
+    </section>
+  </div>
+
+  <!-- API View -->
+  <div id="view-api" class="view">
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">API Reference</h2>
+        <p class="section-subtitle">Static JSON on a CDN. No API key. No rate limits. No server.</p>
+      </div>
+
+      <div style="margin-bottom: 2rem;">
+        <h3 style="font-family: var(--font-mono); font-size: 0.875rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.75rem;">Base URL</h3>
+        <code style="font-family: var(--font-mono); font-size: 0.875rem; color: var(--accent); background: var(--bg-card); padding: 0.5rem 1rem; border-radius: var(--radius); display: block; word-break: break-all;">
+          https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1
+        </code>
+      </div>
+
+      <div style="overflow-x: auto;">
+        <table class="api-table">
+          <thead>
+            <tr>
+              <th>Endpoint</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code>/today.json</code></td>
+              <td class="desc">Quote of the day (deterministic, same for everyone)</td>
+            </tr>
+            <tr>
+              <td><code>/random.json</code></td>
+              <td class="desc">Random quote (rotated daily)</td>
+            </tr>
+            <tr>
+              <td><code>/random/{1-20}.json</code></td>
+              <td class="desc">Pre-shuffled random slots</td>
+            </tr>
+            <tr>
+              <td><code>/all.json</code></td>
+              <td class="desc">Full dataset — all quotes with metadata</td>
+            </tr>
+            <tr>
+              <td><code>/stats.json</code></td>
+              <td class="desc">Dataset statistics</td>
+            </tr>
+            <tr>
+              <td><code>/categories/index.json</code></td>
+              <td class="desc">List all categories with counts</td>
+            </tr>
+            <tr>
+              <td><code>/categories/{slug}.json</code></td>
+              <td class="desc">Quotes filtered by category</td>
+            </tr>
+            <tr>
+              <td><code>/authors/index.json</code></td>
+              <td class="desc">List all authors with counts</td>
+            </tr>
+            <tr>
+              <td><code>/authors/{slug}.json</code></td>
+              <td class="desc">Quotes filtered by author</td>
+            </tr>
+            <tr>
+              <td><code>/tags/index.json</code></td>
+              <td class="desc">List all tags with counts</td>
+            </tr>
+            <tr>
+              <td><code>/tags/{slug}.json</code></td>
+              <td class="desc">Quotes filtered by tag</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div style="margin-top: 3rem;">
+        <h3 style="font-family: var(--font-mono); font-size: 0.875rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 1rem;">Quick Examples</h3>
+
+        <div style="margin-bottom: 1.5rem;">
+          <h4 style="font-family: var(--font-mono); font-size: 0.8125rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem;">JavaScript</h4>
+          <pre style="background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; overflow-x: auto; font-family: var(--font-mono); font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.6;"><code><span style="color: var(--accent);">const</span> quote = <span style="color: var(--accent);">await</span> fetch(
+  <span style="color: var(--spice-1);">'https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1/today.json'</span>
+).then(r => r.json())
+
+console.log(<span style="color: var(--spice-1);">`"${quote.text}"\n  — ${quote.author}`</span>)</code></pre>
+        </div>
+
+        <div style="margin-bottom: 1.5rem;">
+          <h4 style="font-family: var(--font-mono); font-size: 0.8125rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem;">Python</h4>
+          <pre style="background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; overflow-x: auto; font-family: var(--font-mono); font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.6;"><code><span style="color: var(--accent);">import</span> httpx
+
+quote = httpx.get(<span style="color: var(--spice-1);">"https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1/today.json"</span>).json()
+print(f<span style="color: var(--spice-1);">'"${quote["text"]}"\n  — ${quote["author"]}'</span>)</code></pre>
+        </div>
+
+        <div>
+          <h4 style="font-family: var(--font-mono); font-size: 0.8125rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem;">Terminal MOTD</h4>
+          <pre style="background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; overflow-x: auto; font-family: var(--font-mono); font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.6;"><code>curl -sf https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1/today.json \
+  | jq -r '"💬 \"\(.text)\"\n  — \(.author)"' 2>/dev/null</code></pre>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Scroll to top -->
+  <button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top:0})" aria-label="Scroll to top">↑</button>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <p>
+        MIT License · Built with <a href="https://github.com/jack-kitto/based-dev-quotes" target="_blank" rel="noopener">static JSON on a CDN</a> · Cost to run: $0.00/month
+      </p>
+      <div class="footer-links">
+        <a href="https://github.com/jack-kitto/based-dev-quotes" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1/all.json" target="_blank" rel="noopener">Raw Data</a>
+        <a href="https://github.com/jack-kitto/based-dev-quotes/issues" target="_blank" rel="noopener">Submit Quote</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // ── Config ──
+    const API_BASE = 'https://cdn.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/api/v1';
+    const QUOTES_PER_PAGE = 20;
+    const CATEGORY_EMOJI = {
+      grug: '🧠', suffering: '🔥', 'indie-hacker': '🚀', unix: '🐧',
+      debugging: '🐛', complexity: '🏗️', shipping: '📦', career: '💼',
+      wisdom: '📜', shitpost: '💩', founder: '🏴‍☠️', tools: '🔧', funny: '😂'
+    };
+    const GRUG_LABELS = { 1: 'Academic', 2: 'Thoughtful', 3: 'Balanced', 4: 'Pragmatic', 5: 'Full grug' };
+    const SPICE_LABELS = { 1: 'Universal', 2: 'Mild', 3: 'Warm', 4: 'Hot', 5: 'Thermonuclear' };
+    const GRUG_COLORS = { 1: '#94a3b8', 2: '#a3e635', 3: '#facc15', 4: '#f97316', 5: '#ef4444' };
+    const SPICE_COLORS = { 1: '#60a5fa', 2: '#a3e635', 3: '#facc15', 4: '#f97316', 5: '#ef4444' };
+
+    // ── State ──
+    let allQuotes = [];
+    let filteredQuotes = [];
+    let displayedCount = 0;
+    let activeCategory = null;
+    let currentQuote = null;
+    let statsData = null;
+
+    // ── Init ──
+    document.addEventListener('DOMContentLoaded', () => {
+      loadData();
+      setupScrollTop();
+      handleHash();
+    });
+
+    window.addEventListener('hashchange', handleHash);
+
+    function handleHash() {
+      const hash = location.hash.slice(1);
+      if (hash && document.getElementById('view-' + hash)) {
+        showView(hash);
+      }
+    }
+
+    async function loadData() {
+      try {
+        const [allRes, todayRes, catsRes, statsRes] = await Promise.all([
+          fetch(`${API_BASE}/all.json`),
+          fetch(`${API_BASE}/today.json`),
+          fetch(`${API_BASE}/categories/index.json`),
+          fetch(`${API_BASE}/stats.json`)
+        ]);
+        const allData = await allRes.json();
+        allQuotes = allData.quotes;
+        currentQuote = await todayRes.json();
+        const catsData = await catsRes.json();
+        statsData = await statsRes.json();
+
+        renderHero();
+        renderCategories(catsData.categories);
+        renderRecent();
+        renderStats();
+        renderFilterPills(catsData.categories);
+      } catch (err) {
+        console.error('Failed to load data:', err);
+        showToast('Failed to load quotes. Check your connection.');
+      }
+    }
+
+    // ── Views ──
+    function showView(name) {
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      const view = document.getElementById('view-' + name);
+      if (view) view.classList.add('active');
+
+      document.querySelectorAll('.nav-links a').forEach(a => {
+        a.classList.toggle('active', a.dataset.view === name);
+      });
+
+      location.hash = name === 'home' ? '' : name;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      if (name === 'browse') {
+        filteredQuotes = [...allQuotes];
+        displayedCount = 0;
+        renderBrowseQuotes();
+      }
+
+      closeMobileNav();
+    }
+
+    function toggleMobileNav() {
+      document.getElementById('navLinks').classList.toggle('open');
+    }
+
+    function closeMobileNav() {
+      document.getElementById('navLinks').classList.remove('open');
+    }
+
+    // ── Hero ──
+    function renderHero() {
+      if (!currentQuote) return;
+      const q = currentQuote;
+      document.getElementById('hero-quote').innerHTML = `"${escapeHtml(q.text)}"`;
+      document.getElementById('hero-author').innerHTML = `— <strong>${escapeHtml(q.author)}</strong>`;
+
+      const metaHtml = [];
+      if (q.categories && q.categories.length) {
+        metaHtml.push(`<span class="hero-meta-item">📂 ${q.categories.map(c => `<span class="value">${escapeHtml(c)}</span>`).join(', ')}</span>`);
+      }
+      if (q.grug_level) {
+        metaHtml.push(`<span class="hero-meta-item">🧠 <span class="value">${q.grug_level}/5</span> ${GRUG_LABELS[q.grug_level] || ''}</span>`);
+      }
+      if (q.spiciness) {
+        metaHtml.push(`<span class="hero-meta-item">🌶️ <span class="value">${q.spiciness}/5</span> ${SPICE_LABELS[q.spiciness] || ''}</span>`);
+      }
+      document.getElementById('hero-meta').innerHTML = metaHtml.join('');
+    }
+
+    // ── Random Quote ──
+    function randomQuote() {
+      if (!allQuotes.length) return;
+      const idx = Math.floor(Math.random() * allQuotes.length);
+      currentQuote = allQuotes[idx];
+      renderHero();
+      showView('home');
+      showToast('🎲 Random quote loaded!');
+    }
+
+    function copyCurrentQuote() {
+      if (!currentQuote) return;
+      const text = `"${currentQuote.text}"\n  — ${currentQuote.author}`;
+      navigator.clipboard.writeText(text).then(() => {
+        showToast('📋 Copied to clipboard!');
+      });
+    }
+
+    // ── Categories ──
+    function renderCategories(categories) {
+      const grid = document.getElementById('category-grid');
+      const sorted = Object.entries(categories).sort((a, b) => b[1].count - a[1].count);
+      grid.innerHTML = sorted.map(([slug, data]) => `
+        <a class="category-card" href="#browse" onclick="filterByCategory('${slug}'); return false;">
+          <span class="category-card-name">${CATEGORY_EMOJI[slug] || '📄'} ${slug}</span>
+          <span class="category-card-count">${data.count}</span>
+        </a>
+      `).join('');
+    }
+
+    function filterByCategory(slug) {
+      activeCategory = slug;
+      showView('browse');
+      filteredQuotes = allQuotes.filter(q => q.categories && q.categories.includes(slug));
+      displayedCount = 0;
+      renderBrowseQuotes();
+      updateFilterPills();
+    }
+
+    // ── Filter Pills ──
+    function renderFilterPills(categories) {
+      const container = document.getElementById('filter-pills');
+      const sorted = Object.entries(categories).sort((a, b) => b[1].count - a[1].count);
+      container.innerHTML = `
+        <button class="filter-pill active" onclick="clearFilter()">All</button>
+        ${sorted.map(([slug, data]) => `
+          <button class="filter-pill" data-cat="${slug}" onclick="filterByCategory('${slug}')">
+            ${CATEGORY_EMOJI[slug] || ''} ${slug} (${data.count})
+          </button>
+        `).join('')}
+      `;
+    }
+
+    function updateFilterPills() {
+      document.querySelectorAll('.filter-pill').forEach(pill => {
+        const cat = pill.dataset.cat;
+        pill.classList.toggle('active', cat ? cat === activeCategory : !activeCategory);
+      });
+    }
+
+    function clearFilter() {
+      activeCategory = null;
+      filteredQuotes = [...allQuotes];
+      displayedCount = 0;
+      renderBrowseQuotes();
+      updateFilterPills();
+    }
+
+    // ── Browse ──
+    function filterQuotes() {
+      const query = document.getElementById('search-input').value.toLowerCase().trim();
+      if (!query) {
+        filteredQuotes = activeCategory
+          ? allQuotes.filter(q => q.categories && q.categories.includes(activeCategory))
+          : [...allQuotes];
+      } else {
+        filteredQuotes = allQuotes.filter(q => {
+          const searchable = [
+            q.text, q.author, q.source,
+            ...(q.categories || []), ...(q.tags || [])
+          ].join(' ').toLowerCase();
+          return searchable.includes(query);
+        });
+      }
+      displayedCount = 0;
+      renderBrowseQuotes();
+    }
+
+    function renderBrowseQuotes() {
+      const container = document.getElementById('browse-quotes');
+      const countEl = document.getElementById('browse-count');
+      const searchCountEl = document.getElementById('search-count');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+
+      countEl.textContent = `${filteredQuotes.length} quotes${activeCategory ? ` in ${activeCategory}` : ''}`;
+      searchCountEl.textContent = filteredQuotes.length < allQuotes.length ? `${filteredQuotes.length}/${allQuotes.length}` : '';
+
+      if (displayedCount === 0) {
+        container.innerHTML = '';
+      }
+
+      const end = Math.min(displayedCount + QUOTES_PER_PAGE, filteredQuotes.length);
+      const fragment = document.createDocumentFragment();
+
+      for (let i = displayedCount; i < end; i++) {
+        const card = createQuoteCard(filteredQuotes[i]);
+        fragment.appendChild(card);
+      }
+
+      container.appendChild(fragment);
+      displayedCount = end;
+
+      loadMoreBtn.style.display = displayedCount < filteredQuotes.length ? '' : 'none';
+    }
+
+    function loadMore() {
+      renderBrowseQuotes();
+    }
+
+    // ── Recent Quotes ──
+    function renderRecent() {
+      const container = document.getElementById('recent-quotes');
+      const recent = allQuotes.slice(-6).reverse();
+      recent.forEach(q => {
+        container.appendChild(createQuoteCard(q));
+      });
+    }
+
+    // ── Quote Card ──
+    function createQuoteCard(q) {
+      const card = document.createElement('div');
+      card.className = 'quote-card';
+
+      const spiceColor = SPICE_COLORS[q.spiciness] || '#60a5fa';
+      const grugColor = GRUG_COLORS[q.grug_level] || '#94a3b8';
+
+      let badgesHtml = '';
+      if (q.grug_level) {
+        badgesHtml += `<span class="badge badge-grug" title="Grug Level: ${GRUG_LABELS[q.grug_level]}">🧠 ${q.grug_level}/5</span>`;
+      }
+      if (q.spiciness) {
+        badgesHtml += `<span class="badge badge-spice" title="Spiciness: ${SPICE_LABELS[q.spiciness]}">🌶️ ${q.spiciness}/5</span>`;
+      }
+
+      let tagsHtml = '';
+      if (q.tags && q.tags.length) {
+        tagsHtml = `<div class="quote-card-tags">
+          ${q.tags.slice(0, 5).map(t => `<span class="tag" onclick="searchTag('${escapeAttr(t)}')">${escapeHtml(t)}</span>`).join('')}
+          ${q.tags.length > 5 ? `<span class="tag" style="cursor: default; opacity: 0.5;">+${q.tags.length - 5}</span>` : ''}
+        </div>`;
+      }
+
+      let sourceHtml = '';
+      if (q.source_url) {
+        sourceHtml = ` · <a href="${escapeAttr(q.source_url)}" target="_blank" rel="noopener" style="color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted);">${escapeHtml(q.source || 'source')}</a>`;
+      }
+
+      card.innerHTML = `
+        <div class="quote-card-actions">
+          <button onclick="copyQuote('${escapeAttr(q.text)}', '${escapeAttr(q.author)}')" title="Copy">📋</button>
+          <button onclick="shareTwitter('${escapeAttr(q.text)}', '${escapeAttr(q.author)}')" title="Share on X">𝕏</button>
+        </div>
+        <div class="quote-card-text">"${escapeHtml(q.text)}"</div>
+        <div class="quote-card-footer">
+          <div class="quote-card-author">— <strong>${escapeHtml(q.author)}</strong>${sourceHtml}</div>
+          <div class="quote-card-badges">${badgesHtml}</div>
+        </div>
+        ${tagsHtml}
+      `;
+
+      return card;
+    }
+
+    // ── Stats ──
+    function renderStats() {
+      if (!statsData) return;
+
+      const overview = document.getElementById('stats-overview');
+      overview.innerHTML = `
+        <div class="stat-card"><div class="stat-value">${statsData.total_quotes}</div><div class="stat-label">Quotes</div></div>
+        <div class="stat-card"><div class="stat-value">${statsData.total_authors}</div><div class="stat-label">Authors</div></div>
+        <div class="stat-card"><div class="stat-value">${statsData.total_categories}</div><div class="stat-label">Categories</div></div>
+        <div class="stat-card"><div class="stat-value">${statsData.total_tags}</div><div class="stat-label">Tags</div></div>
+      `;
+
+      // Grug distribution
+      const grugContainer = document.getElementById('grug-dist');
+      const grugMax = Math.max(...Object.values(statsData.grug_level_distribution));
+      grugContainer.innerHTML = Object.entries(statsData.grug_level_distribution)
+        .sort((a, b) => a[0] - b[0])
+        .map(([level, count]) => `
+          <div class="dist-row">
+            <span class="dist-label">Level ${level}</span>
+            <div class="dist-bar">
+              <div class="dist-bar-fill" style="width: ${(count / grugMax * 100)}%; background: ${GRUG_COLORS[level]};"></div>
+            </div>
+            <span class="dist-count">${count}</span>
+          </div>
+        `).join('');
+
+      // Spice distribution
+      const spiceContainer = document.getElementById('spice-dist');
+      const spiceMax = Math.max(...Object.values(statsData.spiciness_distribution));
+      spiceContainer.innerHTML = Object.entries(statsData.spiciness_distribution)
+        .sort((a, b) => a[0] - b[0])
+        .map(([level, count]) => `
+          <div class="dist-row">
+            <span class="dist-label">Level ${level}</span>
+            <div class="dist-bar">
+              <div class="dist-bar-fill" style="width: ${(count / spiceMax * 100)}%; background: ${SPICE_COLORS[level]};"></div>
+            </div>
+            <span class="dist-count">${count}</span>
+          </div>
+        `).join('');
+
+      // Top tags (load lazily)
+      loadTopTags();
+    }
+
+    async function loadTopTags() {
+      try {
+        const res = await fetch(`${API_BASE}/tags/index.json`);
+        const data = await res.json();
+        const topTags = Object.entries(data.tags)
+          .sort((a, b) => b[1].count - a[1].count)
+          .slice(0, 30);
+
+        const container = document.getElementById('top-tags');
+        container.innerHTML = topTags.map(([slug, t]) => `
+          <span class="tag" onclick="searchTag('${escapeAttr(slug)}')" style="font-size: ${Math.max(0.6875, 0.6875 + t.count * 0.02)}rem; padding: 0.25rem 0.625rem;">
+            ${escapeHtml(slug)} (${t.count})
+          </span>
+        `).join('');
+      } catch (err) {
+        console.error('Failed to load tags:', err);
+      }
+    }
+
+    // ── Submit ──
+    function submitQuote() {
+      const text = document.getElementById('submit-text').value.trim();
+      const author = document.getElementById('submit-author').value.trim();
+      const source = document.getElementById('submit-source').value.trim();
+      const sourceUrl = document.getElementById('submit-source-url').value.trim();
+      const categoriesSelect = document.getElementById('submit-categories');
+      const categories = Array.from(categoriesSelect.selectedOptions).map(o => o.value);
+      const tags = document.getElementById('submit-tags').value.split(',').map(t => t.trim()).filter(Boolean);
+      const grug = document.getElementById('submit-grug').value;
+      const spice = document.getElementById('submit-spice').value;
+
+      if (!text) { showToast('⚠️ Quote text is required'); return; }
+      if (!author) { showToast('⚠️ Author is required'); return; }
+
+      const body = [
+        '## Quote',
+        `> ${text}`,
+        '',
+        '## Details',
+        `- **Author:** ${author}`,
+        source ? `- **Source:** ${source}` : '',
+        sourceUrl ? `- **Source URL:** ${sourceUrl}` : '',
+        categories.length ? `- **Categories:** ${categories.join(', ')}` : '',
+        tags.length ? `- **Tags:** ${tags.join(', ')}` : '',
+        `- **Grug Level:** ${grug}/5`,
+        `- **Spiciness:** ${spice}/5`,
+        '',
+        '_Submitted via the based dev quotes website_'
+      ].filter(Boolean).join('\n');
+
+      const title = `Quote: "${text.slice(0, 60)}${text.length > 60 ? '...' : ''}"`;
+      const url = `https://github.com/jack-kitto/based-dev-quotes/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=submission`;
+
+      window.open(url, '_blank');
+      showToast('🔗 Opening GitHub issue...');
+    }
+
+    function previewQuote() {
+      const text = document.getElementById('submit-text').value.trim();
+      const author = document.getElementById('submit-author').value.trim();
+      if (!text) { showToast('⚠️ Enter a quote to preview'); return; }
+
+      const preview = {
+        text: text,
+        author: author || 'Unknown',
+        grug_level: parseInt(document.getElementById('submit-grug').value),
+        spiciness: parseInt(document.getElementById('submit-spice').value),
+        tags: document.getElementById('submit-tags').value.split(',').map(t => t.trim()).filter(Boolean),
+        categories: Array.from(document.getElementById('submit-categories').selectedOptions).map(o => o.value)
+      };
+
+      currentQuote = preview;
+      renderHero();
+      showView('home');
+      showToast('👀 Preview loaded on home page');
+    }
+
+    // ── Helpers ──
+    function copyQuote(text, author) {
+      const full = `"${text}"\n  — ${author}`;
+      navigator.clipboard.writeText(full).then(() => {
+        showToast('📋 Copied!');
+      });
+    }
+
+    function shareTwitter(text, author) {
+      const tweet = `"${text}" — ${author}\n\nhttps://baseddevquotes.com`;
+      window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweet)}`, '_blank');
+    }
+
+    function searchTag(tag) {
+      document.getElementById('search-input').value = tag;
+      showView('browse');
+      filterQuotes();
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      clearTimeout(toast._timeout);
+      toast._timeout = setTimeout(() => toast.classList.remove('show'), 2500);
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    function escapeAttr(str) {
+      return str.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    }
+
+    function setupScrollTop() {
+      const btn = document.getElementById('scrollTop');
+      window.addEventListener('scroll', () => {
+        btn.classList.toggle('visible', window.scrollY > 400);
+      });
+    }
+  </script>
+</body>
+</html>
