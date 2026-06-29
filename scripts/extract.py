@@ -115,7 +115,10 @@ def call_llm(prompt: str, content: str) -> str:
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read())
-            return result["choices"][0]["message"]["content"]
+            content = result["choices"][0]["message"]["content"]
+            if content is None:
+                raise ValueError(f"LLM returned null content: {json.dumps(result)[:500]}")
+            return content
     except urllib.error.HTTPError as e:
         body = e.read().decode()
         print(f"❌ LLM API error {e.code}: {body[:200]}", file=sys.stderr)
@@ -206,6 +209,9 @@ def main():
         response = call_llm(EXTRACTION_PROMPT, batch_text)
 
         # Parse response — handle markdown fences if present
+        if response is None:
+            print(f"   ❌ LLM returned empty response for batch, skipping", file=sys.stderr)
+            continue
         clean_response = response.strip()
         if clean_response.startswith("```"):
             clean_response = re.sub(r'^```(?:json)?\s*', '', clean_response)
