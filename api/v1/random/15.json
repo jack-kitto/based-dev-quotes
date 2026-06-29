@@ -1,18 +1,18 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "id": "audience-first",
+  "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Indie hacker wisdom",
   "categories": [
-    "funny",
-    "wisdom"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "audience",
+    "marketing",
+    "distribution"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

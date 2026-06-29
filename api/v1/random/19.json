@@ -1,18 +1,18 @@
 {
-  "id": "friday-deploy",
-  "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "grug-abstraction",
+  "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "funny",
-    "suffering"
+    "grug",
+    "shipping"
   ],
   "tags": [
-    "friday",
-    "deployment",
-    "fear"
+    "abstraction",
+    "pragmatism"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 3
 }

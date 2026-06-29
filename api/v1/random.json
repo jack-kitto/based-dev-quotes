@@ -1,19 +1,19 @@
 {
-  "id": "production-is-different",
-  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
-  "author": "Yogi Berra (applied to programming)",
-  "author_slug": "berra",
-  "source": "Various attributions",
+  "id": "hickey-state",
+  "text": "State. You're doing it wrong.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Are We There Yet?, JVM Language Summit 2009",
   "categories": [
-    "funny",
+    "shitpost",
     "wisdom"
   ],
   "tags": [
-    "theory",
-    "practice",
-    "production"
+    "state",
+    "functional",
+    "mutability"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "_generated_at": "2026-06-29T22:25:13.851768+00:00"
+  "spiciness": 3,
+  "_generated_at": "2026-06-29T22:29:57.564499+00:00"
 }

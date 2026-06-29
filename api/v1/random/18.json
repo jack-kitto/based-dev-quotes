@@ -1,18 +1,18 @@
 {
-  "id": "audience-first",
-  "text": "Build the audience before you build the product. Selling to strangers is hard mode.",
+  "id": "users-find-way",
+  "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Indie hacker wisdom",
+  "source": "UX folklore",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "suffering",
+    "wisdom"
   ],
   "tags": [
-    "audience",
-    "marketing",
-    "distribution"
+    "users",
+    "edge-cases",
+    "chaos"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 4,
+  "spiciness": 1
 }

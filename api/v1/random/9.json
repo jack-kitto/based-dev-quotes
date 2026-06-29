@@ -1,19 +1,17 @@
 {
-  "id": "norvig-10-years",
-  "text": "Teach Yourself Programming in Ten Years.",
-  "author": "Peter Norvig",
-  "author_slug": "norvig",
-  "source": "Essay title, 2001",
+  "id": "hickey-design-like-coding",
+  "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Design, Composition, and Performance, 2013",
   "categories": [
-    "wisdom",
-    "career"
+    "wisdom"
   ],
   "tags": [
-    "learning",
-    "mastery",
-    "patience",
-    "classic"
+    "design",
+    "decomposition",
+    "architecture"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

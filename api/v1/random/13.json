@@ -1,17 +1,17 @@
 {
-  "id": "first-rule-of-programming",
-  "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "patio11-charge-more",
+  "text": "Charge more.",
+  "author": "Patrick McKenzie (patio11)",
+  "author_slug": "patio11",
+  "source": "Accumulated indie hacker wisdom",
   "categories": [
-    "funny",
+    "indie-hacker",
     "wisdom"
   ],
   "tags": [
-    "refactoring",
-    "stability",
-    "fear"
+    "pricing",
+    "business",
+    "classic"
   ],
   "grug_level": 5,
   "spiciness": 2

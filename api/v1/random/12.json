@@ -1,18 +1,18 @@
 {
-  "id": "wulf-goto",
-  "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
-  "author": "W.A. Wulf",
-  "author_slug": "wulf",
-  "source": "A Case Against the GOTO, 1972",
+  "id": "works-on-my-machine",
+  "text": "It works on my machine. Then we'll ship your machine.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "wisdom",
-    "complexity"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "efficiency",
-    "optimization",
-    "classic"
+    "deployment",
+    "docker",
+    "containers"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 4,
+  "spiciness": 1
 }

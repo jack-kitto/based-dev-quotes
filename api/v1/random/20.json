@@ -1,19 +1,19 @@
 {
-  "id": "hofstadter-law",
-  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
-  "author": "Douglas Hofstadter",
-  "author_slug": "hofstadter",
-  "source": "Gödel, Escher, Bach, 1979",
+  "id": "grug-closures",
+  "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "funny",
-    "suffering"
+    "grug",
+    "debugging"
   ],
   "tags": [
-    "estimation",
-    "time",
-    "recursive",
-    "classic"
+    "closures",
+    "debugging",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

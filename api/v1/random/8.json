@@ -1,18 +1,18 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
+  "id": "ramen-profitable",
+  "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Indie hacker culture (term from Paul Graham)",
   "categories": [
-    "funny",
-    "shitpost"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "profitability",
+    "ramen",
+    "survival"
   ],
   "grug_level": 5,
-  "spiciness": 3
+  "spiciness": 2
 }

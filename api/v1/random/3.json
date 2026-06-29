@@ -1,19 +1,18 @@
 {
-  "id": "git-commit-messages",
-  "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter / every git log ever",
+  "id": "atwood-any-application",
+  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
+  "source": "Atwood's Law, 2007",
   "categories": [
     "funny",
-    "suffering"
+    "tools"
   ],
   "tags": [
-    "git",
-    "commits",
-    "entropy",
-    "discipline"
+    "javascript",
+    "inevitability",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

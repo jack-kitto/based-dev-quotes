@@ -1,17 +1,18 @@
 {
-  "id": "sandi-metz-wrong-abstraction",
-  "text": "Duplication is far cheaper than the wrong abstraction.",
-  "author": "Sandi Metz",
-  "author_slug": "metz",
-  "source": "The Wrong Abstraction, 2016",
+  "id": "select-star-production",
+  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "wisdom",
-    "complexity"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "abstraction",
-    "duplication",
-    "simplicity"
+    "sql",
+    "production",
+    "database",
+    "fear"
   ],
   "grug_level": 5,
   "spiciness": 3

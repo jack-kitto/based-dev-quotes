@@ -1,18 +1,19 @@
 {
-  "id": "blow-layers",
-  "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
-  "author": "Jonathan Blow",
-  "author_slug": "blow",
-  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+  "id": "6-months-avoid-reading",
+  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "complexity",
-    "wisdom"
+    "funny",
+    "suffering",
+    "debugging"
   ],
   "tags": [
-    "abstraction",
-    "layers",
-    "understanding"
+    "documentation",
+    "debugging",
+    "irony"
   ],
   "grug_level": 5,
-  "spiciness": 3
+  "spiciness": 2
 }

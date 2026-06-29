@@ -1,18 +1,20 @@
 {
-  "id": "hickey-state",
-  "text": "State. You're doing it wrong.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Are We There Yet?, JVM Language Summit 2009",
+  "id": "kubernetes-yaml",
+  "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
+    "funny",
     "shitpost",
-    "wisdom"
+    "complexity"
   ],
   "tags": [
-    "state",
-    "functional",
-    "mutability"
+    "kubernetes",
+    "yaml",
+    "devops",
+    "over-engineering"
   ],
-  "grug_level": 3,
-  "spiciness": 3
+  "grug_level": 5,
+  "spiciness": 4
 }
