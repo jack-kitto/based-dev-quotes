@@ -1,18 +1,18 @@
 {
-  "id": "10x-developer",
-  "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+  "id": "stackoverflow-driven",
+  "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter / HN discourse",
+  "source": "Dev Twitter",
   "categories": [
-    "wisdom",
-    "career"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "10x",
-    "teamwork",
-    "productivity"
+    "stackoverflow",
+    "debugging",
+    "cargo-cult"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

@@ -1,17 +1,17 @@
 {
-  "id": "mcilroy-unix-philosophy",
-  "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
-  "author": "Doug McIlroy",
-  "author_slug": "mcilroy",
-  "source": "Bell System Technical Journal, 1978",
+  "id": "two-hard-things",
+  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+  "author": "Unknown (based on Phil Karlton)",
+  "author_slug": "unknown",
+  "source": "Programming folklore / internet",
   "categories": [
-    "unix",
-    "wisdom"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "unix",
-    "philosophy",
-    "simplicity",
+    "cache",
+    "naming",
+    "off-by-one",
     "classic"
   ],
   "grug_level": 3,

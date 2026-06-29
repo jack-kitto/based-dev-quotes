@@ -1,18 +1,17 @@
 {
-  "id": "carmack-implementation",
-  "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
-  "author": "John Carmack",
-  "author_slug": "carmack",
-  "source": "Various interviews",
+  "id": "it-compiled",
+  "text": "My code doesn't have bugs. It just develops random features.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "shipping",
-    "wisdom"
+    "funny"
   ],
   "tags": [
-    "execution",
-    "implementation",
-    "ideas"
+    "bugs",
+    "features",
+    "denial"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 1
 }

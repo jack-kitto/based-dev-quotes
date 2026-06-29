@@ -1,18 +1,18 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
+  "id": "todo-later-means-never",
+  "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Every codebase ever",
   "categories": [
     "funny",
-    "shitpost"
+    "suffering"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "todo",
+    "technical-debt",
+    "procrastination"
   ],
   "grug_level": 5,
-  "spiciness": 3
+  "spiciness": 1
 }

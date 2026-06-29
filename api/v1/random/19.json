@@ -1,18 +1,18 @@
 {
-  "id": "grug-refactor",
-  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "impostor-syndrome-real",
+  "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "grug",
-    "wisdom"
+    "funny",
+    "career"
   ],
   "tags": [
-    "refactoring",
-    "discipline"
+    "impostor-syndrome",
+    "feelings",
+    "industry"
   ],
-  "grug_level": 5,
+  "grug_level": 4,
   "spiciness": 1
 }

@@ -1,18 +1,18 @@
 {
-  "id": "carmack-low-level",
-  "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
-  "author": "John Carmack",
-  "author_slug": "carmack",
-  "source": "Masters of Doom",
+  "id": "works-on-my-machine",
+  "text": "It works on my machine. Then we'll ship your machine.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "bootstrapping",
-    "resourcefulness",
-    "hustle"
+    "deployment",
+    "docker",
+    "containers"
   ],
-  "grug_level": 5,
+  "grug_level": 4,
   "spiciness": 1
 }

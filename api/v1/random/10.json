@@ -1,18 +1,17 @@
 {
-  "id": "two-hard-things",
-  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
-  "author": "Unknown (based on Phil Karlton)",
-  "author_slug": "unknown",
-  "source": "Programming folklore / internet",
+  "id": "production-is-different",
+  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+  "author": "Yogi Berra (applied to programming)",
+  "author_slug": "berra",
+  "source": "Various attributions",
   "categories": [
     "funny",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "cache",
-    "naming",
-    "off-by-one",
-    "classic"
+    "theory",
+    "practice",
+    "production"
   ],
   "grug_level": 3,
   "spiciness": 1

@@ -1,19 +1,20 @@
 {
-  "id": "sleep-on-it",
-  "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Developer experience",
+  "id": "hofstadter-law",
+  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+  "author": "Douglas Hofstadter",
+  "author_slug": "hofstadter",
+  "source": "Gödel, Escher, Bach, 1979",
   "categories": [
     "funny",
-    "debugging"
+    "suffering"
   ],
   "tags": [
-    "sleep",
-    "debugging",
-    "subconscious"
+    "estimation",
+    "time",
+    "recursive",
+    "classic"
   ],
-  "grug_level": 5,
+  "grug_level": 3,
   "spiciness": 1,
-  "_generated_at": "2026-06-29T10:43:27.203514+00:00"
+  "_generated_at": "2026-06-29T10:49:59.227935+00:00"
 }

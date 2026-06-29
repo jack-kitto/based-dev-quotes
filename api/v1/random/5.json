@@ -1,18 +1,19 @@
 {
-  "id": "hickey-state",
-  "text": "State. You're doing it wrong.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Are We There Yet?, JVM Language Summit 2009",
+  "id": "spolsky-rewrite",
+  "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+  "author": "Joel Spolsky",
+  "author_slug": "spolsky",
+  "source": "Things You Should Never Do, Part I, 2000",
   "categories": [
-    "shitpost",
-    "wisdom"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "state",
-    "functional",
-    "mutability"
+    "rewrite",
+    "legacy-code",
+    "strategy",
+    "classic"
   ],
-  "grug_level": 3,
+  "grug_level": 4,
   "spiciness": 3
 }

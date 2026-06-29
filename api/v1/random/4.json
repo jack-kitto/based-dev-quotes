@@ -1,18 +1,19 @@
 {
-  "id": "todo-later-means-never",
-  "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Every codebase ever",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "funny",
-    "suffering"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "todo",
-    "technical-debt",
-    "procrastination"
+    "simplicity",
+    "complexity",
+    "classic"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 2
 }

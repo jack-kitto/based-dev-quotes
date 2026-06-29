@@ -1,17 +1,20 @@
 {
-  "id": "leave-it-better",
-  "text": "Always leave the code better than you found it.",
-  "author": "Robert C. Martin (Uncle Bob)",
-  "author_slug": "martin",
-  "source": "Clean Code (adapted from Boy Scout Rule)",
+  "id": "dns-always-dns",
+  "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "sysadmin folklore (SSBroski / haiku)",
   "categories": [
-    "wisdom"
+    "funny",
+    "debugging",
+    "suffering"
   ],
   "tags": [
-    "clean-code",
-    "maintenance",
-    "discipline"
+    "dns",
+    "debugging",
+    "networking",
+    "classic"
   ],
-  "grug_level": 2,
+  "grug_level": 5,
   "spiciness": 1
 }

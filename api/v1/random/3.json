@@ -1,18 +1,19 @@
 {
-  "id": "works-on-my-machine",
-  "text": "It works on my machine. Then we'll ship your machine.",
+  "id": "microservices-monolith",
+  "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "Hacker News wisdom",
   "categories": [
-    "funny",
-    "debugging"
+    "shitpost",
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "deployment",
-    "docker",
-    "containers"
+    "microservices",
+    "startups",
+    "over-engineering"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 4
 }

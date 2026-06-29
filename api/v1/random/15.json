@@ -1,16 +1,17 @@
 {
-  "id": "dijkstra-simplicity",
-  "text": "Simplicity is prerequisite for reliability.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
-  "source": "EWD498",
+  "id": "mcilroy-unix-philosophy",
+  "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
+  "author": "Doug McIlroy",
+  "author_slug": "mcilroy",
+  "source": "Bell System Technical Journal, 1978",
   "categories": [
-    "wisdom",
-    "complexity"
+    "unix",
+    "wisdom"
   ],
   "tags": [
+    "unix",
+    "philosophy",
     "simplicity",
-    "reliability",
     "classic"
   ],
   "grug_level": 3,

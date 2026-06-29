@@ -1,18 +1,18 @@
 {
-  "id": "product-nobody-wants",
-  "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Startup culture",
+  "id": "grug-refactor",
+  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "founder",
-    "suffering"
+    "grug",
+    "wisdom"
   ],
   "tags": [
-    "product-market-fit",
-    "validation",
-    "failure"
+    "refactoring",
+    "discipline"
   ],
-  "grug_level": 3,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

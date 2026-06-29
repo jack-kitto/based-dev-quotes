@@ -1,18 +1,19 @@
 {
-  "id": "code-comments-why",
-  "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+  "id": "cto-startup-titles",
+  "text": "At a startup, CTO stands for 'Currently The Only developer.'",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Startup folklore",
   "categories": [
     "funny",
-    "debugging"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "comments",
-    "git",
-    "blame"
+    "startups",
+    "titles",
+    "solo-dev"
   ],
-  "grug_level": 4,
+  "grug_level": 5,
   "spiciness": 2
 }
