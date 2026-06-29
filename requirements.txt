@@ -1,0 +1,5 @@
+# based-dev-quotes depends
+# (Currently only Python stdlib - urllib, json, re, hashlib)
+# Listed here so Coolify knows to install deps (some libs needed for some scripts)
+
+requests>=2.31.0

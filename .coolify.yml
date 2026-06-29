@@ -1,0 +1,21 @@
+name: based-dev-quotes
+version: '3.8'
+services:
+  bot:
+    build: .
+    container_name: based-dev-quotes-bot
+    restart: unless-stopped
+    environment:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - QUOTE_MODEL=${QUOTE_MODEL:-google/gemini-2.5-flash}
+    volumes:
+      - ./quotes:/app/quotes
+      - ./api:/app/api
+    healthcheck:
+      test: ["CMD", "python3", "-c", "print('bot alive')"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
