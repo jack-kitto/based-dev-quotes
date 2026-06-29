@@ -23,6 +23,7 @@ import subprocess
 import sys
 import urllib.request
 import urllib.error
+import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -156,7 +157,14 @@ def main():
         preview_lines.append(f"  ... and {len(new_quotes) - 5} more")
 
     commit_msg = f"🧠 Add {len(new_quotes)} new quotes\n\n" + "\n".join(preview_lines)
-    run(f'git commit -m "{commit_msg}"')
+    # Use a temp file to avoid shell quoting issues with quotes inside the message
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".txt", delete=False) as f:
+        f.write(commit_msg)
+        tmp_path = f.name
+    try:
+        run(f"git commit -F {tmp_path}")
+    finally:
+        os.unlink(tmp_path)
     run(f"git push -u origin {branch}")
 
     # Create PR
