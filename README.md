@@ -204,10 +204,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 A weekly GitHub Action scrapes HN, Reddit, and dev communities, then uses an LLM to extract and score quotes. New quotes are opened as PRs for review.
 
 **Setup:**
-1. Add `OPENAI_API_KEY` to your repo's [Secrets](../../settings/secrets/actions)
-2. Optionally set `OPENAI_BASE_URL` for custom LLM endpoints (OpenRouter, local, etc.)
-3. Optionally set `QUOTE_MODEL` (default: `gpt-4o-mini`)
-4. The Action runs every Monday at 6am UTC, or trigger manually via Actions tab
+1. Add `OPENROUTER_API_KEY` to your repo's [Secrets](../../settings/secrets/actions)
+2. Optionally set `QUOTE_MODEL` (default: `google/gemini-2.5-flash`)
+3. The Action runs every Monday at 6am UTC, or trigger manually via Actions tab
 
 **Manual run:**
 ```bash

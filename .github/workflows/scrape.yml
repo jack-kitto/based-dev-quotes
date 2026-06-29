@@ -17,9 +17,8 @@ permissions:
   pull-requests: write
 
 env:
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-  OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'https://api.openai.com/v1' }}
-  QUOTE_MODEL: ${{ secrets.QUOTE_MODEL || 'gpt-4o-mini' }}
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+  QUOTE_MODEL: ${{ secrets.QUOTE_MODEL || 'google/gemini-2.5-flash' }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:

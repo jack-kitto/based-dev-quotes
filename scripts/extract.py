@@ -9,8 +9,8 @@ Takes raw scraped candidates (from scrape.py) and uses an LLM to:
   4. Categorize: categories + tags
   5. Deduplicate: Against existing quotes
 
-Requires OPENAI_API_KEY env var (works with any OpenAI-compatible API).
-Set OPENAI_BASE_URL for custom endpoints (e.g. local LLMs, OpenRouter).
+Requires OPENROUTER_API_KEY env var.
+Optionally set QUOTE_MODEL (default: google/gemini-2.5-flash).
 
 Usage:
   python3 scripts/scrape.py | python3 scripts/extract.py
@@ -31,9 +31,9 @@ QUOTES_PATH = ROOT / "quotes" / "quotes.json"
 
 # --- Config ---
 
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
-OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1")
-MODEL = os.environ.get("QUOTE_MODEL", "gpt-4o-mini")
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+MODEL = os.environ.get("QUOTE_MODEL", "google/gemini-2.5-flash")
 
 EXTRACTION_PROMPT = """You are a quote curator for "based-dev-quotes" — a developer quotes API with a specific voice: grug-brained, indie hacker, anti-complexity, real engineering wisdom, and genuinely funny dev humor.
 
@@ -91,11 +91,11 @@ def load_existing_quotes() -> list[dict]:
 
 def call_llm(prompt: str, content: str) -> str:
     """Call OpenAI-compatible API."""
-    if not OPENAI_API_KEY:
-        print("❌ OPENAI_API_KEY not set", file=sys.stderr)
+    if not OPENROUTER_API_KEY:
+        print("❌ OPENROUTER_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
-    url = f"{OPENAI_BASE_URL.rstrip('/')}/chat/completions"
+    url = f"{OPENROUTER_BASE_URL}/chat/completions"
     payload = json.dumps({
         "model": MODEL,
         "messages": [
@@ -107,8 +107,10 @@ def call_llm(prompt: str, content: str) -> str:
     }).encode()
 
     req = urllib.request.Request(url, data=payload, method="POST")
-    req.add_header("Authorization", f"Bearer {OPENAI_API_KEY}")
+    req.add_header("Authorization", f"Bearer {OPENROUTER_API_KEY}")
     req.add_header("Content-Type", "application/json")
+    req.add_header("HTTP-Referer", "https://github.com/jack-kitto/based-dev-quotes")
+    req.add_header("X-Title", "based-dev-quotes")
 
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
@@ -176,7 +178,7 @@ def main():
 
     print(f"📥 Processing {len(candidates)} candidates through LLM...", file=sys.stderr)
     print(f"   Model: {MODEL}", file=sys.stderr)
-    print(f"   API: {OPENAI_BASE_URL}", file=sys.stderr)
+    print(f"   API: OpenRouter", file=sys.stderr)
 
     # Load existing quotes for dedup
     existing = load_existing_quotes()
