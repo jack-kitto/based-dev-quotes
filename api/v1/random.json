@@ -1,20 +1,19 @@
 {
-  "id": "java-sufficiently-smart",
-  "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
-  "author": "Bjarne Stroustrup",
-  "author_slug": "stroustrup",
-  "source": "The Design and Evolution of C++",
+  "id": "blow-civilization",
+  "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+  "author": "Jonathan Blow",
+  "author_slug": "blow",
+  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
   "categories": [
-    "funny",
-    "wisdom",
-    "tools"
+    "suffering",
+    "complexity"
   ],
   "tags": [
-    "languages",
-    "complaints",
-    "classic"
+    "decline",
+    "software-crisis",
+    "civilization"
   ],
-  "grug_level": 2,
-  "spiciness": 2,
-  "_generated_at": "2026-06-29T10:22:22.297539+00:00"
+  "grug_level": 4,
+  "spiciness": 4,
+  "_generated_at": "2026-06-29T10:35:07.412863+00:00"
 }

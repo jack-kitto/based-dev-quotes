@@ -1,17 +1,20 @@
 {
-  "id": "graham-wealth",
-  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Startup = Growth, 2012",
+  "id": "agile-is-dead",
+  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "founder"
+    "funny",
+    "suffering",
+    "shitpost"
   ],
   "tags": [
-    "startups",
-    "growth",
-    "definition"
+    "agile",
+    "scrum",
+    "methodology",
+    "management"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 4
 }

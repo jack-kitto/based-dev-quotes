@@ -1,16 +1,17 @@
 {
-  "id": "cantrill-dtrace",
-  "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
-  "author": "Bryan Cantrill",
-  "author_slug": "cantrill",
-  "source": "Debugging Under Fire, 2018",
+  "id": "hickey-simple-easy",
+  "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Simple Made Easy, Strange Loop 2011",
   "categories": [
-    "debugging",
-    "wisdom"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "debugging",
-    "mental-models"
+    "simplicity",
+    "complexity",
+    "design"
   ],
   "grug_level": 3,
   "spiciness": 1

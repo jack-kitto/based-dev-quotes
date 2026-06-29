@@ -1,19 +1,16 @@
 {
-  "id": "grug-closures",
-  "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "copy-paste-stackoverflow",
+  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "grug",
-    "debugging"
+    "funny"
   ],
   "tags": [
-    "closures",
-    "debugging",
-    "complexity"
+    "stackoverflow",
+    "copy-paste"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 1
 }

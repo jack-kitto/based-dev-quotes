@@ -1,20 +1,17 @@
 {
-  "id": "agile-is-dead",
-  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+  "id": "recursion-joke",
+  "text": "To understand recursion, you must first understand recursion.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "CS101 folklore",
   "categories": [
-    "funny",
-    "suffering",
-    "shitpost"
+    "funny"
   ],
   "tags": [
-    "agile",
-    "scrum",
-    "methodology",
-    "management"
+    "recursion",
+    "cs101",
+    "meta"
   ],
-  "grug_level": 5,
-  "spiciness": 4
+  "grug_level": 2,
+  "spiciness": 1
 }

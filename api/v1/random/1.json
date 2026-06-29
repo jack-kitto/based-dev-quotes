@@ -1,18 +1,18 @@
 {
-  "id": "product-nobody-wants",
-  "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
+  "id": "prod-env-staging",
+  "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Startup culture",
+  "source": "DevOps folklore",
   "categories": [
-    "founder",
+    "funny",
     "suffering"
   ],
   "tags": [
-    "product-market-fit",
-    "validation",
-    "failure"
+    "testing",
+    "production",
+    "environments"
   ],
-  "grug_level": 3,
+  "grug_level": 5,
   "spiciness": 2
 }

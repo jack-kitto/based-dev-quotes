@@ -1,19 +1,17 @@
 {
-  "id": "yagni",
-  "text": "You aren't gonna need it.",
-  "author": "Ron Jeffries / XP",
-  "author_slug": "jeffries",
-  "source": "Extreme Programming Installed, 2000",
+  "id": "graham-wealth",
+  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Startup = Growth, 2012",
   "categories": [
-    "wisdom",
-    "shipping"
+    "founder"
   ],
   "tags": [
-    "yagni",
-    "simplicity",
-    "over-engineering",
-    "classic"
+    "startups",
+    "growth",
+    "definition"
   ],
-  "grug_level": 5,
+  "grug_level": 2,
   "spiciness": 1
 }

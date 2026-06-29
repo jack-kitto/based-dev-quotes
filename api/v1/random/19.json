@@ -1,18 +1,18 @@
 {
-  "id": "im-in-this-picture",
-  "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "brooks-mythical-man-month",
+  "text": "Adding manpower to a late software project makes it later.",
+  "author": "Fred Brooks",
+  "author_slug": "brooks",
+  "source": "The Mythical Man-Month, 1975",
   "categories": [
-    "funny",
+    "wisdom",
     "suffering"
   ],
   "tags": [
-    "legacy-code",
-    "past-self",
-    "humility"
+    "management",
+    "teams",
+    "classic"
   ],
-  "grug_level": 5,
+  "grug_level": 2,
   "spiciness": 2
 }

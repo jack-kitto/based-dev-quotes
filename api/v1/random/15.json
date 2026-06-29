@@ -1,18 +1,17 @@
 {
-  "id": "node-modules-black-hole",
-  "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+  "id": "date-time-horror",
+  "text": "If you think you understand time zones, you don't understand time zones.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter / memes",
+  "source": "Falsehoods Programmers Believe About Time",
   "categories": [
     "funny",
-    "shitpost"
+    "suffering"
   ],
   "tags": [
-    "node-modules",
-    "npm",
-    "javascript",
-    "dependencies"
+    "timezones",
+    "datetime",
+    "falsehoods"
   ],
   "grug_level": 4,
   "spiciness": 2

@@ -1,18 +1,18 @@
 {
-  "id": "sandi-metz-wrong-abstraction",
-  "text": "Duplication is far cheaper than the wrong abstraction.",
-  "author": "Sandi Metz",
-  "author_slug": "metz",
-  "source": "The Wrong Abstraction, 2016",
+  "id": "pike-complexity-moved",
+  "text": "A little copying is better than a little dependency.",
+  "author": "Rob Pike",
+  "author_slug": "pike",
+  "source": "Go Proverbs",
   "categories": [
     "wisdom",
     "complexity"
   ],
   "tags": [
-    "abstraction",
-    "duplication",
-    "simplicity"
+    "dependencies",
+    "simplicity",
+    "go"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 2
 }

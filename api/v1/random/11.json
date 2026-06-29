@@ -1,18 +1,18 @@
 {
-  "id": "senior-dev-google",
-  "text": "A senior developer is just a junior developer who has Googled more things.",
+  "id": "im-in-this-picture",
+  "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "career"
+    "suffering"
   ],
   "tags": [
-    "seniority",
-    "experience",
-    "google"
+    "legacy-code",
+    "past-self",
+    "humility"
   ],
-  "grug_level": 4,
+  "grug_level": 5,
   "spiciness": 2
 }

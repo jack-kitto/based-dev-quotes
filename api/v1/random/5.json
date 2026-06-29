@@ -1,18 +1,18 @@
 {
-  "id": "money-printer",
-  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+  "id": "stackoverflow-driven",
+  "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter (loosely based on Napoleon)",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "suffering"
+    "debugging"
   ],
   "tags": [
-    "production",
-    "friday",
-    "deployments"
+    "stackoverflow",
+    "debugging",
+    "cargo-cult"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

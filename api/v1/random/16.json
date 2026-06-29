@@ -1,18 +1,18 @@
 {
-  "id": "atwood-best-code",
-  "text": "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
-  "source": "The Best Code is No Code At All, 2007",
+  "id": "kernighan-debugging",
+  "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+  "author": "Brian Kernighan",
+  "author_slug": "kernighan",
+  "source": "The Elements of Programming Style, 1978",
   "categories": [
-    "wisdom",
-    "complexity"
+    "debugging",
+    "wisdom"
   ],
   "tags": [
-    "less-code",
-    "simplicity",
-    "maintenance"
+    "debugging",
+    "cleverness",
+    "classic"
   ],
-  "grug_level": 4,
+  "grug_level": 3,
   "spiciness": 1
 }

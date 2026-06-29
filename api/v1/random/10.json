@@ -1,19 +1,17 @@
 {
-  "id": "wall-perl",
-  "text": "The three chief virtues of a programmer are: Laziness, Impatience, and Hubris.",
-  "author": "Larry Wall",
-  "author_slug": "wall",
-  "source": "Programming Perl, 1991",
+  "id": "thompson-cant-trust",
+  "text": "You can't trust code that you did not totally create yourself.",
+  "author": "Ken Thompson",
+  "author_slug": "thompson",
+  "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
   "categories": [
-    "funny",
     "wisdom"
   ],
   "tags": [
-    "virtues",
-    "laziness",
-    "perl",
+    "security",
+    "trust",
     "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

@@ -1,19 +1,18 @@
 {
-  "id": "scope-creep",
-  "text": "Client: 'Can you just add one small feature?' Narrator: It was not, in fact, a small feature.",
+  "id": "ramen-profitable",
+  "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Freelancer folklore",
+  "source": "Indie hacker culture (term from Paul Graham)",
   "categories": [
-    "funny",
-    "suffering",
-    "indie-hacker"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "scope-creep",
-    "clients",
-    "freelancing"
+    "profitability",
+    "ramen",
+    "survival"
   ],
-  "grug_level": 4,
+  "grug_level": 5,
   "spiciness": 2
 }
