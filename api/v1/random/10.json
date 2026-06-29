@@ -1,17 +1,19 @@
 {
-  "id": "thompson-cant-trust",
-  "text": "You can't trust code that you did not totally create yourself.",
-  "author": "Ken Thompson",
-  "author_slug": "thompson",
-  "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
+  "id": "two-hard-things",
+  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+  "author": "Unknown (based on Phil Karlton)",
+  "author_slug": "unknown",
+  "source": "Programming folklore / internet",
   "categories": [
-    "wisdom"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "security",
-    "trust",
+    "cache",
+    "naming",
+    "off-by-one",
     "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1
 }

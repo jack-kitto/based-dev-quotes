@@ -1,17 +1,18 @@
 {
-  "id": "recursion-joke",
-  "text": "To understand recursion, you must first understand recursion.",
+  "id": "todo-later-means-never",
+  "text": "// TODO: fix this later\n// Note: 'later' was 3 years ago",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "CS101 folklore",
+  "source": "Every codebase ever",
   "categories": [
-    "funny"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "recursion",
-    "cs101",
-    "meta"
+    "todo",
+    "technical-debt",
+    "procrastination"
   ],
-  "grug_level": 2,
+  "grug_level": 5,
   "spiciness": 1
 }

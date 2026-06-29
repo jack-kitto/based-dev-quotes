@@ -1,19 +1,18 @@
 {
-  "id": "6-months-avoid-reading",
-  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "torvalds-good-taste",
+  "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+  "author": "Linus Torvalds",
+  "author_slug": "torvalds",
+  "source": "TED Interview, 2016",
   "categories": [
-    "funny",
-    "suffering",
-    "debugging"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "documentation",
-    "debugging",
-    "irony"
+    "simplicity",
+    "taste",
+    "design"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1
 }

@@ -1,19 +1,19 @@
 {
-  "id": "blow-civilization",
-  "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
-  "author": "Jonathan Blow",
-  "author_slug": "blow",
-  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+  "id": "sleep-on-it",
+  "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Developer experience",
   "categories": [
-    "suffering",
-    "complexity"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "decline",
-    "software-crisis",
-    "civilization"
+    "sleep",
+    "debugging",
+    "subconscious"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "_generated_at": "2026-06-29T10:35:07.412863+00:00"
+  "grug_level": 5,
+  "spiciness": 1,
+  "_generated_at": "2026-06-29T10:43:27.203514+00:00"
 }

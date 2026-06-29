@@ -1,17 +1,19 @@
 {
-  "id": "graham-wealth",
-  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Startup = Growth, 2012",
+  "id": "salomon-30-hours",
+  "text": "Weeks of coding can save you hours of planning.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "founder"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "startups",
-    "growth",
-    "definition"
+    "planning",
+    "coding",
+    "irony",
+    "classic"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 2
 }

@@ -1,18 +1,18 @@
 {
-  "id": "full-stack-pain",
-  "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "id": "dijkstra-testing",
+  "text": "Testing shows the presence, not the absence of bugs.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "Notes on Structured Programming, 1970",
   "categories": [
-    "funny",
-    "career"
+    "wisdom",
+    "debugging"
   ],
   "tags": [
-    "full-stack",
-    "hiring",
-    "startups"
+    "testing",
+    "bugs",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 3
+  "grug_level": 2,
+  "spiciness": 1
 }

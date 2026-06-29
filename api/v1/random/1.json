@@ -1,18 +1,18 @@
 {
-  "id": "prod-env-staging",
-  "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "DevOps folklore",
+  "id": "carmack-implementation",
+  "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+  "author": "John Carmack",
+  "author_slug": "carmack",
+  "source": "Various interviews",
   "categories": [
-    "funny",
-    "suffering"
+    "shipping",
+    "wisdom"
   ],
   "tags": [
-    "testing",
-    "production",
-    "environments"
+    "execution",
+    "implementation",
+    "ideas"
   ],
-  "grug_level": 5,
+  "grug_level": 4,
   "spiciness": 2
 }

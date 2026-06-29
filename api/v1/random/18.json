@@ -1,16 +1,18 @@
 {
-  "id": "copy-paste-stackoverflow",
-  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+  "id": "machine-learning-if-else",
+  "text": "Machine learning is just spicy if/else statements.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "Dev Twitter",
   "categories": [
-    "funny"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "stackoverflow",
-    "copy-paste"
+    "machine-learning",
+    "ai",
+    "reductionism"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

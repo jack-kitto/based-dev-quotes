@@ -1,19 +1,17 @@
 {
-  "id": "git-commit-messages",
-  "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter / every git log ever",
+  "id": "leave-it-better",
+  "text": "Always leave the code better than you found it.",
+  "author": "Robert C. Martin (Uncle Bob)",
+  "author_slug": "martin",
+  "source": "Clean Code (adapted from Boy Scout Rule)",
   "categories": [
-    "funny",
-    "suffering"
+    "wisdom"
   ],
   "tags": [
-    "git",
-    "commits",
-    "entropy",
+    "clean-code",
+    "maintenance",
     "discipline"
   ],
-  "grug_level": 5,
+  "grug_level": 2,
   "spiciness": 1
 }

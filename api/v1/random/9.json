@@ -1,19 +1,18 @@
 {
-  "id": "rewrite-in-rust",
-  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+  "id": "product-nobody-wants",
+  "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Hacker News / Reddit",
+  "source": "Startup culture",
   "categories": [
-    "funny",
-    "shitpost",
-    "tools"
+    "founder",
+    "suffering"
   ],
   "tags": [
-    "rust",
-    "rewrite",
-    "hype"
+    "product-market-fit",
+    "validation",
+    "failure"
   ],
-  "grug_level": 4,
-  "spiciness": 4
+  "grug_level": 3,
+  "spiciness": 2
 }

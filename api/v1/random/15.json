@@ -1,18 +1,18 @@
 {
-  "id": "date-time-horror",
-  "text": "If you think you understand time zones, you don't understand time zones.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Falsehoods Programmers Believe About Time",
+  "id": "dijkstra-simplicity",
+  "text": "Simplicity is prerequisite for reliability.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "EWD498",
   "categories": [
-    "funny",
-    "suffering"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "timezones",
-    "datetime",
-    "falsehoods"
+    "simplicity",
+    "reliability",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1
 }

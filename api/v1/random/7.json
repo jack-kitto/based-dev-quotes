@@ -1,18 +1,18 @@
 {
-  "id": "hickey-simple-easy",
-  "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Simple Made Easy, Strange Loop 2011",
+  "id": "10x-developer",
+  "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter / HN discourse",
   "categories": [
     "wisdom",
-    "complexity"
+    "career"
   ],
   "tags": [
-    "simplicity",
-    "complexity",
-    "design"
+    "10x",
+    "teamwork",
+    "productivity"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2
 }

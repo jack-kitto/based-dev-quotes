@@ -1,18 +1,18 @@
 {
-  "id": "im-in-this-picture",
-  "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "carmack-low-level",
+  "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+  "author": "John Carmack",
+  "author_slug": "carmack",
+  "source": "Masters of Doom",
   "categories": [
-    "funny",
-    "suffering"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "legacy-code",
-    "past-self",
-    "humility"
+    "bootstrapping",
+    "resourcefulness",
+    "hustle"
   ],
   "grug_level": 5,
-  "spiciness": 2
+  "spiciness": 1
 }

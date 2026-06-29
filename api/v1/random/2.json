@@ -1,18 +1,18 @@
 {
-  "id": "production-is-different",
-  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
-  "author": "Yogi Berra (applied to programming)",
-  "author_slug": "berra",
-  "source": "Various attributions",
+  "id": "code-comments-why",
+  "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "wisdom"
+    "debugging"
   ],
   "tags": [
-    "theory",
-    "practice",
-    "production"
+    "comments",
+    "git",
+    "blame"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 2
 }
