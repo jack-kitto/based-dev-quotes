@@ -1,16 +1,18 @@
 {
-  "text": "Your remote team's culture is defined by what happens when nobody's watching. Build trust, not surveillance.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "works-on-my-machine",
+  "text": "It works on my machine. Then we'll ship your machine.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "business"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "remote",
-    "trust"
+    "deployment",
+    "docker",
+    "containers"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-remote-teams-culture",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

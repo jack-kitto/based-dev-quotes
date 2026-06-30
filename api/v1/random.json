@@ -1,17 +1,17 @@
 {
-  "text": "Simplicity is not the absence of clutter; it's the presence of order.",
-  "author": "Jonathan Ive",
-  "author_slug": "ive",
+  "text": "Your SaaS should work so well that users forget it exists. That's the ultimate compliment.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "design"
+    "saas"
   ],
   "tags": [
-    "simplicity",
-    "minimalism"
+    "seamlessness",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ive-simplicity-is-not-the",
+  "spiciness": 2,
+  "id": "based-your-saas-should-work",
   "source": "Community sourced",
-  "_generated_at": "2026-06-30T00:59:36.155497+00:00"
+  "_generated_at": "2026-06-30T03:42:01.796167+00:00"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+  "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "competition",
-    "inaction"
+    "api",
+    "pricing"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-your-competition-isnt-other",
+  "id": "based-api-rate-limits-arent",
   "source": "Community sourced"
 }

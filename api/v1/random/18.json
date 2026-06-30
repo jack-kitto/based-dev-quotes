@@ -1,17 +1,17 @@
 {
-  "text": "The best engineers know that premature abstraction is worse than premature optimization.",
+  "text": "Every business starts with one person who decided to stop asking for permission.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "abstraction",
-    "optimization"
+    "permission",
+    "courage"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-engineers-know",
+  "id": "based-every-business-starts-with",
   "source": "Community sourced"
 }

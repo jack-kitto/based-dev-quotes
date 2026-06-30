@@ -1,16 +1,17 @@
 {
-  "text": "The best moat is a product so good that switching feels like a downgrade.",
+  "text": "Your landing page should do one thing: get the visitor to take one action. Everything else is a distraction.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "moat",
-    "switching-cost"
+    "landing-page",
+    "focus"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-moat-is",
+  "id": "based-your-landing-page-should",
   "source": "Community sourced"
 }
