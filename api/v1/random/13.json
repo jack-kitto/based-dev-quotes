@@ -1,16 +1,17 @@
 {
-  "text": "The best investment is in yourself. The best return is confidence.",
+  "text": "The fastest way to find out if your design is good is to show it to someone who doesn't care about you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "design",
+    "product"
   ],
   "tags": [
-    "investment",
-    "confidence"
+    "feedback",
+    "usability"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-best-investment-is",
+  "spiciness": 2,
+  "id": "based-the-fastest-way-to",
   "source": "Community sourced"
 }

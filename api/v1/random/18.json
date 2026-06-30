@@ -1,17 +1,20 @@
 {
-  "text": "A 10x developer isn't someone who codes 10x faster. It's someone who creates 10x less work for everyone else.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "kubernetes-yaml",
+  "text": "Kubernetes: transforming the simple act of running a program into a 2000-line YAML existential crisis.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "shitpost",
+    "complexity"
   ],
   "tags": [
-    "10x",
-    "teamwork"
+    "kubernetes",
+    "yaml",
+    "devops",
+    "over-engineering"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-a-10x-developer-isnt",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 4
 }

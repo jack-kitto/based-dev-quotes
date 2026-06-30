@@ -51,6 +51,7 @@ jobs:
             "api/v1/today.json"
             "api/v1/random.json"
             "api/v1/stats.json"
+            "api/v1/version.json"
             "api/v1/categories/index.json"
             "api/v1/authors/index.json"
             "api/v1/tags/index.json"

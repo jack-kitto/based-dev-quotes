@@ -1,16 +1,18 @@
 {
-  "text": "The best way to make decisions is with data. The second best is with experience. The worst is with hunches.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-abstraction",
+  "text": "grug say always, always, always implement thing completely wrong way first, then fix. abstraction is the enemy of understanding for grug.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "business"
+    "grug",
+    "shipping"
   ],
   "tags": [
-    "decisions",
-    "data"
+    "abstraction",
+    "pragmatism"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-799",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

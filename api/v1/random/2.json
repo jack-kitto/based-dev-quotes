@@ -1,16 +1,17 @@
 {
-  "text": "Your stack trace is your best friend. Read it. Understand it. It's trying to help you.",
+  "text": "You can't refactor what you can't read. You can't read what you can't understand. Start there.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "stack-trace",
-    "debugging"
+    "refactoring",
+    "understanding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-stack-trace-is",
+  "id": "based-you-cant-refactor-what",
   "source": "Community sourced"
 }

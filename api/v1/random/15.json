@@ -1,16 +1,16 @@
 {
-  "text": "Your first paying customer is worth more than your next 100 signups. Treat them like royalty.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The best is the enemy of the good.",
+  "author": "Voltaire",
+  "author_slug": "voltaire",
   "categories": [
-    "indie-hacker"
+    "wisdom"
   ],
   "tags": [
-    "customers",
-    "appreciation"
+    "perfectionism",
+    "good-enough"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-first-paying-customer",
+  "spiciness": 1,
+  "id": "voltaire-the-best-is-the",
   "source": "Community sourced"
 }

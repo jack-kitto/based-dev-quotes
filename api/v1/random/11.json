@@ -1,17 +1,17 @@
 {
-  "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sleep-sort",
+  "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "shipping"
+    "funny"
   ],
   "tags": [
-    "shipping",
-    "testing"
+    "stackoverflow",
+    "hacking",
+    "approximation"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-ship-then-test-not",
-  "source": "Community sourced"
+  "spiciness": 1
 }

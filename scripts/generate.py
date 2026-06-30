@@ -159,6 +159,14 @@ def main():
         'generated_at': now
     })
 
+    # 9. Version file (content-based cache buster)
+    quotes_hash = hashlib.md5(json.dumps(quotes, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:12]
+    write_json(API_DIR / 'version.json', {
+        'version': quotes_hash,
+        'generated_at': now,
+        'total_quotes': len(quotes)
+    })
+
     file_count = sum(len(files) for _, _, files in os.walk(API_DIR))
     print(f'\n✅ Static API generated!')
     print(f'   {len(quotes)} quotes → {file_count} JSON files')
