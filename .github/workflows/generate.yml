@@ -36,7 +36,28 @@ jobs:
           git add api/
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "CHANGED=false" >> $GITHUB_ENV
           else
             git commit -m "🧠 $(date -u +%Y-%m-%d) — regenerate API"
             git push
+            echo "CHANGED=true" >> $GITHUB_ENV
           fi
+
+      - name: Purge jsDelivr CDN cache
+        if: env.CHANGED == 'true'
+        run: |
+          FILES=(
+            "api/v1/all.json"
+            "api/v1/today.json"
+            "api/v1/random.json"
+            "api/v1/stats.json"
+            "api/v1/categories/index.json"
+            "api/v1/authors/index.json"
+            "api/v1/tags/index.json"
+          )
+          echo "Purging ${#FILES[@]} files from jsDelivr CDN..."
+          for f in "${FILES[@]}"; do
+            STATUS=$(curl -s "https://purge.jsdelivr.net/gh/jack-kitto/based-dev-quotes@main/$f" | python3 -c "import json,sys; print(json.load(sys.stdin).get('status','error'))" 2>/dev/null || echo "error")
+            echo "  $f → $STATUS"
+          done
+          echo "CDN purge complete"
