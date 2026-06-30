@@ -1,16 +1,17 @@
 {
-  "text": "The only limit to our realization of tomorrow is our doubts of today.",
-  "author": "Franklin D. Roosevelt",
-  "author_slug": "roosevelt",
+  "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "doubt",
-    "potential"
+    "logging",
+    "monitoring"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "roosevelt-the-only-limit-to",
+  "spiciness": 2,
+  "id": "based-your-logging-should-tell",
   "source": "Community sourced"
 }

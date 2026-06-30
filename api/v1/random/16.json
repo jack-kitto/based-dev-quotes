@@ -1,16 +1,16 @@
 {
-  "text": "The best prototypes are ugly ones. If it's pretty, you'll fall in love with it. If it's ugly, you'll iterate.",
+  "text": "Your focus is a finite resource. Spend it on what matters.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "productivity"
   ],
   "tags": [
-    "prototyping",
-    "iteration"
+    "focus",
+    "resource"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-prototypes-are",
+  "spiciness": 1,
+  "id": "based-your-focus-is-a",
   "source": "Community sourced"
 }
