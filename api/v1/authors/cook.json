@@ -1,0 +1,24 @@
+{
+  "author": "Rick Cook",
+  "slug": "cook",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook",
+      "author_slug": "cook",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "idiots",
+        "universe"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cook-programming-today-is-a",
+      "source": "Community sourced"
+    }
+  ]
+}

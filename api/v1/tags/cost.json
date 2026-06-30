@@ -1,0 +1,23 @@
+{
+  "tag": "cost",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The most expensive part of software isn't the code. It's the maintenance. Plan for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "maintenance",
+        "cost"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-most-expensive-part",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "tag": "reality",
+  "count": 11,
+  "quotes": [
+    {
+      "text": "Every designer wants to make the world more beautiful. Then they get hired to darken a CTA button 2% darker for the 47th time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "corporate",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-designer-wants-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+      "author": "Tom Cargill",
+      "author_slug": "cargill",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cargill-the-first-90-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programming is 10% writing code and 90% understanding why it doesn't work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-programming-is-10-writing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Unit tests don't prevent bugs. They prevent the specific bugs you anticipated. Production finds the rest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "testing",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-unit-tests-dont-prevent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business plan is fiction until the first customer pays. Then it's a hypothesis.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "business-plan",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-plan-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest lie in SaaS: 'We'll add that feature.' You won't. You'll ship what you have and hope nobody notices.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "feature-requests",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-biggest-lie-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "saas",
+        "shitpost"
+      ],
+      "tags": [
+        "terminology",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-saying-im-building-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers: 'I want to build something that makes $10k MRR.' Reality: you build something that makes $100 MRR and you're thrilled.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "expectations",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hackers-i-want",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Happy path development is what you do when you've never met a user. Users don't take happy paths. They take confused paths.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "happy-path",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-happy-path-development-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's journey: idea → build → launch → crickets → iterate → crickets → pivot → crickets → ship better → $100 MRR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "journey",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-journey",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS has a 'this should be simple' feature that takes 3 weeks to build. Budget for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-saas-has-a",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "user-feedback",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Indie hackers who talk to users grow faster than indie hackers who code in isolation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "user-feedback",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-talk",
+      "source": "Community sourced"
+    }
+  ]
+}

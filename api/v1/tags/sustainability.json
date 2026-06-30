@@ -1,0 +1,55 @@
+{
+  "tag": "sustainability",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best exit strategy is the one you don't need because the business is printing money.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "exit",
+        "sustainability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-exit-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hack is the one you can maintain alone for 3 years. If it needs a team, it's not an indie hack.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "sustainability",
+        "maintenance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best marketing channel is the one you can sustain. Consistency beats brilliance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "consistency",
+        "sustainability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-marketing-channel",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "tag": "side-projects",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Side projects are the best career insurance. They prove you can build things, not just talk about them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the-487",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is a sandbox. Play in it. Break things. Try weird ideas. That's the point.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "experimentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is your playground. Play. Experiment. Break things. That's how you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-is-768",
+      "source": "Community sourced"
+    }
+  ]
+}

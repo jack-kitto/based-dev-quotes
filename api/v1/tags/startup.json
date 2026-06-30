@@ -1,0 +1,38 @@
+{
+  "tag": "startup",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
+      "author": "Eric Ries",
+      "author_slug": "ries",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "startup",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ries-a-startup-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first startup will probably fail. Your second might too. Your third might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "startup",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-startup-will",
+      "source": "Community sourced"
+    }
+  ]
+}

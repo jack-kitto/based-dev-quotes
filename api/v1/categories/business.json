@@ -1,0 +1,3532 @@
+{
+  "category": "business",
+  "count": 216,
+  "quotes": [
+    {
+      "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-vanity-profit",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
+      "author": "Eric Ries",
+      "author_slug": "ries",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "startup",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ries-a-startup-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a business was yesterday. The second best time is now. The worst time is 'when the market is ready.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "start",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-264",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Nobody cares about your startup. They care about their problem. If your startup solves it, they'll care about you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "customer-focus",
+        "problem"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-nobody-cares-about-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product should embarrass you. If it doesn't ship fast enough, it's too polished.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "shipping"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-product-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your first release, you launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoffman-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The market doesn't care about your tech stack. The market cares about whether you solve their problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "tech-stack",
+        "market"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-market-doesnt-care",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business plan is fiction until the first customer pays. Then it's a hypothesis.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "business-plan",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-plan-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Don't find customers for your product. Find products for your customers.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-focus",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-dont-find-customers-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing doesn't feel like marketing. It feels like someone telling you about something that will genuinely help you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "marketing",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-doesnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Bootstrapping isn't about being cheap. It's about being forced to find product-market fit before you run out of runway.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "bootstrapping",
+        "pmf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-bootstrapping-isnt-about-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Raising money is easy. Building something people want is hard. Most founders get these confused.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "fundraising",
+        "product-market-fit"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-raising-money-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competitors aren't your problem. Your customers' indifference is your problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "customer-focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-competitors-arent-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful business is a bet that the world is different than most people think.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "conviction",
+        "contrarian"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-business-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The lean startup method is just the scientific method for people who failed biology.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur",
+        "shitpost"
+      ],
+      "tags": [
+        "lean-startup",
+        "methodology"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-lean-startup-method",
+      "source": "Community sourced"
+    },
+    {
+      "text": "First principles thinking sounds profound until you realize it's just 'ask why' without the philosophy degree.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "first-principles",
+        "thinking"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-first-principles-thinking-sounds",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Disruption isn't something you plan. It's something that happens to incumbents who were too comfortable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "disruption",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-disruption-isnt-something-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best exit strategy is the one you don't need because the business is printing money.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "exit",
+        "sustainability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-exit-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Vision without execution is hallucination.",
+      "author": "Thomas Edison",
+      "author_slug": "edison",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "vision"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "edison-vision-without-execution-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "risk",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Fail fast, fail forward, fail cheaply. But most importantly: learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-fail-fast-fail-forward",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your network is your net worth. But your net worth is also your network's network's net worth. It's turtles all the way down.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "networking",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-network-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-graveyard-of-failed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Pricing is how you tell the market what you're worth. Charge too little and you'll go out of business. Charge too much and you'll go out of business faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-pricing-is-how-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business model is one where the customer pays you before you have to do the work. Find it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "cash-flow"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-business-model",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your business can't survive without you, you don't have a business. You have a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-business-cant",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Scarcity creates value. If everyone can do what you do, you're competing on price. If nobody can, you're competing on nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "scarcity",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-scarcity-creates-value-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses solve expensive problems for people who can afford to pay. Everything else is a hobby.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "problem-selection",
+        "market"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-businesses-solve",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You don't need permission to start. You don't need a co-founder to start. You don't need funding to start. You need to start.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "start",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-dont-need-permission",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Compounding works for businesses the same way it works for interest. Small, consistent improvements beat moonshot pivots every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "compounding",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-compounding-works-for-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of building a business isn't the technology. It's the selling. Most engineers would rather write code than talk to humans.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "engineers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-hardest-part-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Churn is the silent killer. You can celebrate new customers all day, but if the bucket has holes, you're just wasting water.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-churn-is-the-silent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best validation is someone giving you money. Everything else — surveys, waitlists, likes — is just flirting.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "validation",
+        "sales"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-best-validation-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are boring. They solve one problem really well and charge monthly for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "saas",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "One-person businesses are the future. Not because they're trendy, but because leverage makes it possible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "leverage",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-oneperson-businesses-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your product description needs more than 3 sentences, simplify the product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "copywriting",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-product-description",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business advice is free: talk to your customers. The worst business advice is expensive: hire a consultant who's never done what you're doing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customers",
+        "advice"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-business-advice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue doesn't lie. Everything else might.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-doesnt-lie-everything",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to predict the future is to build it. The second best is to complain about it on Twitter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "prediction",
+        "action"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-407",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Capitalism is just supply and demand with better branding.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "shitpost"
+      ],
+      "tags": [
+        "capitalism",
+        "economics"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-capitalism-is-just-supply",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "inaction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-competition-isnt-other",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing ROI is a product people can't shut up about. Everything else is diminishing returns.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "business"
+      ],
+      "tags": [
+        "roi",
+        "word-of-mouth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-roi",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Selling is just helping people make decisions they already want to make.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "sales",
+        "helping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-selling-is-just-helping",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when you're afraid to. The second best time is always.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "courage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-412",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Customers don't buy features. They buy outcomes. Stop selling what it does and start selling what it does for them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "outcomes",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-customers-dont-buy-features",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business model is one where you get paid to learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-model-414",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Growing revenue is easy. Growing profit is hard. Growing both is rare.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "profit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-growing-revenue-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The difference between a side project and a business is revenue. The difference between a business and a sustainable business is margin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "margin"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a-416",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are built on boring problems. Boring problems have paying customers. Exciting problems have Twitter threads.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "paying-customers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-businesses-419",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are built on one simple insight: 'This could be so much better.' Execute that insight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "insight",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first customer is worth more than your next thousand. Treat them that way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customers",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-customer-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Most business advice is survivorship bias. The successful founders tell you what worked. The failed ones knew what didn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "advice",
+        "bias"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-most-business-advice-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fire a client is when they start costing you more than they're paying you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "clients",
+        "boundaries"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-500",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You can't scale what you don't understand. If you can't do it manually, you can't automate it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-cant-scale-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business book is the one that makes you stop reading and start building.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "books",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-book",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business model is just 'charge money for value' with extra steps.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-model-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of business isn't building the product. It's getting people to pay for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-504",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business is only as good as its worst customer experience. One viral complaint can undo a year of good work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-experience",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-only",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a moat is when you don't need one. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "competitive-advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-506",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Pricing is a feature. Charge more than you think and deliver more than you promised.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-pricing-is-a-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "problem-solving",
+        "pain"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-solve-508",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful business started with someone saying 'I can do this better.' Most businesses fail because 'better' isn't enough.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-business-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get rich is to solve expensive problems for rich people. The second best is to solve cheap problems for everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "market-selection"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-510",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your network isn't just who you know. It's who knows you. Be useful and visible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "networking",
+        "visibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-network-isnt-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your business model in one sentence, you don't have one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain-512",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are built on boring niches. Boring niches have paying customers. Exciting niches have Twitter followers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "niche",
+        "revenue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-indie-businesses-553",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. Shipped is better than done. Revenue is better than shipped.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than-580",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now. Same goes for building your business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "timing",
+        "planting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-time-to-588",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful entrepreneur has a story that starts with 'I had no idea what I was doing.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "beginner",
+        "courage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-entrepreneur-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a business is when you're young and have nothing to lose. The second best time is when you're experienced and have something to build with.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "timing",
+        "age"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-592",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first hire should be someone who's good at the thing you're worst at.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "complementary"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-hire-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are built on obsession, not inspiration. Inspiration fades. Obsession endures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "obsession",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are-594",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Cash flow is oxygen. Profit is nice. Revenue is nice. But without cash flow, you're dead.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "cash-flow",
+        "survival"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-cash-flow-is-oxygen",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fire someone is immediately after you've decided you need to. Every day you wait costs you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "firing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-596",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get rich is to solve a problem so well that people tell their friends about it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-597",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business is a bet on the future. The best bets are the ones where you're building the future you're betting on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "bet",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to systematize is when you're small. Systems built under pressure are always worse.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "systems",
+        "scaling"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-599",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can hold two contradictory ideas in their head and still act.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "paradox",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is your promise. Your product is your proof. Your customers are your witnesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "brand",
+        "promise"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-brand-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to beat competition is to not have any. Build something so unique that there's nothing to compare it to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-602",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business starts with one person who decided to stop asking for permission.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "permission",
+        "courage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-starts-with",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to create systems is before you need them. The second best time is when you're drowning in chaos.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "systems",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-604",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of being your own boss is that your boss is an asshole who never lets you rest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "self-employment",
+        "work-life"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-hardest-part-of-605",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-model-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are built on boring, repetitive problems. Boring problems pay monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "recurring-revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-652",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when your customers say 'that's it?' when you tell them the price.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-660",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to compete with big companies is to be faster, more personal, and more focused. You can't outspend them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-673",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Money follows value. Create enough value and the money will come.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "value",
+        "money"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-money-follows-value-create",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about revenue is on day one. Not 'someday.' Not 'after we launch.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-718",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is a lagging indicator. Customer satisfaction is a leading indicator. Measure both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-a-lagging",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a financial model is before you need one. The second best time is when you're panicking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "financial-model",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-720",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business decisions are the ones that are easy to reverse. Make reversible decisions quickly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "decisions",
+        "reversibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-decisions",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business is a machine. Build it to run without you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "automation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to fire a bad client is when they first show you who they are.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "clients",
+        "boundaries"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-723",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business partnerships are the ones where both parties would rather share profits than compete.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "partnerships",
+        "collaboration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-partnerships",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business should have a simple rule: if it doesn't make money, don't do it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a financial cushion is when business is good. The worst time is when it's bad.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "cash",
+        "preparation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-726",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business should be boring to run and exciting to bank.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-business-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to increase profit is to decrease waste. Not to increase revenue.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-728",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "passive-income",
+        "leverage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-business-should-make",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to save money is when you have it. The worst time is when you need it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "savings",
+        "preparation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-time-to-730",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are the ones where the customer doesn't know they're paying for marketing. The marketing IS the product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "marketing",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are-731",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have one thing in common: they solve a boring problem really well.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-766",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Data is the new oil. But like oil, it's useless until you refine it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-data-is-the-new",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best metrics are actionable. If a metric doesn't tell you what to do next, it's not a metric — it's a number.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "metrics",
+        "actionable"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-metrics-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "dashboard",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-dashboard-should-answer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to make decisions is with data. The second best is with experience. The worst is with hunches.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "decisions",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-799",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every metric has a blind spot. Triangulate. Use at least three metrics to understand reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "triangulation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-metric-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to set up analytics is before you launch. Not after you've been flying blind for 3 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "analytics",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-802",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric is the one that predicts revenue. Everything else is a proxy.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "ab-testing",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ab-testing-takes-courage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Sales is just helping people make decisions they already want to make. The best salespeople know this.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "helping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-sales-is-just-helping",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best sales pitch is a product demo that sells itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "demo"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-sales-pitch",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing should be a no-brainer. If someone has to think about it, it's too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-pricing-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to negotiate a deal is when you don't need it. The worst is when you desperately do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "negotiation",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-808",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most valuable sales tool is a customer testimonial. Real words from real people beat any ad copy.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "testimonials",
+        "social-proof"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-valuable-sales",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to close a deal is to understand the customer's problem better than they do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-810",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your sales process should be like your product: simple, clear, and focused on the user.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "process"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-sales-process-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when you've delivered enough value that customers won't blink.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-812",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-churn-rate-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is just a number. Profit is what matters. Cash flow is what keeps you alive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-just-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to upsell is when the customer is already getting value. Not before.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "upsell",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-815",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best sales channel is word of mouth. Build a product people can't shut up about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "word-of-mouth",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-sales-channel",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle objections is to not have them in the first place. Build a product so good it sells itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "objections",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-817",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your sales team should be as good at listening as they are at talking. Better, actually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-sales-team-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best teams are the ones where everyone feels safe to fail. Psychological safety is the ultimate team metric.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-teams-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your culture isn't what you say. It's what you tolerate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "culture",
+        "behavior"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-culture-isnt-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a great team is to hire people who are smarter than you and get out of their way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "hiring",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-821",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's velocity is a reflection of your leadership. If they're slow, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "velocity",
+        "leadership"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-teams-velocity-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones with clear agendas, time limits, and action items. Everything else is a waste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-meetings-are-823",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team should be able to disagree and commit. If they can't disagree, there's no trust. If they can't commit, there's no respect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "disagreement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-team-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to retain talent is to give them meaningful work, not just a good salary.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retention",
+        "meaning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-825",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team is only as strong as its weakest link. Find it. Strengthen it. Or replace it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "weakness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-team-is-only",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a great culture is to hire for values first, skills second. Skills can be taught. Values can't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "culture",
+        "hiring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-827",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your remote team's culture is defined by what happens when nobody's watching. Build trust, not surveillance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "remote",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-remote-teams-culture",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best team rituals are the ones that build connection, not just output. Happy teams ship faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "rituals",
+        "connection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-team-rituals",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's biggest asset isn't their skills. It's their ability to work together. Protect it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "collaboration"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-teams-biggest-asset",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build trust is to be consistent. Consistency compounds like interest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "trust",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-831",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team should celebrate wins, not just survived losses. Recognition is fuel.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "recognition",
+        "culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-team-should-celebrate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to give feedback is to be specific, timely, and kind. Not vague, delayed, and brutal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "feedback",
+        "communication"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-833",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team should be able to challenge any decision, including the CEO's. If they can't, you have a dictatorship.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "culture",
+        "challenge"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-team-should-be-834",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best team retrospectives are the ones where people actually say what they think. Not what they think the boss wants to hear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retrospective",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-team-retrospectives",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's output is a function of clarity, not hours. Clear goals beat long hours.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "clarity",
+        "output"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-teams-output-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a high-performing team is to remove obstacles, not add pressure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "obstacles"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-837",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team should be able to ship without permission. Give them autonomy. They'll surprise you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "autonomy",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-team-should-be-838",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a culture of ownership is to give people ownership. Not just tasks. Ownership.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "ownership",
+        "culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-839",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best moat is a product so good that switching feels like a downgrade.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "switching-cost"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-moat-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competition isn't other products. It's inertia. Most people choose to do nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "inertia"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-competition-isnt-other-841",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to beat competition is to build something they can't copy: your culture, your taste, your community.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-842",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brand is your moat. Competitors can copy your features. They can't copy your identity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "brand",
+        "moat"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-brand-is-your-843",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best competitive advantage is speed. Big companies can't move fast. You can.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "speed",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-competitive-advantage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your network is a moat. Your community is a moat. Your data is a moat. Build all three.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "assets"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-network-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer relationships are your moat. Deep relationships are harder to break than contracts.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "moat",
+        "relationships"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customer-relationships-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best competitive advantage is one that compounds. Network effects, data flywheels, brand recognition.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "compounding",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-competitive-advantage-847",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's ecosystem is your moat. The more integrations, the harder to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "moat",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-ecosystem-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "wisdom",
+        "business"
+      ],
+      "tags": [
+        "risk",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is-850",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can fail gracefully and come back stronger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are-856",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first failure is your most expensive lesson. Make it count.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "lesson"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-failure-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-858",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed product teaches you something that no successful product could.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-failed-product-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to recover from failure is to start something new immediately. Don't let the failure define you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-860",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation is built on how you handle failure, not how you handle success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "failure"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-reputation-is-built",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn from failure is to write about it. Your future self will thank you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-862",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed startup is a case study. Every successful startup is a survivorship bias.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "bias"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-failed-startup-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn from failure is immediately after it happens. Not years later.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "failure",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-864",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest competitor is your own fear. Overcome it, and the rest follows.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "fear",
+        "courage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-competitor-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build resilience is to get knocked down and get back up. Every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "resilience",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-866",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovation comes from asking 'what if?' not 'how?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "questions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovation-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is saying no to a thousand things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-innovation-is-saying-no",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to innovate is to combine two existing ideas in a new way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "combination"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-889",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "ideas",
+        "reading"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-ideas-come",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovations are the ones that seem obvious in hindsight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "obvious"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovations-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation without execution is hallucination.",
+      "author": "Thomas Edison",
+      "author_slug": "edison",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "edison-innovation-without-execution-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to find innovative solutions is to define the problem clearly. Clear problems have clear solutions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "problem-definition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-893",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-innovation-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovations come from constraints. When you can't do everything, you find the one thing that matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "constraints"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovations-come",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Growth is never by mere chance; it is the result of forces working together.",
+      "author": "James Cash Penney",
+      "author_slug": "penney",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "forces"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "penney-growth-is-never-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to scale is to make your existing customers successful. Success breeds growth.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-917",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth should be organic, not forced. Forced growth breaks things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "organic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about scaling is when you have a product people actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "pmf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-919",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from solving a problem so well that people tell their friends.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth rate matters less than your retention rate. A leaky bucket can't be filled.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "growth",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-rate-matters",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to scale is to automate the repetitive and eliminate the unnecessary.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "scaling",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-922",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth strategy should be unique to your business. Copying others' strategies is a recipe for mediocrity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-strategy-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from compounding. Small improvements, consistently, over time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes-924",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your personal brand is what people say about you when you're not in the room. Make sure it's worth saying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "reputation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-personal-brand-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a personal brand is to be genuinely helpful. Not performative. Helpful.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "personal-brand",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1010",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your online presence is your resume. Keep it updated and keep it real.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "online-presence",
+        "resume"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-online-presence-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best personal brand is one that's authentic. Not polished. Authentic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-personal-brand",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your reputation precedes you. Build it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "reputation",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-reputation-precedes-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to stand out is to be genuinely yourself. In a world of copies, the original wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "authenticity",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1014",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your personal brand should attract the right people and repel the wrong ones. Both are valuable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "attraction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-personal-brand-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build your personal brand is before you need it. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1016",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your personal brand is your most valuable asset. Invest in it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "investment"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-personal-brand-is-1017",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best personal brands are built on consistency. Show up, add value, repeat.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-personal-brands",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best customer success strategy is to build a product so good that customers never need help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-success",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your happiest customers are your best marketing channel. Make them happy.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customers",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-happiest-customers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to check in with a customer is when things are going well. Not just when they're not.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customers",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1021",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customer-success-team",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce support tickets is to fix the root cause, not add more support agents.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "support",
+        "root-cause"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1023",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer's success is your success. Align incentives and everyone wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-success",
+        "incentives"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customers-success-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best customer feedback comes from watching, not asking. Observations beat surveys.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-feedback",
+        "observation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-feedback",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most valuable customers are the ones who stick around. Retention is the ultimate metric.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retention",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-valuable-customers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand your customer is to become your customer. Use your own product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "dogfooding",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1027",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer's journey doesn't end at the sale. It starts there.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-journey",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customers-journey-doesnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A leader is one who knows the way, goes the way, and shows the way.",
+      "author": "John C. Maxwell",
+      "author_slug": "maxwell",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "example"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "maxwell-a-leader-is-one",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who listen more than they talk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "accountability"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-teams-performance-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders empower others to lead. Not just to follow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "empowerment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-empower",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your leadership style should be as unique as your personality. Don't copy others' styles.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-leadership-style-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who make others better. Not just themselves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are-1034",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+      "author": "Simon Sinek",
+      "author_slug": "sinek",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "care"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinek-leadership-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to lead is by example. Not by authority.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "example"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1036",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your leadership is defined by the decisions you make when nobody's watching.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "integrity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-leadership-is-defined",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best leaders are the ones who can admit they're wrong. Vulnerability is strength.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "vulnerability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-leaders-are-1038",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn business is to run one. No MBA needed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "learning",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1070",
+      "source": "Community sourced"
+    }
+  ]
+}

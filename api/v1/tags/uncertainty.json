@@ -1,0 +1,38 @@
+{
+  "tag": "uncertainty",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
+      "author": "Eric Ries",
+      "author_slug": "ries",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "startup",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ries-a-startup-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best entrepreneurs are the ones who can make decisions with incomplete information.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "decisions",
+        "uncertainty"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are-959",
+      "source": "Community sourced"
+    }
+  ]
+}

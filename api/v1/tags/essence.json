@@ -1,0 +1,23 @@
+{
+  "tag": "essence",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "essence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "kernighan-controlling-complexity-is-the",
+      "source": "Community sourced"
+    }
+  ]
+}

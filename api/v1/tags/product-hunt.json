@@ -1,0 +1,22 @@
+{
+  "tag": "product-hunt",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to launch on Product Hunt is when you have a product people want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "product-hunt",
+        "launch"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-549",
+      "source": "Community sourced"
+    }
+  ]
+}

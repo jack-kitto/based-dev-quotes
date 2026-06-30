@@ -1,6 +1,6 @@
 {
   "category": "indie-hacker",
-  "count": 19,
+  "count": 128,
   "quotes": [
     {
       "id": "hoffman-embarrassed",
@@ -350,6 +350,1770 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "Indie hackers don't have exit strategies. They have 'make enough money to not get a real job' strategies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "lifestyle",
+        "freedom"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hackers-dont-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "efficiency",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hacker",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The beauty of being a solo founder is that you can ship in 20 minutes what takes a committee 3 months. The curse is that you have to do everything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "solo",
+        "speed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-beauty-of-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship fast, charge early, iterate often. This is the indie hacker's trifecta. Pick all three.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-fast-charge-early",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best thing about building for yourself: no stakeholder meetings. The worst: you are the stakeholder.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "solo",
+        "self-management"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-thing-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Building in public is just showing your work. But it also means everyone sees your mistakes, your pivots, and your 3 AM commits.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "build-in-public",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-building-in-public-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's greatest superpower isn't coding. It's the ability to make decisions without asking permission.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "decision-making",
+        "autonomy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-indie-hackers-greatest",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first $1k MRR feels like conquering the world. Your first $10k MRR feels like a Tuesday. The journey between is where you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "milestones"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-mrr",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing for an indie project is being useful. Be useful in forums, be useful on Twitter, be useful everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "marketing",
+        "usefulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Side projects are the best way to learn. Main projects are the best way to earn. You need both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "learning",
+        "earning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's nightmare isn't failure. It's spending 2 years building something that gets 3 users.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "risk"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-nightmare",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are ones you can run from a laptop, in a coffee shop, while ignoring everyone around you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "location-independent",
+        "lifestyle"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every indie hacker who says 'I'll never hire' eventually hires someone. The smart ones wait until they absolutely have to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "hiring",
+        "scaling"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-indie-hacker-who",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "engineering"
+      ],
+      "tags": [
+        "tech-stack",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-tech-stack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hacking is just freelancing with equity. Both involve wearing 47 hats. The equity part is just hope in disguise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "freelancing",
+        "hat-wearing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hacking-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch is when you have something that works. The worst time is when you think it's perfect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "launch",
+        "perfectionism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-357",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product taught you everything. Your second product teaches you what actually matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "learning",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-taught",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "saas",
+        "shitpost"
+      ],
+      "tags": [
+        "terminology",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-saying-im-building-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hackers are the ones who build things they personally use. They're their own best customer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "One-person businesses are the future. Not because they're trendy, but because leverage makes it possible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "leverage",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-oneperson-businesses-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most underrated indie hacker skill is copywriting. If you can write a clear landing page, you can sell anything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "copywriting",
+        "skills"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-underrated-indie",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers: 'I want to build something that makes $10k MRR.' Reality: you build something that makes $100 MRR and you're thrilled.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "expectations",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hackers-i-want",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add Stripe is before you launch. You'd be amazed how many people don't launch because they can't figure out payments.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "payments",
+        "launch"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-364",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "bugs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-it-then-fix",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The difference between a side project and a business is revenue. The difference between a business and a sustainable business is margin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "margin"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a-416",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate a SaaS idea is to sell it before you build it. If nobody buys, save yourself 6 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-417",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Solo founders don't lack ideas. They lack the discipline to ship one idea instead of starting five.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "discipline",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-solo-founders-dont-lack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's calendar: Monday — plan. Tuesday — code. Wednesday — code. Thursday — code. Friday — panic about marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "schedule",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-calendar",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every indie hacker has 100 ideas. The successful ones execute one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "execution",
+        "ideas"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-indie-hacker-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS feature request is the one you can implement in an afternoon and charge for monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "features",
+        "roi"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Side projects are the best career insurance. They prove you can build things, not just talk about them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the-487",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's journey: idea → build → launch → crickets → iterate → crickets → pivot → crickets → ship better → $100 MRR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "journey",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-journey",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product won't be your best. Your second won't either. Your tenth might be the one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "iteration",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-wont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie projects are the ones you'd use even if nobody else did.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "passion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-projects",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Solo founders don't fail because they can't code. They fail because they can't market.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "marketing",
+        "skills"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-solo-founders-dont-fail",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an indie project is to pre-sell it. If nobody pays, save yourself the build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-547",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who ship weekly grow faster than indie hackers who ship quarterly. Ship more, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch on Product Hunt is when you have a product people want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "product-hunt",
+        "launch"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-549",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first 100 users should be people you know personally. If you can't convince them, you can't convince strangers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "early-users",
+        "convincing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-100-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's biggest enemy isn't competition. It's shiny object syndrome. Pick one thing and ship it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "focus",
+        "discipline"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-biggest",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pricing",
+        "validation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-building-a-tool-youd",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are built on boring niches. Boring niches have paying customers. Exciting niches have Twitter followers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "niche",
+        "revenue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-indie-businesses-553",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your stack doesn't matter. Your ship rate does. Ship weekly or don't ship at all.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "tech-stack"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-stack-doesnt-matter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start monetizing is the day you launch. The worst is 'someday.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-555",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who talk to users grow faster than indie hackers who code in isolation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "user-feedback",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-talk",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hack is the one you can maintain alone for 3 years. If it needs a team, it's not an indie hack.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "sustainability",
+        "maintenance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to quit your job is when you have 6 months of runway. Not when you're fed up. Not when you're rich.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "entrepreneur"
+      ],
+      "tags": [
+        "quitting",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-656",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product failure isn't a failure. It's tuition. You just paid for a masterclass.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-failure",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses have one thing in common: the founder genuinely cares about the problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "problem"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-businesses-658",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is a sandbox. Play in it. Break things. Try weird ideas. That's the point.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "experimentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when your customers say 'that's it?' when you tell them the price.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-660",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Building a product is easy. Finding customers is hard. The best founders do both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "building",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-building-a-product-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build in public is always. Transparency compounds like interest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "build-in-public",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-662",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first paying customer is worth more than your next 100 signups. Treat them like royalty.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "customers",
+        "appreciation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-paying-customer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's motto: ship fast, charge more, sleep well.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "motto",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-indie-hackers-motto",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every indie hacker should learn one marketing skill: writing. Everything else is a bonus.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "writing",
+        "skills"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-indie-hacker-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an indie business is to make your existing customers happier. New customers come from happy ones.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-666",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product is your resume. Build something people want to talk about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "product",
+        "portfolio"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start an indie business is before you need the money. Build while you have a safety net.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "safety-net",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-668",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who ship weekly have 10x the chances of finding product-market fit than those who ship quarterly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship-669",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an idea is to charge for it before it exists. If nobody pays, you've saved months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-670",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page is your best salesperson. Make it work while you sleep.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of being a solo founder isn't the technical work. It's the isolation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "isolation",
+        "mental-health"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-672",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to compete with big companies is to be faster, more personal, and more focused. You can't outspend them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-673",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first year in business is survival. Your second year is learning. Your third year is growth.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "timeline",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-year-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are built on one simple insight. Find yours and execute relentlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "insight",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-businesses-675",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's office is wherever their laptop is. The best office is a café with good WiFi.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "location-independent",
+        "lifestyle"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-indie-hackers-office",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is your playground. Play. Experiment. Break things. That's how you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-is-768",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hackers are the ones who can switch between CEO and developer in 5 minutes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "switching",
+        "hats"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers-769",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first $1k in revenue is the hardest. The next $9k is easier. The next $90k is harder. The next $900k is the hardest.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's biggest asset isn't their code. It's their taste. Build things with taste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "taste",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-indie-hackers-biggest-771",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is a marathon, not a sprint. Pace yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pacing",
+        "endurance"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-side-project-is-772",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate your indie project is to pre-sell it. If nobody pays, save yourself the build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-773",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be something you'd use even if nobody else did. Build for yourself first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "passion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship weekly or don't ship at all. The gap between weekly and quarterly is the gap between learning and guessing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-weekly-or-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business is only as good as its worst user experience. Fix the leaks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "ux",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed product teaches you something that no successful product could.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-failed-product-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hacker tool is the one that saves you 10 hours a week. If it saves you 10 minutes, it's not worth building.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "tools",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hacker-1044",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be something you can explain to your parents. If you can't, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "clarity",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1045",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an indie idea is to build a landing page, collect emails, and see who signs up.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "landing-page"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1046",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first indie product should solve YOUR problem. Not what you think others' problems are.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "problem",
+        "dogfooding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-indie-product",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch on Indie Hackers is when you have a working product and a story to tell.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "launch",
+        "story"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1048",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first 100 users are the hardest. The next 900 are easier. Focus on the first 100.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "early-users",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie businesses are built on personal pain. Build what you wish existed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pain",
+        "building"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-businesses-1050",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project should be fun. If it's not fun, it's just another job.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "fun",
+        "enjoyment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hackers ship fast and learn faster. Speed is their superpower.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "speed",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers-1052",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project doesn't need a perfect logo. It needs paying customers. Ship.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-indie-project-doesnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an indie project is to make your users successful. Their success is your success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "growth",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1054",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be built on boring, repetitive problems. Boring problems pay monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "boring",
+        "recurring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1055",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build an audience is to be consistently helpful. Not consistently promotional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1056",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project is a marathon. Pace yourself. Celebrate small wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "endurance",
+        "celebration"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-indie-project-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add monetization is when you have users who'd miss your product if it disappeared.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1058",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important metric as an indie hacker is revenue per hour worked. Optimize for that.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-metric-1059",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hackers don't try to build the next unicorn. They build profitable lifestyle businesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "lifestyle",
+        "profitability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers-1060",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project should be good enough that users would be sad if it disappeared.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "value",
+        "indispensability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to start is to start small. One feature. One customer. One success.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "starting",
+        "small"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1062",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should run without you eventually. Build systems, not tasks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "automation",
+        "systems"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1063",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's biggest advantage is that you care more than anyone else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "advantage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-biggest",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build an indie business is before you need the money. Build while you have a safety net.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "safety-net",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1065",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pride",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should-1066",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be built on something you'd do even if nobody paid you. That's the foundation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "foundation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1067",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start monetizing is on day one. Not 'someday.' Not 'after we have 10k users.' Day one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "day-one"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-1068",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first $100 in revenue is worth more than your first 10,000 free users.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first-1069",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn business is to run one. No MBA needed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "learning",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1070",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be simple enough to explain in one sentence. If it takes a paragraph, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "simplicity",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1071",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project should be something you'd use even if nobody else did.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "passion",
+        "utility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should-1072",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project is your baby. Take care of it. Feed it. Grow it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "care",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-indie-project-is-1073",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first year is survival. Your second year is learning. Your third year is growth.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "timeline",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-year-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project is a playground. Play. Experiment. Break things. That's how you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "experimentation",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-is-1075",
+      "source": "Community sourced"
     }
   ]
 }

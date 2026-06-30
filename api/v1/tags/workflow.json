@@ -1,0 +1,87 @@
+{
+  "tag": "workflow",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best product decisions come from understanding the user's actual workflow, not the one you imagined they had.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "workflow",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-decisions-559",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-workflow-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to optimize your workflow is when you're doing the same thing for the third time. Automate it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-939",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your workflow should be documented. Not for others. For your future self.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-workflow-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your workflow should be simple enough to explain in 3 steps. If not, simplify it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-workflow-should-be-944",
+      "source": "Community sourced"
+    }
+  ]
+}

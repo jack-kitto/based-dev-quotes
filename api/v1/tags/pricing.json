@@ -1,6 +1,6 @@
 {
   "tag": "pricing",
-  "count": 1,
+  "count": 17,
   "quotes": [
     {
       "id": "patio11-charge-more",
@@ -19,6 +19,264 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "Pricing is how you tell the market what you're worth. Charge too little and you'll go out of business. Charge too much and you'll go out of business faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-pricing-is-how-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is the most important page on your site. It's where strangers decide if you're a real business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-pricing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "pricing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-api-rate-limits-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Usage-based pricing is the future of SaaS because it aligns incentives: you only pay when you get value.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "usage-based"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-usagebased-pricing-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship fast, charge early, iterate often. This is the indie hacker's trifecta. Pick all three.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-fast-charge-early",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when you're afraid to. The second best time is always.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "courage"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-412",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of business isn't building the product. It's getting people to pay for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-504",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Pricing is a feature. Charge more than you think and deliver more than you promised.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-pricing-is-a-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is your most important A/B test. The difference between $29 and $39 per month is millions in ARR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "ab-testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-pricing-page-is-524",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pricing",
+        "validation"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-building-a-tool-youd",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start monetizing is the day you launch. The worst is 'someday.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "pricing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-555",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your SaaS has an 'enterprise' tier, your pricing page should explain the difference in one sentence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-saas-has-647",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when your customers say 'that's it?' when you tell them the price.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-660",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a 'plans' page that explains pricing in plain language. Not jargon. Plain language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing should be a no-brainer. If someone has to think about it, it's too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-pricing-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when you've delivered enough value that customers won't blink.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-812",
+      "source": "Community sourced"
     }
   ]
 }

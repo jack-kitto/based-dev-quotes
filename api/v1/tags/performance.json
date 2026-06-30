@@ -1,6 +1,6 @@
 {
   "tag": "performance",
-  "count": 1,
+  "count": 5,
   "quotes": [
     {
       "id": "muratori-clean-code",
@@ -19,6 +19,70 @@
       ],
       "grug_level": 4,
       "spiciness": 5
+    },
+    {
+      "text": "The best time to think about performance is never. The second best time is when users complain.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "performance",
+        "premature-optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-460",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add caching is when profiling tells you to. Not when you think it might help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-627",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every database query should have an index. Every index should have a reason. Every reason should be tested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-database-query-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be fast. Not 'good enough' fast. Actually fast. Speed is a feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "speed",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-763",
+      "source": "Community sourced"
     }
   ]
 }

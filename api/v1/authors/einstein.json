@@ -1,0 +1,72 @@
+{
+  "author": "Albert Einstein",
+  "slug": "einstein",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "If you can't explain it simply, you don't understand it well enough.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "difficulty",
+        "opportunity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-in-the-middle-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Everything should be made as simple as possible, but not simpler.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-everything-should-be-made",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design is the simplest one that works.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-the-best-design-is",
+      "source": "Community sourced"
+    }
+  ]
+}

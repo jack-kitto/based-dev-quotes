@@ -1,0 +1,22 @@
+{
+  "tag": "prediction",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to predict the future is to build it. The second best is to complain about it on Twitter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "prediction",
+        "action"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-407",
+      "source": "Community sourced"
+    }
+  ]
+}

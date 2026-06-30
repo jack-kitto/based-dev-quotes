@@ -1,6 +1,6 @@
 {
   "tag": "laziness",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "wall-perl",
@@ -20,6 +20,23 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "The best engineers are lazy in the right ways: lazy about doing things twice, not lazy about doing things right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "laziness",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are-479",
+      "source": "Community sourced"
     }
   ]
 }

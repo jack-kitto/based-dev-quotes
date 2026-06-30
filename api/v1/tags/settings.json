@@ -1,0 +1,23 @@
+{
+  "tag": "settings",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your product's settings page is a maze if it doesn't have a search function. Add search.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "settings",
+        "navigation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-settings-page",
+      "source": "Community sourced"
+    }
+  ]
+}

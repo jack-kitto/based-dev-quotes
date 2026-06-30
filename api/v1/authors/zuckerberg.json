@@ -1,0 +1,41 @@
+{
+  "author": "Mark Zuckerberg",
+  "slug": "zuckerberg",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "risk",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "wisdom",
+        "business"
+      ],
+      "tags": [
+        "risk",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is-850",
+      "source": "Community sourced"
+    }
+  ]
+}

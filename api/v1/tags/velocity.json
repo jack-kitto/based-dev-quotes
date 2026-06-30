@@ -1,0 +1,70 @@
+{
+  "tag": "velocity",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "Indie hackers who ship weekly grow faster than indie hackers who ship quarterly. Ship more, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Indie hackers who ship weekly have 10x the chances of finding product-market fit than those who ship quarterly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-indie-hackers-who-ship-669",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship weekly or don't ship at all. The gap between weekly and quarterly is the gap between learning and guessing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "velocity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ship-weekly-or-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's velocity is a reflection of your leadership. If they're slow, look in the mirror.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "velocity",
+        "leadership"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-teams-velocity-is",
+      "source": "Community sourced"
+    }
+  ]
+}

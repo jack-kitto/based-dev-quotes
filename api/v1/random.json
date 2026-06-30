@@ -1,20 +1,17 @@
 {
-  "id": "temporary-solution",
-  "text": "Nothing is more permanent than a temporary solution that works.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "Don't watch the clock; do what it does. Keep going.",
+  "author": "Sam Levenson",
+  "author_slug": "levenson",
   "categories": [
-    "funny",
-    "suffering",
     "wisdom"
   ],
   "tags": [
-    "technical-debt",
-    "permanence",
-    "pragmatism"
+    "persistence",
+    "action"
   ],
-  "grug_level": 5,
-  "spiciness": 2,
-  "_generated_at": "2026-06-29T23:00:22.249971+00:00"
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "levenson-dont-watch-the-clock",
+  "source": "Community sourced",
+  "_generated_at": "2026-06-30T00:00:40.667657+00:00"
 }

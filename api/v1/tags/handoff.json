@@ -1,0 +1,23 @@
+{
+  "tag": "handoff",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The gap between what a designer hands off and what a developer builds is where user experience goes to die.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "handoff",
+        "implementation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-gap-between-what",
+      "source": "Community sourced"
+    }
+  ]
+}

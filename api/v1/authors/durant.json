@@ -1,0 +1,24 @@
+{
+  "author": "Will Durant",
+  "slug": "durant",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant",
+      "author_slug": "durant",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "habits",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "durant-we-are-what-we",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tag": "solutions",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The customer is always right about the problem. They're almost always wrong about the solution.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "wisdom"
+      ],
+      "tags": [
+        "customers",
+        "solutions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-customer-is-always",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The simplest solution is almost always the best one.",
+      "author": "Sherlock Holmes",
+      "author_slug": "holmes",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "solutions"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "holmes-the-simplest-solution-is",
+      "source": "Community sourced"
+    }
+  ]
+}

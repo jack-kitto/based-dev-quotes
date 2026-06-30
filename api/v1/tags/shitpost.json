@@ -1,0 +1,72 @@
+{
+  "tag": "shitpost",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "landing-page",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-if-your-saas-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'add more whitespace' suggestion is just 'I don't know how to fix this content' with better PR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "shitpost"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-add-more-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Flat design died so that neumorphism could be born and also die.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "trends",
+        "shitpost"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-flat-design-died-so",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every design trend is just the previous trend with different border-radius.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "trends",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-design-trend-is",
+      "source": "Community sourced"
+    }
+  ]
+}

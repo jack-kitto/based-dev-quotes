@@ -1,0 +1,71 @@
+{
+  "tag": "preselling",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best way to validate a SaaS idea is to sell it before you build it. If nobody buys, save yourself 6 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-417",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an indie project is to pre-sell it. If nobody pays, save yourself the build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-547",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate an idea is to charge for it before it exists. If nobody pays, you've saved months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-670",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate your indie project is to pre-sell it. If nobody pays, save yourself the build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-773",
+      "source": "Community sourced"
+    }
+  ]
+}

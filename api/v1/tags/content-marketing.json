@@ -1,0 +1,22 @@
+{
+  "tag": "content-marketing",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Content marketing is just storytelling for people who are afraid to ask for the sale.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content-marketing",
+        "sales"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-content-marketing-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

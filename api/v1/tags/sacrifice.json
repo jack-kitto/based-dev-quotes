@@ -1,0 +1,22 @@
+{
+  "tag": "sacrifice",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Entrepreneurship is living a few years of your life like most people won't, so you can spend the rest like most people can't.",
+      "author": "Warren Tracy",
+      "author_slug": "tracy",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "sacrifice",
+        "freedom"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "tracy-entrepreneurship-is-living-a",
+      "source": "Community sourced"
+    }
+  ]
+}

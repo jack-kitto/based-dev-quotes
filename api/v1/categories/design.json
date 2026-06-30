@@ -1,0 +1,1426 @@
+{
+  "category": "design",
+  "count": 86,
+  "quotes": [
+    {
+      "text": "Good design is as little design as possible. Less, but better.",
+      "author": "Dieter Rams",
+      "author_slug": "rams",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "rams-good-design-is-as",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is not the absence of clutter; it's the presence of order.",
+      "author": "Jonathan Ive",
+      "author_slug": "ive",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ive-simplicity-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user interface is the product. Everything behind it is infrastructure nobody asked for.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ui",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-user-interface-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you need a user manual for your UI, you've already failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-if-you-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Design is not just what it looks like and feels like. Design is how it works. And if it doesn't work, no amount of design saves it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "functionality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-design-is-not-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A pixel-perfect mockup of a broken flow is still a broken flow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "mockups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-pixelperfect-mockup-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best interface is no interface. The second best is one so obvious you forget it exists.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-interface-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Nobody has ever complained that something was too easy to use.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-nobody-has-ever-complained",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every pixel of whitespace is a deliberate choice to not add something stupid.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-pixel-of-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page has 7 CTAs. That's not a landing page, that's a panic attack.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "cta",
+        "landing-page"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-your-landing-page-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your color palette is more than 4 colors, you're decorating, not designing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design system is the one your team actually uses, not the one that wins awards on Dribbble.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-design-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every designer wants to make the world more beautiful. Then they get hired to darken a CTA button 2% darker for the 47th time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "corporate",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-designer-wants-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The fastest way to find out if your design is good is to show it to someone who doesn't care about you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "usability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-fastest-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "ab-testing",
+        "product"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-ab-testing-is-how",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your design needs a tooltip to explain itself, redesign it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "tooltips"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-if-your-design-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Responsive design is easy. Responsive design that doesn't look like garbage on a 320px screen is hard.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "responsive",
+        "mobile"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-responsive-design-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The gap between what a designer hands off and what a developer builds is where user experience goes to die.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "handoff",
+        "implementation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-gap-between-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Dark mode isn't a feature. It's a survival mechanism.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "dark-mode",
+        "productivity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-dark-mode-isnt-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most underrated design tool is a napkin. The most overrated is Figma.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "sketching",
+        "tools"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-underrated-design",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "landing-page",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-if-your-saas-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every 'add more whitespace' suggestion is just 'I don't know how to fix this content' with better PR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "shitpost"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-add-more-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best mobile app is one thumb, one eyeball, one task.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "mobile",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-mobile-app",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your form has 15 required fields. You're not collecting data, you're conducting an interrogation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "forms",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-form-has-15",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Accessibility isn't a nice-to-have. It's the law and basic human decency. Pick whichever motivates you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "accessibility",
+        "a11y"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-accessibility-isnt-a-nicetohave",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best loading indicator is no loading indicator. The second best is one that's honest about how long it'll take.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "loading",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-loading-indicator",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Flat design died so that neumorphism could be born and also die.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "trends",
+        "shitpost"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-flat-design-died-so",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every design trend is just the previous trend with different border-radius.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "trends",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-design-trend-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your hero section doesn't need a video background. Nobody is on your landing page for the cinematography.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "hero",
+        "video"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-hero-section-doesnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best UI component library is the one that gets out of your way. The worst is the one you have to fight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "components",
+        "libraries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ui-component",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best error message is the one that never appears. The second best tells me what I did wrong, not what the code did wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "design"
+      ],
+      "tags": [
+        "error-messages",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-message",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Users don't read. They scan, they click, they get frustrated. Design for that reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "reading",
+        "behavior"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-users-dont-read-they",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best error message is one that tells the user what to do next. The worst tells them what the developer did wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "error-messages",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-error-message-382",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competitors will copy your features. They can't copy your taste. Build something with taste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "design"
+      ],
+      "tags": [
+        "competition",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-competitors-will-copy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best UI is the one the user doesn't notice. When you notice the UI, something's wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "ux",
+        "invisibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ui-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your checkout page is where money goes to die if you add friction. Every extra field costs you 10% of conversions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "checkout",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-checkout-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Design tokens aren't a trend. They're what happens when designers finally learn version control.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-tokens",
+        "version-control"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-design-tokens-arent-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best prototypes are ugly ones. If it's pretty, you'll fall in love with it. If it's ugly, you'll iterate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "prototyping",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-prototypes-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Typography is 95% of design. The other 5% is making sure the typography doesn't suck.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-typography-is-95-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you have to explain your navigation, your navigation is broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "navigation",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-have-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most common design mistake: treating every element as equally important. Prioritize. Something should be bigger.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "hierarchy",
+        "prioritization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-common-design",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your design system should fit in one file. If it doesn't, you've built a framework.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-design-system-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette for a SaaS is your brand color plus gray. Everything else is decoration.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "color",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every design is a wireframe until someone puts a gradient on it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "shitpost"
+      ],
+      "tags": [
+        "wireframe",
+        "gradients"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-design-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about mobile design is before you start designing. Not after the desktop version is done.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "mobile",
+        "responsive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-447",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Animations should clarify, not decorate. If an animation doesn't help the user understand what changed, delete it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "animation",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-animations-should-clarify-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your modal has 3 buttons and a close icon. The user has no idea which one to click. That's your fault.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "modals",
+        "decision-fatigue"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-modal-has-3",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best icon is no icon. The second best is one with a label. The worst is a cryptic SVG from 2007.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "icons",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-icon-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "css",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-css-file",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If a user has to read a manual to use your product, your product has failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "documentation",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-a-user-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce user confusion is to reduce options. Every choice you give the user is a chance for them to choose wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "choices",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-569",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every product should pass the 'Grandma test': could your grandma figure it out? If not, simplify.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "usability",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-product-should-pass",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your user interface should be like a good joke: if you have to explain it, it's not good.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "design"
+      ],
+      "tags": [
+        "ux",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-user-interface-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design is the one that doesn't get in the way. Invisible design is the ultimate achievement.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "invisibility",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your typography should carry the design. If you need heavy graphics to make it work, the typography failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-typography-should-carry",
+      "source": "Community sourced"
+    },
+    {
+      "text": "White space isn't wasted space. It's breathing room for your content.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "breathing-room"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-white-space-isnt-wasted",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette is the one that's invisible. The content should be the hero.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette-692",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every design decision should answer one question: 'Does this help the user?' If not, remove it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "decisions",
+        "user-focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-design-decision-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best UX is the one you don't notice. When the design is invisible, the product is working.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "ux",
+        "invisibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ux-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's design should be consistent enough that users don't have to re-learn it on every page.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "consistency",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-design-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design systems are the ones that feel like they've always existed. Natural. Obvious. Invisible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-systems",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If a design element doesn't serve a purpose, it's noise. Remove it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "purpose",
+        "noise"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-a-design-element",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best interfaces are the ones where every element earns its place. Nothing decorative. Everything intentional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "intentionality",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-interfaces-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "wisdom",
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "forms",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-a-form-with-3",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your modal should have one action. Two actions means you're asking the user to decide. Three means you're confusing them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "modals",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-modal-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a loading skeleton is before the user sees a blank screen for the first time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "loading",
+        "skeleton"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-744",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's color system should have 3 primary colors. One for action, one for success, one for danger. Everything else is secondary.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "system"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-color-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design tools are the ones that disappear. When you're designing, you shouldn't be thinking about the tool.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "tools",
+        "flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-tools",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's empty state is as important as its full state. Design for both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "empty-state",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-empty-state",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your product's design is to remove things, not add them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "removal",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-748",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's navigation should be like a compass: always pointing to the most important thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "navigation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-navigation-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce cognitive load is to present information in layers. Don't overwhelm. Reveal gradually.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "cognitive-load",
+        "layering"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-750",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's settings page is a maze if it doesn't have a search function. Add search.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "settings",
+        "navigation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-settings-page",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add dark mode is when your users start using your product at night. Which is always.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "dark-mode",
+        "always"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-752",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "resilience",
+        "progressive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle errors is to prevent them. The second best is to catch them early. The third is to show a useful message.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "engineering"
+      ],
+      "tags": [
+        "errors",
+        "prevention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-754",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's search should be as good as Google's. Not because you're Google, but because search is how users find things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "search",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-search-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your product's onboarding is to watch 5 new users try to use it. Record their screen. Take notes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-756",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Less is more.",
+      "author": "Ludwig Mies van der Rohe",
+      "author_slug": "mies",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "minimalism",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "mies-less-is-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate form of sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate-907",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design is the simplest one that works.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-the-best-design-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is not about absence. It's about presence of the right things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-simplicity-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to simplify is to start with the user's needs, not your features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "user-needs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1006",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be so simple that it feels like it was always meant to exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be-1007",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Minimalism isn't about having less. It's about making room for more of what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "minimalism",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-minimalism-isnt-about-having",
+      "source": "Community sourced"
+    }
+  ]
+}

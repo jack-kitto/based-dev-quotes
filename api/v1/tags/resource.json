@@ -1,0 +1,22 @@
+{
+  "tag": "resource",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your focus is a finite resource. Spend it on what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "resource"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-focus-is-a",
+      "source": "Community sourced"
+    }
+  ]
+}

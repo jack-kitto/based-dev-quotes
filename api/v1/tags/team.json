@@ -1,0 +1,102 @@
+{
+  "tag": "team",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The best technology choice is the one your team knows. The second best is the one that's actually right. Usually they're different.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "technology-choices",
+        "team"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-technology-choice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best teams are the ones where everyone feels safe to fail. Psychological safety is the ultimate team metric.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-teams-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team should be able to disagree and commit. If they can't disagree, there's no trust. If they can't commit, there's no respect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "disagreement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-team-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team is only as strong as its weakest link. Find it. Strengthen it. Or replace it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "weakness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-team-is-only",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your team's biggest asset isn't their skills. It's their ability to work together. Protect it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "collaboration"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-teams-biggest-asset",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a high-performing team is to remove obstacles, not add pressure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "obstacles"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-837",
+      "source": "Community sourced"
+    }
+  ]
+}

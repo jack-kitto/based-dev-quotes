@@ -1,0 +1,38 @@
+{
+  "tag": "timeline",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your first year in business is survival. Your second year is learning. Your third year is growth.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "timeline",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-year-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first year is survival. Your second year is learning. Your third year is growth.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "timeline",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-year-is",
+      "source": "Community sourced"
+    }
+  ]
+}

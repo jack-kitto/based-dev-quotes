@@ -1,0 +1,39 @@
+{
+  "tag": "loading",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best loading indicator is no loading indicator. The second best is one that's honest about how long it'll take.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "loading",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-loading-indicator",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a loading skeleton is before the user sees a blank screen for the first time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "loading",
+        "skeleton"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-744",
+      "source": "Community sourced"
+    }
+  ]
+}

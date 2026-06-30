@@ -1,0 +1,22 @@
+{
+  "tag": "bottleneck",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every system has a bottleneck. Find it. Fix it. Then find the next one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bottleneck",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-system-has-a",
+      "source": "Community sourced"
+    }
+  ]
+}

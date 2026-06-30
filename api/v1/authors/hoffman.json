@@ -1,7 +1,7 @@
 {
   "author": "Reid Hoffman",
   "slug": "hoffman",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "hoffman-embarrassed",
@@ -21,6 +21,23 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "If you're not embarrassed by your first release, you launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoffman-if-youre-not-embarrassed",
+      "source": "Community sourced"
     }
   ]
 }

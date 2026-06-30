@@ -1,0 +1,22 @@
+{
+  "tag": "events",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Event-driven architecture is great until you have to debug why an event from 3 days ago triggered a cascade of failures.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "events",
+        "debugging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-eventdriven-architecture-is-great",
+      "source": "Community sourced"
+    }
+  ]
+}

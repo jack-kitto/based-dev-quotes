@@ -1,0 +1,23 @@
+{
+  "tag": "maintainability",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Naming things is easy. Naming things well is a skill. Naming things in a way that still makes sense 2 years later is a superpower.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "naming",
+        "maintainability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-naming-things-is-easy",
+      "source": "Community sourced"
+    }
+  ]
+}

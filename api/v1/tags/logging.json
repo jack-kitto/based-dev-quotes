@@ -1,0 +1,87 @@
+{
+  "tag": "logging",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "logging",
+        "monitoring"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-logging-should-tell",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your logging should be detailed enough to debug, but not so detailed that it drowns in noise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-logging-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add logging is before you need it. The second best time is during the incident you're having.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-789",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your error logs are empty, your logging is broken. Errors happen. Capture them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "logging",
+        "errors"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-error-logs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "logging"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-strategy",
+      "source": "Community sourced"
+    }
+  ]
+}

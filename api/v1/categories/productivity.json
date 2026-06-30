@@ -1,0 +1,1812 @@
+{
+  "category": "productivity",
+  "count": 111,
+  "quotes": [
+    {
+      "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Paul J. Meyer",
+      "author_slug": "meyer",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "planning",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "meyer-productivity-is-never-an",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Stephen Covey",
+      "author_slug": "covey",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "covey-the-key-is-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is doing more of what matters. Not doing more things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-productivity-is-doing-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-todo-list-isnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't the ones who do the most. They're the ones who say no the most.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "saying-no"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Meetings are where minutes are kept and hours are lost.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "waste"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-meetings-are-where-minutes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your calendar is full, you're not productive. You're just busy. There's a difference.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "calendar",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-calendar-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best productivity hack is a deadline. The second best is consequences.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You don't need a second monitor. You need fewer tabs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "setup",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-you-dont-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The Pomodoro Technique is great until you enter flow state and your timer interrupts you to take a break you didn't need.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "pomodoro",
+        "flow-state"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-pomodoro-technique-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Inbox Zero is a lie. The goal isn't zero emails. It's zero emails that matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "email",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-inbox-zero-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every time management introduces a new 'productivity tool,' productivity drops by 30% while everyone learns it, then returns to baseline.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "tools",
+        "management"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-time-management-introduces",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Batch your shallow work. Protect your deep work. Ignore everything else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "deep-work",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-batch-your-shallow-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get something done is to begin. Not to plan. Not to research. Not to optimize. Begin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "action",
+        "beginning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Multitasking is a myth. You're just switching between tasks poorly and calling it efficiency.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "multitasking",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-multitasking-is-a-myth",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best note-taking system is the one you actually use. Not the one you spend 47 hours setting up.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "notes",
+        "tools"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-notetaking-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Burnout isn't caused by working too hard. It's caused by working too hard on things that don't matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "burnout",
+        "meaning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-caused-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive thing you can do today is delete half your to-do list.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "simplification"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-productive-thing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your morning routine doesn't matter if your evening routine is doomscrolling until 2 AM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "morning-routine",
+        "sleep"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-morning-routine-doesnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Hustle culture is just exploitation with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "hustle",
+        "burnout"
+      ],
+      "grug_level": 4,
+      "spiciness": 5,
+      "id": "based-hustle-culture-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The 5 AM club only works if you go to bed at 9 PM. Most people who join it just lose 2 hours of sleep and call it discipline.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "morning-routine",
+        "sleep"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-5-am-club",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. But also: good is better than done-but-broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If it takes less than 2 minutes, do it now. If it takes less than 2 hours, do it today. If it takes longer, schedule it and then don't schedule it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "gtd",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-if-it-takes-less",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Time management is really just priority management. If everything is a priority, nothing is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-time-management-is-really",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "meta",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-real-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-investment-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to stop doing things that don't matter. It sounds obvious. It isn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "elimination"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-427",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brain is a browser with too many tabs open. Close some before you crash.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "overload"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-brain-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best investment in productivity is sleep. Not coffee, not apps, not standing desks. Sleep.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "sleep",
+        "health"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-investment-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't do it in 2 hours, you can't do it today. Break it down or give up.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "breaking-down",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones that don't happen. The second best are the ones that end early.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-meetings-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Discipline is choosing between what you want now and what you want most. Most people choose now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "discipline",
+        "delayed-gratification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-discipline-is-choosing-between",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive 2 hours of your day are the ones where you're not checking notifications.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "notifications",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-2",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're reading productivity books instead of doing the work, you're procrastinating with extra steps.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "procrastination",
+        "action"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-youre-reading-productivity",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time management trick is realizing you can't manage time. You can only manage yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "time-management",
+        "self-management"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-management",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your calendar reflects your priorities. If it doesn't, you don't have priorities — you have wishes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "calendar",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-calendar-reflects-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best career advice is: nobody is coming to save you. You have to build your own thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "self-reliance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-career-advice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Work-life balance is a myth. What matters is work-life integration — doing work you don't need to escape from.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "work-life",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-worklife-balance-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of remote work isn't productivity. It's knowing when to stop.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "remote-work",
+        "boundaries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-484",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first job teaches you skills. Your second teaches you politics. Your third teaches you which one matters more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-job-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get promoted is to do the job you want, not the job you have. But don't do it for free.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "career",
+        "promotion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-486",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Side projects are the best career insurance. They prove you can build things, not just talk about them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the-487",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to negotiate your salary is when you don't need the job. The worst is when you desperately do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "salary",
+        "negotiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-488",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "github",
+        "resume"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-github-profile-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Burnout isn't a badge of honor. It's a sign you're doing something wrong. Rest is productive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "burnout",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-a-badge",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to teach. The best way to teach is to build something that explains itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-491",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Imposter syndrome means you're in the right room. If you're the smartest person in the room, you're in the wrong room.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-imposter-syndrome-means-youre",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to update your resume is when you don't need one. The second best is when you're too late.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "resume",
+        "career"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-493",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your LinkedIn feed is just Twitter for people who think they're too professional for Twitter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "shitpost"
+      ],
+      "tags": [
+        "linkedin",
+        "social-media"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-linkedin-feed-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get better at coding is to code. Not to watch tutorials. Not to read books. To code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "practice"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-495",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habit is the one you actually maintain. Not the one that looks best on paper.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "realism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habit-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You don't need a perfect morning routine. You need a routine that doesn't make you hate mornings.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "routine",
+        "realism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-dont-need-a-572",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best investment is in yourself. The best return is confidence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-investment-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Knowledge is power. Applied knowledge is superpower. Hoarded knowledge is a hoarder.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "knowledge",
+        "application"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-knowledge-is-power-applied",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start that thing you've been putting off is exactly now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "procrastination",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-575",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're waiting for motivation, you'll be waiting forever. Motivation follows action, not the other way around.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "motivation",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-waiting-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to predict your future is to create it. Start today.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "future",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-577",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your attention is your most valuable resource. Spend it like you'd spend your last dollar.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "attention",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-attention-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to manage stress is to eliminate the source. If you can't eliminate it, change your relationship with it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "stress",
+        "management"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-579",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. Shipped is better than done. Revenue is better than shipped.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than-580",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't busy. They're focused. Busy is noise. Focus is signal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "busyness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people-581",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If it's not on your calendar, it doesn't exist. Dreams without deadlines are just fantasies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "calendar",
+        "deadlines"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-its-not-on",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to do less. Say no to the mediocre so you can say yes to the excellent.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "saying-no",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-583",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You can't pour from an empty cup. Fill yours first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "self-care",
+        "energy"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-you-cant-pour-from",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best productivity hack is caring deeply about what you're working on. Everything else is optimization.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "passion",
+        "intrinsic-motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-productivity-hack-585",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most underrated skill is knowing when to stop. Not everything needs to be optimized.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "stopping",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-underrated-skill",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your future self is a stranger you're building a life for. Be kind to them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "future-self",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-future-self-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now. Same goes for building your business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "timing",
+        "planting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-time-to-588",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rest is not the opposite of work. It's the foundation of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "rest",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-rest-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build good habits is when you don't need them. The worst time is when you desperately do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-590",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones with clear agendas, time limits, and action items. Everything else is a waste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-meetings-are-823",
+      "source": "Community sourced"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant",
+      "author_slug": "durant",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "habits",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "durant-we-are-what-we",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones you don't have to think about. Make them automatic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "automatic"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your daily routine is your life in miniature. Design it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "routine",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-daily-routine-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones that compound. Small daily improvements lead to remarkable results.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "compounding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are-928",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you want to change your life, change your habits first. Habits are the compound interest of self-improvement.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "change"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-want-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build a habit is to start small. Ridiculously small. Then build from there.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "small-steps"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-930",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your morning routine should set the tone for the day, not drain your energy before it starts.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "morning-routine",
+        "energy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-morning-routine-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best habits are the ones that align with your identity. You're not 'trying to write.' You're a writer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "identity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-habits-are-932",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-933",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your habits shape your future. Choose them wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "habits",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-habits-shape-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best tools are the ones you don't notice. They become extensions of your thinking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "tools",
+        "invisibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-tools-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "tools",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-tools-should-serve",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-workflow-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your toolkit should be as small as possible. Each tool you add is a tool you have to learn and maintain.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "tools",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-toolkit-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to optimize your workflow is when you're doing the same thing for the third time. Automate it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "automation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-939",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your keyboard shortcuts are your superpowers. Learn them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "shortcuts",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-keyboard-shortcuts-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best IDE is the one that disappears. You shouldn't be thinking about the tool.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "ide",
+        "flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ide-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your workflow should be documented. Not for others. For your future self.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-workflow-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to automate is when you're doing the same task for the third time. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "automation",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-943",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your workflow should be simple enough to explain in 3 steps. If not, simplify it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-workflow-should-be-944",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Time is what we want most, but what we use worst.",
+      "author": "William Penn",
+      "author_slug": "penn",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "time",
+        "usage"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "penn-time-is-what-we",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to manage your time is when you have too much of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "time-management",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-982",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your deadline is your friend. It forces decisions. Embrace it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "decisions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-deadline-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to meet a deadline is to set intermediate deadlines. The big deadline is just a collection of small ones.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "decomposition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-984",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Parkinson's Law: work expands to fill the time available. Set shorter deadlines.",
+      "author": "C. Northcote Parkinson",
+      "author_slug": "parkinson",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "parkinsons-law",
+        "deadlines"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "parkinson-parkinsons-law-work-expands",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start a project is before you're ready. You'll never be ready.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "starting",
+        "readiness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-986",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest time sink isn't meetings or email. It's context switching. Protect your focus blocks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "context-switching",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-time-sink",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more time is to stop wasting it. Track where it goes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "time-tracking",
+        "waste"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-988",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most productive hours are the ones you protect. Guard them ruthlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "productivity",
+        "protection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-productive-hours",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best deadline is the one you set yourself. External deadlines are just external pressure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deadlines",
+        "self-imposed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-deadline-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+      "author": "Cal Newport",
+      "author_slug": "newport",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "newport-the-ability-to-perform",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important work requires deep focus. Protect it like your life depends on it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "protection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to do deep work is to eliminate all distractions. Phone off. Slack closed. Door shut.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "distractions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-993",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your ability to focus is your most valuable skill. Train it like a muscle.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "skill"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-ability-to-focus",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best deep work happens when you're well-rested, not when you're tired. Sleep is productivity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "sleep"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-deep-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your focus is a finite resource. Spend it on what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "resource"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-focus-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your focus is to reduce the number of things competing for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "reduction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-997",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-deep-work-is-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best ideas come when you're focused, not when you're distracted. Protect your focus time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "ideas",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-ideas-come-999",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to do less things with more focus.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1000",
+      "source": "Community sourced"
+    }
+  ]
+}

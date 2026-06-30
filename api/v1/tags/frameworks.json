@@ -1,0 +1,38 @@
+{
+  "tag": "frameworks",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Every framework is somebody's way of saying 'I disagree with how you write code' and then charging you for the privilege.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "frameworks",
+        "opinion"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-framework-is-somebodys",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "frameworks",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-frontend-framework",
+      "source": "Community sourced"
+    }
+  ]
+}

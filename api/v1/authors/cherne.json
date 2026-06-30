@@ -1,0 +1,23 @@
+{
+  "author": "Leo Cherne",
+  "slug": "cherne",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation.",
+      "author": "Leo Cherne",
+      "author_slug": "cherne",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "computers",
+        "humans"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cherne-the-computer-is-incredibly",
+      "source": "Community sourced"
+    }
+  ]
+}

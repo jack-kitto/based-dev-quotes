@@ -1,7 +1,7 @@
 {
   "author": "Edsger W. Dijkstra",
   "slug": "dijkstra",
-  "count": 3,
+  "count": 5,
   "quotes": [
     {
       "id": "dijkstra-testing",
@@ -56,6 +56,40 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "programming"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-if-debugging-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is a prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-simplicity-is-a-prerequisite",
+      "source": "Community sourced"
     }
   ]
 }

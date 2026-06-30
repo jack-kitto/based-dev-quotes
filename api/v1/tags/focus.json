@@ -1,6 +1,6 @@
 {
   "tag": "focus",
-  "count": 2,
+  "count": 37,
   "quotes": [
     {
       "id": "graham-maker-schedule",
@@ -37,6 +37,578 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Paul J. Meyer",
+      "author_slug": "meyer",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "planning",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "meyer-productivity-is-never-an",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is doing more of what matters. Not doing more things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-productivity-is-doing-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-todo-list-isnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't the ones who do the most. They're the ones who say no the most.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "saying-no"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your calendar is full, you're not productive. You're just busy. There's a difference.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "calendar",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-calendar-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You don't need a second monitor. You need fewer tabs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "setup",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-you-dont-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Inbox Zero is a lie. The goal isn't zero emails. It's zero emails that matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "email",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-inbox-zero-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Batch your shallow work. Protect your deep work. Ignore everything else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "deep-work",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-batch-your-shallow-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Multitasking is a myth. You're just switching between tasks poorly and calling it efficiency.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "multitasking",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-multitasking-is-a-myth",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Time management is really just priority management. If everything is a priority, nothing is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-time-management-is-really",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "meta",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-real-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page should do one thing: get the visitor to take one action. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Solo founders don't lack ideas. They lack the discipline to ship one idea instead of starting five.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "discipline",
+        "focus"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-solo-founders-dont-lack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to stop doing things that don't matter. It sounds obvious. It isn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "elimination"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-427",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your brain is a browser with too many tabs open. Close some before you crash.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "overload"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-brain-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive 2 hours of your day are the ones where you're not checking notifications.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "notifications",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-2",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The indie hacker's biggest enemy isn't competition. It's shiny object syndrome. Pick one thing and ship it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "focus",
+        "discipline"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-indie-hackers-biggest",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your attention is your most valuable resource. Spend it like you'd spend your last dollar.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "attention",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-attention-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't busy. They're focused. Busy is noise. Focus is signal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "busyness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people-581",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses start with one feature that works perfectly. Then they add a second one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-646",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business should have a simple rule: if it doesn't make money, don't do it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's navigation should be like a compass: always pointing to the most important thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "navigation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-navigation-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is saying no to a thousand things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-innovation-is-saying-no",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-innovation-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products do less, but do it perfectly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should do one thing exceptionally well. Not ten things mediocrely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If every feature is important, nothing is. Prioritize ruthlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "prioritization",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-every-feature-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "workflow",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-workflow-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest time sink isn't meetings or email. It's context switching. Protect your focus blocks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "context-switching",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-time-sink",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your ability to focus is your most valuable skill. Train it like a muscle.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "skill"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-ability-to-focus",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your focus is a finite resource. Spend it on what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "resource"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-focus-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your focus is to reduce the number of things competing for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "reduction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-997",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best ideas come when you're focused, not when you're distracted. Protect your focus time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "ideas",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-ideas-come-999",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to do less things with more focus.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "focus",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1000",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first 100 users are the hardest. The next 900 are easier. Focus on the first 100.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "early-users",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first",
+      "source": "Community sourced"
     }
   ]
 }

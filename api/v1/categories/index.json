@@ -1,6 +1,9 @@
 {
-  "total": 13,
+  "total": 23,
   "categories": {
+    "business": {
+      "count": 216
+    },
     "career": {
       "count": 8
     },
@@ -9,6 +12,18 @@
     },
     "debugging": {
       "count": 16
+    },
+    "design": {
+      "count": 86
+    },
+    "devops": {
+      "count": 25
+    },
+    "engineering": {
+      "count": 235
+    },
+    "entrepreneur": {
+      "count": 33
     },
     "founder": {
       "count": 9
@@ -20,13 +35,25 @@
       "count": 8
     },
     "indie-hacker": {
-      "count": 19
+      "count": 128
+    },
+    "marketing": {
+      "count": 86
+    },
+    "product": {
+      "count": 67
+    },
+    "productivity": {
+      "count": 111
+    },
+    "saas": {
+      "count": 96
     },
     "shipping": {
-      "count": 17
+      "count": 20
     },
     "shitpost": {
-      "count": 20
+      "count": 59
     },
     "suffering": {
       "count": 28
@@ -37,8 +64,11 @@
     "unix": {
       "count": 2
     },
+    "users": {
+      "count": 47
+    },
     "wisdom": {
-      "count": 58
+      "count": 176
     }
   }
 }

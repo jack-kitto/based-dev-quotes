@@ -1,0 +1,22 @@
+{
+  "tag": "stress",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to manage stress is to eliminate the source. If you can't eliminate it, change your relationship with it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "stress",
+        "management"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-579",
+      "source": "Community sourced"
+    }
+  ]
+}

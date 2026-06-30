@@ -1,6 +1,6 @@
 {
   "tag": "profitability",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "graham-default-alive",
@@ -37,6 +37,22 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "The best indie hackers don't try to build the next unicorn. They build profitable lifestyle businesses.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "lifestyle",
+        "profitability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers-1060",
+      "source": "Community sourced"
     }
   ]
 }

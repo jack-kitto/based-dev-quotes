@@ -1,6 +1,6 @@
 {
   "tag": "learning",
-  "count": 2,
+  "count": 24,
   "quotes": [
     {
       "id": "norvig-10-years",
@@ -39,6 +39,365 @@
       ],
       "grug_level": 2,
       "spiciness": 1
+    },
+    {
+      "text": "Every Junior Dev: 'I'll just use a regex for this.' Every Senior Dev: 'I'll just use a regex for this.' Every Staff Dev: 'I'll just use a regex for this.' None of them have learned.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "regex",
+        "learning"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-every-junior-dev-ill",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-investment-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Fail fast, fail forward, fail cheaply. But most importantly: learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-fail-fast-fail-forward",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Side projects are the best way to learn. Main projects are the best way to earn. You need both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "learning",
+        "earning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-side-projects-are-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product taught you everything. Your second product teaches you what actually matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "learning",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-taught",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn about security is before you get hacked. The second best time is after. The worst time is never.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-398",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn a new language is when you need it. The worst is when you think it'll make you a better programmer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "languages",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-400",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business model is one where you get paid to learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-model-414",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production incident is a lesson. If you're not learning from them, you're just collecting them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incidents",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-incident-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to teach. The best way to teach is to build something that explains itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-491",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get better at coding is to code. Not to watch tutorials. Not to read books. To code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "practice"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-495",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first product failure isn't a failure. It's tuition. You just paid for a masterclass.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-product-failure",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your side project is your playground. Play. Experiment. Break things. That's how you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "side-projects",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-side-project-is-768",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every mistake is a lesson. Every lesson makes you better. Fail fast, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-mistake-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to fail. The second best is to learn from someone else's failure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-852",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only real mistake is the one from which we learn nothing.",
+      "author": "Henry Ford",
+      "author_slug": "ford",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "mistakes",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ford-the-only-real-mistake",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every failed product teaches you something that no successful product could.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-failed-product-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your startup's biggest asset is your ability to learn faster than your competitors.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "learning",
+        "speed"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-startups-biggest-asset",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn React is to build something with it. Not to read about it. Build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "react",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-971",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hackers ship fast and learn faster. Speed is their superpower.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "speed",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers-1052",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn business is to run one. No MBA needed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "learning",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1070",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project is a playground. Play. Experiment. Break things. That's how you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "experimentation",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-is-1075",
+      "source": "Community sourced"
     }
   ]
 }

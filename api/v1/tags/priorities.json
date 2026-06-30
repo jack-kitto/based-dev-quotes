@@ -1,0 +1,106 @@
+{
+  "tag": "priorities",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Stephen Covey",
+      "author_slug": "covey",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "covey-the-key-is-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is doing more of what matters. Not doing more things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-productivity-is-doing-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Time management is really just priority management. If everything is a priority, nothing is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-time-management-is-really",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your calendar reflects your priorities. If it doesn't, you don't have priorities — you have wishes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "calendar",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-calendar-reflects-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. Shipped is better than done. Revenue is better than shipped.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "business"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than-580",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project doesn't need a perfect logo. It needs paying customers. Ship.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "shipping",
+        "priorities"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-indie-project-doesnt",
+      "source": "Community sourced"
+    }
+  ]
+}

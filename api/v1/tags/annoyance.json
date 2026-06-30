@@ -1,0 +1,23 @@
+{
+  "tag": "annoyance",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Email marketing: because you need a way to annoy people who already told you they're not interested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "shitpost"
+      ],
+      "tags": [
+        "email",
+        "annoyance"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-email-marketing-because-you",
+      "source": "Community sourced"
+    }
+  ]
+}

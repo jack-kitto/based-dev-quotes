@@ -1,0 +1,22 @@
+{
+  "tag": "evangelism",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your product's 'power users' are your best evangelists. Make them look smart and they'll sell for you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "power-users",
+        "evangelism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-power-users",
+      "source": "Community sourced"
+    }
+  ]
+}

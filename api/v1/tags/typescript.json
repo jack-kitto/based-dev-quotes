@@ -1,0 +1,39 @@
+{
+  "tag": "typescript",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "TypeScript is just JavaScript wearing a trench coat and fake mustache pretending to be a serious language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-typescript-is-just-javascript",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best JavaScript is the JavaScript you don't write. Use TypeScript instead.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-javascript-is",
+      "source": "Community sourced"
+    }
+  ]
+}

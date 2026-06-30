@@ -1,0 +1,73 @@
+{
+  "tag": "virality",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best marketing strategy is having a product people actually want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "product",
+        "virality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing campaigns are the ones people share voluntarily. Everything else is advertising.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "virality",
+        "sharing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-campaigns",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every viral product started as a product that was useful to 10 people. Make those 10 people ecstatic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "early-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-viral-product-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your users aren't inviting others, your product isn't good enough. Viral growth starts with genuine satisfaction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-users-arent",
+      "source": "Community sourced"
+    }
+  ]
+}

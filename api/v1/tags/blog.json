@@ -1,0 +1,22 @@
+{
+  "tag": "blog",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your blog is your best salesperson. It works 24/7, never complains, and never asks for a raise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "blog",
+        "sales"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-blog-is-your",
+      "source": "Community sourced"
+    }
+  ]
+}

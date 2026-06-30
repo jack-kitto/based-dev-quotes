@@ -1,0 +1,153 @@
+{
+  "tag": "churn",
+  "count": 9,
+  "quotes": [
+    {
+      "text": "Churn is the silent killer. You can celebrate new customers all day, but if the bucket has holes, you're just wasting water.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-churn-is-the-silent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Churn is the tax you pay for not making your product indispensable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-churn-is-the-tax",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The 'cancel flow' is where SaaS companies reveal their true character. Make it easy and people will come back. Make it hard and they'll never come back.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-cancel-flow-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most important user is the one who's about to leave. Build for them first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-important-user",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SaaS churn is like a leaky bucket. You can pour water in as fast as you want, but if the holes are big, you're wasting time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-saas-churn-is-like",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The user who gives you critical feedback is your best friend. The user who silently leaves is your biggest risk.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users"
+      ],
+      "tags": [
+        "feedback",
+        "churn"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-user-who-gives",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce churn is to make your product indispensable. Not by locking people in. By being too useful to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "churn",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-680",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have a 'churn rate' that's under 5%. If yours is over 10%, you have a retention problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-758",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-churn-rate-tells",
+      "source": "Community sourced"
+    }
+  ]
+}

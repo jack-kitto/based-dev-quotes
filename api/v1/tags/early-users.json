@@ -1,0 +1,55 @@
+{
+  "tag": "early-users",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Every viral product started as a product that was useful to 10 people. Make those 10 people ecstatic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "early-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-viral-product-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first 100 users should be people you know personally. If you can't convince them, you can't convince strangers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "early-users",
+        "convincing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-100-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first 100 users are the hardest. The next 900 are easier. Focus on the first 100.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "early-users",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first",
+      "source": "Community sourced"
+    }
+  ]
+}

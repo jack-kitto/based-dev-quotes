@@ -1,0 +1,24 @@
+{
+  "author": "Grady Booch",
+  "slug": "booch",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch",
+      "author_slug": "booch",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "abstraction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "booch-the-function-of-good",
+      "source": "Community sourced"
+    }
+  ]
+}

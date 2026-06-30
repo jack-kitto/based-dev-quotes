@@ -1,0 +1,39 @@
+{
+  "tag": "teaching",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best way to learn is to teach. The best way to teach is to build something that explains itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "learning",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-491",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content is the content that teaches something. Not the content that sells something.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "teaching"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is-905",
+      "source": "Community sourced"
+    }
+  ]
+}

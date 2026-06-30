@@ -1,0 +1,22 @@
+{
+  "tag": "triangulation",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every metric has a blind spot. Triangulate. Use at least three metrics to understand reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "triangulation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-metric-has-a",
+      "source": "Community sourced"
+    }
+  ]
+}

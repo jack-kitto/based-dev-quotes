@@ -1,0 +1,315 @@
+{
+  "tag": "value",
+  "count": 19,
+  "quotes": [
+    {
+      "text": "Your network is your net worth. But your net worth is also your network's network's net worth. It's turtles all the way down.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "networking",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-network-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Pricing is how you tell the market what you're worth. Charge too little and you'll go out of business. Charge too much and you'll go out of business faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-pricing-is-how-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business model is just 'charge money for value' with extra steps.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business-model",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-model-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Pricing is a feature. Charge more than you think and deliver more than you promised.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-pricing-is-a-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be so good that canceling feels like a loss, not a relief.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "retention",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be good enough that customers forget they're paying for it until the invoice arrives.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "value",
+        "seamlessness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-643",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's value is measured in time saved, not features added. Add features that save time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "value",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-value-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when your customers say 'that's it?' when you tell them the price.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-660",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce churn is to make your product indispensable. Not by locking people in. By being too useful to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "churn",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-680",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Money follows value. Create enough value and the money will come.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "value",
+        "money"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-money-follows-value-create",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Data is the new oil. But like oil, it's useless until you refine it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-data-is-the-new",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to raise prices is when you've delivered enough value that customers won't blink.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-812",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your product's value in one sentence, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "value",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain-909",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+      "author": "Cal Newport",
+      "author_slug": "newport",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "newport-the-ability-to-perform",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most valuable customers are the ones who stick around. Retention is the ultimate metric.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retention",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-valuable-customers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie hacker tool is the one that saves you 10 hours a week. If it saves you 10 minutes, it's not worth building.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "tools",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hacker-1044",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add monetization is when you have users who'd miss your product if it disappeared.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "monetization",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1058",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project should be good enough that users would be sad if it disappeared.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "value",
+        "indispensability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie project's first $100 in revenue is worth more than your first 10,000 free users.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-projects-first-1069",
+      "source": "Community sourced"
+    }
+  ]
+}

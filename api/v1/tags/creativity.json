@@ -1,0 +1,22 @@
+{
+  "tag": "creativity",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "creativity",
+        "connections"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-creativity-is-just-connecting",
+      "source": "Community sourced"
+    }
+  ]
+}

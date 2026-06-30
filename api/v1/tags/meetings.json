@@ -1,6 +1,6 @@
 {
   "tag": "meetings",
-  "count": 2,
+  "count": 5,
   "quotes": [
     {
       "id": "graham-maker-schedule",
@@ -38,6 +38,55 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "Meetings are where minutes are kept and hours are lost.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "waste"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-meetings-are-where-minutes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones that don't happen. The second best are the ones that end early.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-meetings-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best meetings are the ones with clear agendas, time limits, and action items. Everything else is a waste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "productivity"
+      ],
+      "tags": [
+        "meetings",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-meetings-are-823",
+      "source": "Community sourced"
     }
   ]
 }

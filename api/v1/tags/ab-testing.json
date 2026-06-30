@@ -1,0 +1,56 @@
+{
+  "tag": "ab-testing",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "ab-testing",
+        "product"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-ab-testing-is-how",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is your most important A/B test. The difference between $29 and $39 per month is millions in ARR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "ab-testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-pricing-page-is-524",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "ab-testing",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ab-testing-takes-courage",
+      "source": "Community sourced"
+    }
+  ]
+}

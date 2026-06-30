@@ -1,0 +1,23 @@
+{
+  "tag": "junior",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Every codebase is one junior dev away from a complete rewrite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "junior",
+        "rewrite"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-codebase-is-one",
+      "source": "Community sourced"
+    }
+  ]
+}

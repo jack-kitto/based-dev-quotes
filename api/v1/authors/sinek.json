@@ -1,0 +1,23 @@
+{
+  "author": "Simon Sinek",
+  "slug": "sinek",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+      "author": "Simon Sinek",
+      "author_slug": "sinek",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "care"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinek-leadership-is-not-about",
+      "source": "Community sourced"
+    }
+  ]
+}

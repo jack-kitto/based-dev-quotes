@@ -1,0 +1,38 @@
+{
+  "tag": "caching",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Caching is the answer to everything until it's the source of everything that's broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "invalidation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-caching-is-the-answer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add caching is when profiling tells you to. Not when you think it might help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-627",
+      "source": "Community sourced"
+    }
+  ]
+}

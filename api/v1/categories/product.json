@@ -1,0 +1,1138 @@
+{
+  "category": "product",
+  "count": 67,
+  "quotes": [
+    {
+      "text": "The user interface is the product. Everything behind it is infrastructure nobody asked for.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ui",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-user-interface-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you need a user manual for your UI, you've already failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-if-you-need-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Design is not just what it looks like and feels like. Design is how it works. And if it doesn't work, no amount of design saves it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "functionality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-design-is-not-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A pixel-perfect mockup of a broken flow is still a broken flow.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "mockups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-pixelperfect-mockup-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best interface is no interface. The second best is one so obvious you forget it exists.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-interface-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Nobody has ever complained that something was too easy to use.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "simplicity"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-nobody-has-ever-complained",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The fastest way to find out if your design is good is to show it to someone who doesn't care about you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "usability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-fastest-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your design needs a tooltip to explain itself, redesign it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "tooltips"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-if-your-design-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best mobile app is one thumb, one eyeball, one task.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "mobile",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-mobile-app",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your form has 15 required fields. You're not collecting data, you're conducting an interrogation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "forms",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-form-has-15",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best loading indicator is no loading indicator. The second best is one that's honest about how long it'll take.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "loading",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-loading-indicator",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-feature-requests-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your onboarding needs a tutorial, your onboarding has failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-onboarding-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce support tickets isn't a better help center. It's a product that doesn't confuse people.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "support",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-337",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you ask users what they want, they'll say a faster horse. Your job is to build the car.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "users",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-ask-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Watch what users do, not what they say. They'll tell you they use your product daily. Their login history tells a different story.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "behavior"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-watch-what-users-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you build exactly what the customer asked for, they'll complain it doesn't work the way they actually need it to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "requirements",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-if-you-build-exactly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most important user is the one who's about to leave. Build for them first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-important-user",
+      "source": "Community sourced"
+    },
+    {
+      "text": "User feedback is data. But data without context is just noise. Always ask 'why?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "context"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-user-feedback-is-data",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product decisions come from observing users, not surveying them. Surveys measure opinions. Observations measure behavior.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "observations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-decisions",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every product team says they're 'user-focused.' Then they prioritize internal metrics over user needs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-focus",
+        "metrics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-product-team-says",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best onboarding is invisible. The user shouldn't even know they're being onboarded.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-onboarding-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your product has a 'getting started' guide that's 47 pages long, your product is too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-product-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product",
+        "engineering"
+      ],
+      "tags": [
+        "features",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-feature-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand your users is to be confused by your own product for 5 minutes. Then fix everything that confused you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "dogfooding",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-386",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every viral product started as a product that was useful to 10 people. Make those 10 people ecstatic.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "early-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-viral-product-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be good enough to sell itself. If it isn't, fix the product, not the marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS companies don't have support tickets. They have users who never need to contact support.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "support",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-companies",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Users don't want a better tool. They want a better outcome. The tool is just a means to that end.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "outcomes",
+        "tool"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-users-dont-want-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product decisions come from understanding the user's actual workflow, not the one you imagined they had.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "workflow",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-decisions-559",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every feature you add creates a new path for users to get confused. Add features like you'd add rooms to a house: with purpose.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "features",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-feature-you-add",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your power users will forgive bugs. Your new users won't. Design for both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "power-users",
+        "new-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-power-users-will",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best user research is watching someone use your product without telling them what to do. The discomfort reveals everything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "user-research",
+        "observation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-user-research",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your FAQ page is a list of your product's failures. Fix the underlying issues and delete the FAQ.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "faq",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-faq-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand user needs is to be your own user for a week. You'll discover things no survey would tell you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "dogfooding",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-566",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important feature request is the one users haven't asked for yet, but would change their life if it existed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "insight"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your users are smarter than you think. Stop holding their hand. Give them tools and get out of the way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "empowerment",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-users-are-smarter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's value is measured in time saved, not features added. Add features that save time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "value",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-value-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "self-explanatory"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-onboarding",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's biggest flaw is the one your users complain about most. Fix that first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "feedback",
+        "prioritization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-biggest-flaw",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product teams listen more than they talk. Your users know more about their problems than you do.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "listening",
+        "humility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-teams",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce churn is to make your product indispensable. Not by locking people in. By being too useful to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "churn",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-680",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product roadmap should be based on user needs, not competitor features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "roadmap",
+        "users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-roadmap-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product managers are the ones who can say 'no' to 99% of requests and still be loved.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "saying-no",
+        "prioritization"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-product-managers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "ux",
+        "first-impression"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be-683",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand user needs is to observe, not ask. Users will tell you what they think they want. Observing tells you what they actually need.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "observation",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-684",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every product has a 'magic moment' — the instant the user gets it. Find it. Optimize for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "aha-moment",
+        "activation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-product-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most valuable product feedback comes from the users who almost left but stayed. Find out why they stayed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "retention",
+        "insight"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-valuable-product",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best product features are the ones users create themselves. Build a platform, not a product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "platform",
+        "extensibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-product-features",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your users aren't inviting others, your product isn't good enough. Viral growth starts with genuine satisfaction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-users-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's empty state is as important as its full state. Design for both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "empty-state",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-empty-state",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's settings page is a maze if it doesn't have a search function. Add search.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "settings",
+        "navigation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-settings-page",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's search should be as good as Google's. Not because you're Google, but because search is how users find things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "search",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-search-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your product's onboarding is to watch 5 new users try to use it. Record their screen. Take notes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-756",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best metrics are actionable. If a metric doesn't tell you what to do next, it's not a metric — it's a number.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "metrics",
+        "actionable"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-metrics-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "ab-testing",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ab-testing-takes-courage",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-innovation-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products do less, but do it perfectly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your product's value in one sentence, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "value",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain-909",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best features are the ones you don't build. Every feature adds maintenance burden.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "features",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-features-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should do one thing exceptionally well. Not ten things mediocrely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "focus",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-do",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve a product is to remove features, not add them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "removal",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-912",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If every feature is important, nothing is. Prioritize ruthlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "prioritization",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-every-feature-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products are the ones that feel inevitable. Not designed. inevitable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "design",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's complexity is your enemy. Simplify relentlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "complexity",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-complexity-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to simplify is to start with the user's needs, not your features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "user-needs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1006",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be so simple that it feels like it was always meant to exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be-1007",
+      "source": "Community sourced"
+    }
+  ]
+}

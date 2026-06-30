@@ -1,0 +1,23 @@
+{
+  "tag": "cta",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your landing page has 7 CTAs. That's not a landing page, that's a panic attack.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "cta",
+        "landing-page"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-your-landing-page-has",
+      "source": "Community sourced"
+    }
+  ]
+}

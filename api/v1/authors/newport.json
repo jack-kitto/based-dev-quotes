@@ -1,0 +1,23 @@
+{
+  "author": "Cal Newport",
+  "slug": "newport",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+      "author": "Cal Newport",
+      "author_slug": "newport",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "newport-the-ability-to-perform",
+      "source": "Community sourced"
+    }
+  ]
+}

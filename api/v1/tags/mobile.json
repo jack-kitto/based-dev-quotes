@@ -1,0 +1,71 @@
+{
+  "tag": "mobile",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "Responsive design is easy. Responsive design that doesn't look like garbage on a 320px screen is hard.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "responsive",
+        "mobile"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-responsive-design-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best mobile app is one thumb, one eyeball, one task.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "mobile",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-mobile-app",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about mobile design is before you start designing. Not after the desktop version is done.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "mobile",
+        "responsive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-447",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a mobile app is when your users ask for it. Not when you think it'll look good on a resume.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "mobile",
+        "user-demand"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-636",
+      "source": "Community sourced"
+    }
+  ]
+}

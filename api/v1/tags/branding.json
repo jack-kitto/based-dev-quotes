@@ -1,0 +1,54 @@
+{
+  "tag": "branding",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Brand awareness is what you measure when you can't measure anything useful.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "branding",
+        "metrics"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-brand-awareness-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start building a brand is before you have a product. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "branding",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-609",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a brand is before you need one. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "branding",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-950",
+      "source": "Community sourced"
+    }
+  ]
+}

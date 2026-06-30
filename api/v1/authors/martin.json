@@ -1,7 +1,7 @@
 {
   "author": "Robert C. Martin (Uncle Bob)",
   "slug": "martin",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "leave-it-better",
@@ -19,6 +19,23 @@
       ],
       "grug_level": 2,
       "spiciness": 1
+    },
+    {
+      "text": "The only way to go fast is to go well.",
+      "author": "Robert C. Martin",
+      "author_slug": "martin",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "speed",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "martin-the-only-way-to",
+      "source": "Community sourced"
     }
   ]
 }

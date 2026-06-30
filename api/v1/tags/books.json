@@ -1,0 +1,22 @@
+{
+  "tag": "books",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best business book is the one that makes you stop reading and start building.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "books",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-book",
+      "source": "Community sourced"
+    }
+  ]
+}

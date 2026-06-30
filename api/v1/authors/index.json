@@ -1,9 +1,25 @@
 {
-  "total": 45,
+  "total": 98,
   "authors": {
+    "abelson": {
+      "name": "Harold Abelson",
+      "count": 1
+    },
     "atwood": {
       "name": "Jeff Atwood",
-      "count": 2
+      "count": 3
+    },
+    "bambrick": {
+      "name": "Leon Bambrick",
+      "count": 1
+    },
+    "based": {
+      "name": "based",
+      "count": 867
+    },
+    "beck": {
+      "name": "Kent Beck",
+      "count": 1
     },
     "berra": {
       "name": "Yogi Berra (applied to programming)",
@@ -13,6 +29,10 @@
       "name": "Jonathan Blow",
       "count": 3
     },
+    "booch": {
+      "name": "Grady Booch",
+      "count": 1
+    },
     "brooks": {
       "name": "Fred Brooks",
       "count": 2
@@ -21,36 +41,104 @@
       "name": "Bryan Cantrill",
       "count": 2
     },
+    "cargill": {
+      "name": "Tom Cargill",
+      "count": 1
+    },
     "carmack": {
       "name": "John Carmack",
       "count": 3
     },
+    "cherne": {
+      "name": "Leo Cherne",
+      "count": 1
+    },
+    "churchill": {
+      "name": "Winston Churchill",
+      "count": 2
+    },
+    "confucius": {
+      "name": "Confucius",
+      "count": 1
+    },
     "conway": {
       "name": "Damian Conway",
+      "count": 1
+    },
+    "cook": {
+      "name": "Rick Cook",
+      "count": 1
+    },
+    "covey": {
+      "name": "Stephen Covey",
       "count": 1
     },
     "coveyou": {
       "name": "Robert R. Coveyou",
       "count": 1
     },
+    "davinci": {
+      "name": "Leonardo da Vinci",
+      "count": 2
+    },
+    "deming": {
+      "name": "W. Edwards Deming",
+      "count": 2
+    },
     "dijkstra": {
       "name": "Edsger W. Dijkstra",
-      "count": 3
+      "count": 5
+    },
+    "disney": {
+      "name": "Walt Disney",
+      "count": 1
+    },
+    "drucker": {
+      "name": "Peter Drucker",
+      "count": 2
+    },
+    "durant": {
+      "name": "Will Durant",
+      "count": 1
     },
     "eagleson": {
       "name": "Eagleson",
       "count": 1
     },
+    "edison": {
+      "name": "Thomas Edison",
+      "count": 2
+    },
+    "einstein": {
+      "name": "Albert Einstein",
+      "count": 4
+    },
     "feathers": {
       "name": "Michael Feathers",
+      "count": 1
+    },
+    "ford": {
+      "name": "Henry Ford",
       "count": 1
     },
     "fortes": {
       "name": "Filipe Fortes",
       "count": 1
     },
+    "fowler": {
+      "name": "Martin Fowler",
+      "count": 1
+    },
     "gabriel": {
       "name": "Richard P. Gabriel",
+      "count": 2
+    },
+    "gates": {
+      "name": "Bill Gates",
+      "count": 2
+    },
+    "gossage": {
+      "name": "Howard Gossage",
       "count": 1
     },
     "graham": {
@@ -71,23 +159,59 @@
     },
     "hoare": {
       "name": "C.A.R. Hoare",
-      "count": 1
+      "count": 2
     },
     "hoffman": {
       "name": "Reid Hoffman",
-      "count": 1
+      "count": 2
     },
     "hofstadter": {
       "name": "Douglas Hofstadter",
       "count": 1
     },
+    "holmes": {
+      "name": "Sherlock Holmes",
+      "count": 1
+    },
+    "hopper": {
+      "name": "Grace Hopper",
+      "count": 1
+    },
+    "huffington": {
+      "name": "Arianna Huffington",
+      "count": 1
+    },
+    "it-crowd": {
+      "name": "Roy (IT Crowd)",
+      "count": 1
+    },
+    "ive": {
+      "name": "Jonathan Ive",
+      "count": 1
+    },
+    "james": {
+      "name": "William James",
+      "count": 1
+    },
+    "jefferson": {
+      "name": "Thomas Jefferson",
+      "count": 1
+    },
     "jeffries": {
       "name": "Ron Jeffries / XP",
+      "count": 2
+    },
+    "jobs": {
+      "name": "Steve Jobs",
+      "count": 2
+    },
+    "johnson": {
+      "name": "John Johnson",
       "count": 1
     },
     "kernighan": {
       "name": "Brian Kernighan",
-      "count": 1
+      "count": 2
     },
     "knuth": {
       "name": "Donald Knuth",
@@ -101,12 +225,24 @@
       "name": "Pieter Levels",
       "count": 2
     },
+    "levenson": {
+      "name": "Sam Levenson",
+      "count": 1
+    },
+    "liskov": {
+      "name": "Barbara Liskov",
+      "count": 1
+    },
     "marclou": {
       "name": "Marc Lou",
       "count": 1
     },
     "martin": {
       "name": "Robert C. Martin (Uncle Bob)",
+      "count": 2
+    },
+    "maxwell": {
+      "name": "John C. Maxwell",
       "count": 1
     },
     "mcilroy": {
@@ -117,28 +253,88 @@
       "name": "Sandi Metz",
       "count": 1
     },
+    "meyer": {
+      "name": "Paul J. Meyer",
+      "count": 1
+    },
+    "mies": {
+      "name": "Ludwig Mies van der Rohe",
+      "count": 1
+    },
     "muratori": {
       "name": "Casey Muratori",
+      "count": 1
+    },
+    "murphy": {
+      "name": "Murphy",
+      "count": 1
+    },
+    "newport": {
+      "name": "Cal Newport",
       "count": 1
     },
     "norvig": {
       "name": "Peter Norvig",
       "count": 1
     },
+    "parkinson": {
+      "name": "C. Northcote Parkinson",
+      "count": 1
+    },
     "patio11": {
       "name": "Patrick McKenzie (patio11)",
       "count": 2
     },
+    "penn": {
+      "name": "William Penn",
+      "count": 1
+    },
+    "penney": {
+      "name": "James Cash Penney",
+      "count": 1
+    },
     "perlis": {
       "name": "Alan Perlis",
-      "count": 2
+      "count": 3
     },
     "pike": {
       "name": "Rob Pike",
       "count": 2
     },
+    "rams": {
+      "name": "Dieter Rams",
+      "count": 1
+    },
     "raymond": {
       "name": "Eric S. Raymond",
+      "count": 1
+    },
+    "ries": {
+      "name": "Eric Ries",
+      "count": 1
+    },
+    "roosevelt": {
+      "name": "Franklin D. Roosevelt",
+      "count": 1
+    },
+    "saint-exupery": {
+      "name": "Antoine de Saint-Exupéry",
+      "count": 1
+    },
+    "sassoon": {
+      "name": "Vidal Sassoon",
+      "count": 1
+    },
+    "simpson": {
+      "name": "Homer Simpson",
+      "count": 1
+    },
+    "sinatra": {
+      "name": "Frank Sinatra",
+      "count": 1
+    },
+    "sinek": {
+      "name": "Simon Sinek",
       "count": 1
     },
     "spolsky": {
@@ -157,13 +353,25 @@
       "name": "Ken Thompson",
       "count": 2
     },
+    "thoreau": {
+      "name": "Henry David Thoreau",
+      "count": 1
+    },
     "torvalds": {
       "name": "Linus Torvalds",
       "count": 4
     },
+    "tracy": {
+      "name": "Warren Tracy",
+      "count": 1
+    },
     "unknown": {
       "name": "Unknown",
       "count": 63
+    },
+    "voltaire": {
+      "name": "Voltaire",
+      "count": 1
     },
     "wall": {
       "name": "Larry Wall",
@@ -180,6 +388,10 @@
     "zawinski": {
       "name": "Jamie Zawinski",
       "count": 1
+    },
+    "zuckerberg": {
+      "name": "Mark Zuckerberg",
+      "count": 2
     }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "tag": "system-design",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your system design document should fit on one page. If it doesn't, your system design is too complicated.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "system-design",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-system-design-document",
+      "source": "Community sourced"
+    }
+  ]
+}

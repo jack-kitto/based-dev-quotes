@@ -1,0 +1,137 @@
+{
+  "tag": "data",
+  "count": 8,
+  "quotes": [
+    {
+      "text": "The best time to add analytics is on day one. The second best time is when you realize you've been flying blind for 6 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "analytics",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-323",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-feature-requests-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Marketing without data is driving with your eyes closed. Data without marketing is having your eyes open but going nowhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "data",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-marketing-without-data-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Without data, you're just another person with an opinion.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data",
+        "evidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-without-data-youre-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Data is the new oil. But like oil, it's useless until you refine it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-data-is-the-new",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to make decisions is with data. The second best is with experience. The worst is with hunches.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "decisions",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-799",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your data pipeline is only as good as its weakest transformation. Garbage in, garbage out.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "data",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-data-pipeline-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "ab-testing",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-ab-testing-takes-courage",
+      "source": "Community sourced"
+    }
+  ]
+}

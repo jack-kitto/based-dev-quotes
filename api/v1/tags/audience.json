@@ -1,6 +1,6 @@
 {
   "tag": "audience",
-  "count": 1,
+  "count": 7,
   "quotes": [
     {
       "id": "audience-first",
@@ -19,6 +19,103 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "The best time to build an email list was before you launched. The second best time is now. The worst time is never.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "audience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-309",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start building an audience is before you need one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-403",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start building an email list is before you have a product. The second best is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "audience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-516",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to grow your audience is before you need it. Audiences take time to build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "patience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-613",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an audience is to give them value consistently. Not once. Consistently.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "consistency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-903",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build an audience is to be consistently helpful. Not consistently promotional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "audience",
+        "helpfulness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1056",
+      "source": "Community sourced"
     }
   ]
 }

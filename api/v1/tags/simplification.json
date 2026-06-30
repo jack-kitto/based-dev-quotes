@@ -1,0 +1,54 @@
+{
+  "tag": "simplification",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The most productive thing you can do today is delete half your to-do list.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "todo",
+        "simplification"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-productive-thing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-goes-through-535",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's complexity is your enemy. Simplify relentlessly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "complexity",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-complexity-is",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "author": "C.A.R. Hoare",
   "slug": "hoare",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "hoare-two-ways",
@@ -20,6 +20,23 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "intention",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoare-the-most-important-property",
+      "source": "Community sourced"
     }
   ]
 }

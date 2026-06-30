@@ -1,0 +1,22 @@
+{
+  "tag": "preparedness",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to get a flat tire is to not have a spare.",
+      "author": "Murphy",
+      "author_slug": "murphy",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "murphys-law",
+        "preparedness"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "murphy-the-best-way-to",
+      "source": "Community sourced"
+    }
+  ]
+}

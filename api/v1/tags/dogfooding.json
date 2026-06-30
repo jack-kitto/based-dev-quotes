@@ -1,0 +1,120 @@
+{
+  "tag": "dogfooding",
+  "count": 7,
+  "quotes": [
+    {
+      "text": "The best indie hackers are the ones who build things they personally use. They're their own best customer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "authenticity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-hackers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand your users is to be confused by your own product for 5 minutes. Then fix everything that confused you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "dogfooding",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-386",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best indie projects are the ones you'd use even if nobody else did.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "passion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-indie-projects",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand user needs is to be your own user for a week. You'll discover things no survey would tell you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "dogfooding",
+        "research"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-566",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should be something you'd use even if nobody else did. Build for yourself first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "dogfooding",
+        "passion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to understand your customer is to become your customer. Use your own product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "dogfooding",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1027",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first indie product should solve YOUR problem. Not what you think others' problems are.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "problem",
+        "dogfooding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-indie-product",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tag": "copywriting",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best SaaS landing page explains what you do in one sentence. If it takes a paragraph, rewrite it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-landing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most underrated indie hacker skill is copywriting. If you can write a clear landing page, you can sell anything.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "marketing"
+      ],
+      "tags": [
+        "copywriting",
+        "skills"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-underrated-indie",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your product description needs more than 3 sentences, simplify the product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "copywriting",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-product-description",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Customers don't buy features. They buy outcomes. Stop selling what it does and start selling what it does for them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "outcomes",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-customers-dont-buy-features",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Marketing is just storytelling for commerce. If you can't tell a good story, hire someone who can.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "storytelling",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-marketing-is-just-storytelling",
+      "source": "Community sourced"
+    }
+  ]
+}

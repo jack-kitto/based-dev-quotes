@@ -1,7 +1,7 @@
 {
   "author": "Richard P. Gabriel",
   "slug": "gabriel",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "worse-is-better",
@@ -21,6 +21,23 @@
       ],
       "grug_level": 4,
       "spiciness": 3
+    },
+    {
+      "text": "Worse is better.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "gabriel-worse-is-better",
+      "source": "Community sourced"
     }
   ]
 }

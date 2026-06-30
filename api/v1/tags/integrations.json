@@ -1,0 +1,104 @@
+{
+  "tag": "integrations",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-saas-companies-think",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "partnerships",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-partnerships",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "integrations",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-integrations-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a webhook system is when your first integration partner asks. Not after they've built a competitor.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "webhooks",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-638",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS integrations are the ones that feel native. Not bolted on. Native.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "integrations",
+        "native"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-integrations",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's ecosystem is your moat. The more integrations, the harder to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "moat",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-ecosystem-is",
+      "source": "Community sourced"
+    }
+  ]
+}

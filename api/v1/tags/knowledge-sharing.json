@@ -1,0 +1,22 @@
+{
+  "tag": "knowledge-sharing",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "knowledge-sharing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-code-reviews-arent-about",
+      "source": "Community sourced"
+    }
+  ]
+}

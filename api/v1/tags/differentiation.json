@@ -1,0 +1,55 @@
+{
+  "tag": "differentiation",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Scarcity creates value. If everyone can do what you do, you're competing on price. If nobody can, you're competing on nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "scarcity",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-scarcity-creates-value-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every successful business started with someone saying 'I can do this better.' Most businesses fail because 'better' isn't enough.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-successful-business-started",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to stand out is to be genuinely yourself. In a world of copies, the original wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "authenticity",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1014",
+      "source": "Community sourced"
+    }
+  ]
+}

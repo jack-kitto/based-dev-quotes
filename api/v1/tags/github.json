@@ -1,0 +1,23 @@
+{
+  "tag": "github",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "github",
+        "resume"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-github-profile-is",
+      "source": "Community sourced"
+    }
+  ]
+}

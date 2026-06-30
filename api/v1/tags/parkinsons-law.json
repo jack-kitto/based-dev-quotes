@@ -1,0 +1,22 @@
+{
+  "tag": "parkinsons-law",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Parkinson's Law: work expands to fill the time available. Set shorter deadlines.",
+      "author": "C. Northcote Parkinson",
+      "author_slug": "parkinson",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "parkinsons-law",
+        "deadlines"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "parkinson-parkinsons-law-work-expands",
+      "source": "Community sourced"
+    }
+  ]
+}

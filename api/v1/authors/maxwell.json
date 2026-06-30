@@ -1,0 +1,23 @@
+{
+  "author": "John C. Maxwell",
+  "slug": "maxwell",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A leader is one who knows the way, goes the way, and shows the way.",
+      "author": "John C. Maxwell",
+      "author_slug": "maxwell",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "leadership",
+        "example"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "maxwell-a-leader-is-one",
+      "source": "Community sourced"
+    }
+  ]
+}

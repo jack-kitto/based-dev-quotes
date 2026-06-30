@@ -1,0 +1,23 @@
+{
+  "tag": "customer-understanding",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-understanding",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-the-aim-of-marketing",
+      "source": "Community sourced"
+    }
+  ]
+}

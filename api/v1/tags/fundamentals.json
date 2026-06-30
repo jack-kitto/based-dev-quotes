@@ -1,6 +1,6 @@
 {
   "tag": "fundamentals",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "torvalds-bad-programmers",
@@ -18,6 +18,22 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "Typography is 95% of design. The other 5% is making sure the typography doesn't suck.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-typography-is-95-of",
+      "source": "Community sourced"
     }
   ]
 }

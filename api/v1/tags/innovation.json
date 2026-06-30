@@ -1,0 +1,219 @@
+{
+  "tag": "innovation",
+  "count": 13,
+  "quotes": [
+    {
+      "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+      "author": "Grace Hopper",
+      "author_slug": "hopper",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "tradition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "hopper-the-most-dangerous-phrase",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Disruption isn't something you plan. It's something that happens to incumbents who were too comfortable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "disruption",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-disruption-isnt-something-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "risk",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you ask users what they want, they'll say a faster horse. Your job is to build the car.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "users",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-ask-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "innovation",
+        "problems"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-the-computer-was-born",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovation comes from asking 'what if?' not 'how?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "questions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovation-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is saying no to a thousand things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-innovation-is-saying-no",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to innovate is to combine two existing ideas in a new way.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "combination"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-889",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovations are the ones that seem obvious in hindsight.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "obvious"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovations-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation without execution is hallucination.",
+      "author": "Thomas Edison",
+      "author_slug": "edison",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "edison-innovation-without-execution-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to find innovative solutions is to define the problem clearly. Clear problems have clear solutions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "problem-definition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-893",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "product"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-innovation-is-not-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best innovations come from constraints. When you can't do everything, you find the one thing that matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "innovation",
+        "constraints"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-innovations-come",
+      "source": "Community sourced"
+    }
+  ]
+}

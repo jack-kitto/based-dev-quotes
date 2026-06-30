@@ -1,0 +1,55 @@
+{
+  "tag": "natural",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best design systems are the ones that feel like they've always existed. Natural. Obvious. Invisible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-systems",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products are the ones that feel inevitable. Not designed. inevitable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "design",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be so simple that it feels like it was always meant to exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "simplicity",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be-1007",
+      "source": "Community sourced"
+    }
+  ]
+}

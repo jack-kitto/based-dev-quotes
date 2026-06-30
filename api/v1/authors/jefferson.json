@@ -1,0 +1,23 @@
+{
+  "author": "Thomas Jefferson",
+  "slug": "jefferson",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "author_slug": "jefferson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "work",
+        "luck"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jefferson-i-find-that-the",
+      "source": "Community sourced"
+    }
+  ]
+}

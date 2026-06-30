@@ -1,0 +1,70 @@
+{
+  "tag": "launch",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "The best time to launch is when you have something that works. The worst time is when you think it's perfect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "launch",
+        "perfectionism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-357",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add Stripe is before you launch. You'd be amazed how many people don't launch because they can't figure out payments.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "payments",
+        "launch"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-364",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch on Product Hunt is when you have a product people want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "product-hunt",
+        "launch"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-549",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to launch on Indie Hackers is when you have a working product and a story to tell.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "launch",
+        "story"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-1048",
+      "source": "Community sourced"
+    }
+  ]
+}

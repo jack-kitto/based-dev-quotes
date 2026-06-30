@@ -1,0 +1,22 @@
+{
+  "tag": "pacing",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your side project is a marathon, not a sprint. Pace yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pacing",
+        "endurance"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-side-project-is-772",
+      "source": "Community sourced"
+    }
+  ]
+}

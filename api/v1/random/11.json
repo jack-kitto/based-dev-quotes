@@ -1,18 +1,16 @@
 {
-  "id": "knuth-premature-optimization",
-  "text": "Premature optimization is the root of all evil.",
-  "author": "Donald Knuth",
-  "author_slug": "knuth",
-  "source": "Structured Programming with go to Statements, 1974",
+  "text": "Your customer's journey doesn't end at the sale. It starts there.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "business"
   ],
   "tags": [
-    "optimization",
-    "simplicity",
-    "classic"
+    "customer-journey",
+    "retention"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-your-customers-journey-doesnt",
+  "source": "Community sourced"
 }

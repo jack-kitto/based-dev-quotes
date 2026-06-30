@@ -1,0 +1,23 @@
+{
+  "tag": "noisy-neighbor",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Multi-tenant architecture is great until one customer's query takes down everyone else's Saturday.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "multi-tenant",
+        "noisy-neighbor"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-multitenant-architecture-is-great",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "tag": "purpose",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Every SaaS needs a 'why this exists' page. Not a features page. A 'why' page.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "story",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-needs-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If a design element doesn't serve a purpose, it's noise. Remove it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "purpose",
+        "noise"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-a-design-element",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "intention",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoare-the-most-important-property",
+      "source": "Community sourced"
+    }
+  ]
+}

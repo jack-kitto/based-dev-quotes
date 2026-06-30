@@ -1,6 +1,6 @@
 {
   "tag": "bugs",
-  "count": 5,
+  "count": 16,
   "quotes": [
     {
       "id": "dijkstra-testing",
@@ -91,6 +91,187 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "The best time to fix a bug is during code review. The second best time is never because you shipped it to production and nobody noticed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "code-review"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "shipping"
+      ],
+      "tags": [
+        "shipping",
+        "bugs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-ship-it-then-fix",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't have fewer bugs. They catch them earlier. Shift left, not right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "shift-left"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every bug has a root cause. Find it. Don't just fix the symptom.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "root-cause"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-bug-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't just fix bugs. They write tests that prevent them from coming back.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "prevention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont-785",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can reproduce it, you can fix it. If you can't reproduce it, it doesn't exist.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "reproduction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-can-reproduce",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to prevent bugs is to write simple code. Simple code has fewer places to hide bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "bugs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-787",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production bug is a missed test. Write the test first next time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bugs",
+        "tdd"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-bug-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "My code doesn't have bugs. It has 'random features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-my-code-doesnt-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "dark-mode",
+        "bugs"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-programmers-prefer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It's not a bug. It's an undocumented feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-its-not-a-bug",
+      "source": "Community sourced"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "tag": "forms",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your form has 15 required fields. You're not collecting data, you're conducting an interrogation.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "forms",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-form-has-15",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "forms",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-a-form-with-3",
+      "source": "Community sourced"
+    }
+  ]
+}

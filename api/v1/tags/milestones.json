@@ -1,0 +1,22 @@
+{
+  "tag": "milestones",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your first $1k MRR feels like conquering the world. Your first $10k MRR feels like a Tuesday. The journey between is where you learn.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "milestones"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1k-mrr",
+      "source": "Community sourced"
+    }
+  ]
+}

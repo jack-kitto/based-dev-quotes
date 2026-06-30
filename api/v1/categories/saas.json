@@ -1,0 +1,1583 @@
+{
+  "category": "saas",
+  "count": 96,
+  "quotes": [
+    {
+      "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "landing-page",
+        "shitpost"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-if-your-saas-has",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SaaS is just software that you rent instead of own. Like an apartment, except the landlord can change the floor plan while you're sleeping.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "saas",
+        "rent"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-saas-is-just-software",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are boring. They solve one problem really well and charge monthly for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "saas",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Churn is the tax you pay for not making your product indispensable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-churn-is-the-tax",
+      "source": "Community sourced"
+    },
+    {
+      "text": "MRR is just a fancy way of saying 'people are paying us.' The fancy part matters less than the paying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "mrr",
+        "revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-mrr-is-just-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is the most important page on your site. It's where strangers decide if you're a real business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-pricing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS moat isn't technology. It's habit. Make yourself part of their daily workflow and you're unmovable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "wisdom"
+      ],
+      "tags": [
+        "moat",
+        "habit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-moat",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-freemium-is-a-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add analytics is on day one. The second best time is when you realize you've been flying blind for 6 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "analytics",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-323",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "feature-requests",
+        "data"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-feature-requests-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your onboarding needs a tutorial, your onboarding has failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-onboarding-needs",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest lie in SaaS: 'We'll add that feature.' You won't. You'll ship what you have and hope nobody notices.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "feature-requests",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-biggest-lie-in",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS landing page explains what you do in one sentence. If it takes a paragraph, rewrite it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "copywriting"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-landing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "pricing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-api-rate-limits-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The SaaS customer lifecycle: sign up, use it twice, forget password, reset password, never log in again. Your job is to break this cycle.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "retention",
+        "activation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-saas-customer-lifecycle",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Multi-tenant architecture is great until one customer's query takes down everyone else's Saturday.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "multi-tenant",
+        "noisy-neighbor"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-multitenant-architecture-is-great",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of SaaS isn't building the product. It's maintaining it while building the next version of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "maintenance",
+        "iteration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-331",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Usage-based pricing is the future of SaaS because it aligns incentives: you only pay when you get value.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "usage-based"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-usagebased-pricing-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your free trial exists to sell itself. If it doesn't convert within 14 days, it never will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "free-trial",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-free-trial-exists",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SaaS metrics that matter: retention, retention, retention. Everything else is a vanity metric you report to investors.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "metrics",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-saas-metrics-that-matter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a CLI version of your SaaS is when your power users ask for it. They're your best advocates.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "cli",
+        "power-users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-335",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "complexity",
+        "enterprise"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-saas-goes-through",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to reduce support tickets isn't a better help center. It's a product that doesn't confuse people.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "support",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-337",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "compliance",
+        "security"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-soc-2-compliance-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The 'cancel flow' is where SaaS companies reveal their true character. Make it easy and people will come back. Make it hard and they'll never come back.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-cancel-flow-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-saas-companies-think",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "partnerships",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-partnerships",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "saas",
+        "shitpost"
+      ],
+      "tags": [
+        "terminology",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-saying-im-building-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to validate a SaaS idea is to sell it before you build it. If nobody buys, save yourself 6 months.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "validation",
+        "preselling"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-417",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your landing page should do one thing: get the visitor to take one action. Everything else is a distraction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-landing-page-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are built on boring problems. Boring problems have paying customers. Exciting problems have Twitter threads.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "paying-customers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-businesses-419",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "distribution",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-tech-stack-matters",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a 'What's New' page is after you've shipped something worth announcing. Not before.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "changelog",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-421",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS feature request is the one you can implement in an afternoon and charge for monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "indie-hacker"
+      ],
+      "tags": [
+        "features",
+        "roi"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-saas-feature",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your competitors will copy your features. They can't copy your taste. Build something with taste.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "design"
+      ],
+      "tags": [
+        "competition",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-competitors-will-copy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your checkout page is where money goes to die if you add friction. Every extra field costs you 10% of conversions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "checkout",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-checkout-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette for a SaaS is your brand color plus gray. Everything else is decoration.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "color",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have a 'aha moment' within 5 minutes of signup. If yours takes 5 days, you'll lose them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "activation",
+        "aha-moment"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-523",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is your most important A/B test. The difference between $29 and $39 per month is millions in ARR.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "ab-testing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-pricing-page-is-524",
+      "source": "Community sourced"
+    },
+    {
+      "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "distribution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-apifirst-isnt-a-technical",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a status page is when you have 10 users, not when you have 10,000 and they're already angry.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "status-page",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-526",
+      "source": "Community sourced"
+    },
+    {
+      "text": "SaaS churn is like a leaky bucket. You can pour water in as fast as you want, but if the holes are big, you're wasting time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-saas-churn-is-like",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best customers aren't the ones who pay the most. They're the ones who stay the longest and tell others.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "customers",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-customers-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The hardest part of SaaS isn't acquisition. It's activation. Getting someone to sign up is easy. Getting them to use it is hard.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "activation",
+        "onboarding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-hardest-part-of-529",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be good enough to sell itself. If it isn't, fix the product, not the marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS should have a 'quick start' that takes 5 minutes. If your quick start takes 30 minutes, you've lost everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "quick-start",
+        "onboarding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS feature is the one your users create themselves. Build tools, not features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "platform",
+        "extensibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-feature-532",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be so good that canceling feels like a loss, not a relief.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "retention",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about internationalization is when you're building your first date picker. Not after you've hardcoded American dates everywhere.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "i18n",
+        "planning"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-time-to-534",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "simplification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-goes-through-535",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS companies don't have support tickets. They have users who never need to contact support.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "support",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-companies",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't onboard a new user without a sales call, your product isn't self-serve. It's enterprise software pretending to be SaaS.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "self-serve",
+        "enterprise"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-you-cant-onboard",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "integrations",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-integrations-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS metric is Net Revenue Retention. If it's above 100%, your customers are growing with you. Below 100%, you're leaking.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "nrr",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-metric",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's 'power users' are your best evangelists. Make them look smart and they'll sell for you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "power-users",
+        "evangelism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-power-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add webhooks is when your first user asks. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "webhooks",
+        "extensibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-541",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS should have an API. Every API should have docs. Every docs page should have examples.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "documentation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-saas-should-have-542",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build a mobile app is when your users ask for it. Not when you think it'll look good on a resume.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "mobile",
+        "user-demand"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-636",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be so simple that support tickets are the exception, not the rule.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "support",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-637",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a webhook system is when your first integration partner asks. Not after they've built a competitor.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "webhooks",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-638",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your API versioning should be boring and predictable. If it's exciting, something's wrong.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "engineering"
+      ],
+      "tags": [
+        "api",
+        "versioning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-api-versioning-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have predictable revenue. Predictable revenue comes from predictable customers.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "revenue",
+        "predictability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-640",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS needs a 'why this exists' page. Not a features page. A 'why' page.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "story",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-saas-needs-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS demos are 5 minutes long. If yours is 30 minutes, your product is too complex.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "demo",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-demos",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be good enough that customers forget they're paying for it until the invoice arrives.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "value",
+        "seamlessness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-643",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS teams are the ones where engineers talk to customers monthly. Not yearly. Monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "engineering",
+        "customers"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-teams",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's value is measured in time saved, not features added. Add features that save time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "value",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-value-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses start with one feature that works perfectly. Then they add a second one.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-646",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your SaaS has an 'enterprise' tier, your pricing page should explain the difference in one sentence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-saas-has-647",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your onboarding email sequence should feel like a helpful friend, not a desperate salesperson.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "onboarding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-onboarding-email-sequence",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS features are the ones users discover naturally. Not the ones you have to explain in a tutorial.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "features",
+        "discovery"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-features",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be so reliable that outages are news, not routine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "reliability",
+        "uptime"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-650",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every SaaS has a 'this should be simple' feature that takes 3 weeks to build. Budget for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-every-saas-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses are built on boring, repetitive problems. Boring problems pay monthly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "recurring-revenue"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-652",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should work so well that users forget it exists. That's the ultimate compliment.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "seamlessness",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "onboarding",
+        "self-explanatory"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-onboarding",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS metrics should be on a dashboard that's visible to everyone. Transparency builds trust.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "metrics",
+        "transparency"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-saas-metrics-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a 'plans' page that explains pricing in plain language. Not jargon. Plain language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have a 'churn rate' that's under 5%. If yours is over 10%, you have a retention problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "metrics"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-758",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be good enough that support tickets are the exception, not the rule.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "support",
+        "ux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-759",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS onboarding takes 3 steps or less. If it takes more, simplify the product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "onboarding",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-onboarding-760",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should work offline. Not because everyone needs offline, but because 'no internet' happens to everyone.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "offline",
+        "resilience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-work-761",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS integrations are the ones that feel native. Not bolted on. Native.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "integrations",
+        "native"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-integrations",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should be fast. Not 'good enough' fast. Actually fast. Speed is a feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "speed",
+        "performance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-be-763",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS teams ship weekly. Not because speed is a virtue, but because momentum compounds.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "shipping",
+        "momentum"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-teams-764",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a status page that's always up to date. When it's down, your status page is the only thing users trust.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "status-page",
+        "trust"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have-765",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS businesses have one thing in common: they solve a boring problem really well.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "business"
+      ],
+      "tags": [
+        "boring",
+        "execution"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-businesses-766",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-churn-rate-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's ecosystem is your moat. The more integrations, the harder to leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "moat",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-ecosystem-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth rate matters less than your retention rate. A leaky bucket can't be filled.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "growth",
+        "retention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-rate-matters",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best customer success strategy is to build a product so good that customers never need help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-success",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "listening"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customer-success-team",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to market a SaaS is to show it working. Not tell people about it. Show them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "demo",
+        "showing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1040",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's homepage should answer: what does it do, who is it for, why should I care? In that order.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "homepage",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-homepage-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to convert free users to paid is to make the free version so good they feel guilty not paying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-1042",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SaaS should have a 'change log' that shows you're actively building. Stagnation is death.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "changelog",
+        "activity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-saas-should-have-1043",
+      "source": "Community sourced"
+    }
+  ]
+}

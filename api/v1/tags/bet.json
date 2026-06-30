@@ -1,0 +1,38 @@
+{
+  "tag": "bet",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Every business is a bet on the future. The best bets are the ones where you're building the future you're betting on.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "bet",
+        "future"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your startup is a bet on yourself. Bet big.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "bet",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-startup-is-a",
+      "source": "Community sourced"
+    }
+  ]
+}

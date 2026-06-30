@@ -1,0 +1,23 @@
+{
+  "tag": "home",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "There's no place like 127.0.0.1.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "localhost",
+        "home"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-theres-no-place-like",
+      "source": "Community sourced"
+    }
+  ]
+}

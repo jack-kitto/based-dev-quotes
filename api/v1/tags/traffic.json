@@ -1,0 +1,22 @@
+{
+  "tag": "traffic",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to get traffic is to create something worth linking to. Everything else is paying for attention.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "traffic",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-611",
+      "source": "Community sourced"
+    }
+  ]
+}

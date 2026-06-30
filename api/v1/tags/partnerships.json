@@ -1,0 +1,38 @@
+{
+  "tag": "partnerships",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "partnerships",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-partnerships",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best business partnerships are the ones where both parties would rather share profits than compete.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "partnerships",
+        "collaboration"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-business-partnerships",
+      "source": "Community sourced"
+    }
+  ]
+}

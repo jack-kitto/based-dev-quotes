@@ -1,6 +1,6 @@
 {
   "tag": "procrastination",
-  "count": 1,
+  "count": 4,
   "quotes": [
     {
       "id": "todo-later-means-never",
@@ -19,6 +19,54 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "tech-debt",
+        "procrastination"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-technical-debt-is-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're reading productivity books instead of doing the work, you're procrastinating with extra steps.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "procrastination",
+        "action"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-youre-reading-productivity",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start that thing you've been putting off is exactly now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "procrastination",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-575",
+      "source": "Community sourced"
     }
   ]
 }

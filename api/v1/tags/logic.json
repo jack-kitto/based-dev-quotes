@@ -1,0 +1,23 @@
+{
+  "tag": "logic",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A programmer's wife tells him: 'Go to the store and buy a loaf of bread. If they have eggs, buy a dozen.' He comes home with 12 loaves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "logic",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-a-programmers-wife-tells",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "distractions",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to do deep work is to eliminate all distractions. Phone off. Slack closed. Door shut.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "distractions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-993",
+      "source": "Community sourced"
+    }
+  ]
+}

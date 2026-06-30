@@ -1,0 +1,24 @@
+{
+  "author": "Ludwig Mies van der Rohe",
+  "slug": "mies",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Less is more.",
+      "author": "Ludwig Mies van der Rohe",
+      "author_slug": "mies",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "minimalism",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "mies-less-is-more",
+      "source": "Community sourced"
+    }
+  ]
+}

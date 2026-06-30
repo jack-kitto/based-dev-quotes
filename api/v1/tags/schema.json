@@ -1,0 +1,22 @@
+{
+  "tag": "schema",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best database schema is the one that answers your questions without making you write a 47-line SQL query.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "database",
+        "schema"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-database-schema",
+      "source": "Community sourced"
+    }
+  ]
+}

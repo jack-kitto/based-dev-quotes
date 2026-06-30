@@ -1,0 +1,22 @@
+{
+  "tag": "invalidation",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Caching is the answer to everything until it's the source of everything that's broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "caching",
+        "invalidation"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-caching-is-the-answer",
+      "source": "Community sourced"
+    }
+  ]
+}

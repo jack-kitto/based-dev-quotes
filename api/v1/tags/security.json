@@ -1,6 +1,6 @@
 {
   "tag": "security",
-  "count": 1,
+  "count": 7,
   "quotes": [
     {
       "id": "thompson-cant-trust",
@@ -18,6 +18,102 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "compliance",
+        "security"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-soc-2-compliance-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to learn about security is before you get hacked. The second best time is after. The worst time is never.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-398",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best security practice is assuming you've already been breached.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "mindset"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-security-practice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every new dependency is a potential vulnerability. Audit them like you audit your employees.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "dependencies",
+        "security"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-new-dependency-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to think about security is before you ship. The second best time is after you've been breached.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-633",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most dangerous thing in the world is a programmer who thinks they understand security.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "humility"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-dangerous-thing",
+      "source": "Community sourced"
     }
   ]
 }

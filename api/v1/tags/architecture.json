@@ -1,6 +1,6 @@
 {
   "tag": "architecture",
-  "count": 2,
+  "count": 8,
   "quotes": [
     {
       "id": "grug-microservices",
@@ -38,6 +38,103 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "Your microservices aren't microservices. They're just modules that hate each other and communicate via HTTP.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "microservices",
+        "architecture"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-your-microservices-arent-microservices",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architects are the ones who can draw boundaries, not the ones who can draw boxes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "architecture",
+        "boundaries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architects-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architecture is the one that doesn't need an architecture diagram.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architecture-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain your architecture in 3 sentences, you don't understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain-397",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architecture is the one that lets you swap out any component without the rest of the system noticing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "architecture",
+        "modularity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architecture-is-619",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to scale is horizontally. The best way to stay sane is vertically. Choose wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "scaling",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-623",
+      "source": "Community sourced"
     }
   ]
 }

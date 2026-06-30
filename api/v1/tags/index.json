@@ -1,106 +1,361 @@
 {
-  "total": 247,
+  "total": 813,
   "tags": {
     "10x": {
+      "count": 2
+    },
+    "a11y": {
       "count": 1
+    },
+    "ab-testing": {
+      "count": 3
     },
     "abstraction": {
-      "count": 5
+      "count": 10
     },
-    "action": {
+    "accessibility": {
       "count": 1
     },
+    "accountability": {
+      "count": 1
+    },
+    "action": {
+      "count": 14
+    },
+    "actionable": {
+      "count": 1
+    },
+    "activation": {
+      "count": 4
+    },
+    "activity": {
+      "count": 1
+    },
+    "advantage": {
+      "count": 4
+    },
+    "advertising": {
+      "count": 1
+    },
+    "advice": {
+      "count": 2
+    },
+    "advocacy": {
+      "count": 2
+    },
     "aesthetics": {
+      "count": 1
+    },
+    "age": {
       "count": 1
     },
     "agile": {
       "count": 1
     },
+    "aha-moment": {
+      "count": 2
+    },
     "ai": {
       "count": 2
+    },
+    "alerting": {
+      "count": 1
+    },
+    "alerts": {
+      "count": 1
+    },
+    "always": {
+      "count": 1
+    },
+    "analytics": {
+      "count": 2
+    },
+    "animation": {
+      "count": 1
+    },
+    "annoyance": {
+      "count": 1
+    },
+    "api": {
+      "count": 9
+    },
+    "application": {
+      "count": 1
+    },
+    "appreciation": {
+      "count": 1
     },
     "approximation": {
       "count": 1
     },
     "architecture": {
-      "count": 2
+      "count": 8
+    },
+    "asset": {
+      "count": 1
+    },
+    "assets": {
+      "count": 1
+    },
+    "attention": {
+      "count": 3
+    },
+    "attraction": {
+      "count": 1
     },
     "audience": {
+      "count": 7
+    },
+    "authenticity": {
+      "count": 7
+    },
+    "automatic": {
       "count": 1
     },
     "automation": {
-      "count": 1
+      "count": 12
+    },
+    "autonomy": {
+      "count": 2
+    },
+    "backups": {
+      "count": 3
     },
     "backwards-compatibility": {
       "count": 1
     },
-    "blame": {
+    "balance": {
+      "count": 5
+    },
+    "beginner": {
       "count": 1
+    },
+    "beginning": {
+      "count": 1
+    },
+    "behavior": {
+      "count": 3
+    },
+    "bet": {
+      "count": 2
+    },
+    "bias": {
+      "count": 2
+    },
+    "binary": {
+      "count": 2
+    },
+    "blame": {
+      "count": 2
     },
     "blockchain": {
       "count": 1
     },
+    "blog": {
+      "count": 1
+    },
+    "boilerplate": {
+      "count": 1
+    },
+    "books": {
+      "count": 1
+    },
+    "boolean": {
+      "count": 1
+    },
     "bootstrapping": {
-      "count": 2
+      "count": 3
+    },
+    "boring": {
+      "count": 5
+    },
+    "boring-code": {
+      "count": 1
+    },
+    "bottleneck": {
+      "count": 1
+    },
+    "boundaries": {
+      "count": 4
+    },
+    "boy-scout": {
+      "count": 1
+    },
+    "brand": {
+      "count": 4
+    },
+    "branding": {
+      "count": 3
+    },
+    "breaking-down": {
+      "count": 1
+    },
+    "breathing-room": {
+      "count": 1
     },
     "brute-force": {
       "count": 1
     },
+    "budget": {
+      "count": 1
+    },
+    "bug-reports": {
+      "count": 2
+    },
     "bugs": {
-      "count": 5
+      "count": 16
+    },
+    "build-in-public": {
+      "count": 2
+    },
+    "building": {
+      "count": 2
+    },
+    "burnout": {
+      "count": 3
     },
     "business": {
+      "count": 2
+    },
+    "business-model": {
+      "count": 5
+    },
+    "business-plan": {
       "count": 1
     },
+    "busyness": {
+      "count": 2
+    },
     "c": {
-      "count": 1
+      "count": 2
     },
     "cache": {
       "count": 1
     },
-    "career": {
+    "caching": {
+      "count": 2
+    },
+    "calendar": {
+      "count": 3
+    },
+    "calm": {
       "count": 1
     },
+    "capitalism": {
+      "count": 1
+    },
+    "care": {
+      "count": 2
+    },
+    "career": {
+      "count": 6
+    },
     "cargo-cult": {
+      "count": 2
+    },
+    "cash": {
       "count": 1
     },
     "cash-flow": {
-      "count": 1
+      "count": 5
     },
     "caution": {
+      "count": 1
+    },
+    "celebration": {
       "count": 1
     },
     "centering": {
       "count": 2
     },
+    "challenge": {
+      "count": 1
+    },
+    "change": {
+      "count": 2
+    },
+    "changelog": {
+      "count": 2
+    },
     "chaos": {
+      "count": 1
+    },
+    "checkout": {
+      "count": 1
+    },
+    "choice": {
+      "count": 1
+    },
+    "choices": {
+      "count": 1
+    },
+    "churn": {
+      "count": 9
+    },
+    "ci": {
+      "count": 2
+    },
+    "cicd": {
       "count": 1
     },
     "civilization": {
       "count": 1
     },
+    "clarity": {
+      "count": 18
+    },
     "classic": {
-      "count": 32
+      "count": 37
     },
     "clean-code": {
-      "count": 2
+      "count": 3
     },
     "cleverness": {
+      "count": 2
+    },
+    "cli": {
       "count": 1
     },
     "clients": {
-      "count": 1
+      "count": 3
     },
     "closures": {
       "count": 1
     },
+    "cloud": {
+      "count": 1
+    },
+    "code-quality": {
+      "count": 4
+    },
+    "code-review": {
+      "count": 5
+    },
     "coding": {
       "count": 1
     },
-    "comments": {
+    "cognitive-load": {
       "count": 1
     },
+    "cold-email": {
+      "count": 1
+    },
+    "collaboration": {
+      "count": 2
+    },
+    "color": {
+      "count": 4
+    },
+    "combination": {
+      "count": 1
+    },
+    "comments": {
+      "count": 4
+    },
     "commits": {
+      "count": 1
+    },
+    "communication": {
       "count": 1
     },
     "community": {
@@ -110,30 +365,108 @@
       "count": 1
     },
     "competition": {
+      "count": 9
+    },
+    "competitive-advantage": {
       "count": 1
     },
     "complaints": {
       "count": 1
     },
+    "complementary": {
+      "count": 1
+    },
     "complexity": {
+      "count": 20
+    },
+    "compliance": {
+      "count": 1
+    },
+    "components": {
+      "count": 1
+    },
+    "compounding": {
       "count": 5
+    },
+    "computers": {
+      "count": 1
     },
     "concurrency": {
       "count": 1
     },
     "confidence": {
-      "count": 1
+      "count": 3
     },
     "config": {
       "count": 1
     },
+    "connection": {
+      "count": 1
+    },
+    "connections": {
+      "count": 1
+    },
+    "consent": {
+      "count": 1
+    },
+    "consistency": {
+      "count": 6
+    },
+    "constraints": {
+      "count": 1
+    },
     "containers": {
-      "count": 2
+      "count": 5
+    },
+    "content": {
+      "count": 13
+    },
+    "content-marketing": {
+      "count": 1
+    },
+    "context": {
+      "count": 1
+    },
+    "context-switching": {
+      "count": 1
+    },
+    "contrarian": {
+      "count": 1
     },
     "control": {
+      "count": 2
+    },
+    "conversation": {
+      "count": 1
+    },
+    "conversion": {
+      "count": 9
+    },
+    "conviction": {
+      "count": 1
+    },
+    "convincing": {
       "count": 1
     },
     "copy-paste": {
+      "count": 2
+    },
+    "copywriting": {
+      "count": 5
+    },
+    "corporate": {
+      "count": 1
+    },
+    "cost": {
+      "count": 1
+    },
+    "courage": {
+      "count": 6
+    },
+    "coverage": {
+      "count": 1
+    },
+    "creativity": {
       "count": 1
     },
     "crime": {
@@ -145,139 +478,364 @@
     "cs101": {
       "count": 1
     },
+    "csharp": {
+      "count": 1
+    },
     "css": {
-      "count": 2
+      "count": 4
+    },
+    "cta": {
+      "count": 1
+    },
+    "culture": {
+      "count": 6
+    },
+    "customer-experience": {
+      "count": 1
+    },
+    "customer-feedback": {
+      "count": 1
+    },
+    "customer-focus": {
+      "count": 3
+    },
+    "customer-journey": {
+      "count": 1
+    },
+    "customer-success": {
+      "count": 3
+    },
+    "customer-understanding": {
+      "count": 1
     },
     "customers": {
-      "count": 1
+      "count": 11
     },
     "danger": {
       "count": 1
+    },
+    "dark-mode": {
+      "count": 3
+    },
+    "dashboard": {
+      "count": 1
+    },
+    "data": {
+      "count": 8
     },
     "data-structures": {
       "count": 2
     },
     "database": {
-      "count": 2
+      "count": 9
     },
     "datetime": {
       "count": 1
     },
+    "day-one": {
+      "count": 1
+    },
+    "deadlines": {
+      "count": 6
+    },
     "debugging": {
-      "count": 12
+      "count": 27
+    },
+    "decision-fatigue": {
+      "count": 1
+    },
+    "decision-making": {
+      "count": 1
+    },
+    "decisions": {
+      "count": 5
     },
     "decline": {
       "count": 1
     },
     "decomposition": {
-      "count": 1
+      "count": 2
+    },
+    "deep-work": {
+      "count": 6
     },
     "definition": {
       "count": 2
     },
+    "delayed-gratification": {
+      "count": 1
+    },
     "deletion": {
-      "count": 2
+      "count": 6
+    },
+    "demo": {
+      "count": 3
+    },
+    "demonstration": {
+      "count": 1
     },
     "denial": {
       "count": 1
     },
     "dependencies": {
-      "count": 3
+      "count": 4
     },
     "deployment": {
-      "count": 4
+      "count": 10
     },
     "deployments": {
       "count": 1
     },
     "design": {
-      "count": 7
+      "count": 11
     },
     "design-patterns": {
+      "count": 1
+    },
+    "design-systems": {
+      "count": 3
+    },
+    "design-tokens": {
       "count": 1
     },
     "detective": {
       "count": 1
     },
+    "developer-experience": {
+      "count": 1
+    },
     "devops": {
       "count": 2
     },
+    "differentiation": {
+      "count": 3
+    },
+    "difficulty": {
+      "count": 1
+    },
+    "disagreement": {
+      "count": 1
+    },
+    "disaster": {
+      "count": 1
+    },
+    "disaster-recovery": {
+      "count": 2
+    },
     "discipline": {
-      "count": 5
+      "count": 9
+    },
+    "disconnect": {
+      "count": 1
+    },
+    "discovery": {
+      "count": 1
+    },
+    "disruption": {
+      "count": 1
+    },
+    "distractions": {
+      "count": 1
     },
     "distribution": {
-      "count": 1
+      "count": 4
     },
     "dns": {
       "count": 1
     },
     "docker": {
-      "count": 2
+      "count": 5
     },
     "documentation": {
-      "count": 2
+      "count": 8
+    },
+    "dogfooding": {
+      "count": 7
+    },
+    "doubt": {
+      "count": 1
     },
     "duplication": {
       "count": 1
     },
-    "edge-cases": {
+    "early-decisions": {
       "count": 1
     },
+    "early-users": {
+      "count": 3
+    },
+    "earning": {
+      "count": 1
+    },
+    "economics": {
+      "count": 1
+    },
+    "edge-cases": {
+      "count": 2
+    },
     "efficiency": {
+      "count": 12
+    },
+    "elimination": {
       "count": 1
     },
     "email": {
+      "count": 7
+    },
+    "empathy": {
       "count": 1
+    },
+    "empowerment": {
+      "count": 2
+    },
+    "empty-state": {
+      "count": 1
+    },
+    "endurance": {
+      "count": 2
+    },
+    "energy": {
+      "count": 2
+    },
+    "engagement": {
+      "count": 1
+    },
+    "engineering": {
+      "count": 1
+    },
+    "engineers": {
+      "count": 1
+    },
+    "enjoyment": {
+      "count": 1
+    },
+    "enterprise": {
+      "count": 2
     },
     "entropy": {
       "count": 2
     },
     "environments": {
+      "count": 2
+    },
+    "error-handling": {
+      "count": 1
+    },
+    "error-messages": {
+      "count": 3
+    },
+    "errors": {
+      "count": 2
+    },
+    "essence": {
       "count": 1
     },
     "estimation": {
+      "count": 3
+    },
+    "evangelism": {
+      "count": 1
+    },
+    "events": {
+      "count": 1
+    },
+    "evidence": {
       "count": 1
     },
     "evolution": {
       "count": 1
     },
-    "execution": {
-      "count": 1
-    },
-    "experience": {
+    "example": {
       "count": 2
     },
-    "experimentation": {
+    "excellence": {
+      "count": 4
+    },
+    "execution": {
+      "count": 9
+    },
+    "exit": {
       "count": 1
+    },
+    "expectations": {
+      "count": 4
+    },
+    "experience": {
+      "count": 4
+    },
+    "experimentation": {
+      "count": 3
+    },
+    "extensibility": {
+      "count": 3
     },
     "facebook": {
       "count": 1
     },
     "failure": {
-      "count": 1
+      "count": 17
     },
     "falsehoods": {
       "count": 1
     },
-    "fear": {
-      "count": 4
-    },
-    "features": {
-      "count": 2
-    },
-    "feedback": {
+    "faq": {
       "count": 1
     },
+    "fatigue": {
+      "count": 1
+    },
+    "fear": {
+      "count": 6
+    },
+    "feature-flags": {
+      "count": 1
+    },
+    "feature-requests": {
+      "count": 5
+    },
+    "features": {
+      "count": 11
+    },
+    "feedback": {
+      "count": 6
+    },
     "feelings": {
+      "count": 1
+    },
+    "financial-model": {
       "count": 1
     },
     "finishing": {
       "count": 2
     },
+    "firing": {
+      "count": 1
+    },
+    "first-impression": {
+      "count": 2
+    },
+    "first-principles": {
+      "count": 1
+    },
     "fizzbuzz": {
       "count": 1
     },
+    "flow": {
+      "count": 2
+    },
+    "flow-state": {
+      "count": 1
+    },
     "focus": {
+      "count": 37
+    },
+    "forces": {
+      "count": 1
+    },
+    "forms": {
+      "count": 2
+    },
+    "foundation": {
       "count": 2
     },
     "fragility": {
@@ -286,65 +844,206 @@
     "fragmentation": {
       "count": 1
     },
+    "frameworks": {
+      "count": 2
+    },
+    "free-trial": {
+      "count": 1
+    },
+    "freedom": {
+      "count": 2
+    },
     "freelancing": {
+      "count": 2
+    },
+    "freemium": {
+      "count": 2
+    },
+    "fresh-eyes": {
       "count": 1
     },
     "friday": {
-      "count": 2
+      "count": 3
     },
     "frontend": {
-      "count": 2
+      "count": 3
     },
     "full-stack": {
+      "count": 1
+    },
+    "fun": {
       "count": 1
     },
     "functional": {
       "count": 1
     },
-    "fundamentals": {
+    "functionality": {
       "count": 1
+    },
+    "functions": {
+      "count": 1
+    },
+    "fundamentals": {
+      "count": 2
     },
     "funding": {
       "count": 1
     },
-    "future-self": {
+    "fundraising": {
       "count": 1
     },
-    "git": {
+    "funnel": {
+      "count": 1
+    },
+    "future": {
       "count": 4
     },
+    "future-self": {
+      "count": 2
+    },
+    "git": {
+      "count": 7
+    },
+    "github": {
+      "count": 1
+    },
     "go": {
+      "count": 1
+    },
+    "good-enough": {
       "count": 1
     },
     "google": {
       "count": 1
     },
+    "gradients": {
+      "count": 1
+    },
+    "graphql": {
+      "count": 1
+    },
     "growth": {
-      "count": 2
+      "count": 21
+    },
+    "growth-hacking": {
+      "count": 1
+    },
+    "gtd": {
+      "count": 1
+    },
+    "habit": {
+      "count": 1
+    },
+    "habits": {
+      "count": 10
     },
     "hacking": {
       "count": 1
     },
+    "handoff": {
+      "count": 1
+    },
+    "happy-path": {
+      "count": 1
+    },
+    "hardware": {
+      "count": 1
+    },
+    "hat-wearing": {
+      "count": 1
+    },
+    "hats": {
+      "count": 1
+    },
+    "health": {
+      "count": 1
+    },
+    "health-checks": {
+      "count": 1
+    },
+    "helpfulness": {
+      "count": 3
+    },
+    "helping": {
+      "count": 2
+    },
+    "hero": {
+      "count": 1
+    },
+    "hidden": {
+      "count": 1
+    },
+    "hierarchy": {
+      "count": 1
+    },
     "hiring": {
+      "count": 6
+    },
+    "home": {
+      "count": 1
+    },
+    "homepage": {
+      "count": 1
+    },
+    "honesty": {
+      "count": 5
+    },
+    "humans": {
       "count": 1
     },
     "humility": {
-      "count": 2
+      "count": 4
+    },
+    "humor": {
+      "count": 8
     },
     "hustle": {
-      "count": 2
+      "count": 3
     },
     "hype": {
       "count": 1
     },
+    "i18n": {
+      "count": 1
+    },
+    "icons": {
+      "count": 1
+    },
+    "ide": {
+      "count": 1
+    },
     "ideas": {
+      "count": 4
+    },
+    "identity": {
+      "count": 1
+    },
+    "idiots": {
       "count": 1
     },
     "implementation": {
+      "count": 2
+    },
+    "imposter-syndrome": {
       "count": 1
     },
     "impostor-syndrome": {
       "count": 1
+    },
+    "improvement": {
+      "count": 6
+    },
+    "inaction": {
+      "count": 1
+    },
+    "incentives": {
+      "count": 1
+    },
+    "incident-response": {
+      "count": 2
+    },
+    "incidents": {
+      "count": 2
     },
     "indentation": {
       "count": 1
@@ -352,20 +1051,71 @@
     "indirection": {
       "count": 1
     },
+    "indispensability": {
+      "count": 1
+    },
     "industry": {
+      "count": 1
+    },
+    "inertia": {
       "count": 1
     },
     "inevitability": {
       "count": 1
     },
+    "influencer": {
+      "count": 1
+    },
+    "innovation": {
+      "count": 13
+    },
+    "insight": {
+      "count": 4
+    },
+    "integrations": {
+      "count": 6
+    },
+    "integrity": {
+      "count": 1
+    },
+    "intention": {
+      "count": 4
+    },
+    "intentionality": {
+      "count": 1
+    },
+    "internet": {
+      "count": 1
+    },
+    "intrinsic-motivation": {
+      "count": 1
+    },
+    "intuition": {
+      "count": 1
+    },
+    "invalidation": {
+      "count": 1
+    },
+    "investment": {
+      "count": 3
+    },
+    "invisibility": {
+      "count": 4
+    },
     "irony": {
       "count": 3
     },
+    "isolation": {
+      "count": 1
+    },
     "iteration": {
+      "count": 5
+    },
+    "java": {
       "count": 1
     },
     "javascript": {
-      "count": 2
+      "count": 4
     },
     "job-security": {
       "count": 1
@@ -373,47 +1123,128 @@
     "jobs": {
       "count": 1
     },
-    "kubernetes": {
-      "count": 1
-    },
-    "languages": {
+    "jokes": {
       "count": 3
     },
+    "journey": {
+      "count": 1
+    },
+    "junior": {
+      "count": 1
+    },
+    "knowledge": {
+      "count": 1
+    },
+    "knowledge-sharing": {
+      "count": 1
+    },
+    "kubernetes": {
+      "count": 2
+    },
+    "landing-page": {
+      "count": 7
+    },
+    "languages": {
+      "count": 4
+    },
+    "launch": {
+      "count": 4
+    },
     "launching": {
+      "count": 1
+    },
+    "layering": {
       "count": 1
     },
     "layers": {
       "count": 2
     },
     "laziness": {
-      "count": 1
+      "count": 2
+    },
+    "leadership": {
+      "count": 11
     },
     "leaky": {
       "count": 1
     },
+    "lean-startup": {
+      "count": 1
+    },
     "learning": {
-      "count": 2
+      "count": 24
     },
     "leftpad": {
       "count": 1
+    },
+    "legacy": {
+      "count": 4
     },
     "legacy-code": {
       "count": 4
     },
     "less-code": {
+      "count": 2
+    },
+    "lesson": {
+      "count": 1
+    },
+    "leverage": {
+      "count": 8
+    },
+    "libraries": {
+      "count": 2
+    },
+    "lifestyle": {
+      "count": 5
+    },
+    "linkedin": {
+      "count": 1
+    },
+    "listening": {
+      "count": 5
+    },
+    "loading": {
+      "count": 2
+    },
+    "localhost": {
+      "count": 1
+    },
+    "location-independent": {
+      "count": 2
+    },
+    "logging": {
+      "count": 5
+    },
+    "logic": {
+      "count": 1
+    },
+    "luck": {
       "count": 1
     },
     "machine-learning": {
       "count": 1
     },
+    "maintainability": {
+      "count": 1
+    },
     "maintenance": {
-      "count": 2
+      "count": 6
     },
     "management": {
+      "count": 4
+    },
+    "margin": {
+      "count": 1
+    },
+    "market": {
       "count": 2
     },
+    "market-selection": {
+      "count": 1
+    },
     "marketing": {
-      "count": 2
+      "count": 15
     },
     "mastery": {
       "count": 1
@@ -421,68 +1252,278 @@
     "math": {
       "count": 1
     },
-    "meetings": {
+    "meaning": {
       "count": 2
     },
+    "meetings": {
+      "count": 5
+    },
+    "memorable": {
+      "count": 1
+    },
     "memory": {
+      "count": 1
+    },
+    "mental-health": {
       "count": 1
     },
     "mental-models": {
       "count": 1
     },
-    "meta": {
+    "mentorship": {
       "count": 1
+    },
+    "meta": {
+      "count": 2
     },
     "methodology": {
-      "count": 1
+      "count": 2
+    },
+    "metrics": {
+      "count": 12
     },
     "microservices": {
+      "count": 3
+    },
+    "migrations": {
       "count": 2
+    },
+    "milestones": {
+      "count": 1
+    },
+    "mindset": {
+      "count": 1
+    },
+    "minimalism": {
+      "count": 9
+    },
+    "mistakes": {
+      "count": 1
+    },
+    "moat": {
+      "count": 7
+    },
+    "mobile": {
+      "count": 4
+    },
+    "mockups": {
+      "count": 1
+    },
+    "modals": {
+      "count": 2
+    },
+    "modularity": {
+      "count": 1
+    },
+    "momentum": {
+      "count": 1
+    },
+    "monetization": {
+      "count": 3
+    },
+    "money": {
+      "count": 1
+    },
+    "monitoring": {
+      "count": 4
+    },
+    "monorepo": {
+      "count": 1
+    },
+    "morale": {
+      "count": 1
+    },
+    "morning-routine": {
+      "count": 3
+    },
+    "motivation": {
+      "count": 3
+    },
+    "motto": {
+      "count": 1
+    },
+    "mrr": {
+      "count": 1
+    },
+    "multi-tenant": {
+      "count": 1
+    },
+    "multitasking": {
+      "count": 1
+    },
+    "murphys-law": {
+      "count": 1
     },
     "mutability": {
       "count": 1
     },
     "mvp": {
-      "count": 3
+      "count": 5
     },
     "naming": {
+      "count": 3
+    },
+    "native": {
+      "count": 1
+    },
+    "natural": {
+      "count": 3
+    },
+    "navigation": {
+      "count": 3
+    },
+    "negotiation": {
       "count": 2
     },
     "networking": {
+      "count": 3
+    },
+    "new-users": {
+      "count": 1
+    },
+    "newsletter": {
+      "count": 1
+    },
+    "niche": {
       "count": 1
     },
     "node-modules": {
       "count": 1
     },
+    "noise": {
+      "count": 1
+    },
+    "noisy-neighbor": {
+      "count": 1
+    },
+    "notes": {
+      "count": 1
+    },
+    "notifications": {
+      "count": 1
+    },
     "npm": {
       "count": 2
     },
-    "off-by-one": {
+    "nrr": {
       "count": 1
+    },
+    "objections": {
+      "count": 1
+    },
+    "observability": {
+      "count": 2
+    },
+    "observation": {
+      "count": 3
+    },
+    "observations": {
+      "count": 1
+    },
+    "obsession": {
+      "count": 1
+    },
+    "obstacles": {
+      "count": 1
+    },
+    "obvious": {
+      "count": 1
+    },
+    "off-by-one": {
+      "count": 2
+    },
+    "offline": {
+      "count": 1
+    },
+    "on-call": {
+      "count": 2
+    },
+    "onboarding": {
+      "count": 9
+    },
+    "online-presence": {
+      "count": 1
+    },
+    "oop": {
+      "count": 2
     },
     "open-source": {
-      "count": 1
+      "count": 2
+    },
+    "opinion": {
+      "count": 2
+    },
+    "opportunity": {
+      "count": 2
     },
     "optimization": {
-      "count": 3
+      "count": 7
+    },
+    "organic": {
+      "count": 1
+    },
+    "outcomes": {
+      "count": 2
+    },
+    "output": {
+      "count": 1
     },
     "over-engineering": {
       "count": 4
     },
+    "overload": {
+      "count": 1
+    },
+    "ownership": {
+      "count": 1
+    },
+    "pacing": {
+      "count": 1
+    },
     "pain": {
+      "count": 3
+    },
+    "paradox": {
+      "count": 1
+    },
+    "parity": {
+      "count": 1
+    },
+    "parkinsons-law": {
+      "count": 1
+    },
+    "partnerships": {
+      "count": 2
+    },
+    "passion": {
+      "count": 7
+    },
+    "passive-income": {
       "count": 1
     },
     "past-self": {
       "count": 2
     },
     "patience": {
-      "count": 2
+      "count": 4
+    },
+    "paying-customers": {
+      "count": 1
+    },
+    "payments": {
+      "count": 1
+    },
+    "perception": {
+      "count": 1
     },
     "perfection": {
+      "count": 3
+    },
+    "perfectionism": {
       "count": 2
     },
     "performance": {
-      "count": 1
+      "count": 5
     },
     "perl": {
       "count": 1
@@ -490,46 +1531,193 @@
     "permanence": {
       "count": 1
     },
+    "permission": {
+      "count": 1
+    },
+    "persistence": {
+      "count": 9
+    },
+    "personal-brand": {
+      "count": 7
+    },
+    "personalization": {
+      "count": 1
+    },
     "philosophy": {
       "count": 1
     },
+    "pitch": {
+      "count": 1
+    },
     "planning": {
+      "count": 12
+    },
+    "planting": {
+      "count": 1
+    },
+    "platform": {
       "count": 2
+    },
+    "pmf": {
+      "count": 2
+    },
+    "politics": {
+      "count": 1
+    },
+    "polyrepo": {
+      "count": 1
+    },
+    "pomodoro": {
+      "count": 1
+    },
+    "portfolio": {
+      "count": 1
     },
     "positioning": {
       "count": 1
     },
-    "practice": {
+    "post-mortem": {
       "count": 1
     },
+    "potential": {
+      "count": 1
+    },
+    "power-users": {
+      "count": 3
+    },
+    "pr": {
+      "count": 1
+    },
+    "practice": {
+      "count": 2
+    },
     "pragmatism": {
-      "count": 5
+      "count": 9
+    },
+    "predictability": {
+      "count": 1
+    },
+    "prediction": {
+      "count": 1
+    },
+    "premature-optimization": {
+      "count": 3
+    },
+    "preparation": {
+      "count": 2
+    },
+    "preparedness": {
+      "count": 1
+    },
+    "preselling": {
+      "count": 4
+    },
+    "prevention": {
+      "count": 2
     },
     "pricing": {
+      "count": 17
+    },
+    "pride": {
       "count": 1
     },
     "print-statements": {
       "count": 1
     },
+    "priorities": {
+      "count": 6
+    },
+    "prioritization": {
+      "count": 4
+    },
+    "proactive": {
+      "count": 10
+    },
+    "problem": {
+      "count": 3
+    },
+    "problem-definition": {
+      "count": 1
+    },
+    "problem-selection": {
+      "count": 1
+    },
+    "problem-solving": {
+      "count": 2
+    },
+    "problems": {
+      "count": 1
+    },
+    "process": {
+      "count": 2
+    },
     "procrastination": {
+      "count": 4
+    },
+    "product": {
+      "count": 17
+    },
+    "product-hunt": {
       "count": 1
     },
     "product-market-fit": {
-      "count": 1
-    },
-    "production": {
-      "count": 5
-    },
-    "productivity": {
-      "count": 4
-    },
-    "profit": {
-      "count": 1
-    },
-    "profitability": {
       "count": 2
     },
+    "production": {
+      "count": 6
+    },
+    "productivity": {
+      "count": 6
+    },
+    "profit": {
+      "count": 4
+    },
+    "profitability": {
+      "count": 3
+    },
+    "programming": {
+      "count": 1
+    },
+    "progress": {
+      "count": 1
+    },
+    "progressive": {
+      "count": 1
+    },
     "projects": {
+      "count": 1
+    },
+    "promise": {
+      "count": 1
+    },
+    "promotion": {
+      "count": 1
+    },
+    "protection": {
+      "count": 2
+    },
+    "prototyping": {
+      "count": 1
+    },
+    "purpose": {
+      "count": 3
+    },
+    "python": {
+      "count": 1
+    },
+    "quality": {
+      "count": 11
+    },
+    "questions": {
+      "count": 1
+    },
+    "queues": {
+      "count": 1
+    },
+    "quick-start": {
+      "count": 1
+    },
+    "quitting": {
       "count": 1
     },
     "race-conditions": {
@@ -544,49 +1732,205 @@
     "rant": {
       "count": 1
     },
+    "react": {
+      "count": 1
+    },
+    "readability": {
+      "count": 6
+    },
+    "readiness": {
+      "count": 2
+    },
+    "reading": {
+      "count": 2
+    },
+    "readme": {
+      "count": 2
+    },
+    "realism": {
+      "count": 2
+    },
+    "reality": {
+      "count": 11
+    },
+    "recognition": {
+      "count": 1
+    },
+    "recurring": {
+      "count": 1
+    },
+    "recurring-revenue": {
+      "count": 1
+    },
     "recursion": {
       "count": 1
     },
     "recursive": {
       "count": 1
     },
+    "reduction": {
+      "count": 1
+    },
     "reductionism": {
       "count": 2
     },
     "refactoring": {
-      "count": 2
+      "count": 5
+    },
+    "referrals": {
+      "count": 1
     },
     "regex": {
+      "count": 2
+    },
+    "regression": {
+      "count": 1
+    },
+    "relationships": {
       "count": 1
     },
     "reliability": {
+      "count": 7
+    },
+    "remote": {
+      "count": 1
+    },
+    "remote-work": {
+      "count": 1
+    },
+    "removal": {
+      "count": 2
+    },
+    "rent": {
       "count": 1
     },
     "replacement": {
       "count": 1
     },
+    "reproduction": {
+      "count": 1
+    },
+    "reputation": {
+      "count": 6
+    },
+    "requirements": {
+      "count": 4
+    },
+    "research": {
+      "count": 4
+    },
+    "resilience": {
+      "count": 6
+    },
+    "resource": {
+      "count": 1
+    },
     "resourcefulness": {
       "count": 1
+    },
+    "responsive": {
+      "count": 2
+    },
+    "rest": {
+      "count": 4
     },
     "restart": {
       "count": 1
     },
+    "results": {
+      "count": 1
+    },
+    "resume": {
+      "count": 3
+    },
+    "retention": {
+      "count": 15
+    },
+    "retrospective": {
+      "count": 1
+    },
     "revenue": {
-      "count": 2
+      "count": 19
+    },
+    "reversibility": {
+      "count": 1
     },
     "rewrite": {
+      "count": 4
+    },
+    "risk": {
+      "count": 5
+    },
+    "rituals": {
+      "count": 1
+    },
+    "roadmap": {
+      "count": 1
+    },
+    "roi": {
+      "count": 2
+    },
+    "rollback": {
+      "count": 1
+    },
+    "root-cause": {
+      "count": 2
+    },
+    "routine": {
       "count": 2
     },
     "rubber-duck": {
       "count": 1
     },
     "rust": {
-      "count": 1
+      "count": 2
     },
     "saas": {
+      "count": 4
+    },
+    "sacrifice": {
       "count": 1
     },
+    "safety": {
+      "count": 3
+    },
+    "safety-net": {
+      "count": 2
+    },
     "salary": {
+      "count": 2
+    },
+    "sales": {
+      "count": 11
+    },
+    "satisfaction": {
+      "count": 5
+    },
+    "savings": {
+      "count": 1
+    },
+    "saying-no": {
+      "count": 3
+    },
+    "scalability": {
+      "count": 1
+    },
+    "scale": {
+      "count": 2
+    },
+    "scaling": {
+      "count": 7
+    },
+    "scarcity": {
+      "count": 1
+    },
+    "schedule": {
+      "count": 1
+    },
+    "schema": {
+      "count": 1
+    },
+    "scope": {
       "count": 1
     },
     "scope-creep": {
@@ -595,56 +1939,182 @@
     "scrum": {
       "count": 1
     },
+    "seamlessness": {
+      "count": 2
+    },
+    "search": {
+      "count": 2
+    },
     "security": {
+      "count": 7
+    },
+    "self-awareness": {
+      "count": 1
+    },
+    "self-care": {
+      "count": 1
+    },
+    "self-employment": {
+      "count": 1
+    },
+    "self-explanatory": {
+      "count": 1
+    },
+    "self-imposed": {
+      "count": 1
+    },
+    "self-management": {
+      "count": 2
+    },
+    "self-reliance": {
+      "count": 1
+    },
+    "self-serve": {
+      "count": 1
+    },
+    "senior": {
       "count": 1
     },
     "seniority": {
       "count": 2
     },
     "seo": {
+      "count": 3
+    },
+    "servers": {
+      "count": 1
+    },
+    "services": {
+      "count": 1
+    },
+    "settings": {
+      "count": 1
+    },
+    "setup": {
+      "count": 1
+    },
+    "sharing": {
+      "count": 1
+    },
+    "shift-left": {
       "count": 1
     },
     "shipping": {
-      "count": 6
+      "count": 23
+    },
+    "shitpost": {
+      "count": 4
+    },
+    "shortcuts": {
+      "count": 2
+    },
+    "shouting": {
+      "count": 1
+    },
+    "showing": {
+      "count": 1
+    },
+    "side-projects": {
+      "count": 3
     },
     "silver-bullet": {
       "count": 1
     },
     "simplicity": {
-      "count": 16
+      "count": 70
+    },
+    "simplification": {
+      "count": 3
+    },
+    "single-responsibility": {
+      "count": 1
+    },
+    "size": {
+      "count": 1
+    },
+    "skeleton": {
+      "count": 1
+    },
+    "sketching": {
+      "count": 1
+    },
+    "skill": {
+      "count": 1
+    },
+    "skills": {
+      "count": 3
+    },
+    "sla": {
+      "count": 1
     },
     "slack": {
       "count": 1
     },
     "sleep": {
+      "count": 5
+    },
+    "small": {
       "count": 1
+    },
+    "small-steps": {
+      "count": 1
+    },
+    "social-media": {
+      "count": 2
+    },
+    "social-proof": {
+      "count": 2
     },
     "software-crisis": {
       "count": 1
     },
+    "solo": {
+      "count": 2
+    },
     "solo-dev": {
       "count": 1
+    },
+    "solutions": {
+      "count": 2
     },
     "song": {
       "count": 1
     },
+    "spam": {
+      "count": 1
+    },
     "speed": {
-      "count": 3
+      "count": 11
     },
     "spreadsheet": {
       "count": 1
     },
     "sql": {
-      "count": 1
+      "count": 2
     },
     "stability": {
+      "count": 1
+    },
+    "stack-trace": {
       "count": 1
     },
     "stackoverflow": {
       "count": 3
     },
+    "staging": {
+      "count": 2
+    },
     "standards": {
       "count": 1
+    },
+    "start": {
+      "count": 3
+    },
+    "starting": {
+      "count": 4
+    },
+    "startup": {
+      "count": 2
     },
     "startups": {
       "count": 7
@@ -652,71 +2122,236 @@
     "state": {
       "count": 1
     },
+    "status-page": {
+      "count": 2
+    },
+    "stopping": {
+      "count": 1
+    },
+    "story": {
+      "count": 2
+    },
+    "storytelling": {
+      "count": 3
+    },
     "strategy": {
+      "count": 1
+    },
+    "stress": {
       "count": 1
     },
     "subconscious": {
       "count": 1
     },
+    "success": {
+      "count": 7
+    },
+    "support": {
+      "count": 5
+    },
     "survival": {
-      "count": 2
+      "count": 3
+    },
+    "sustainability": {
+      "count": 3
+    },
+    "switching": {
+      "count": 1
+    },
+    "switching-cost": {
+      "count": 1
+    },
+    "system": {
+      "count": 1
+    },
+    "system-design": {
+      "count": 1
+    },
+    "systems": {
+      "count": 3
+    },
+    "tailwind": {
+      "count": 1
     },
     "taste": {
-      "count": 1
+      "count": 3
+    },
+    "tdd": {
+      "count": 2
+    },
+    "teaching": {
+      "count": 2
+    },
+    "team": {
+      "count": 6
     },
     "teams": {
       "count": 2
     },
     "teamwork": {
-      "count": 1
+      "count": 2
+    },
+    "tech-debt": {
+      "count": 2
+    },
+    "tech-stack": {
+      "count": 3
     },
     "technical-debt": {
       "count": 2
     },
+    "technology-choices": {
+      "count": 1
+    },
+    "terminology": {
+      "count": 1
+    },
+    "testimonials": {
+      "count": 2
+    },
     "testing": {
-      "count": 3
+      "count": 13
     },
     "theory": {
       "count": 1
     },
     "thinking": {
-      "count": 2
+      "count": 3
     },
     "threads": {
       "count": 1
     },
     "time": {
+      "count": 2
+    },
+    "time-management": {
+      "count": 2
+    },
+    "time-tracking": {
       "count": 1
     },
     "time-waste": {
       "count": 1
     },
+    "timeline": {
+      "count": 2
+    },
     "timezones": {
       "count": 1
+    },
+    "timing": {
+      "count": 11
     },
     "titles": {
       "count": 1
     },
     "todo": {
+      "count": 3
+    },
+    "tool": {
+      "count": 1
+    },
+    "tools": {
+      "count": 9
+    },
+    "tooltips": {
+      "count": 1
+    },
+    "tradition": {
+      "count": 1
+    },
+    "traffic": {
+      "count": 1
+    },
+    "transparency": {
+      "count": 3
+    },
+    "trends": {
+      "count": 2
+    },
+    "triangulation": {
       "count": 1
     },
     "trust": {
-      "count": 1
+      "count": 7
+    },
+    "truth": {
+      "count": 2
     },
     "types": {
+      "count": 2
+    },
+    "typescript": {
+      "count": 2
+    },
+    "typography": {
+      "count": 2
+    },
+    "ui": {
       "count": 1
     },
-    "understanding": {
+    "uncertainty": {
       "count": 2
+    },
+    "understanding": {
+      "count": 7
+    },
+    "uniqueness": {
+      "count": 2
+    },
+    "universe": {
+      "count": 1
     },
     "unix": {
       "count": 1
     },
-    "users": {
+    "upsell": {
       "count": 1
     },
-    "validation": {
+    "uptime": {
+      "count": 1
+    },
+    "usability": {
       "count": 2
+    },
+    "usage": {
+      "count": 1
+    },
+    "usage-based": {
+      "count": 1
+    },
+    "usefulness": {
+      "count": 1
+    },
+    "user-demand": {
+      "count": 1
+    },
+    "user-feedback": {
+      "count": 1
+    },
+    "user-focus": {
+      "count": 2
+    },
+    "user-needs": {
+      "count": 1
+    },
+    "user-research": {
+      "count": 3
+    },
+    "users": {
+      "count": 3
+    },
+    "utility": {
+      "count": 1
+    },
+    "ux": {
+      "count": 32
+    },
+    "validation": {
+      "count": 10
+    },
+    "value": {
+      "count": 19
     },
     "variables": {
       "count": 1
@@ -724,13 +2359,76 @@
     "vc": {
       "count": 1
     },
+    "velocity": {
+      "count": 4
+    },
+    "version-control": {
+      "count": 2
+    },
+    "versioning": {
+      "count": 1
+    },
+    "video": {
+      "count": 1
+    },
+    "virality": {
+      "count": 4
+    },
     "virtues": {
       "count": 1
+    },
+    "visibility": {
+      "count": 1
+    },
+    "vision": {
+      "count": 1
+    },
+    "vulnerability": {
+      "count": 1
+    },
+    "waste": {
+      "count": 2
+    },
+    "weakness": {
+      "count": 1
+    },
+    "wealth": {
+      "count": 3
+    },
+    "webhooks": {
+      "count": 2
+    },
+    "website": {
+      "count": 1
+    },
+    "whitespace": {
+      "count": 3
+    },
+    "wireframe": {
+      "count": 1
+    },
+    "wisdom": {
+      "count": 1
+    },
+    "word-of-mouth": {
+      "count": 5
+    },
+    "work": {
+      "count": 3
     },
     "work-ethic": {
       "count": 1
     },
+    "work-life": {
+      "count": 2
+    },
+    "workflow": {
+      "count": 5
+    },
     "worse-is-better": {
+      "count": 1
+    },
+    "writing": {
       "count": 1
     },
     "xkcd-energy": {

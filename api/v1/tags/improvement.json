@@ -1,0 +1,107 @@
+{
+  "tag": "improvement",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "post-mortem",
+        "improvement"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-postmortems-are-like-therapy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Compounding works for businesses the same way it works for interest. Small, consistent improvements beat moonshot pivots every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "compounding",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-compounding-works-for-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "growth",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best on-call engineers are the ones who fix the problem AND the alert. Not just the problem.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "on-call",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-oncall-engineers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every production incident should result in exactly two things: a fix and a better alert.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "incidents",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-production-incident-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve a product is to remove features, not add them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "removal",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-912",
+      "source": "Community sourced"
+    }
+  ]
+}

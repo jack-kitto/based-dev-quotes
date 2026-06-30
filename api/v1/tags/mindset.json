@@ -1,0 +1,22 @@
+{
+  "tag": "mindset",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best security practice is assuming you've already been breached.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "security",
+        "mindset"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-security-practice",
+      "source": "Community sourced"
+    }
+  ]
+}

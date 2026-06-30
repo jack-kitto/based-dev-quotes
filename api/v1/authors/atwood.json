@@ -1,7 +1,7 @@
 {
   "author": "Jeff Atwood",
   "slug": "atwood",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "atwood-any-application",
@@ -38,6 +38,23 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "The best code is no code at all. Every line of code is a liability.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "less-code"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "atwood-the-best-code-is",
+      "source": "Community sourced"
     }
   ]
 }

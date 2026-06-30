@@ -1,0 +1,40 @@
+{
+  "tag": "staging",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Your staging environment should be a copy of production. If it's not, it's a lie you tell yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "staging",
+        "environments"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-your-staging-environment-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your staging environment should match production. If it doesn't, your staging is lying to you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "staging",
+        "parity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-staging-environment-should-741",
+      "source": "Community sourced"
+    }
+  ]
+}

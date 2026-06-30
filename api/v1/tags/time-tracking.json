@@ -1,0 +1,22 @@
+{
+  "tag": "time-tracking",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best way to get more time is to stop wasting it. Track where it goes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "time-tracking",
+        "waste"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-988",
+      "source": "Community sourced"
+    }
+  ]
+}

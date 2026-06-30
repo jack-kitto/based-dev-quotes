@@ -1,0 +1,38 @@
+{
+  "tag": "freemium",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-freemium-is-a-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to convert free users to paid is to make the free version so good they feel guilty not paying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-1042",
+      "source": "Community sourced"
+    }
+  ]
+}

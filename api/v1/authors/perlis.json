@@ -1,7 +1,7 @@
 {
   "author": "Alan Perlis",
   "slug": "perlis",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "perlis-lisp",
@@ -38,6 +38,23 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "Simplicity does not precede complexity, but follows it.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "perlis-simplicity-does-not-precede",
+      "source": "Community sourced"
     }
   ]
 }

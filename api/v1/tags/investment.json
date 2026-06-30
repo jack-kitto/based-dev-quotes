@@ -1,0 +1,54 @@
+{
+  "tag": "investment",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-investment-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best investment is in yourself. The best return is confidence.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "investment",
+        "confidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-investment-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your personal brand is your most valuable asset. Invest in it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "personal-brand",
+        "investment"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-personal-brand-is-1017",
+      "source": "Community sourced"
+    }
+  ]
+}

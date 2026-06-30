@@ -1,0 +1,22 @@
+{
+  "tag": "problem-selection",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best businesses solve expensive problems for people who can afford to pay. Everything else is a hobby.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "problem-selection",
+        "market"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-businesses-solve",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "funnel",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "A funnel is just a polite way of saying 'we lose most of our customers at each step.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "funnel",
+        "conversion"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-funnel-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

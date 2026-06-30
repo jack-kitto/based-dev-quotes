@@ -1,0 +1,22 @@
+{
+  "tag": "fresh-eyes",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If you've been debugging for more than an hour, stop. Walk away. The answer is usually something obvious.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "fresh-eyes"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youve-been-debugging",
+      "source": "Community sourced"
+    }
+  ]
+}

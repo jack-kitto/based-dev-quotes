@@ -1,0 +1,152 @@
+{
+  "tag": "minimalism",
+  "count": 9,
+  "quotes": [
+    {
+      "text": "Good design is as little design as possible. Less, but better.",
+      "author": "Dieter Rams",
+      "author_slug": "rams",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "rams-good-design-is-as",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is not the absence of clutter; it's the presence of order.",
+      "author": "Jonathan Ive",
+      "author_slug": "ive",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ive-simplicity-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every pixel of whitespace is a deliberate choice to not add something stupid.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "whitespace",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-pixel-of-whitespace",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your color palette is more than 4 colors, you're decorating, not designing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your typography should carry the design. If you need heavy graphics to make it work, the typography failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-typography-should-carry",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best interfaces are the ones where every element earns its place. Nothing decorative. Everything intentional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "intentionality",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-interfaces-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Less is more.",
+      "author": "Ludwig Mies van der Rohe",
+      "author_slug": "mies",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "minimalism",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "mies-less-is-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your toolkit should be as small as possible. Each tool you add is a tool you have to learn and maintain.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "tools",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-toolkit-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Minimalism isn't about having less. It's about making room for more of what matters.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "minimalism",
+        "intention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-minimalism-isnt-about-having",
+      "source": "Community sourced"
+    }
+  ]
+}

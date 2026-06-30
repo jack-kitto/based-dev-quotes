@@ -1,0 +1,38 @@
+{
+  "tag": "webhooks",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best time to add webhooks is when your first user asks. The second best time is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "webhooks",
+        "extensibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-541",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to add a webhook system is when your first integration partner asks. Not after they've built a competitor.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "webhooks",
+        "integrations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-638",
+      "source": "Community sourced"
+    }
+  ]
+}

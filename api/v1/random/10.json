@@ -1,17 +1,16 @@
 {
-  "id": "git-rebase-force-push",
-  "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "If you can't explain it simply, you don't understand it well enough.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "funny"
+    "wisdom"
   ],
   "tags": [
-    "git",
-    "danger",
-    "teams"
+    "simplicity",
+    "understanding"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "einstein-if-you-cant-explain",
+  "source": "Community sourced"
 }

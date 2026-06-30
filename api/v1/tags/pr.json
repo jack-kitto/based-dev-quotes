@@ -1,0 +1,22 @@
+{
+  "tag": "pr",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best PR is the smallest one that solves the problem. The best code review is the one that actually happens.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "pr",
+        "code-review"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-pr-is",
+      "source": "Community sourced"
+    }
+  ]
+}

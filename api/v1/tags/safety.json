@@ -1,0 +1,55 @@
+{
+  "tag": "safety",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Every database migration is a small act of violence against your future self. Write the rollback first.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "migrations",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-database-migration-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rollback is not a failure. Rollback is a feature. Use it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "rollback",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-rollback-is-not-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best teams are the ones where everyone feels safe to fail. Psychological safety is the ultimate team metric.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "team",
+        "safety"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-teams-are",
+      "source": "Community sourced"
+    }
+  ]
+}

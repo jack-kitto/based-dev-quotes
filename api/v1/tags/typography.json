@@ -1,0 +1,38 @@
+{
+  "tag": "typography",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Typography is 95% of design. The other 5% is making sure the typography doesn't suck.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "fundamentals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-typography-is-95-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your typography should carry the design. If you need heavy graphics to make it work, the typography failed.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "typography",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-typography-should-carry",
+      "source": "Community sourced"
+    }
+  ]
+}

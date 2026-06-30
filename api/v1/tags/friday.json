@@ -1,6 +1,6 @@
 {
   "tag": "friday",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "money-printer",
@@ -37,6 +37,23 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "Deploy on Friday if you want. Just don't deploy on Friday afternoon and then leave.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "deployment",
+        "friday"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-deploy-on-friday-if",
+      "source": "Community sourced"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "tag": "flow",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best design tools are the ones that disappear. When you're designing, you shouldn't be thinking about the tool.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "tools",
+        "flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-tools",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best IDE is the one that disappears. You shouldn't be thinking about the tool.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "engineering"
+      ],
+      "tags": [
+        "ide",
+        "flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-ide-is",
+      "source": "Community sourced"
+    }
+  ]
+}

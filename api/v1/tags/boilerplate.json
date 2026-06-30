@@ -1,0 +1,22 @@
+{
+  "tag": "boilerplate",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If you're writing boilerplate, you're not programming. You're typing. Find a better abstraction or a better language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "boilerplate",
+        "abstraction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-youre-writing-boilerplate",
+      "source": "Community sourced"
+    }
+  ]
+}

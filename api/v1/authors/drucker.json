@@ -1,0 +1,41 @@
+{
+  "author": "Peter Drucker",
+  "slug": "drucker",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Don't find customers for your product. Find products for your customers.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-focus",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-dont-find-customers-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-understanding",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-the-aim-of-marketing",
+      "source": "Community sourced"
+    }
+  ]
+}

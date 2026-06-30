@@ -1,0 +1,23 @@
+{
+  "tag": "fundraising",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Raising money is easy. Building something people want is hard. Most founders get these confused.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "fundraising",
+        "product-market-fit"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-raising-money-is-easy",
+      "source": "Community sourced"
+    }
+  ]
+}

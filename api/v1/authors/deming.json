@@ -1,0 +1,40 @@
+{
+  "author": "W. Edwards Deming",
+  "slug": "deming",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "design",
+        "results"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-every-system-is-perfectly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Without data, you're just another person with an opinion.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data",
+        "evidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-without-data-youre-just",
+      "source": "Community sourced"
+    }
+  ]
+}

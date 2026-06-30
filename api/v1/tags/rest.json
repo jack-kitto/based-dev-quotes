@@ -1,0 +1,71 @@
+{
+  "tag": "rest",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "Burnout isn't a badge of honor. It's a sign you're doing something wrong. Rest is productive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "burnout",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-a-badge",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rest is not the opposite of work. It's the foundation of it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "rest",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-rest-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "REST APIs are just CRUD with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "api",
+        "rest"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rest-apis-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best debugging tool is a good night's sleep. Most bugs look obvious in the morning.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "debugging",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-debugging-tool",
+      "source": "Community sourced"
+    }
+  ]
+}

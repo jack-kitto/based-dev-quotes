@@ -1,0 +1,38 @@
+{
+  "tag": "bug-reports",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The user who submits a bug report with screenshots and steps to reproduce is worth their weight in gold.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users"
+      ],
+      "tags": [
+        "bug-reports",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-user-who-submits",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best bug reports are the ones that include steps to reproduce. The worst are 'it doesn't work.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "bug-reports",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-bug-reports",
+      "source": "Community sourced"
+    }
+  ]
+}

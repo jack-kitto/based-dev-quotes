@@ -1,0 +1,23 @@
+{
+  "author": "William James",
+  "slug": "james",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The art of being wise is the art of knowing what to overlook.",
+      "author": "William James",
+      "author_slug": "james",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "james-the-art-of-being",
+      "source": "Community sourced"
+    }
+  ]
+}

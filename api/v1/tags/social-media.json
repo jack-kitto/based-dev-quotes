@@ -1,0 +1,39 @@
+{
+  "tag": "social-media",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Social media marketing is just shouting into the void and occasionally the void shouts back.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "social-media",
+        "shouting"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-social-media-marketing-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your LinkedIn feed is just Twitter for people who think they're too professional for Twitter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "shitpost"
+      ],
+      "tags": [
+        "linkedin",
+        "social-media"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-linkedin-feed-is",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "incentives",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your customer's success is your success. Align incentives and everyone wins.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "customer-success",
+        "incentives"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-customers-success-is",
+      "source": "Community sourced"
+    }
+  ]
+}

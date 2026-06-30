@@ -1,6 +1,6 @@
 {
   "tag": "profit",
-  "count": 1,
+  "count": 4,
   "quotes": [
     {
       "id": "revenue-vanity-profit-sanity",
@@ -19,6 +19,54 @@
       ],
       "grug_level": 3,
       "spiciness": 1
+    },
+    {
+      "text": "Growing revenue is easy. Growing profit is hard. Growing both is rare.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "revenue",
+        "profit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-growing-revenue-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every business should have a simple rule: if it doesn't make money, don't do it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-business-should-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to increase profit is to decrease waste. Not to increase revenue.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "profit",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-728",
+      "source": "Community sourced"
     }
   ]
 }

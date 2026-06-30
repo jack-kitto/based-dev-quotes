@@ -1,0 +1,55 @@
+{
+  "tag": "demo",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best SaaS demos are 5 minutes long. If yours is 30 minutes, your product is too complex.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "demo",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-demos",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best sales pitch is a product demo that sells itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "demo"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-sales-pitch",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to market a SaaS is to show it working. Not tell people about it. Show them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "demo",
+        "showing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-1040",
+      "source": "Community sourced"
+    }
+  ]
+}

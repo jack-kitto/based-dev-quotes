@@ -1,0 +1,54 @@
+{
+  "tag": "systems",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best time to systematize is when you're small. Systems built under pressure are always worse.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "systems",
+        "scaling"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-599",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to create systems is before you need them. The second best time is when you're drowning in chaos.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "systems",
+        "proactive"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-604",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your indie business should run without you eventually. Build systems, not tasks.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "automation",
+        "systems"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-business-should-1063",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tag": "version-control",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Design tokens aren't a trend. They're what happens when designers finally learn version control.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-tokens",
+        "version-control"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-design-tokens-arent-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Git is the best version control system. That's not saying much, but it's still true.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "git",
+        "version-control"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-git-is-the-best",
+      "source": "Community sourced"
+    }
+  ]
+}

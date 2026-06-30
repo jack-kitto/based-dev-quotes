@@ -1,0 +1,22 @@
+{
+  "tag": "savings",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The best time to save money is when you have it. The worst time is when you need it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "savings",
+        "preparation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-time-to-730",
+      "source": "Community sourced"
+    }
+  ]
+}

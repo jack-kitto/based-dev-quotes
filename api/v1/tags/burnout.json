@@ -1,0 +1,55 @@
+{
+  "tag": "burnout",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "Burnout isn't caused by working too hard. It's caused by working too hard on things that don't matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "burnout",
+        "meaning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-caused-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Hustle culture is just exploitation with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "hustle",
+        "burnout"
+      ],
+      "grug_level": 4,
+      "spiciness": 5,
+      "id": "based-hustle-culture-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Burnout isn't a badge of honor. It's a sign you're doing something wrong. Rest is productive.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "burnout",
+        "rest"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-a-badge",
+      "source": "Community sourced"
+    }
+  ]
+}

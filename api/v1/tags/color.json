@@ -1,0 +1,71 @@
+{
+  "tag": "color",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "If your color palette is more than 4 colors, you're decorating, not designing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette for a SaaS is your brand color plus gray. Everything else is decoration.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "color",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best color palette is the one that's invisible. The content should be the hero.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "content"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-color-palette-692",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product's color system should have 3 primary colors. One for action, one for success, one for danger. Everything else is secondary.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "color",
+        "system"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-products-color-system",
+      "source": "Community sourced"
+    }
+  ]
+}

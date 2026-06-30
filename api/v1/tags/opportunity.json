@@ -1,0 +1,38 @@
+{
+  "tag": "opportunity",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best entrepreneurs are the ones who can see opportunities where others see problems.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "entrepreneur"
+      ],
+      "tags": [
+        "opportunity",
+        "perception"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-entrepreneurs-are-955",
+      "source": "Community sourced"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "difficulty",
+        "opportunity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-in-the-middle-of",
+      "source": "Community sourced"
+    }
+  ]
+}

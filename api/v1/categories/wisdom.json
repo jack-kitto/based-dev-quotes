@@ -1,6 +1,6 @@
 {
   "category": "wisdom",
-  "count": 58,
+  "count": 176,
   "quotes": [
     {
       "id": "grug-refactor",
@@ -1048,6 +1048,1989 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "Good design is as little design as possible. Less, but better.",
+      "author": "Dieter Rams",
+      "author_slug": "rams",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "rams-good-design-is-as",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+      "author": "Tom Cargill",
+      "author_slug": "cargill",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "estimation",
+        "reality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cargill-the-first-90-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "programming"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-if-debugging-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Premature optimization is the root of all evil. But premature abstraction is the root of all suffering.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "optimization",
+        "abstraction"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-premature-optimization-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A 10x developer isn't someone who codes 10x faster. It's someone who creates 10x less work for everyone else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "10x",
+        "teamwork"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-a-10x-developer-isnt",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The worst part about being a senior developer isn't the complexity. It's knowing that the simple solution you proposed was right all along.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "senior",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-worst-part-about",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Rewriting from scratch is always tempting. It's also always a terrible idea. But you won't believe me until you've done it yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "rewrite",
+        "experience"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rewriting-from-scratch-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-every-good-abstraction-starts",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code that's easy to delete is better than code that's easy to write.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "deletion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-code-thats-easy-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code is no code at all. Every line of code is a liability.",
+      "author": "Jeff Atwood",
+      "author_slug": "atwood",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "less-code"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "atwood-the-best-code-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is a prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-simplicity-is-a-prerequisite",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch",
+      "author_slug": "booch",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "abstraction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "booch-the-function-of-good",
+      "source": "Community sourced"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "author_slug": "johnson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "problem-solving",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "johnson-first-solve-the-problem",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "author_slug": "fowler",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "fowler-any-fool-can-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+      "author": "Grace Hopper",
+      "author_slug": "hopper",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "tradition"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "hopper-the-most-dangerous-phrase",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to refactor is when the code is fresh in your mind. The worst time is when you're debugging a production incident at 3 AM.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "timing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-211",
+      "source": "Community sourced"
+    },
+    {
+      "text": "You can't refactor what you can't read. You can't read what you can't understand. Start there.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "refactoring",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-you-cant-refactor-what",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The difference between a senior and a junior dev isn't knowledge. It's knowing which shortcuts will haunt you later.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "experience",
+        "shortcuts"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers aren't the ones who write the most code. They're the ones who delete the most code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Naming things is easy. Naming things well is a skill. Naming things in a way that still makes sense 2 years later is a superpower.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "naming",
+        "maintainability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-naming-things-is-easy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best architects are the ones who can draw boundaries, not the ones who can draw boxes.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "architecture",
+        "boundaries"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-architects-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most expensive part of software isn't the code. It's the maintenance. Plan for it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "maintenance",
+        "cost"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-most-expensive-part",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The worst kind of technical debt is the kind you don't know you have.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tech-debt",
+        "hidden"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-worst-kind-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Paul J. Meyer",
+      "author_slug": "meyer",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "planning",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "meyer-productivity-is-never-an",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Stephen Covey",
+      "author_slug": "covey",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "covey-the-key-is-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Productivity is doing more of what matters. Not doing more things.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "priorities"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-productivity-is-doing-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't the ones who do the most. They're the ones who say no the most.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "saying-no"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your calendar is full, you're not productive. You're just busy. There's a difference.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "calendar",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-calendar-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Batch your shallow work. Protect your deep work. Ignore everything else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "deep-work",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-batch-your-shallow-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get something done is to begin. Not to plan. Not to research. Not to optimize. Begin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "action",
+        "beginning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Burnout isn't caused by working too hard. It's caused by working too hard on things that don't matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "burnout",
+        "meaning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-burnout-isnt-caused-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Done is better than perfect. But also: good is better than done-but-broken.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "shipping",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-done-is-better-than",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Time management is really just priority management. If everything is a priority, nothing is.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "priorities",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-time-management-is-really",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "meta",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-real-productivity-hack",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "cash-flow"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-vanity-profit",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your first release, you launched too late.",
+      "author": "Reid Hoffman",
+      "author_slug": "hoffman",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "mvp",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoffman-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Don't find customers for your product. Find products for your customers.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-focus",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-dont-find-customers-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Vision without execution is hallucination.",
+      "author": "Thomas Edison",
+      "author_slug": "edison",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "execution",
+        "vision"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "edison-vision-without-execution-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Scarcity creates value. If everyone can do what you do, you're competing on price. If nobody can, you're competing on nothing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "scarcity",
+        "differentiation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-scarcity-creates-value-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Compounding works for businesses the same way it works for interest. Small, consistent improvements beat moonshot pivots every time.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "compounding",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-compounding-works-for-businesses",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-understanding",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-the-aim-of-marketing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing strategy is having a product people actually want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "product",
+        "virality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best SaaS moat isn't technology. It's habit. Make yourself part of their daily workflow and you're unmovable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "wisdom"
+      ],
+      "tags": [
+        "moat",
+        "habit"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-saas-moat",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The customer is always right about the problem. They're almost always wrong about the solution.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "wisdom"
+      ],
+      "tags": [
+        "customers",
+        "solutions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-customer-is-always",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best code you'll ever write is the code you delete.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-code-youll",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "functions",
+        "single-responsibility"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-a-function-that-does",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Write code as if the person maintaining it is a violent psychopath who knows where you live.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "maintenance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-write-code-as-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best developers aren't the ones who write the most clever code. They're the ones who write the most boring code that works.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "boring-code",
+        "reliability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-developers-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your code is a love letter to the future developer who maintains it. Write it like you care about their mental health.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "empathy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-code-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue doesn't lie. Everything else might.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-doesnt-lie-everything",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to get more done is to stop doing things that don't matter. It sounds obvious. It isn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "elimination"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-427",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Discipline is choosing between what you want now and what you want most. Most people choose now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "discipline",
+        "delayed-gratification"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-discipline-is-choosing-between",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time management trick is realizing you can't manage time. You can only manage yourself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "time-management",
+        "self-management"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-management",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers write the fewest lines of code. The worst engineers write the most features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "efficiency",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "code-quality",
+        "boy-scout"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-leave",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't write more code. They write less code that does more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "leverage",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont-471",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to improve your code is to delete half of it. Then delete half again.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "deletion",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-473",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who make other engineers better. Write code that teaches.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "mentorship",
+        "code-quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every line of code is a liability. Every feature is a bet. Every deploy is a risk. Ship accordingly.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "risk",
+        "shipping"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-line-of-code",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are lazy in the right ways: lazy about doing things twice, not lazy about doing things right.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "laziness",
+        "efficiency"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are-479",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best career advice is: nobody is coming to save you. You have to build your own thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "self-reliance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-career-advice",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first job teaches you skills. Your second teaches you politics. Your third teaches you which one matters more.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "career",
+        "politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-first-job-teaches",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "growth",
+        "improvement"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-youre-not-embarrassed",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Most business advice is survivorship bias. The successful founders tell you what worked. The failed ones knew what didn't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "advice",
+        "bias"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-most-business-advice-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing is a product that sells itself. The second best is a customer who sells it for you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "product",
+        "referrals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-is-513",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Knowledge is power. Applied knowledge is superpower. Hoarded knowledge is a hoarder.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "knowledge",
+        "application"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-knowledge-is-power-applied",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most productive people aren't busy. They're focused. Busy is noise. Focus is signal.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "focus",
+        "busyness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-most-productive-people-581",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best productivity hack is caring deeply about what you're working on. Everything else is optimization.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "passion",
+        "intrinsic-motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-productivity-hack-585",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your future self is a stranger you're building a life for. Be kind to them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "future-self",
+        "planning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-your-future-self-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers know that premature abstraction is worse than premature optimization.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "abstraction",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-know",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers don't just write code. They write the tools that help others write code.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "tools",
+        "leverage"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-dont-631",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers know the difference between clever code and clear code. They choose clear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "clarity",
+        "cleverness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-know-635",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "wisdom",
+        "design"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupéry",
+      "author_slug": "saint-exupery",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "simplicity",
+        "perfection"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "saint-exupery-perfection-is-achieved-not",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best is the enemy of the good.",
+      "author": "Voltaire",
+      "author_slug": "voltaire",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "perfectionism",
+        "good-enough"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "voltaire-the-best-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck",
+      "author_slug": "beck",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "process",
+        "optimization"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "beck-make-it-work-make",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only way to go fast is to go well.",
+      "author": "Robert C. Martin",
+      "author_slug": "martin",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "speed",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "martin-the-only-way-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "author_slug": "abelson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "abelson-programs-must-be-written",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The purpose of software engineering is to control complexity, not to create it.",
+      "author": "Barbara Liskov",
+      "author_slug": "liskov",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "control"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "liskov-the-purpose-of-software",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity does not precede complexity, but follows it.",
+      "author": "Alan Perlis",
+      "author_slug": "perlis",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "complexity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "perlis-simplicity-does-not-precede",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates",
+      "author_slug": "gates",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "metrics",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "gates-measuring-programming-progress-by",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare",
+      "author_slug": "hoare",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "intention",
+        "purpose"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "hoare-the-most-important-property",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Worse is better.",
+      "author": "Richard P. Gabriel",
+      "author_slug": "gabriel",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "gabriel-worse-is-better",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan",
+      "author_slug": "kernighan",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "complexity",
+        "essence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "kernighan-controlling-complexity-is-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you can't explain it simply, you don't understand it well enough.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-if-you-cant-explain",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who know what not to build.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "discipline",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are-714",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "design",
+        "results"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-every-system-is-perfectly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Money follows value. Create enough value and the money will come.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "value",
+        "money"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-money-follows-value-create",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best engineers are the ones who can debug without looking at the code. They understand the system, not just the syntax.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-engineers-are-783",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to prevent bugs is to write simple code. Simple code has fewer places to hide bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "bugs"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-787",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Without data, you're just another person with an opinion.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "data",
+        "evidence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-without-data-youre-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Failure is not the opposite of success. It's part of it.",
+      "author": "Arianna Huffington",
+      "author_slug": "huffington",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "success"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "huffington-failure-is-not-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The biggest risk is not taking any risk.",
+      "author": "Mark Zuckerberg",
+      "author_slug": "zuckerberg",
+      "categories": [
+        "wisdom",
+        "business"
+      ],
+      "tags": [
+        "risk",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "zuckerberg-the-biggest-risk-is-850",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every mistake is a lesson. Every lesson makes you better. Fail fast, learn faster.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-mistake-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to learn is to fail. The second best is to learn from someone else's failure.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-852",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your biggest growth comes from your biggest failures. Embrace them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "failure",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-biggest-growth-comes",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only real mistake is the one from which we learn nothing.",
+      "author": "Henry Ford",
+      "author_slug": "ford",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "mistakes",
+        "learning"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "ford-the-only-real-mistake",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-stumbling-from",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only time success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon",
+      "author_slug": "sassoon",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "work"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sassoon-the-only-time-success",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "creativity",
+        "connections"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-creativity-is-just-connecting",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Innovation is saying no to a thousand things.",
+      "author": "Steve Jobs",
+      "author_slug": "jobs",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "innovation",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jobs-innovation-is-saying-no",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Less is more.",
+      "author": "Ludwig Mies van der Rohe",
+      "author_slug": "mies",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "minimalism",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "mies-less-is-more",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Simplicity is the ultimate form of sophistication.",
+      "author": "Leonardo da Vinci",
+      "author_slug": "davinci",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "davinci-simplicity-is-the-ultimate-907",
+      "source": "Community sourced"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant",
+      "author_slug": "durant",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "habits",
+        "excellence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "durant-we-are-what-we",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "author_slug": "roosevelt",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "doubt",
+        "potential"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "roosevelt-the-only-limit-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "difficulty",
+        "opportunity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-in-the-middle-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "author_slug": "thoreau",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "busyness"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "thoreau-success-usually-comes-to",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "author_slug": "disney",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "action",
+        "starting"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "disney-the-way-to-get",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "author_slug": "levenson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "action"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "levenson-dont-watch-the-clock",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "author_slug": "sinatra",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "success",
+        "motivation"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "sinatra-the-best-revenge-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "author_slug": "jefferson",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "work",
+        "luck"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "jefferson-i-find-that-the",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "author_slug": "churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "courage",
+        "persistence"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "churchill-success-is-not-final",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "author_slug": "confucius",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "persistence",
+        "progress"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "confucius-it-does-not-matter",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The art of being wise is the art of knowing what to overlook.",
+      "author": "William James",
+      "author_slug": "james",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "james-the-art-of-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The simplest solution is almost always the best one.",
+      "author": "Sherlock Holmes",
+      "author_slug": "holmes",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "solutions"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "holmes-the-simplest-solution-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Everything should be made as simple as possible, but not simpler.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "balance"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-everything-should-be-made",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design is the simplest one that works.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-the-best-design-is",
+      "source": "Community sourced"
     }
   ]
 }

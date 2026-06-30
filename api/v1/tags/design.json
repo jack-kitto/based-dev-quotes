@@ -1,6 +1,6 @@
 {
   "tag": "design",
-  "count": 7,
+  "count": 11,
   "quotes": [
     {
       "id": "hoare-two-ways",
@@ -122,6 +122,72 @@
       ],
       "grug_level": 3,
       "spiciness": 2
+    },
+    {
+      "text": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "author_slug": "deming",
+      "categories": [
+        "wisdom",
+        "engineering"
+      ],
+      "tags": [
+        "design",
+        "results"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "deming-every-system-is-perfectly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best products are the ones that feel inevitable. Not designed. inevitable.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "product"
+      ],
+      "tags": [
+        "design",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-products-are",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your daily routine is your life in miniature. Design it intentionally.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "routine",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-daily-routine-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design is the simplest one that works.",
+      "author": "Albert Einstein",
+      "author_slug": "einstein",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "design"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "einstein-the-best-design-is",
+      "source": "Community sourced"
     }
   ]
 }

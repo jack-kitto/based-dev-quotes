@@ -1,6 +1,6 @@
 {
   "category": "shitpost",
-  "count": 20,
+  "count": 59,
   "quotes": [
     {
       "id": "grug-type-system",
@@ -378,6 +378,672 @@
       ],
       "grug_level": 5,
       "spiciness": 4
+    },
+    {
+      "text": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+      "author": "Leon Bambrick",
+      "author_slug": "bambrick",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "classic",
+        "off-by-one"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "bambrick-there-are-two-hard",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It works on my machine. Ship my machine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "docker",
+        "deployment"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-it-works-on-my",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I don't have a backup plan. I have 'recreate it worse from memory' plan.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "disaster-recovery",
+        "backups"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-i-dont-have-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "sql",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-a-sql-query-walks",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There are 10 types of people in the world: those who understand binary and those who don't. And those who expected base-3.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "binary",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-there-are-10-types",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The code works. Don't touch it. I don't know why it works. Don't ask.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "cargo-cult"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-code-works-dont",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every Junior Dev: 'I'll just use a regex for this.' Every Senior Dev: 'I'll just use a regex for this.' Every Staff Dev: 'I'll just use a regex for this.' None of them have learned.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "regex",
+        "learning"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "id": "based-every-junior-dev-ill",
+      "source": "Community sourced"
+    },
+    {
+      "text": "TypeScript is just JavaScript wearing a trench coat and fake mustache pretending to be a serious language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-typescript-is-just-javascript",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every codebase is one junior dev away from a complete rewrite.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "junior",
+        "rewrite"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-every-codebase-is-one",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Kubernetes is what happens when sysadmins get bored and decide to turn 'turn it off and on again' into a distributed system.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops",
+        "shitpost"
+      ],
+      "tags": [
+        "kubernetes",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-kubernetes-is-what-happens",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The lean startup method is just the scientific method for people who failed biology.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur",
+        "shitpost"
+      ],
+      "tags": [
+        "lean-startup",
+        "methodology"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-lean-startup-method",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Email marketing: because you need a way to annoy people who already told you they're not interested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "shitpost"
+      ],
+      "tags": [
+        "email",
+        "annoyance"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-email-marketing-because-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Growth hacking is just marketing with a better haircut.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "shitpost"
+      ],
+      "tags": [
+        "growth-hacking",
+        "marketing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-growth-hacking-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker",
+        "saas",
+        "shitpost"
+      ],
+      "tags": [
+        "terminology",
+        "reality"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-saying-im-building-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Requirements are like nose hair: everyone has them, nobody wants to see them, and they keep growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "shitpost"
+      ],
+      "tags": [
+        "requirements",
+        "scope"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-requirements-are-like-nose",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every time you copy-paste code, a unit test dies.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "copy-paste",
+        "testing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-time-you-copypaste",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is like being a detective in a crime movie where you're also the suspect.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-debugging-is-like-being",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "legacy",
+        "fear"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-if-your-code-works",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-every-programmer-has-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Capitalism is just supply and demand with better branding.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "shitpost"
+      ],
+      "tags": [
+        "capitalism",
+        "economics"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-capitalism-is-just-supply",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Every design is a wireframe until someone puts a gradient on it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "shitpost"
+      ],
+      "tags": [
+        "wireframe",
+        "gradients"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-every-design-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your LinkedIn feed is just Twitter for people who think they're too professional for Twitter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "shitpost"
+      ],
+      "tags": [
+        "linkedin",
+        "social-media"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-linkedin-feed-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "REST APIs are just CRUD with better marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "api",
+        "rest"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-rest-apis-are-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Debugging is detective work. You look for clues, form theories, and test them. Sometimes the culprit is you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "self-awareness"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-debugging-is-detective-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "My code doesn't have bugs. It has 'random features.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "humor"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-my-code-doesnt-have",
+      "source": "Community sourced"
+    },
+    {
+      "text": "I don't always test my code, but when I do, I do it in production.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "testing",
+        "production"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-i-dont-always-test",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code never lies. Comments sometimes do.",
+      "author": "Ron Jeffries",
+      "author_slug": "jeffries",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "comments",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "jeffries-code-never-lies-comments",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There are only 10 types of people in the world: those who understand binary and those who don't.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "binary",
+        "jokes"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-there-are-only-10",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A programmer's wife tells him: 'Go to the store and buy a loaf of bread. If they have eggs, buy a dozen.' He comes home with 12 loaves.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "logic",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-a-programmers-wife-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "dark-mode",
+        "bugs"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-programmers-prefer",
+      "source": "Community sourced"
+    },
+    {
+      "text": "What's the object-oriented way to become wealthy? Inheritance.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "oop",
+        "wealth"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-whats-the-objectoriented-way",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Why do Java developers wear glasses? Because they can't C#.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "java",
+        "csharp"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-why-do-java-developers",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rick Cook",
+      "author_slug": "cook",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "idiots",
+        "universe"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "cook-programming-today-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "boolean",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-the-best-thing-about-876",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Hardware: the parts of a computer system that can be kicked.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "hardware",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-hardware-the-parts-of",
+      "source": "Community sourced"
+    },
+    {
+      "text": "There's no place like 127.0.0.1.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "localhost",
+        "home"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "based-theres-no-place-like",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The Internet? Is that thing still around?",
+      "author": "Homer Simpson",
+      "author_slug": "simpson",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "internet",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "simpson-the-internet-is-that",
+      "source": "Community sourced"
+    },
+    {
+      "text": "It's not a bug. It's an undocumented feature.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "bugs",
+        "features"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-its-not-a-bug",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Have you tried turning it off and on again?",
+      "author": "Roy (IT Crowd)",
+      "author_slug": "it-crowd",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "debugging",
+        "classic"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "id": "it-crowd-have-you-tried-turning",
+      "source": "Community sourced"
     }
   ]
 }

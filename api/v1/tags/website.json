@@ -1,0 +1,22 @@
+{
+  "tag": "website",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your website isn't a brochure. It's a salesperson. If it can't close, rebuild it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "website",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-website-isnt-a",
+      "source": "Community sourced"
+    }
+  ]
+}

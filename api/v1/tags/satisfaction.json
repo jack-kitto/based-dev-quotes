@@ -1,0 +1,87 @@
+{
+  "tag": "satisfaction",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best way to get rich is to solve a problem so well that people tell their friends about it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "wealth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-597",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to grow an indie business is to make your existing customers happier. New customers come from happy ones.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-666",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If your users aren't inviting others, your product isn't good enough. Viral growth starts with genuine satisfaction.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "virality",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-your-users-arent",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Revenue is a lagging indicator. Customer satisfaction is a leading indicator. Measure both.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "metrics",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-is-a-lagging",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth comes from solving a problem so well that people tell their friends.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "satisfaction"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-comes",
+      "source": "Community sourced"
+    }
+  ]
+}

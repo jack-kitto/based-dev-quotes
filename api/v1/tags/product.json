@@ -1,0 +1,289 @@
+{
+  "tag": "product",
+  "count": 17,
+  "quotes": [
+    {
+      "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "tags": [
+        "ab-testing",
+        "product"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-ab-testing-is-how",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Don't find customers for your product. Find products for your customers.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-focus",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-dont-find-customers-for",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+      "author": "Peter Drucker",
+      "author_slug": "drucker",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "customer-understanding",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "drucker-the-aim-of-marketing",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing strategy is having a product people actually want to tell their friends about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "product",
+        "virality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "distribution",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-tech-stack-matters",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing is a product that sells itself. The second best is a customer who sells it for you.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "wisdom"
+      ],
+      "tags": [
+        "product",
+        "referrals"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-is-513",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product should be good enough to sell itself. If it isn't, fix the product, not the marketing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "product"
+      ],
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing strategy is to make your product so good that people can't shut up about it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "product",
+        "word-of-mouth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-strategy-607",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product is your resume. Build something people want to talk about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "product",
+        "portfolio"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-is-your",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best businesses are the ones where the customer doesn't know they're paying for marketing. The marketing IS the product.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "marketing",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-businesses-are-731",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "churn",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-churn-rate-tells",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your best sales channel is word of mouth. Build a product people can't shut up about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "marketing"
+      ],
+      "tags": [
+        "word-of-mouth",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-best-sales-channel",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to handle objections is to not have them in the first place. Build a product so good it sells itself.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "objections",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-817",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best marketing strategy is to make something worth talking about.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "product",
+        "word-of-mouth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-marketing-strategy-945",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product is your best marketing tool. If it's good, people will talk about it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "product",
+        "advocacy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-is-your-946",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best growth strategy is to make your product so good that marketing is optional.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "growth",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-growth-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best customer success strategy is to build a product so good that customers never need help.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "saas"
+      ],
+      "tags": [
+        "customer-success",
+        "product"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-customer-success",
+      "source": "Community sourced"
+    }
+  ]
+}

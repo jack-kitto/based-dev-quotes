@@ -1,18 +1,18 @@
 {
-  "id": "torvalds-talk-is-cheap",
-  "text": "Talk is cheap. Show me the code.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "Linux Kernel Mailing List, 2000",
+  "id": "hickey-simple-easy",
+  "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Simple Made Easy, Strange Loop 2011",
   "categories": [
-    "shipping",
-    "wisdom"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "shipping",
-    "action",
-    "classic"
+    "simplicity",
+    "complexity",
+    "design"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1
 }

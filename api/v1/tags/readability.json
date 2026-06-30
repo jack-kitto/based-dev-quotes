@@ -1,0 +1,106 @@
+{
+  "tag": "readability",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "The only valid measurement of code quality is how many times you have to read it to understand it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-quality",
+        "readability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-only-valid-measurement",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "author_slug": "fowler",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "fowler-any-fool-can-write",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Write code as if the person maintaining it is a violent psychopath who knows where you live.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "maintenance"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-write-code-as-if",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your code is a love letter to the future developer who maintains it. Write it like you care about their mental health.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "empathy"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-code-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "author_slug": "abelson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "abelson-programs-must-be-written",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best content is the content that's easy to consume. Short paragraphs. Clear headings. Simple language.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "content",
+        "readability"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-content-is-901",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "author": "Harold Abelson",
+  "slug": "abelson",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "author_slug": "abelson",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "readability",
+        "clarity"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "abelson-programs-must-be-written",
+      "source": "Community sourced"
+    }
+  ]
+}

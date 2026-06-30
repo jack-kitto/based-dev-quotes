@@ -1,0 +1,22 @@
+{
+  "tag": "sketching",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The most underrated design tool is a napkin. The most overrated is Figma.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "sketching",
+        "tools"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-most-underrated-design",
+      "source": "Community sourced"
+    }
+  ]
+}

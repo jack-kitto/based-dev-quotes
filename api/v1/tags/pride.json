@@ -1,0 +1,22 @@
+{
+  "tag": "pride",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "pride",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-indie-project-should-1066",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "hat-wearing",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Indie hacking is just freelancing with equity. Both involve wearing 47 hats. The equity part is just hope in disguise.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "indie-hacker"
+      ],
+      "tags": [
+        "freelancing",
+        "hat-wearing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-indie-hacking-is-just",
+      "source": "Community sourced"
+    }
+  ]
+}

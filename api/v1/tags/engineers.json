@@ -1,0 +1,22 @@
+{
+  "tag": "engineers",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The hardest part of building a business isn't the technology. It's the selling. Most engineers would rather write code than talk to humans.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "sales",
+        "engineers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-hardest-part-of",
+      "source": "Community sourced"
+    }
+  ]
+}

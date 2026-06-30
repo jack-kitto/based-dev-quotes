@@ -1,0 +1,151 @@
+{
+  "tag": "conversion",
+  "count": 9,
+  "quotes": [
+    {
+      "text": "A funnel is just a polite way of saying 'we lose most of our customers at each step.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "funnel",
+        "conversion"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-a-funnel-is-just",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best landing page converts at 5%. The average is 2%. Your landing page converts at 0.1% but you think it's 'fine.'",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "landing-page",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-landing-page",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your pricing page is the most important page on your site. It's where strangers decide if you're a real business.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "pricing",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-pricing-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-freemium-is-a-strategy",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your free trial exists to sell itself. If it doesn't convert within 14 days, it never will.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "free-trial",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-free-trial-exists",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your checkout page is where money goes to die if you add friction. Every extra field costs you 10% of conversions.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "saas"
+      ],
+      "tags": [
+        "checkout",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-checkout-page-is",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your website isn't a brochure. It's a salesperson. If it can't close, rebuild it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "website",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-website-isnt-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "forms",
+        "conversion"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-a-form-with-3",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to convert free users to paid is to make the free version so good they feel guilty not paying.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas"
+      ],
+      "tags": [
+        "freemium",
+        "conversion"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-way-to-1042",
+      "source": "Community sourced"
+    }
+  ]
+}

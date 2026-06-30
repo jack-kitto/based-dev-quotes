@@ -1,0 +1,24 @@
+{
+  "author": "Dieter Rams",
+  "slug": "rams",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Good design is as little design as possible. Less, but better.",
+      "author": "Dieter Rams",
+      "author_slug": "rams",
+      "categories": [
+        "design",
+        "wisdom"
+      ],
+      "tags": [
+        "simplicity",
+        "minimalism"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "rams-good-design-is-as",
+      "source": "Community sourced"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tag": "first-principles",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "First principles thinking sounds profound until you realize it's just 'ask why' without the philosophy degree.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "entrepreneur"
+      ],
+      "tags": [
+        "first-principles",
+        "thinking"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-first-principles-thinking-sounds",
+      "source": "Community sourced"
+    }
+  ]
+}

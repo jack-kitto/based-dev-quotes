@@ -1,6 +1,6 @@
 {
   "tag": "users",
-  "count": 1,
+  "count": 3,
   "quotes": [
     {
       "id": "users-find-way",
@@ -19,6 +19,40 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "If you ask users what they want, they'll say a faster horse. Your job is to build the car.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "users",
+        "innovation"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-if-you-ask-users",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your product roadmap should be based on user needs, not competitor features.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "roadmap",
+        "users"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-product-roadmap-should",
+      "source": "Community sourced"
     }
   ]
 }

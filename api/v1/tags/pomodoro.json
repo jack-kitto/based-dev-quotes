@@ -1,0 +1,22 @@
+{
+  "tag": "pomodoro",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The Pomodoro Technique is great until you enter flow state and your timer interrupts you to take a break you didn't need.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "pomodoro",
+        "flow-state"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-pomodoro-technique-is",
+      "source": "Community sourced"
+    }
+  ]
+}

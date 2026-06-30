@@ -1,6 +1,6 @@
 {
   "tag": "containers",
-  "count": 2,
+  "count": 5,
   "quotes": [
     {
       "id": "works-on-my-machine",
@@ -37,6 +37,57 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "Kubernetes is what happens when sysadmins get bored and decide to turn 'turn it off and on again' into a distributed system.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops",
+        "shitpost"
+      ],
+      "tags": [
+        "kubernetes",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-kubernetes-is-what-happens",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Docker: because 'it works on my machine' stopped being acceptable. Now it works on everyone's machine but nobody understands why.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "docker",
+        "containers"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-docker-because-it-works",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Docker is just a fancy way of saying 'it works on my machine' and then shipping your machine.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "docker",
+        "containers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-docker-is-just-a",
+      "source": "Community sourced"
     }
   ]
 }

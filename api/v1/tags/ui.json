@@ -1,0 +1,23 @@
+{
+  "tag": "ui",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The user interface is the product. Everything behind it is infrastructure nobody asked for.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design",
+        "product"
+      ],
+      "tags": [
+        "ui",
+        "ux"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-user-interface-is",
+      "source": "Community sourced"
+    }
+  ]
+}

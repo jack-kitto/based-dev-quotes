@@ -1,0 +1,23 @@
+{
+  "tag": "margin",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The difference between a side project and a business is revenue. The difference between a business and a sustainable business is margin.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "indie-hacker"
+      ],
+      "tags": [
+        "revenue",
+        "margin"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-difference-between-a-416",
+      "source": "Community sourced"
+    }
+  ]
+}

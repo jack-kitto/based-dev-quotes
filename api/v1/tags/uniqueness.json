@@ -1,0 +1,38 @@
+{
+  "tag": "uniqueness",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The best way to beat competition is to not have any. Build something so unique that there's nothing to compare it to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "competition",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-602",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your growth strategy should be unique to your business. Copying others' strategies is a recipe for mediocrity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "growth",
+        "uniqueness"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-growth-strategy-should",
+      "source": "Community sourced"
+    }
+  ]
+}

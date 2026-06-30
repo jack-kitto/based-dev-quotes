@@ -1,0 +1,73 @@
+{
+  "tag": "requirements",
+  "count": 4,
+  "quotes": [
+    {
+      "text": "Requirements are like nose hair: everyone has them, nobody wants to see them, and they keep growing.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "shitpost"
+      ],
+      "tags": [
+        "requirements",
+        "scope"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-requirements-are-like-nose",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The problem with requirements is that they're written by people who don't have to implement them.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "engineering"
+      ],
+      "tags": [
+        "requirements",
+        "disconnect"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-problem-with-requirements",
+      "source": "Community sourced"
+    },
+    {
+      "text": "If you build exactly what the customer asked for, they'll complain it doesn't work the way they actually need it to.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "users",
+        "product"
+      ],
+      "tags": [
+        "requirements",
+        "expectations"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-if-you-build-exactly",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The only constant in software development is the changing of requirements.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "requirements",
+        "change"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-only-constant-in",
+      "source": "Community sourced"
+    }
+  ]
+}

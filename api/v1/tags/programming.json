@@ -1,0 +1,23 @@
+{
+  "tag": "programming",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger W. Dijkstra",
+      "author_slug": "dijkstra",
+      "categories": [
+        "engineering",
+        "wisdom"
+      ],
+      "tags": [
+        "debugging",
+        "programming"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "dijkstra-if-debugging-is-the",
+      "source": "Community sourced"
+    }
+  ]
+}

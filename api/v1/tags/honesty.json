@@ -1,0 +1,87 @@
+{
+  "tag": "honesty",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "The best code review comment is 'LGTM' after 0 seconds of review. The most honest is 'I'll look at this tomorrow' repeated 47 times.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "code-review",
+        "honesty"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-the-best-code-review",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your SLA should be honest. If you can't hit 99.9%, don't promise it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "engineering",
+        "devops"
+      ],
+      "tags": [
+        "sla",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-sla-should-be",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best team retrospectives are the ones where people actually say what they think. Not what they think the boss wants to hear.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "retrospective",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "id": "based-the-best-team-retrospectives",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to build trust is to be honest. Even when it hurts.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "trust",
+        "honesty"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "based-the-best-way-to-948",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your marketing should be as honest as your product. If it's not, you're building a house of cards.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "honesty",
+        "marketing"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-marketing-should-be-1039",
+      "source": "Community sourced"
+    }
+  ]
+}

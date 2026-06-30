@@ -1,6 +1,6 @@
 {
   "tag": "email",
-  "count": 1,
+  "count": 7,
   "quotes": [
     {
       "id": "meetings-email",
@@ -20,6 +20,104 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "Inbox Zero is a lie. The goal isn't zero emails. It's zero emails that matter.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "email",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-inbox-zero-is-a",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Email marketing: because you need a way to annoy people who already told you they're not interested.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing",
+        "shitpost"
+      ],
+      "tags": [
+        "email",
+        "annoyance"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "id": "based-email-marketing-because-you",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to build an email list was before you launched. The second best time is now. The worst time is never.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "audience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-309",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best time to start building an email list is before you have a product. The second best is now.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "audience"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-time-to-516",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your first 1000 email subscribers are the hardest to get. The next 9,000 are easier. Start collecting.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "growth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-first-1000-email",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your onboarding email sequence should feel like a helpful friend, not a desperate salesperson.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "saas",
+        "marketing"
+      ],
+      "tags": [
+        "email",
+        "onboarding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-onboarding-email-sequence",
+      "source": "Community sourced"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "tag": "design-systems",
+  "count": 3,
+  "quotes": [
+    {
+      "text": "The best design system is the one your team actually uses, not the one that wins awards on Dribbble.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-the-best-design-system",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your design system should fit in one file. If it doesn't, you've built a framework.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "id": "based-your-design-system-should",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best design systems are the ones that feel like they've always existed. Natural. Obvious. Invisible.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "design-systems",
+        "natural"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-design-systems",
+      "source": "Community sourced"
+    }
+  ]
+}

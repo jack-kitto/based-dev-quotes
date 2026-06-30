@@ -1,0 +1,103 @@
+{
+  "tag": "deep-work",
+  "count": 6,
+  "quotes": [
+    {
+      "text": "Batch your shallow work. Protect your deep work. Ignore everything else.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity",
+        "wisdom"
+      ],
+      "tags": [
+        "deep-work",
+        "focus"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-batch-your-shallow-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+      "author": "Cal Newport",
+      "author_slug": "newport",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "value"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "id": "newport-the-ability-to-perform",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Your most important work requires deep focus. Protect it like your life depends on it.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "protection"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-your-most-important-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best way to do deep work is to eliminate all distractions. Phone off. Slack closed. Door shut.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "distractions"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-way-to-993",
+      "source": "Community sourced"
+    },
+    {
+      "text": "The best deep work happens when you're well-rested, not when you're tired. Sleep is productivity.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "sleep"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-the-best-deep-work",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "productivity"
+      ],
+      "tags": [
+        "deep-work",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-deep-work-is-not",
+      "source": "Community sourced"
+    }
+  ]
+}

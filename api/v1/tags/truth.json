@@ -1,0 +1,40 @@
+{
+  "tag": "truth",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Revenue doesn't lie. Everything else might.",
+      "author": "based",
+      "author_slug": "based",
+      "categories": [
+        "business",
+        "wisdom"
+      ],
+      "tags": [
+        "revenue",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "based-revenue-doesnt-lie-everything",
+      "source": "Community sourced"
+    },
+    {
+      "text": "Code never lies. Comments sometimes do.",
+      "author": "Ron Jeffries",
+      "author_slug": "jeffries",
+      "categories": [
+        "engineering",
+        "shitpost"
+      ],
+      "tags": [
+        "comments",
+        "truth"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "id": "jeffries-code-never-lies-comments",
+      "source": "Community sourced"
+    }
+  ]
+}

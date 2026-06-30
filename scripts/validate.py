@@ -14,7 +14,9 @@ QUOTES_PATH = Path(__file__).parent.parent / 'quotes' / 'quotes.json'
 VALID_CATEGORIES = [
     'grug', 'suffering', 'indie-hacker', 'unix', 'debugging',
     'complexity', 'shipping', 'career', 'wisdom', 'shitpost',
-    'founder', 'tools', 'funny'
+    'founder', 'tools', 'funny', 'design', 'product', 'engineering',
+    'business', 'entrepreneur', 'marketing', 'saas', 'users',
+    'productivity', 'devops'
 ]
 
 
