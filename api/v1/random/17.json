@@ -1,18 +1,18 @@
 {
-  "id": "carmack-implementation",
-  "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
-  "author": "John Carmack",
-  "author_slug": "carmack",
-  "source": "Various interviews",
+  "id": "rubber-duck-debugging",
+  "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. Or yelling at a rubber duck.",
+  "author": "Unknown (extended from Kernighan)",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "shipping",
-    "wisdom"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "execution",
-    "implementation",
-    "ideas"
+    "rubber-duck",
+    "debugging",
+    "print-statements"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 5,
+  "spiciness": 1
 }

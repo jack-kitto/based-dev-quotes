@@ -1,19 +1,17 @@
 {
-  "id": "two-hard-things",
-  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
-  "author": "Unknown (based on Phil Karlton)",
-  "author_slug": "unknown",
-  "source": "Programming folklore / internet",
+  "text": "The best way to compete with big companies is to be faster, more personal, and more focused. You can't outspend them.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "shitpost"
+    "indie-hacker",
+    "business"
   ],
   "tags": [
-    "cache",
-    "naming",
-    "off-by-one",
-    "classic"
+    "competition",
+    "advantage"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-the-best-way-to-673",
+  "source": "Community sourced"
 }
