@@ -1,16 +1,16 @@
 {
-  "text": "Every framework is somebody's way of saying 'I disagree with how you write code' and then charging you for the privilege.",
+  "text": "The best design systems are the ones that feel like they've always existed. Natural. Obvious. Invisible.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design"
   ],
   "tags": [
-    "frameworks",
-    "opinion"
+    "design-systems",
+    "natural"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-every-framework-is-somebodys",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-design-systems",
   "source": "Community sourced"
 }

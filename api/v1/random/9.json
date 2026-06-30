@@ -1,17 +1,16 @@
 {
-  "text": "Your product roadmap should be based on user needs, not competitor features.",
+  "text": "The only constant in software development is the changing of requirements.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering"
   ],
   "tags": [
-    "roadmap",
-    "users"
+    "requirements",
+    "change"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-roadmap-should",
+  "spiciness": 1,
+  "id": "based-the-only-constant-in",
   "source": "Community sourced"
 }

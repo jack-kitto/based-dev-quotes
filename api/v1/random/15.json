@@ -1,16 +1,18 @@
 {
-  "text": "Every design trend is just the previous trend with different border-radius.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "torvalds-c-plus-plus",
+  "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+  "author": "Linus Torvalds",
+  "author_slug": "torvalds",
+  "source": "Git Mailing List, 2007",
   "categories": [
-    "design"
+    "shitpost",
+    "tools"
   ],
   "tags": [
-    "trends",
-    "shitpost"
+    "c++",
+    "languages",
+    "rant"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-design-trend-is",
-  "source": "Community sourced"
+  "spiciness": 5
 }

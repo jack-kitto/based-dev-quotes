@@ -1,17 +1,18 @@
 {
-  "text": "Money follows value. Create enough value and the money will come.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "code-comments-why",
+  "text": "Code tells you how. Comments tell you why. Git blame tells you who to be angry at.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "business",
-    "wisdom"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "value",
-    "money"
+    "comments",
+    "git",
+    "blame"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-money-follows-value-create",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

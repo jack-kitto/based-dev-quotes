@@ -1,16 +1,17 @@
 {
-  "text": "The best customer feedback comes from watching, not asking. Observations beat surveys.",
+  "text": "Your onboarding email sequence should feel like a helpful friend, not a desperate salesperson.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "customer-feedback",
-    "observation"
+    "email",
+    "onboarding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-customer-feedback",
+  "id": "based-your-onboarding-email-sequence",
   "source": "Community sourced"
 }

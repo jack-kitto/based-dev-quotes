@@ -1,17 +1,17 @@
 {
-  "text": "The cloud is just someone else's computer that charges you rent and occasionally catches fire.",
+  "text": "Your code review should take less than 30 minutes. If it takes longer, the PR is too big.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "cloud",
-    "servers"
+    "code-review",
+    "size"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-cloud-is-just",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-code-review-should",
   "source": "Community sourced",
-  "_date": "2026-06-29"
+  "_date": "2026-06-30"
 }

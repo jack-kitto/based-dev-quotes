@@ -1,17 +1,18 @@
 {
-  "text": "Multi-tenant architecture is great until one customer's query takes down everyone else's Saturday.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "martin-legacy-code",
+  "text": "Legacy code is simply code without tests.",
+  "author": "Michael Feathers",
+  "author_slug": "feathers",
+  "source": "Working Effectively with Legacy Code, 2004",
   "categories": [
-    "saas",
-    "engineering"
+    "wisdom",
+    "debugging"
   ],
   "tags": [
-    "multi-tenant",
-    "noisy-neighbor"
+    "legacy-code",
+    "testing",
+    "definition"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-multitenant-architecture-is-great",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

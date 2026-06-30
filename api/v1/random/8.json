@@ -1,19 +1,17 @@
 {
-  "id": "mcilroy-unix-philosophy",
-  "text": "This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.",
-  "author": "Doug McIlroy",
-  "author_slug": "mcilroy",
-  "source": "Bell System Technical Journal, 1978",
+  "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "unix",
-    "wisdom"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "unix",
-    "philosophy",
-    "simplicity",
-    "classic"
+    "shipping",
+    "bugs"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-ship-it-then-fix",
+  "source": "Community sourced"
 }

@@ -1,16 +1,18 @@
 {
-  "text": "The best way to improve your focus is to reduce the number of things competing for it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "brooks-mythical-man-month",
+  "text": "Adding manpower to a late software project makes it later.",
+  "author": "Fred Brooks",
+  "author_slug": "brooks",
+  "source": "The Mythical Man-Month, 1975",
   "categories": [
-    "productivity"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "focus",
-    "reduction"
+    "management",
+    "teams",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

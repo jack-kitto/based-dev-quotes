@@ -1,16 +1,17 @@
 {
-  "text": "The only valid measurement of code quality is how many times you have to read it to understand it.",
+  "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "code-quality",
-    "readability"
+    "sql",
+    "jokes"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-only-valid-measurement",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-a-sql-query-walks",
   "source": "Community sourced"
 }
