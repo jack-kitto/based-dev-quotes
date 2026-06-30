@@ -1,17 +1,17 @@
 {
-  "text": "The best product teams listen more than they talk. Your users know more about their problems than you do.",
+  "text": "The worst kind of technical debt is the kind you don't know you have.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "listening",
-    "humility"
+    "tech-debt",
+    "hidden"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-product-teams",
+  "id": "based-the-worst-kind-of",
   "source": "Community sourced"
 }

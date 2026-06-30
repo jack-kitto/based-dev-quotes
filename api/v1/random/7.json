@@ -1,17 +1,16 @@
 {
-  "text": "The most important user is the one who's about to leave. Build for them first.",
+  "text": "The best way to make decisions is with data. The second best is with experience. The worst is with hunches.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "churn",
-    "retention"
+    "decisions",
+    "data"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-most-important-user",
+  "id": "based-the-best-way-to-799",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "id": "sleep-sort",
-  "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny"
+    "business"
   ],
   "tags": [
-    "stackoverflow",
-    "hacking",
-    "approximation"
+    "competition",
+    "inaction"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 3,
+  "id": "based-your-competition-isnt-other",
+  "source": "Community sourced"
 }

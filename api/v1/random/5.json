@@ -1,16 +1,16 @@
 {
-  "text": "The biggest lie in SaaS: 'We'll add that feature.' You won't. You'll ship what you have and hope nobody notices.",
+  "text": "Content is king, but engagement is queen, and she runs the house.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "marketing"
   ],
   "tags": [
-    "feature-requests",
-    "reality"
+    "content",
+    "engagement"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-biggest-lie-in",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-content-is-king-but",
   "source": "Community sourced"
 }
