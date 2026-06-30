@@ -1,17 +1,17 @@
 {
-  "text": "Nobody cares about your startup. They care about their problem. If your startup solves it, they'll care about you.",
+  "text": "Your product roadmap should be based on user needs, not competitor features.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "users",
+    "product"
   ],
   "tags": [
-    "customer-focus",
-    "problem"
+    "roadmap",
+    "users"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-nobody-cares-about-your",
+  "id": "based-your-product-roadmap-should",
   "source": "Community sourced"
 }

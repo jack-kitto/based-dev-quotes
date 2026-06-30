@@ -1,16 +1,18 @@
 {
-  "text": "The best indie hackers don't try to build the next unicorn. They build profitable lifestyle businesses.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "muratori-clean-code",
+  "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+  "author": "Casey Muratori",
+  "author_slug": "muratori",
+  "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
   "categories": [
-    "indie-hacker"
+    "shitpost",
+    "complexity"
   ],
   "tags": [
-    "lifestyle",
-    "profitability"
+    "clean-code",
+    "performance",
+    "aesthetics"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-indie-hackers-1060",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 5
 }

@@ -1,16 +1,18 @@
 {
-  "text": "The best time to automate is when you're doing the same task for the third time. The second best time is now.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "carmack-implementation",
+  "text": "Implementation is the great filter. A lot of brilliant ideas die because nobody wants to do the unglamorous work.",
+  "author": "John Carmack",
+  "author_slug": "carmack",
+  "source": "Various interviews",
   "categories": [
-    "productivity"
+    "shipping",
+    "wisdom"
   ],
   "tags": [
-    "automation",
-    "efficiency"
+    "execution",
+    "implementation",
+    "ideas"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-943",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

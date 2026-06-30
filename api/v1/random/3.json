@@ -1,16 +1,17 @@
 {
-  "text": "Your morning routine should set the tone for the day, not drain your energy before it starts.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The biggest risk is not taking any risk.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "productivity"
+    "wisdom",
+    "business"
   ],
   "tags": [
-    "morning-routine",
-    "energy"
+    "risk",
+    "action"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-morning-routine-should",
+  "spiciness": 1,
+  "id": "zuckerberg-the-biggest-risk-is-850",
   "source": "Community sourced"
 }

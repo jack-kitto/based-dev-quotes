@@ -1,16 +1,17 @@
 {
-  "text": "If you can't explain it simply, you don't understand it well enough.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "understanding"
+    "functions",
+    "single-responsibility"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "einstein-if-you-cant-explain",
+  "id": "based-a-function-that-does",
   "source": "Community sourced"
 }

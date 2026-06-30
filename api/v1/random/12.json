@@ -1,16 +1,16 @@
 {
-  "text": "The best icon is no icon. The second best is one with a label. The worst is a cryptic SVG from 2007.",
+  "text": "The best code is no code at all. The second best code is code that writes itself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "icons",
-    "clarity"
+    "simplicity",
+    "automation"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-icon-is",
+  "spiciness": 2,
+  "id": "based-the-best-code-is",
   "source": "Community sourced"
 }

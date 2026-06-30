@@ -1,16 +1,18 @@
 {
-  "text": "The best time to fire a client is when they start costing you more than they're paying you.",
+  "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design",
+    "saas"
   ],
   "tags": [
-    "clients",
-    "boundaries"
+    "saas",
+    "landing-page",
+    "shitpost"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-time-to-500",
+  "spiciness": 4,
+  "id": "based-if-your-saas-has",
   "source": "Community sourced"
 }

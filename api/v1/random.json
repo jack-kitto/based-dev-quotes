@@ -1,17 +1,17 @@
 {
-  "text": "Don't watch the clock; do what it does. Keep going.",
-  "author": "Sam Levenson",
-  "author_slug": "levenson",
+  "text": "The only real mistake is the one from which we learn nothing.",
+  "author": "Henry Ford",
+  "author_slug": "ford",
   "categories": [
     "wisdom"
   ],
   "tags": [
-    "persistence",
-    "action"
+    "mistakes",
+    "learning"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "levenson-dont-watch-the-clock",
+  "id": "ford-the-only-real-mistake",
   "source": "Community sourced",
-  "_generated_at": "2026-06-30T00:00:40.667657+00:00"
+  "_generated_at": "2026-06-30T00:01:09.354030+00:00"
 }
