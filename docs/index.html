@@ -1223,11 +1223,12 @@ print(f<span style="color: var(--spice-1);">'"${quote["text"]}"\n  — ${quote["
 
     async function loadData() {
       try {
+        const v = new Date().toISOString().slice(0, 10); // daily cache bust
         const [allRes, todayRes, catsRes, statsRes] = await Promise.all([
-          fetch(`${API_BASE}/all.json`),
-          fetch(`${API_BASE}/today.json`),
-          fetch(`${API_BASE}/categories/index.json`),
-          fetch(`${API_BASE}/stats.json`)
+          fetch(`${API_BASE}/all.json?v=${v}`),
+          fetch(`${API_BASE}/today.json?v=${v}`),
+          fetch(`${API_BASE}/categories/index.json?v=${v}`),
+          fetch(`${API_BASE}/stats.json?v=${v}`)
         ]);
         const allData = await allRes.json();
         allQuotes = allData.quotes;
@@ -1517,7 +1518,7 @@ print(f<span style="color: var(--spice-1);">'"${quote["text"]}"\n  — ${quote["
 
     async function loadTopTags() {
       try {
-        const res = await fetch(`${API_BASE}/tags/index.json`);
+        const res = await fetch(`${API_BASE}/tags/index.json?v=${new Date().toISOString().slice(0, 10)}`);
         const data = await res.json();
         const topTags = Object.entries(data.tags)
           .sort((a, b) => b[1].count - a[1].count)
