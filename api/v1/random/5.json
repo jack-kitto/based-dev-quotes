@@ -1,17 +1,16 @@
 {
-  "text": "Innovation is saying no to a thousand things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "author": "Winston Churchill",
+  "author_slug": "churchill",
   "categories": [
-    "business",
     "wisdom"
   ],
   "tags": [
-    "innovation",
-    "focus"
+    "courage",
+    "persistence"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "jobs-innovation-is-saying-no",
+  "id": "churchill-success-is-not-final",
   "source": "Community sourced"
 }

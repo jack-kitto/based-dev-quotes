@@ -1,16 +1,17 @@
 {
-  "text": "Every time management introduces a new 'productivity tool,' productivity drops by 30% while everyone learns it, then returns to baseline.",
+  "text": "The best way to understand user needs is to observe, not ask. Users will tell you what they think they want. Observing tells you what they actually need.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "users",
+    "product"
   ],
   "tags": [
-    "tools",
-    "management"
+    "observation",
+    "research"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-every-time-management-introduces",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-684",
   "source": "Community sourced"
 }

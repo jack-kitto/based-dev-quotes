@@ -1,17 +1,19 @@
 {
-  "text": "Your SaaS should work so well that users forget it exists. That's the ultimate compliment.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "impostor-syndrome-real",
+  "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "saas"
+    "funny",
+    "career"
   ],
   "tags": [
-    "seamlessness",
-    "ux"
+    "impostor-syndrome",
+    "feelings",
+    "industry"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-saas-should-work",
-  "source": "Community sourced",
-  "_generated_at": "2026-06-30T03:42:01.796167+00:00"
+  "grug_level": 4,
+  "spiciness": 1,
+  "_generated_at": "2026-07-01T03:58:29.694973+00:00"
 }

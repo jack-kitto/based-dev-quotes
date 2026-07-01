@@ -1,16 +1,16 @@
 {
-  "text": "If you can reproduce it, you can fix it. If you can't reproduce it, it doesn't exist.",
+  "text": "The best time to learn a new language is when you need it. The worst is when you think it'll make you a better programmer.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "bugs",
-    "reproduction"
+    "languages",
+    "learning"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-can-reproduce",
+  "id": "based-the-best-time-to-400",
   "source": "Community sourced"
 }

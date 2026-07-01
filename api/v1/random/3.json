@@ -1,17 +1,16 @@
 {
-  "text": "Money follows value. Create enough value and the money will come.",
+  "text": "Social media marketing is just shouting into the void and occasionally the void shouts back.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "value",
-    "money"
+    "social-media",
+    "shouting"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-money-follows-value-create",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-social-media-marketing-is",
   "source": "Community sourced"
 }
