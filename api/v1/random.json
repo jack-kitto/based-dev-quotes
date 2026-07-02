@@ -1,19 +1,17 @@
 {
-  "id": "impostor-syndrome-real",
-  "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Your team should be able to challenge any decision, including the CEO's. If they can't, you have a dictatorship.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "career"
+    "business"
   ],
   "tags": [
-    "impostor-syndrome",
-    "feelings",
-    "industry"
+    "culture",
+    "challenge"
   ],
   "grug_level": 4,
-  "spiciness": 1,
-  "_generated_at": "2026-07-01T03:58:29.694973+00:00"
+  "spiciness": 3,
+  "id": "based-your-team-should-be-834",
+  "source": "Community sourced",
+  "_generated_at": "2026-07-02T03:39:02.892927+00:00"
 }

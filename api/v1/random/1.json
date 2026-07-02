@@ -1,16 +1,16 @@
 {
-  "text": "Burnout isn't a badge of honor. It's a sign you're doing something wrong. Rest is productive.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Everything should be made as simple as possible, but not simpler.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "productivity"
+    "wisdom"
   ],
   "tags": [
-    "burnout",
-    "rest"
+    "simplicity",
+    "balance"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-burnout-isnt-a-badge",
+  "spiciness": 1,
+  "id": "einstein-everything-should-be-made",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "If your product has a 'getting started' guide that's 47 pages long, your product is too complicated.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The only way to go fast is to go well.",
+  "author": "Robert C. Martin",
+  "author_slug": "martin",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "onboarding",
-    "complexity"
+    "speed",
+    "quality"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-product-has",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "martin-the-only-way-to",
   "source": "Community sourced"
 }

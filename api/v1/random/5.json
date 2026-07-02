@@ -1,16 +1,16 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "The best content is the content that's easy to consume. Short paragraphs. Clear headings. Simple language.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "content",
+    "readability"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "spiciness": 2,
+  "id": "based-the-best-content-is-901",
   "source": "Community sourced"
 }

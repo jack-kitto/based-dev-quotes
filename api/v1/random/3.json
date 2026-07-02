@@ -1,16 +1,17 @@
 {
-  "text": "Social media marketing is just shouting into the void and occasionally the void shouts back.",
+  "text": "If a user has to read a manual to use your product, your product has failed.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "users",
+    "design"
   ],
   "tags": [
-    "social-media",
-    "shouting"
+    "documentation",
+    "ux"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-social-media-marketing-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-if-a-user-has",
   "source": "Community sourced"
 }
