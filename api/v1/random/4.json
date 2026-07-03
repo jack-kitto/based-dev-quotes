@@ -1,16 +1,16 @@
 {
-  "text": "Legacy code is just code that nobody has the courage to delete yet.",
+  "text": "Every dev who says 'I don't need version control' has a story that starts with 'So I accidentally deleted production and...'",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "legacy",
-    "courage"
+    "git",
+    "disaster"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-legacy-code-is-just",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-every-dev-who-says",
   "source": "Community sourced"
 }

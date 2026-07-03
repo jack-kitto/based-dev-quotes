@@ -1,16 +1,16 @@
 {
-  "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
+  "text": "The best time to check in with a customer is when things are going well. Not just when they're not.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "business"
   ],
   "tags": [
-    "complexity",
-    "enterprise"
+    "customers",
+    "proactive"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-saas-goes-through",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-1021",
   "source": "Community sourced"
 }

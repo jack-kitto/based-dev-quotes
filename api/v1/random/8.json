@@ -1,17 +1,16 @@
 {
-  "text": "TypeScript is just JavaScript wearing a trench coat and fake mustache pretending to be a serious language.",
+  "text": "The best business model is one where the customer pays you before you have to do the work. Find it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "business"
   ],
   "tags": [
-    "typescript",
-    "javascript"
+    "business-model",
+    "cash-flow"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-typescript-is-just-javascript",
+  "id": "based-the-best-business-model",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "The best time to save money is when you have it. The worst time is when you need it.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+  "author": "Cal Newport",
+  "author_slug": "newport",
   "categories": [
-    "business"
+    "productivity"
   ],
   "tags": [
-    "savings",
-    "preparation"
+    "deep-work",
+    "value"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "based-the-best-time-to-730",
+  "id": "newport-the-ability-to-perform",
   "source": "Community sourced"
 }

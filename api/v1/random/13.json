@@ -1,16 +1,16 @@
 {
-  "text": "The best time to add dark mode is when your users start using your product at night. Which is always.",
+  "text": "The problem with Object-Oriented Programming is that it was invented by academics, and everything they do is overcomplicated.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "dark-mode",
-    "always"
+    "oop",
+    "opinion"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-752",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-problem-with-objectoriented",
   "source": "Community sourced"
 }

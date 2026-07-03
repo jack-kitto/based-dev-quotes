@@ -1,16 +1,17 @@
 {
-  "id": "documentation-lie",
-  "text": "Documentation is a love letter that you write to your future self.",
-  "author": "Damian Conway",
-  "author_slug": "conway",
-  "source": "Perl Best Practices",
+  "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+  "author": "C.A.R. Hoare",
+  "author_slug": "hoare",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "documentation",
-    "future-self"
+    "intention",
+    "purpose"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 1,
+  "id": "hoare-the-most-important-property",
+  "source": "Community sourced"
 }

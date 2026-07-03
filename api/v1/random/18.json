@@ -1,17 +1,16 @@
 {
-  "text": "If your business can't survive without you, you don't have a business. You have a job.",
+  "text": "Your network is your net worth. But your net worth is also your network's network's net worth. It's turtles all the way down.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "business"
   ],
   "tags": [
-    "automation",
-    "leverage"
+    "networking",
+    "value"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-business-cant",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-network-is-your",
   "source": "Community sourced"
 }

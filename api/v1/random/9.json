@@ -1,16 +1,17 @@
 {
-  "text": "The 'cancel flow' is where SaaS companies reveal their true character. Make it easy and people will come back. Make it hard and they'll never come back.",
+  "text": "Your product should be so simple that it feels like it was always meant to exist.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "design",
+    "product"
   ],
   "tags": [
-    "churn",
-    "retention"
+    "simplicity",
+    "natural"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-cancel-flow-is",
+  "id": "based-your-product-should-be-1007",
   "source": "Community sourced"
 }

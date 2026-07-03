@@ -1,17 +1,18 @@
 {
-  "text": "If a user has to read a manual to use your product, your product has failed.",
+  "text": "The lean startup method is just the scientific method for people who failed biology.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "design"
+    "business",
+    "entrepreneur",
+    "shitpost"
   ],
   "tags": [
-    "documentation",
-    "ux"
+    "lean-startup",
+    "methodology"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-a-user-has",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-lean-startup-method",
   "source": "Community sourced"
 }

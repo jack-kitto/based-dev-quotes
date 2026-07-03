@@ -1,17 +1,17 @@
 {
-  "text": "The only way to go fast is to go well.",
-  "author": "Robert C. Martin",
-  "author_slug": "martin",
+  "text": "The biggest risk is not taking any risk.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "engineering",
-    "wisdom"
+    "wisdom",
+    "business"
   ],
   "tags": [
-    "speed",
-    "quality"
+    "risk",
+    "action"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "martin-the-only-way-to",
+  "id": "zuckerberg-the-biggest-risk-is-850",
   "source": "Community sourced"
 }
