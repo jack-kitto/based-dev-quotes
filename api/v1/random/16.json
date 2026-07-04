@@ -1,17 +1,20 @@
 {
-  "text": "The most important property of a program is whether it accomplishes the intention of its user.",
-  "author": "C.A.R. Hoare",
-  "author_slug": "hoare",
+  "id": "leftpad-lesson",
+  "text": "One 11-line npm package going offline broke half the internet. We learned nothing and kept going.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "left-pad incident, 2016",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "suffering",
+    "shitpost"
   ],
   "tags": [
-    "intention",
-    "purpose"
+    "npm",
+    "dependencies",
+    "leftpad",
+    "fragility"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "hoare-the-most-important-property",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

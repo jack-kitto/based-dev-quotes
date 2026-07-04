@@ -1,17 +1,17 @@
 {
-  "text": "API rate limits aren't a technical constraint. They're a business model disguised as engineering.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Have you tried turning it off and on again?",
+  "author": "Roy (IT Crowd)",
+  "author_slug": "it-crowd",
   "categories": [
-    "saas",
-    "engineering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "api",
-    "pricing"
+    "debugging",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-api-rate-limits-arent",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "it-crowd-have-you-tried-turning",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
-  "author": "Cal Newport",
-  "author_slug": "newport",
+  "text": "Animations should clarify, not decorate. If an animation doesn't help the user understand what changed, delete it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity"
+    "design"
   ],
   "tags": [
-    "deep-work",
-    "value"
+    "animation",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "newport-the-ability-to-perform",
+  "spiciness": 2,
+  "id": "based-animations-should-clarify-not",
   "source": "Community sourced"
 }

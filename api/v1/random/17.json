@@ -1,17 +1,18 @@
 {
-  "text": "The biggest risk is not taking any risk.",
-  "author": "Mark Zuckerberg",
-  "author_slug": "zuckerberg",
+  "id": "blow-layers",
+  "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
+  "author": "Jonathan Blow",
+  "author_slug": "blow",
+  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
   "categories": [
-    "wisdom",
-    "business"
+    "complexity",
+    "wisdom"
   ],
   "tags": [
-    "risk",
-    "action"
+    "abstraction",
+    "layers",
+    "understanding"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "zuckerberg-the-biggest-risk-is-850",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

@@ -1,18 +1,18 @@
 {
-  "text": "The lean startup method is just the scientific method for people who failed biology.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sandi-metz-wrong-abstraction",
+  "text": "Duplication is far cheaper than the wrong abstraction.",
+  "author": "Sandi Metz",
+  "author_slug": "metz",
+  "source": "The Wrong Abstraction, 2016",
   "categories": [
-    "business",
-    "entrepreneur",
-    "shitpost"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "lean-startup",
-    "methodology"
+    "abstraction",
+    "duplication",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-lean-startup-method",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

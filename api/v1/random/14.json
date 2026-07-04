@@ -1,16 +1,17 @@
 {
-  "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
+  "text": "There's no place like 127.0.0.1.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "metrics",
-    "revenue"
+    "localhost",
+    "home"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-every-marketing-metric-is",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-theres-no-place-like",
   "source": "Community sourced"
 }
