@@ -1,16 +1,17 @@
 {
-  "text": "Testimonials are the most underrated marketing asset. A real person saying 'this worked for me' beats any ad copy.",
+  "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "saas",
+    "product"
   ],
   "tags": [
-    "testimonials",
-    "social-proof"
+    "feature-requests",
+    "data"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-testimonials-are-the-most",
+  "id": "based-feature-requests-are-just",
   "source": "Community sourced"
 }

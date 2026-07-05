@@ -1,16 +1,17 @@
 {
-  "text": "Your team should be able to disagree and commit. If they can't disagree, there's no trust. If they can't commit, there's no respect.",
+  "text": "The best error message is one that tells the user what to do next. The worst tells them what the developer did wrong.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "design"
   ],
   "tags": [
-    "team",
-    "disagreement"
+    "error-messages",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-team-should-be",
+  "id": "based-the-best-error-message-382",
   "source": "Community sourced"
 }

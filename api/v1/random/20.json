@@ -1,17 +1,16 @@
 {
-  "text": "Have you tried turning it off and on again?",
-  "author": "Roy (IT Crowd)",
-  "author_slug": "it-crowd",
+  "text": "A leader is one who knows the way, goes the way, and shows the way.",
+  "author": "John C. Maxwell",
+  "author_slug": "maxwell",
   "categories": [
-    "engineering",
-    "shitpost"
+    "business"
   ],
   "tags": [
-    "debugging",
-    "classic"
+    "leadership",
+    "example"
   ],
-  "grug_level": 2,
+  "grug_level": 3,
   "spiciness": 1,
-  "id": "it-crowd-have-you-tried-turning",
+  "id": "maxwell-a-leader-is-one",
   "source": "Community sourced"
 }

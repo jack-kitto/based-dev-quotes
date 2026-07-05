@@ -1,17 +1,16 @@
 {
-  "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
+  "text": "The best time to build a moat is when you don't need one. The second best time is now.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "abstraction",
-    "complexity"
+    "moat",
+    "competitive-advantage"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-good-abstraction-starts",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-506",
   "source": "Community sourced"
 }

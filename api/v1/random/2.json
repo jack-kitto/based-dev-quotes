@@ -1,16 +1,17 @@
 {
-  "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The best design is the simplest one that works.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "productivity"
+    "design",
+    "wisdom"
   ],
   "tags": [
-    "deep-work",
-    "attention"
+    "simplicity",
+    "design"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-deep-work-is-not",
+  "spiciness": 1,
+  "id": "einstein-the-best-design-is",
   "source": "Community sourced"
 }
