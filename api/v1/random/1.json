@@ -1,17 +1,16 @@
 {
-  "text": "The best time to add health checks is before you need them. Not during an incident.",
+  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "business"
   ],
   "tags": [
-    "health-checks",
-    "proactive"
+    "leadership",
+    "accountability"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-734",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-teams-performance-is",
   "source": "Community sourced"
 }

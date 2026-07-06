@@ -1,16 +1,18 @@
 {
-  "text": "Your product's 'power users' are your best evangelists. Make them look smart and they'll sell for you.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "debugging-detective",
+  "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+  "author": "Filipe Fortes",
+  "author_slug": "fortes",
+  "source": "Twitter, 2013",
   "categories": [
-    "saas"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "power-users",
-    "evangelism"
+    "debugging",
+    "detective",
+    "crime"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-products-power-users",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

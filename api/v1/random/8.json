@@ -1,17 +1,16 @@
 {
-  "text": "The best error message is one that tells the user what to do next. The worst tells them what the developer did wrong.",
+  "text": "The best moat is a product so good that switching feels like a downgrade.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "design"
+    "business"
   ],
   "tags": [
-    "error-messages",
-    "ux"
+    "moat",
+    "switching-cost"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-error-message-382",
+  "id": "based-the-best-moat-is",
   "source": "Community sourced"
 }

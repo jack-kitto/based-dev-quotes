@@ -1,19 +1,16 @@
 {
-  "id": "node-modules-black-hole",
-  "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+  "id": "copy-paste-stackoverflow",
+  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter / memes",
+  "source": "Programming folklore",
   "categories": [
-    "funny",
-    "shitpost"
+    "funny"
   ],
   "tags": [
-    "node-modules",
-    "npm",
-    "javascript",
-    "dependencies"
+    "stackoverflow",
+    "copy-paste"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 1
 }

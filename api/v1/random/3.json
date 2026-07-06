@@ -1,17 +1,17 @@
 {
-  "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Simplicity is the ultimate sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
-    "engineering",
-    "shitpost"
+    "wisdom",
+    "design"
   ],
   "tags": [
-    "sql",
-    "jokes"
+    "simplicity",
+    "classic"
   ],
   "grug_level": 2,
   "spiciness": 1,
-  "id": "based-a-sql-query-walks",
+  "id": "davinci-simplicity-is-the-ultimate",
   "source": "Community sourced"
 }

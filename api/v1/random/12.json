@@ -1,16 +1,17 @@
 {
-  "text": "The best time to build a moat is when you don't need one. The second best time is now.",
+  "text": "The user interface is the product. Everything behind it is infrastructure nobody asked for.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design",
+    "product"
   ],
   "tags": [
-    "moat",
-    "competitive-advantage"
+    "ui",
+    "ux"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-506",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-user-interface-is",
   "source": "Community sourced"
 }

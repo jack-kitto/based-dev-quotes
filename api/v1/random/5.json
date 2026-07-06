@@ -1,17 +1,18 @@
 {
-  "text": "Simplicity is the ultimate sophistication.",
-  "author": "Leonardo da Vinci",
-  "author_slug": "davinci",
+  "id": "senior-dev-impostor",
+  "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "wisdom",
-    "design"
+    "funny",
+    "career"
   ],
   "tags": [
-    "simplicity",
-    "classic"
+    "seniority",
+    "confidence",
+    "experience"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "davinci-simplicity-is-the-ultimate",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

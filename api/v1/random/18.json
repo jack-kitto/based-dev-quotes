@@ -1,16 +1,16 @@
 {
-  "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
+  "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "indie-hacker"
   ],
   "tags": [
-    "ideas",
-    "reading"
+    "efficiency",
+    "revenue"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-best-ideas-come",
+  "id": "based-the-best-indie-hacker",
   "source": "Community sourced"
 }

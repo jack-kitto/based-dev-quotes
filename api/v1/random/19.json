@@ -1,16 +1,16 @@
 {
-  "text": "Don't watch the clock; do what it does. Keep going.",
-  "author": "Sam Levenson",
-  "author_slug": "levenson",
+  "text": "The best content is the content that teaches something. Not the content that sells something.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "persistence",
-    "action"
+    "content",
+    "teaching"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "levenson-dont-watch-the-clock",
+  "spiciness": 2,
+  "id": "based-the-best-content-is-905",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-  "author": "Martin Fowler",
-  "author_slug": "fowler",
+  "text": "The best time to build good habits is when you don't need them. The worst time is when you desperately do.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "productivity"
   ],
   "tags": [
-    "readability",
-    "clarity"
+    "habits",
+    "proactive"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "fowler-any-fool-can-write",
+  "spiciness": 2,
+  "id": "based-the-best-time-to-590",
   "source": "Community sourced"
 }

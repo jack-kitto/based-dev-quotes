@@ -1,17 +1,16 @@
 {
-  "text": "Nobody has ever complained that something was too easy to use.",
+  "text": "Your workflow should be documented. Not for others. For your future self.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "productivity"
   ],
   "tags": [
-    "ux",
-    "simplicity"
+    "workflow",
+    "documentation"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-nobody-has-ever-complained",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-workflow-should-be",
   "source": "Community sourced"
 }
