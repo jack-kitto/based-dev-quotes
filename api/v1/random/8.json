@@ -1,16 +1,17 @@
 {
-  "text": "The best moat is a product so good that switching feels like a downgrade.",
+  "text": "The best way to understand your users is to be confused by your own product for 5 minutes. Then fix everything that confused you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "product"
   ],
   "tags": [
-    "moat",
-    "switching-cost"
+    "dogfooding",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-moat-is",
+  "id": "based-the-best-way-to-386",
   "source": "Community sourced"
 }

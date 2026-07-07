@@ -1,18 +1,18 @@
 {
-  "id": "debugging-detective",
-  "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
-  "author": "Filipe Fortes",
-  "author_slug": "fortes",
-  "source": "Twitter, 2013",
+  "id": "marc-lou-build-fast",
+  "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+  "author": "Marc Lou",
+  "author_slug": "marclou",
+  "source": "Twitter / YouTube",
   "categories": [
-    "funny",
-    "debugging"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "debugging",
-    "detective",
-    "crime"
+    "speed",
+    "competition",
+    "shipping"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 2
 }

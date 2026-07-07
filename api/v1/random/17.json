@@ -1,17 +1,16 @@
 {
-  "text": "Email marketing: because you need a way to annoy people who already told you they're not interested.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "author": "Winston Churchill",
+  "author_slug": "churchill",
   "categories": [
-    "marketing",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "email",
-    "annoyance"
+    "courage",
+    "persistence"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-email-marketing-because-you",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "churchill-success-is-not-final",
   "source": "Community sourced"
 }

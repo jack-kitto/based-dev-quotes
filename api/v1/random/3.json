@@ -1,17 +1,17 @@
 {
-  "text": "Simplicity is the ultimate sophistication.",
-  "author": "Leonardo da Vinci",
-  "author_slug": "davinci",
+  "text": "A pixel-perfect mockup of a broken flow is still a broken flow.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "design"
+    "design",
+    "product"
   ],
   "tags": [
-    "simplicity",
-    "classic"
+    "ux",
+    "mockups"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "davinci-simplicity-is-the-ultimate",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-a-pixelperfect-mockup-of",
   "source": "Community sourced"
 }

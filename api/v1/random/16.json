@@ -1,16 +1,16 @@
 {
-  "text": "Your indie business should be something you'd use even if nobody else did. Build for yourself first.",
+  "text": "Every pixel of whitespace is a deliberate choice to not add something stupid.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design"
   ],
   "tags": [
-    "dogfooding",
-    "passion"
+    "whitespace",
+    "minimalism"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-indie-business-should",
+  "id": "based-every-pixel-of-whitespace",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
+  "text": "Solo founders don't lack ideas. They lack the discipline to ship one idea instead of starting five.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker"
   ],
   "tags": [
-    "efficiency",
-    "revenue"
+    "discipline",
+    "focus"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-indie-hacker",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-solo-founders-dont-lack",
   "source": "Community sourced"
 }

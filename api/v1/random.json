@@ -1,18 +1,18 @@
 {
-  "text": "Your most valuable product feedback comes from the users who almost left but stayed. Find out why they stayed.",
+  "text": "Your landing page should do one thing: get the visitor to take one action. Everything else is a distraction.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "retention",
-    "insight"
+    "landing-page",
+    "focus"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-most-valuable-product",
+  "id": "based-your-landing-page-should",
   "source": "Community sourced",
-  "_generated_at": "2026-07-06T03:36:11.438994+00:00"
+  "_generated_at": "2026-07-07T03:27:13.979665+00:00"
 }

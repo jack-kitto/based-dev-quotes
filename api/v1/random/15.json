@@ -1,17 +1,18 @@
 {
-  "text": "If your calendar is full, you're not productive. You're just busy. There's a difference.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "carmack-low-level",
+  "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+  "author": "John Carmack",
+  "author_slug": "carmack",
+  "source": "Masters of Doom",
   "categories": [
-    "productivity",
-    "wisdom"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "calendar",
-    "focus"
+    "bootstrapping",
+    "resourcefulness",
+    "hustle"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-your-calendar-is",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }

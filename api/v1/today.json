@@ -1,19 +1,17 @@
 {
-  "id": "hoare-two-ways",
-  "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
-  "author": "C.A.R. Hoare",
-  "author_slug": "hoare",
-  "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
+  "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "indie-hacker"
   ],
   "tags": [
-    "simplicity",
-    "design",
-    "classic"
+    "pride",
+    "quality"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "_date": "2026-07-06"
+  "spiciness": 2,
+  "id": "based-your-indie-project-should-1066",
+  "source": "Community sourced",
+  "_date": "2026-07-07"
 }
