@@ -1,16 +1,18 @@
 {
-  "text": "Indie hackers don't have exit strategies. They have 'make enough money to not get a real job' strategies.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "prod-env-staging",
+  "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "DevOps folklore",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "lifestyle",
-    "freedom"
+    "testing",
+    "production",
+    "environments"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-indie-hackers-dont-have",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

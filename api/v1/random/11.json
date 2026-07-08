@@ -1,18 +1,19 @@
 {
-  "id": "blow-layers",
-  "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
-  "author": "Jonathan Blow",
-  "author_slug": "blow",
-  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+  "id": "rewrite-in-rust",
+  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Hacker News / Reddit",
   "categories": [
-    "complexity",
-    "wisdom"
+    "funny",
+    "shitpost",
+    "tools"
   ],
   "tags": [
-    "abstraction",
-    "layers",
-    "understanding"
+    "rust",
+    "rewrite",
+    "hype"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 4
 }

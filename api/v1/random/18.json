@@ -1,16 +1,17 @@
 {
-  "text": "Solo founders don't lack ideas. They lack the discipline to ship one idea instead of starting five.",
+  "text": "The best engineers are the ones who know what not to build.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
     "discipline",
-    "focus"
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-solo-founders-dont-lack",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-engineers-are-714",
   "source": "Community sourced"
 }

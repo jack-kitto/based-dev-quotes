@@ -1,16 +1,17 @@
 {
-  "text": "The best way to convert free users to paid is to make the free version so good they feel guilty not paying.",
+  "text": "Every SaaS should have an API. Every API should have docs. Every docs page should have examples.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "freemium",
-    "conversion"
+    "api",
+    "documentation"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-way-to-1042",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "based-every-saas-should-have-542",
   "source": "Community sourced"
 }

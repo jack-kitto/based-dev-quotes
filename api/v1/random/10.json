@@ -1,16 +1,16 @@
 {
-  "text": "Every metric has a blind spot. Triangulate. Use at least three metrics to understand reality.",
+  "text": "Your first indie product should solve YOUR problem. Not what you think others' problems are.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "indie-hacker"
   ],
   "tags": [
-    "metrics",
-    "triangulation"
+    "problem",
+    "dogfooding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-metric-has-a",
+  "id": "based-your-first-indie-product",
   "source": "Community sourced"
 }

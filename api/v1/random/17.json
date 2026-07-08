@@ -1,16 +1,18 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "id": "deleted-code-no-bugs",
+  "text": "Deleted code is debugged code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "wisdom"
+    "wisdom",
+    "funny"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "deletion",
+    "debugging",
+    "simplicity"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

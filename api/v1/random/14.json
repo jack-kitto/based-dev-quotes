@@ -1,16 +1,17 @@
 {
-  "text": "Your morning routine doesn't matter if your evening routine is doomscrolling until 2 AM.",
+  "text": "Write code as if the person maintaining it is a violent psychopath who knows where you live.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "morning-routine",
-    "sleep"
+    "readability",
+    "maintenance"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-morning-routine-doesnt",
+  "spiciness": 2,
+  "id": "based-write-code-as-if",
   "source": "Community sourced"
 }

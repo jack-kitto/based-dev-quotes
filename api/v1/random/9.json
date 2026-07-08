@@ -1,16 +1,18 @@
 {
-  "text": "SaaS metrics that matter: retention, retention, retention. Everything else is a vanity metric you report to investors.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "graham-maker-schedule",
+  "text": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Maker's Schedule, Manager's Schedule, 2009",
   "categories": [
-    "saas"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "metrics",
-    "retention"
+    "meetings",
+    "focus",
+    "productivity"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-saas-metrics-that-matter",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

@@ -1,16 +1,18 @@
 {
-  "text": "The best revenge is massive success.",
-  "author": "Frank Sinatra",
-  "author_slug": "sinatra",
+  "id": "product-nobody-wants",
+  "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Startup culture",
   "categories": [
-    "wisdom"
+    "founder",
+    "suffering"
   ],
   "tags": [
-    "success",
-    "motivation"
+    "product-market-fit",
+    "validation",
+    "failure"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "sinatra-the-best-revenge-is",
-  "source": "Community sourced"
+  "spiciness": 2
 }

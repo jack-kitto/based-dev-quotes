@@ -1,17 +1,17 @@
 {
-  "text": "Every product has a 'magic moment' — the instant the user gets it. Find it. Optimize for it.",
+  "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "aha-moment",
-    "activation"
+    "monitoring",
+    "observability"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-product-has-a",
+  "id": "based-the-best-monitoring-tells",
   "source": "Community sourced"
 }
