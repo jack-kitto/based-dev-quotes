@@ -1,18 +1,17 @@
 {
-  "text": "Saying 'I'm building a SaaS' is cooler than saying 'I'm building a website.' But they're the same thing.",
+  "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker",
-    "saas",
-    "shitpost"
+    "shipping"
   ],
   "tags": [
-    "terminology",
-    "reality"
+    "shipping",
+    "bugs"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-saying-im-building-a",
+  "id": "based-ship-it-then-fix",
   "source": "Community sourced"
 }

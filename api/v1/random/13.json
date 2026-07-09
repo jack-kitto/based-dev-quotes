@@ -1,17 +1,17 @@
 {
-  "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "leave-it-better",
+  "text": "Always leave the code better than you found it.",
+  "author": "Robert C. Martin (Uncle Bob)",
+  "author_slug": "martin",
+  "source": "Clean Code (adapted from Boy Scout Rule)",
   "categories": [
-    "engineering",
-    "devops"
+    "wisdom"
   ],
   "tags": [
-    "monitoring",
-    "observability"
+    "clean-code",
+    "maintenance",
+    "discipline"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-monitoring-tells",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

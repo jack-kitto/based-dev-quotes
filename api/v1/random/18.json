@@ -1,17 +1,16 @@
 {
-  "text": "The best engineers are the ones who know what not to build.",
+  "text": "Your side project is a sandbox. Play in it. Break things. Try weird ideas. That's the point.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "discipline",
-    "simplicity"
+    "side-projects",
+    "experimentation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-engineers-are-714",
+  "id": "based-your-side-project-is",
   "source": "Community sourced"
 }

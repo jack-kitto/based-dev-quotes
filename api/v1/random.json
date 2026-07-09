@@ -1,18 +1,18 @@
 {
-  "text": "The best marketing is a product that sells itself. The second best is a customer who sells it for you.",
+  "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing",
-    "wisdom"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "product",
-    "referrals"
+    "distribution",
+    "product"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-marketing-is-513",
+  "id": "based-your-tech-stack-matters",
   "source": "Community sourced",
-  "_generated_at": "2026-07-08T02:44:15.612984+00:00"
+  "_generated_at": "2026-07-09T03:20:50.014703+00:00"
 }

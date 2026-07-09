@@ -1,17 +1,18 @@
 {
-  "text": "Every viral product started as a product that was useful to 10 people. Make those 10 people ecstatic.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "hickey-hammock",
+  "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Hammock Driven Development, Clojure/conj 2010",
   "categories": [
-    "marketing",
-    "product"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "virality",
-    "early-users"
+    "thinking",
+    "planning",
+    "patience"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-viral-product-started",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

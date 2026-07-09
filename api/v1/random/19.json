@@ -1,17 +1,19 @@
 {
-  "text": "The best way to validate a SaaS idea is to sell it before you build it. If nobody buys, save yourself 6 months.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "saas",
-    "indie-hacker"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "validation",
-    "preselling"
+    "simplicity",
+    "complexity",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-way-to-417",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

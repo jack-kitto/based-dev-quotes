@@ -1,16 +1,16 @@
 {
-  "text": "Every SaaS should have a 'quick start' that takes 5 minutes. If your quick start takes 30 minutes, you've lost everyone.",
+  "text": "Your website isn't a brochure. It's a salesperson. If it can't close, rebuild it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "marketing"
   ],
   "tags": [
-    "quick-start",
-    "onboarding"
+    "website",
+    "conversion"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-saas-should-have",
+  "id": "based-your-website-isnt-a",
   "source": "Community sourced"
 }

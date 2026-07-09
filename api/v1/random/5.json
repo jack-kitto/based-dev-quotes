@@ -1,18 +1,16 @@
 {
-  "id": "product-nobody-wants",
-  "text": "Nothing is more devastating to a startup than building something nobody wants. And nothing is more common.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Startup culture",
+  "text": "The only real mistake is the one from which we learn nothing.",
+  "author": "Henry Ford",
+  "author_slug": "ford",
   "categories": [
-    "founder",
-    "suffering"
+    "wisdom"
   ],
   "tags": [
-    "product-market-fit",
-    "validation",
-    "failure"
+    "mistakes",
+    "learning"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1,
+  "id": "ford-the-only-real-mistake",
+  "source": "Community sourced"
 }

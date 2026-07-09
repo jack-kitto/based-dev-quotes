@@ -1,19 +1,18 @@
 {
-  "id": "rewrite-in-rust",
-  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Hacker News / Reddit",
+  "id": "cantrill-debugging-production",
+  "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
+  "author": "Bryan Cantrill",
+  "author_slug": "cantrill",
+  "source": "Platform as a Reflection of Values, 2018",
   "categories": [
-    "funny",
-    "shitpost",
-    "tools"
+    "suffering",
+    "debugging"
   ],
   "tags": [
-    "rust",
-    "rewrite",
-    "hype"
+    "production",
+    "fear",
+    "deployment"
   ],
   "grug_level": 4,
-  "spiciness": 4
+  "spiciness": 2
 }

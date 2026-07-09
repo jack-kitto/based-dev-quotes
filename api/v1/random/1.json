@@ -1,17 +1,17 @@
 {
-  "text": "Every SaaS should have an API. Every API should have docs. Every docs page should have examples.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "brooks-silver-bullet",
+  "text": "There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.",
+  "author": "Fred Brooks",
+  "author_slug": "brooks",
+  "source": "No Silver Bullet, 1986",
   "categories": [
-    "saas",
-    "engineering"
+    "wisdom"
   ],
   "tags": [
-    "api",
-    "documentation"
+    "productivity",
+    "silver-bullet",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-every-saas-should-have-542",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }
