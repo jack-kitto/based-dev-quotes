@@ -1,16 +1,18 @@
 {
-  "text": "Your website isn't a brochure. It's a salesperson. If it can't close, rebuild it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "debugging-detective",
+  "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+  "author": "Filipe Fortes",
+  "author_slug": "fortes",
+  "source": "Twitter, 2013",
   "categories": [
-    "marketing"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "website",
-    "conversion"
+    "debugging",
+    "detective",
+    "crime"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-website-isnt-a",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Your leadership is defined by the decisions you make when nobody's watching.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+  "author": "Cal Newport",
+  "author_slug": "newport",
   "categories": [
-    "business"
+    "productivity"
   ],
   "tags": [
-    "leadership",
-    "integrity"
+    "deep-work",
+    "value"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-leadership-is-defined",
+  "spiciness": 1,
+  "id": "newport-the-ability-to-perform",
   "source": "Community sourced"
 }

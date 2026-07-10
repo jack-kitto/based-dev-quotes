@@ -1,18 +1,16 @@
 {
-  "id": "cantrill-debugging-production",
-  "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
-  "author": "Bryan Cantrill",
-  "author_slug": "cantrill",
-  "source": "Platform as a Reflection of Values, 2018",
+  "text": "If your feature flags are more complex than your code, you've built a configuration management system.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "suffering",
-    "debugging"
+    "engineering"
   ],
   "tags": [
-    "production",
-    "fear",
-    "deployment"
+    "feature-flags",
+    "complexity"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 3,
+  "id": "based-if-your-feature-flags",
+  "source": "Community sourced"
 }

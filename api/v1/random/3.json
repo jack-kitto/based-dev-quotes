@@ -1,17 +1,16 @@
 {
-  "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
+  "text": "Your first year in business is survival. Your second year is learning. Your third year is growth.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "growth",
-    "improvement"
+    "timeline",
+    "expectations"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-youre-not-embarrassed",
+  "id": "based-your-first-year-in",
   "source": "Community sourced"
 }

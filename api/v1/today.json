@@ -1,17 +1,18 @@
 {
-  "text": "The best way to retain talent is to give them meaningful work, not just a good salary.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
+  "author": "Paul J. Meyer",
+  "author_slug": "meyer",
   "categories": [
-    "business"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "retention",
-    "meaning"
+    "planning",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-825",
+  "spiciness": 1,
+  "id": "meyer-productivity-is-never-an",
   "source": "Community sourced",
-  "_date": "2026-07-09"
+  "_date": "2026-07-10"
 }

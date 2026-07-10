@@ -1,18 +1,17 @@
 {
-  "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
+  "text": "Content marketing is just storytelling for people who are afraid to ask for the sale.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
     "marketing"
   ],
   "tags": [
-    "distribution",
-    "product"
+    "content-marketing",
+    "sales"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-tech-stack-matters",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-content-marketing-is-just",
   "source": "Community sourced",
-  "_generated_at": "2026-07-09T03:20:50.014703+00:00"
+  "_generated_at": "2026-07-10T03:22:53.994089+00:00"
 }

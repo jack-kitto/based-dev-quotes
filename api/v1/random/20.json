@@ -1,16 +1,16 @@
 {
-  "text": "Your business should be boring to run and exciting to bank.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "A leader is one who knows the way, goes the way, and shows the way.",
+  "author": "John C. Maxwell",
+  "author_slug": "maxwell",
   "categories": [
     "business"
   ],
   "tags": [
-    "boring",
-    "revenue"
+    "leadership",
+    "example"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-business-should-be",
+  "spiciness": 1,
+  "id": "maxwell-a-leader-is-one",
   "source": "Community sourced"
 }

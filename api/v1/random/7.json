@@ -1,17 +1,18 @@
 {
-  "text": "Your most valuable product feedback comes from the users who almost left but stayed. Find out why they stayed.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "dijkstra-humble-programmer",
+  "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "The Humble Programmer, 1972 Turing Award Lecture",
   "categories": [
-    "users",
-    "product"
+    "wisdom",
+    "grug"
   ],
   "tags": [
-    "retention",
-    "insight"
+    "humility",
+    "competence",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-most-valuable-product",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

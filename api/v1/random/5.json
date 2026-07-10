@@ -1,16 +1,16 @@
 {
-  "text": "The only real mistake is the one from which we learn nothing.",
-  "author": "Henry Ford",
-  "author_slug": "ford",
+  "text": "Your SaaS should have a status page that's always up to date. When it's down, your status page is the only thing users trust.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "saas"
   ],
   "tags": [
-    "mistakes",
-    "learning"
+    "status-page",
+    "trust"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ford-the-only-real-mistake",
+  "spiciness": 2,
+  "id": "based-your-saas-should-have-765",
   "source": "Community sourced"
 }
