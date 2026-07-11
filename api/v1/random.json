@@ -1,17 +1,17 @@
 {
-  "text": "Content marketing is just storytelling for people who are afraid to ask for the sale.",
+  "text": "Rest is not the opposite of work. It's the foundation of it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "productivity"
   ],
   "tags": [
-    "content-marketing",
-    "sales"
+    "rest",
+    "work"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-content-marketing-is-just",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "based-rest-is-not-the",
   "source": "Community sourced",
-  "_generated_at": "2026-07-10T03:22:53.994089+00:00"
+  "_generated_at": "2026-07-11T02:41:04.061205+00:00"
 }

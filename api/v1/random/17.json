@@ -1,17 +1,17 @@
 {
-  "text": "The best engineers aren't the ones who write the most code. They're the ones who delete the most code.",
+  "text": "There are only 10 types of people in the world: those who understand binary and those who don't.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering",
-    "wisdom"
+    "shitpost"
   ],
   "tags": [
-    "deletion",
-    "simplicity"
+    "binary",
+    "jokes"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-engineers-arent",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-there-are-only-10",
   "source": "Community sourced"
 }

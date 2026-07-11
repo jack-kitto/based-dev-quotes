@@ -1,16 +1,16 @@
 {
-  "text": "A leader is one who knows the way, goes the way, and shows the way.",
-  "author": "John C. Maxwell",
-  "author_slug": "maxwell",
+  "text": "The best time to add a loading skeleton is before the user sees a blank screen for the first time.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "leadership",
-    "example"
+    "loading",
+    "skeleton"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "maxwell-a-leader-is-one",
+  "spiciness": 2,
+  "id": "based-the-best-time-to-744",
   "source": "Community sourced"
 }

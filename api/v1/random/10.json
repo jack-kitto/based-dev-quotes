@@ -1,16 +1,17 @@
 {
-  "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+  "text": "Your staging environment should match production. If it doesn't, your staging is lying to you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "code-review",
-    "knowledge-sharing"
+    "staging",
+    "parity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-code-reviews-arent-about",
+  "id": "based-your-staging-environment-should-741",
   "source": "Community sourced"
 }

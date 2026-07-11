@@ -1,18 +1,17 @@
 {
-  "id": "dijkstra-humble-programmer",
-  "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
-  "source": "The Humble Programmer, 1972 Turing Award Lecture",
+  "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "grug"
+    "business",
+    "saas"
   ],
   "tags": [
-    "humility",
-    "competence",
-    "classic"
+    "customer-success",
+    "listening"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-customer-success-team",
+  "source": "Community sourced"
 }

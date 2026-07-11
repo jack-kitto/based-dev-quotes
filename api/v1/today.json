@@ -1,18 +1,18 @@
 {
-  "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
-  "author": "Paul J. Meyer",
-  "author_slug": "meyer",
+  "text": "The best way to build a personal brand is to be genuinely helpful. Not performative. Helpful.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "business",
+    "marketing"
   ],
   "tags": [
-    "planning",
-    "focus"
+    "personal-brand",
+    "helpfulness"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "meyer-productivity-is-never-an",
+  "spiciness": 2,
+  "id": "based-the-best-way-to-1010",
   "source": "Community sourced",
-  "_date": "2026-07-10"
+  "_date": "2026-07-11"
 }
