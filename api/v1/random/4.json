@@ -1,16 +1,16 @@
 {
-  "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "pike-data-dominates",
+  "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.",
+  "author": "Rob Pike",
+  "author_slug": "pike",
+  "source": "Notes on Programming in C, 1989",
   "categories": [
-    "engineering"
+    "wisdom"
   ],
   "tags": [
-    "tailwind",
-    "css"
+    "data-structures",
+    "design"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-tailwind-css-is-just",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 1
 }

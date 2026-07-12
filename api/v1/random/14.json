@@ -1,16 +1,17 @@
 {
-  "text": "Your test suite should catch regressions. If it doesn't, it's just running code for no reason.",
+  "text": "Your CI pipeline should be faster than your coffee break. If it's not, optimize it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "testing",
-    "regression"
+    "ci",
+    "speed"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-test-suite-should",
+  "id": "based-your-ci-pipeline-should",
   "source": "Community sourced"
 }

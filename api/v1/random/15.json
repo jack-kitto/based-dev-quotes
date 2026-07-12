@@ -1,18 +1,18 @@
 {
-  "id": "levels-just-ship",
-  "text": "Stop overthinking. Start shipping. The market will tell you what to build next.",
-  "author": "Pieter Levels",
-  "author_slug": "levels",
-  "source": "Twitter / nomadlist.com",
+  "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "design",
+    "saas"
   ],
   "tags": [
-    "shipping",
-    "iteration",
-    "feedback"
+    "saas",
+    "landing-page",
+    "shitpost"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 4,
+  "id": "based-if-your-saas-has",
+  "source": "Community sourced"
 }

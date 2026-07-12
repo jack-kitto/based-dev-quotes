@@ -1,17 +1,16 @@
 {
-  "text": "Why do Java developers wear glasses? Because they can't C#.",
+  "text": "Your startup is a bet on yourself. Bet big.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "entrepreneur"
   ],
   "tags": [
-    "java",
-    "csharp"
+    "bet",
+    "confidence"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-why-do-java-developers",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-startup-is-a",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "The best way to reduce churn is to make your product indispensable. Not by locking people in. By being too useful to leave.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sleep-sort",
+  "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "users",
-    "product"
+    "funny"
   ],
   "tags": [
-    "churn",
-    "value"
+    "stackoverflow",
+    "hacking",
+    "approximation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-680",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

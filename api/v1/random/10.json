@@ -1,17 +1,17 @@
 {
-  "text": "Your staging environment should match production. If it doesn't, your staging is lying to you.",
+  "text": "Every design is a wireframe until someone puts a gradient on it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "design",
+    "shitpost"
   ],
   "tags": [
-    "staging",
-    "parity"
+    "wireframe",
+    "gradients"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-staging-environment-should-741",
+  "id": "based-every-design-is-a",
   "source": "Community sourced"
 }

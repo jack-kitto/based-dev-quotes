@@ -1,18 +1,17 @@
 {
-  "id": "debugging-detective",
-  "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
-  "author": "Filipe Fortes",
-  "author_slug": "fortes",
-  "source": "Twitter, 2013",
+  "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "debugging"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "debugging",
-    "detective",
-    "crime"
+    "deployment",
+    "complexity"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 3,
+  "id": "based-if-you-need-a-232",
+  "source": "Community sourced"
 }

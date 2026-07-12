@@ -1,17 +1,18 @@
 {
-  "text": "Rest is not the opposite of work. It's the foundation of it.",
+  "text": "If a user has to read a manual to use your product, your product has failed.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "users",
+    "design"
   ],
   "tags": [
-    "rest",
-    "work"
+    "documentation",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-rest-is-not-the",
+  "spiciness": 2,
+  "id": "based-if-a-user-has",
   "source": "Community sourced",
-  "_generated_at": "2026-07-11T02:41:04.061205+00:00"
+  "_generated_at": "2026-07-12T02:48:53.776173+00:00"
 }
