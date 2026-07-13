@@ -1,17 +1,16 @@
 {
-  "text": "If you build exactly what the customer asked for, they'll complain it doesn't work the way they actually need it to.",
+  "text": "Your team should celebrate wins, not just survived losses. Recognition is fuel.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "requirements",
-    "expectations"
+    "recognition",
+    "culture"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-if-you-build-exactly",
+  "spiciness": 1,
+  "id": "based-your-team-should-celebrate",
   "source": "Community sourced"
 }

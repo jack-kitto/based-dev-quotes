@@ -1,17 +1,19 @@
 {
-  "id": "cantrill-dtrace",
-  "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
-  "author": "Bryan Cantrill",
-  "author_slug": "cantrill",
-  "source": "Debugging Under Fire, 2018",
+  "id": "blockchain-database",
+  "text": "Blockchain: a database, but slower, and everyone can see your data.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "debugging",
-    "wisdom"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "debugging",
-    "mental-models"
+    "blockchain",
+    "crypto",
+    "database",
+    "reductionism"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 4
 }

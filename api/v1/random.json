@@ -1,18 +1,17 @@
 {
-  "text": "If a user has to read a manual to use your product, your product has failed.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Don't watch the clock; do what it does. Keep going.",
+  "author": "Sam Levenson",
+  "author_slug": "levenson",
   "categories": [
-    "users",
-    "design"
+    "wisdom"
   ],
   "tags": [
-    "documentation",
-    "ux"
+    "persistence",
+    "action"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-a-user-has",
+  "spiciness": 1,
+  "id": "levenson-dont-watch-the-clock",
   "source": "Community sourced",
-  "_generated_at": "2026-07-12T02:48:53.776173+00:00"
+  "_generated_at": "2026-07-13T02:50:24.357764+00:00"
 }

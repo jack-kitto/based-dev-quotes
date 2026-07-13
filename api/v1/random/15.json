@@ -1,18 +1,16 @@
 {
-  "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+  "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "saas"
+    "engineering"
   ],
   "tags": [
-    "saas",
-    "landing-page",
-    "shitpost"
+    "debugging",
+    "logging"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-if-your-saas-has",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-debugging-strategy",
   "source": "Community sourced"
 }
