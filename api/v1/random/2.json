@@ -1,16 +1,16 @@
 {
-  "text": "The cloud is just someone else's computer that charges you rent and occasionally catches fire.",
+  "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "saas"
   ],
   "tags": [
-    "cloud",
-    "servers"
+    "compliance",
+    "security"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-cloud-is-just",
+  "spiciness": 4,
+  "id": "based-soc-2-compliance-is",
   "source": "Community sourced"
 }

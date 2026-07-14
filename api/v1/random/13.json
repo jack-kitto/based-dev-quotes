@@ -1,16 +1,17 @@
 {
-  "text": "The best time to optimize your workflow is when you're doing the same thing for the third time. Automate it.",
+  "text": "Your product's ecosystem is your moat. The more integrations, the harder to leave.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "business",
+    "saas"
   ],
   "tags": [
-    "workflow",
-    "automation"
+    "moat",
+    "integrations"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-939",
+  "id": "based-your-products-ecosystem-is",
   "source": "Community sourced"
 }

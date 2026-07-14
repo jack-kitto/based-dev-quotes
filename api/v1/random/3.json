@@ -1,17 +1,17 @@
 {
-  "text": "If you ask users what they want, they'll say a faster horse. Your job is to build the car.",
+  "text": "The best metrics are actionable. If a metric doesn't tell you what to do next, it's not a metric — it's a number.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
+    "business",
     "product"
   ],
   "tags": [
-    "users",
-    "innovation"
+    "metrics",
+    "actionable"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-ask-users",
+  "id": "based-the-best-metrics-are",
   "source": "Community sourced"
 }

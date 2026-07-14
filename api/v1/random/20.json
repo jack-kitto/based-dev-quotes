@@ -1,19 +1,17 @@
 {
-  "id": "blockchain-database",
-  "text": "Blockchain: a database, but slower, and everyone can see your data.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Every codebase is one junior dev away from a complete rewrite.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
+    "engineering",
     "shitpost"
   ],
   "tags": [
-    "blockchain",
-    "crypto",
-    "database",
-    "reductionism"
+    "junior",
+    "rewrite"
   ],
-  "grug_level": 5,
-  "spiciness": 4
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-every-codebase-is-one",
+  "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Your most powerful marketing asset is a customer who genuinely loves what you built.",
+  "text": "Your design system should fit in one file. If it doesn't, you've built a framework.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "design"
   ],
   "tags": [
-    "customers",
-    "advocacy"
+    "design-systems",
+    "simplicity"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-most-powerful-marketing",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-design-system-should",
   "source": "Community sourced"
 }

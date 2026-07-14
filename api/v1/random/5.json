@@ -1,18 +1,17 @@
 {
-  "id": "brooks-mythical-man-month",
-  "text": "Adding manpower to a late software project makes it later.",
-  "author": "Fred Brooks",
-  "author_slug": "brooks",
-  "source": "The Mythical Man-Month, 1975",
+  "text": "Simplicity is the ultimate sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
     "wisdom",
-    "suffering"
+    "design"
   ],
   "tags": [
-    "management",
-    "teams",
+    "simplicity",
     "classic"
   ],
   "grug_level": 2,
-  "spiciness": 2
+  "spiciness": 1,
+  "id": "davinci-simplicity-is-the-ultimate",
+  "source": "Community sourced"
 }

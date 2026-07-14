@@ -1,17 +1,17 @@
 {
-  "text": "Don't watch the clock; do what it does. Keep going.",
-  "author": "Sam Levenson",
-  "author_slug": "levenson",
+  "text": "The simplest solution is almost always the best one.",
+  "author": "Sherlock Holmes",
+  "author_slug": "holmes",
   "categories": [
     "wisdom"
   ],
   "tags": [
-    "persistence",
-    "action"
+    "simplicity",
+    "solutions"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "levenson-dont-watch-the-clock",
+  "id": "holmes-the-simplest-solution-is",
   "source": "Community sourced",
-  "_generated_at": "2026-07-13T02:50:24.357764+00:00"
+  "_generated_at": "2026-07-14T02:31:35.284543+00:00"
 }

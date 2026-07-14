@@ -1,16 +1,17 @@
 {
-  "text": "Your ability to focus is your most valuable skill. Train it like a muscle.",
+  "text": "User feedback is data. But data without context is just noise. Always ask 'why?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "users",
+    "product"
   ],
   "tags": [
-    "focus",
-    "skill"
+    "feedback",
+    "context"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-ability-to-focus",
+  "id": "based-user-feedback-is-data",
   "source": "Community sourced"
 }

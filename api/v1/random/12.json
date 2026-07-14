@@ -1,17 +1,16 @@
 {
-  "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+  "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "engineering"
+    "business"
   ],
   "tags": [
-    "api",
-    "integrations"
+    "problem-solving",
+    "pain"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-apifirst-saas-companies-think",
+  "id": "based-the-best-businesses-solve-508",
   "source": "Community sourced"
 }

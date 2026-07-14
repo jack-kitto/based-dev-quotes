@@ -1,17 +1,18 @@
 {
-  "text": "Every viral product started as a product that was useful to 10 people. Make those 10 people ecstatic.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "graham-default-alive",
+  "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Default Alive or Default Dead?, 2015",
   "categories": [
-    "marketing",
-    "product"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "virality",
-    "early-users"
+    "survival",
+    "profitability",
+    "startups"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-viral-product-started",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

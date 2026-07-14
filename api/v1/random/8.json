@@ -1,16 +1,16 @@
 {
-  "text": "The best API design is one where the next endpoint is exactly where you'd expect it to be.",
+  "text": "Your online presence is your resume. Keep it updated and keep it real.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "api",
-    "intuition"
+    "online-presence",
+    "resume"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-api-design",
+  "id": "based-your-online-presence-is",
   "source": "Community sourced"
 }
