@@ -1,16 +1,16 @@
 {
-  "text": "The market doesn't care about your tech stack. The market cares about whether you solve their problem.",
+  "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "tech-stack",
-    "market"
+    "frameworks",
+    "pragmatism"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-market-doesnt-care",
+  "spiciness": 2,
+  "id": "based-the-best-frontend-framework",
   "source": "Community sourced"
 }

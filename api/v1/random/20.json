@@ -1,17 +1,16 @@
 {
-  "text": "Every codebase is one junior dev away from a complete rewrite.",
+  "text": "The best time to start monetizing is the day you launch. The worst is 'someday.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "indie-hacker"
   ],
   "tags": [
-    "junior",
-    "rewrite"
+    "monetization",
+    "pricing"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-every-codebase-is-one",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-555",
   "source": "Community sourced"
 }

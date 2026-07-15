@@ -1,16 +1,18 @@
 {
-  "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "marc-lou-build-fast",
+  "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+  "author": "Marc Lou",
+  "author_slug": "marclou",
+  "source": "Twitter / YouTube",
   "categories": [
-    "saas"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "compliance",
-    "security"
+    "speed",
+    "competition",
+    "shipping"
   ],
   "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-soc-2-compliance-is",
-  "source": "Community sourced"
+  "spiciness": 2
 }

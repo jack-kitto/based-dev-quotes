@@ -1,17 +1,16 @@
 {
-  "text": "User feedback is data. But data without context is just noise. Always ask 'why?'",
+  "text": "Every business is a bet on the future. The best bets are the ones where you're building the future you're betting on.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "feedback",
-    "context"
+    "bet",
+    "future"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-user-feedback-is-data",
+  "id": "based-every-business-is-a",
   "source": "Community sourced"
 }

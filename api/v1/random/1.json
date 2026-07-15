@@ -1,18 +1,18 @@
 {
-  "id": "graham-default-alive",
-  "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Default Alive or Default Dead?, 2015",
+  "id": "raymond-enough-eyeballs",
+  "text": "Given enough eyeballs, all bugs are shallow.",
+  "author": "Eric S. Raymond",
+  "author_slug": "raymond",
+  "source": "The Cathedral and the Bazaar, 1999",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "wisdom"
   ],
   "tags": [
-    "survival",
-    "profitability",
-    "startups"
+    "open-source",
+    "debugging",
+    "community",
+    "classic"
   ],
-  "grug_level": 4,
+  "grug_level": 2,
   "spiciness": 1
 }

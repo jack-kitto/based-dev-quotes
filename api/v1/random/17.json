@@ -1,16 +1,16 @@
 {
-  "text": "Your design system should fit in one file. If it doesn't, you've built a framework.",
+  "text": "If you don't have a type system, your tests are your type system. If you have both, you're just being thorough.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "design-systems",
-    "simplicity"
+    "types",
+    "testing"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-design-system-should",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-if-you-dont-have",
   "source": "Community sourced"
 }

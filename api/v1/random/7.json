@@ -1,18 +1,17 @@
 {
-  "id": "production-is-different",
-  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
-  "author": "Yogi Berra (applied to programming)",
-  "author_slug": "berra",
-  "source": "Various attributions",
+  "text": "The best SaaS businesses are built on boring, repetitive problems. Boring problems pay monthly.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "saas",
+    "business"
   ],
   "tags": [
-    "theory",
-    "practice",
-    "production"
+    "boring",
+    "recurring-revenue"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-the-best-saas-businesses-652",
+  "source": "Community sourced"
 }

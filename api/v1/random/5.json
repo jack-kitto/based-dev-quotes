@@ -1,17 +1,18 @@
 {
-  "text": "Simplicity is the ultimate sophistication.",
-  "author": "Leonardo da Vinci",
-  "author_slug": "davinci",
+  "id": "dijkstra-humble-programmer",
+  "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "The Humble Programmer, 1972 Turing Award Lecture",
   "categories": [
     "wisdom",
-    "design"
+    "grug"
   ],
   "tags": [
-    "simplicity",
+    "humility",
+    "competence",
     "classic"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "davinci-simplicity-is-the-ultimate",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

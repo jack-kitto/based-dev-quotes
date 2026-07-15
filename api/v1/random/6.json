@@ -1,17 +1,18 @@
 {
-  "text": "Worse is better.",
-  "author": "Richard P. Gabriel",
-  "author_slug": "gabriel",
+  "id": "rm-rf-solution",
+  "text": "Sometimes the most productive thing you can do is delete everything and start with a clear head. But maybe git stash first.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "shipping"
   ],
   "tags": [
-    "simplicity",
-    "pragmatism"
+    "deletion",
+    "restart",
+    "git"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "gabriel-worse-is-better",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }
