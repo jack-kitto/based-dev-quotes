@@ -1,16 +1,16 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "Docker is just a fancy way of saying 'it works on my machine' and then shipping your machine.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "docker",
+    "containers"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "spiciness": 3,
+  "id": "based-docker-is-just-a",
   "source": "Community sourced"
 }

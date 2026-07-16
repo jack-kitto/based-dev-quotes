@@ -1,18 +1,17 @@
 {
-  "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+  "text": "Every design trend is just the previous trend with different border-radius.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "design"
   ],
   "tags": [
-    "deployment",
-    "complexity"
+    "trends",
+    "shitpost"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-if-you-need-a-232",
+  "id": "based-every-design-trend-is",
   "source": "Community sourced",
-  "_generated_at": "2026-07-15T02:29:49.272374+00:00"
+  "_generated_at": "2026-07-16T02:37:55.772875+00:00"
 }

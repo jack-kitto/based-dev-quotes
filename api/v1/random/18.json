@@ -1,16 +1,17 @@
 {
-  "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
+  "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "frameworks",
-    "pragmatism"
+    "clarity",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-frontend-framework",
+  "id": "based-if-you-cant-explain",
   "source": "Community sourced"
 }

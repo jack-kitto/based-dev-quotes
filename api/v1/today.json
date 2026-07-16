@@ -1,17 +1,17 @@
 {
-  "text": "Content is king. Distribution is god. The graveyard is full of kings nobody visited.",
+  "text": "Indie hackers: 'I want to build something that makes $10k MRR.' Reality: you build something that makes $100 MRR and you're thrilled.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "indie-hacker"
   ],
   "tags": [
-    "content",
-    "distribution"
+    "expectations",
+    "reality"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-content-is-king-distribution",
+  "id": "based-indie-hackers-i-want",
   "source": "Community sourced",
-  "_date": "2026-07-15"
+  "_date": "2026-07-16"
 }

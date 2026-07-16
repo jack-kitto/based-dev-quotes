@@ -1,18 +1,16 @@
 {
-  "id": "raymond-enough-eyeballs",
-  "text": "Given enough eyeballs, all bugs are shallow.",
-  "author": "Eric S. Raymond",
-  "author_slug": "raymond",
-  "source": "The Cathedral and the Bazaar, 1999",
+  "text": "Entrepreneurship is not a job. It's a lifestyle. Choose it intentionally.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "entrepreneur"
   ],
   "tags": [
-    "open-source",
-    "debugging",
-    "community",
-    "classic"
+    "lifestyle",
+    "choice"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-entrepreneurship-is-not-a",
+  "source": "Community sourced"
 }

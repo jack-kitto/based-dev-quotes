@@ -1,16 +1,16 @@
 {
-  "text": "Every business is a bet on the future. The best bets are the ones where you're building the future you're betting on.",
+  "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity"
   ],
   "tags": [
-    "bet",
-    "future"
+    "tools",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-business-is-a",
+  "id": "based-your-tools-should-serve",
   "source": "Community sourced"
 }

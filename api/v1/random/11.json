@@ -1,16 +1,18 @@
 {
-  "text": "Cold email works when it's actually about them, not about you. Which means 99% of cold emails don't work.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "levels-12-startups",
+  "text": "Build 12 startups in 12 months. Most will fail. The ones that don't will change your life.",
+  "author": "Pieter Levels",
+  "author_slug": "levels",
+  "source": "12 Startups in 12 Months challenge, 2014",
   "categories": [
-    "marketing"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "cold-email",
-    "personalization"
+    "startups",
+    "speed",
+    "experimentation"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-cold-email-works-when",
-  "source": "Community sourced"
+  "spiciness": 2
 }

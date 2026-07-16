@@ -1,16 +1,17 @@
 {
-  "text": "Your SaaS should be good enough that customers forget they're paying for it until the invoice arrives.",
+  "text": "Your onboarding email sequence should feel like a helpful friend, not a desperate salesperson.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "value",
-    "seamlessness"
+    "email",
+    "onboarding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-saas-should-be-643",
+  "id": "based-your-onboarding-email-sequence",
   "source": "Community sourced"
 }

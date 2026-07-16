@@ -1,17 +1,17 @@
 {
-  "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
+  "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "engineering"
+    "engineering",
+    "shipping"
   ],
   "tags": [
-    "resilience",
-    "progressive"
+    "shipping",
+    "testing"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-should-work",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-ship-then-test-not",
   "source": "Community sourced"
 }
