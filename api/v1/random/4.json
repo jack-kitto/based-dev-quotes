@@ -1,16 +1,18 @@
 {
-  "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "patio11-salary-negotiation",
+  "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+  "author": "Patrick McKenzie (patio11)",
+  "author_slug": "patio11",
+  "source": "Don't Call Yourself a Programmer, 2011",
   "categories": [
-    "productivity"
+    "career",
+    "indie-hacker"
   ],
   "tags": [
-    "tools",
-    "simplicity"
+    "career",
+    "positioning",
+    "salary"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-tools-should-serve",
-  "source": "Community sourced"
+  "spiciness": 2
 }

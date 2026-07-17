@@ -1,16 +1,19 @@
 {
-  "text": "Entrepreneurship is not a job. It's a lifestyle. Choose it intentionally.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "graham-do-things-that-dont-scale",
+  "text": "Do things that don't scale.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Do Things That Don't Scale, 2013",
   "categories": [
-    "entrepreneur"
+    "indie-hacker",
+    "wisdom"
   ],
   "tags": [
-    "lifestyle",
-    "choice"
+    "startups",
+    "hustle",
+    "growth",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-entrepreneurship-is-not-a",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

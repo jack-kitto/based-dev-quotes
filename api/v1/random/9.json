@@ -1,17 +1,17 @@
 {
-  "text": "Ship, then test. Not test, then ship. The market doesn't wait for your test suite.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "perlis-optimization",
+  "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+  "author": "Alan Perlis",
+  "author_slug": "perlis",
+  "source": "Epigrams on Programming, 1982",
   "categories": [
-    "engineering",
-    "shipping"
+    "wisdom"
   ],
   "tags": [
-    "shipping",
-    "testing"
+    "optimization",
+    "evolution",
+    "design"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-ship-then-test-not",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 2
 }

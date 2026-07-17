@@ -1,17 +1,16 @@
 {
-  "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+  "text": "Your personal brand is what people say about you when you're not in the room. Make sure it's worth saying.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "clarity",
-    "simplicity"
+    "personal-brand",
+    "reputation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-cant-explain",
+  "id": "based-your-personal-brand-is",
   "source": "Community sourced"
 }

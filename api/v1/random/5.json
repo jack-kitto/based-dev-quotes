@@ -1,17 +1,18 @@
 {
-  "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
+  "text": "The lean startup method is just the scientific method for people who failed biology.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "engineering"
+    "business",
+    "entrepreneur",
+    "shitpost"
   ],
   "tags": [
-    "tech-stack",
-    "shipping"
+    "lean-startup",
+    "methodology"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-tech-stack",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-lean-startup-method",
   "source": "Community sourced"
 }
