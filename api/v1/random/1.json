@@ -1,19 +1,17 @@
 {
-  "id": "graham-do-things-that-dont-scale",
-  "text": "Do things that don't scale.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Do Things That Don't Scale, 2013",
+  "text": "Most business advice is survivorship bias. The successful founders tell you what worked. The failed ones knew what didn't.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
+    "business",
     "wisdom"
   ],
   "tags": [
-    "startups",
-    "hustle",
-    "growth",
-    "classic"
+    "advice",
+    "bias"
   ],
-  "grug_level": 4,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 3,
+  "id": "based-most-business-advice-is",
+  "source": "Community sourced"
 }

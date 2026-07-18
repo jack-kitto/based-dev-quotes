@@ -1,17 +1,17 @@
 {
-  "text": "Your product should do one thing exceptionally well. Not ten things mediocrely.",
+  "text": "Every SaaS has a 'this should be simple' feature that takes 3 weeks to build. Budget for it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "product"
+    "saas"
   ],
   "tags": [
-    "focus",
-    "excellence"
+    "estimation",
+    "reality"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-should-do",
+  "spiciness": 3,
+  "id": "based-every-saas-has-a",
   "source": "Community sourced",
-  "_date": "2026-07-17"
+  "_date": "2026-07-18"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "The best product decisions come from observing users, not surveying them. Surveys measure opinions. Observations measure behavior.",
+  "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "user-research",
-    "observations"
+    "code-quality",
+    "boy-scout"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-product-decisions",
+  "id": "based-the-best-engineers-leave",
   "source": "Community sourced"
 }

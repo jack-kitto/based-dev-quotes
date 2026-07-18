@@ -1,16 +1,19 @@
 {
-  "text": "Every mistake is a lesson. Every lesson makes you better. Fail fast, learn faster.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-closures",
+  "text": "grug no mass mass like closure. closure make code look mass smart but grug mass mass debug closure and mass mass not fun.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "wisdom"
+    "grug",
+    "debugging"
   ],
   "tags": [
-    "failure",
-    "learning"
+    "closures",
+    "debugging",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-mistake-is-a",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

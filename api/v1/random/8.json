@@ -1,16 +1,17 @@
 {
-  "text": "Your indie project is your baby. Take care of it. Feed it. Grow it.",
+  "text": "Time management is really just priority management. If everything is a priority, nothing is.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "care",
-    "growth"
+    "priorities",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-indie-project-is-1073",
+  "spiciness": 2,
+  "id": "based-time-management-is-really",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "The best engineers write the fewest lines of code. The worst engineers write the most features.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "it-compiled",
+  "text": "My code doesn't have bugs. It just develops random features.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny"
   ],
   "tags": [
-    "efficiency",
-    "simplicity"
+    "bugs",
+    "features",
+    "denial"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-engineers-write",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }
