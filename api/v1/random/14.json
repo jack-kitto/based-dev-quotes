@@ -1,17 +1,16 @@
 {
-  "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
+  "text": "The indie hacker's greatest superpower isn't coding. It's the ability to make decisions without asking permission.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "code-quality",
-    "boy-scout"
+    "decision-making",
+    "autonomy"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-engineers-leave",
+  "id": "based-the-indie-hackers-greatest",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "Every SaaS has a 'this should be simple' feature that takes 3 weeks to build. Budget for it.",
+  "text": "Burnout isn't caused by working too hard. It's caused by working too hard on things that don't matter.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "estimation",
-    "reality"
+    "burnout",
+    "meaning"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-every-saas-has-a",
+  "spiciness": 2,
+  "id": "based-burnout-isnt-caused-by",
   "source": "Community sourced",
-  "_date": "2026-07-18"
+  "_date": "2026-07-19"
 }

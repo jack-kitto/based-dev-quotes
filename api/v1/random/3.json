@@ -1,16 +1,17 @@
 {
-  "text": "Meetings are where minutes are kept and hours are lost.",
+  "text": "Your product should be good enough to sell itself. If it isn't, fix the product, not the marketing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "saas",
+    "product"
   ],
   "tags": [
-    "meetings",
-    "waste"
+    "product",
+    "marketing"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-meetings-are-where-minutes",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-product-should-be",
   "source": "Community sourced"
 }
