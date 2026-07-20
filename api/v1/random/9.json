@@ -1,16 +1,17 @@
 {
-  "text": "Revenue is just a number. Profit is what matters. Cash flow is what keeps you alive.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "business"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "revenue",
-    "cash-flow"
+    "risk",
+    "innovation"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-revenue-is-just-a",
+  "spiciness": 1,
+  "id": "zuckerberg-the-biggest-risk-is",
   "source": "Community sourced"
 }

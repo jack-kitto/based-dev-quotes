@@ -1,16 +1,16 @@
 {
-  "text": "The indie hacker's greatest superpower isn't coding. It's the ability to make decisions without asking permission.",
+  "text": "Your indie project doesn't need a perfect logo. It needs paying customers. Ship.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker"
   ],
   "tags": [
-    "decision-making",
-    "autonomy"
+    "shipping",
+    "priorities"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-indie-hackers-greatest",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-indie-project-doesnt",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "The 5 AM club only works if you go to bed at 9 PM. Most people who join it just lose 2 hours of sleep and call it discipline.",
+  "text": "The best exit strategy is the one you don't need because the business is printing money.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "morning-routine",
-    "sleep"
+    "exit",
+    "sustainability"
   ],
   "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-5-am-club",
+  "spiciness": 3,
+  "id": "based-the-best-exit-strategy",
   "source": "Community sourced"
 }

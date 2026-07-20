@@ -1,17 +1,16 @@
 {
-  "text": "The best code is no code at all. Every line of code is a liability.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
+  "text": "If you can't explain your product's value in one sentence, you don't understand it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "product"
   ],
   "tags": [
-    "simplicity",
-    "less-code"
+    "value",
+    "clarity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "atwood-the-best-code-is",
+  "id": "based-if-you-cant-explain-909",
   "source": "Community sourced"
 }

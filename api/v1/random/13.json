@@ -1,16 +1,17 @@
 {
-  "text": "If your SaaS has an 'enterprise' tier, your pricing page should explain the difference in one sentence.",
+  "text": "Code that's easy to delete is better than code that's easy to write.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "pricing",
-    "clarity"
+    "simplicity",
+    "deletion"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-your-saas-has-647",
+  "id": "based-code-thats-easy-to",
   "source": "Community sourced"
 }

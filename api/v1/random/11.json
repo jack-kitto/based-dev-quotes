@@ -1,17 +1,16 @@
 {
-  "text": "The most productive people aren't busy. They're focused. Busy is noise. Focus is signal.",
+  "text": "If you can't test it, you can't ship it. If you can't ship it, you can't charge for it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "focus",
-    "busyness"
+    "testing",
+    "shipping"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-most-productive-people-581",
+  "id": "based-if-you-cant-test",
   "source": "Community sourced"
 }

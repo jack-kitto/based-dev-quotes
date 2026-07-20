@@ -1,17 +1,16 @@
 {
-  "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
+  "text": "The best error handling is the kind that never fires. The second best is the kind that fires with a helpful message.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "debugging",
-    "programming"
+    "error-handling",
+    "resilience"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "dijkstra-if-debugging-is-the",
+  "spiciness": 2,
+  "id": "based-the-best-error-handling",
   "source": "Community sourced"
 }

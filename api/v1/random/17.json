@@ -1,17 +1,19 @@
 {
-  "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-  "author": "Harold Abelson",
-  "author_slug": "abelson",
+  "id": "hoffman-embarrassed",
+  "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+  "author": "Reid Hoffman",
+  "author_slug": "hoffman",
+  "source": "LinkedIn founder, various interviews",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "readability",
-    "clarity"
+    "mvp",
+    "launching",
+    "perfection",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "abelson-programs-must-be-written",
-  "source": "Community sourced"
+  "spiciness": 1
 }

@@ -1,16 +1,16 @@
 {
-  "text": "If you're waiting for motivation, you'll be waiting forever. Motivation follows action, not the other way around.",
+  "text": "Your indie project should be good enough that users would be sad if it disappeared.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "indie-hacker"
   ],
   "tags": [
-    "motivation",
-    "action"
+    "value",
+    "indispensability"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-youre-waiting-for",
+  "id": "based-your-indie-project-should",
   "source": "Community sourced"
 }
