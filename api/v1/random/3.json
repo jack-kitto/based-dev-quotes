@@ -1,16 +1,17 @@
 {
-  "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
+  "text": "The best time to set up CI/CD was when you started the project. The second best time is now. The worst time is after your third 'it works on my machine' incident.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "pride",
-    "quality"
+    "cicd",
+    "deployment"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-indie-project-should-1066",
+  "id": "based-the-best-time-to-200",
   "source": "Community sourced"
 }

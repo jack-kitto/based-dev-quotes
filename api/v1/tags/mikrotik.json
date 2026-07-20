@@ -1,0 +1,28 @@
+{
+  "tag": "mikrotik",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I don't know what I'm doing. But my LLM does. I set up site-to-site VPNs with Mikrotek in fifteen minutes, rather than the day-long exercise of googling and praying.",
+      "author": "zulux",
+      "author_slug": "zulux",
+      "source": "Hacker News — HomeLab #1: MikroTik as a Home Router",
+      "source_url": "https://news.ycombinator.com/item?id=48970772",
+      "categories": [
+        "tools",
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "ai",
+        "networking",
+        "mikrotik",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Humorous, standalone insight about using LLMs to bypass complexity in networking, resonant with tech pragmatism and anti-complexity ethos.",
+      "id": "zulux-i-dont-know-what"
+    }
+  ]
+}

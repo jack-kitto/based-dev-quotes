@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 65,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,51 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "Maybe I’m taking crazy pills, but I’m still stuck on “why the hell does a TUI need to run in terminal React by way of JavaScript” The fact that Anthropic felt the need to buy a runtime so they could make their TUI better speaks more to the quality of engineering than anything else IMO. If rewrites are so easy, why not rewrite CC in a native language? Would’ve been a hell of a lot cheaper.",
+      "author": "weakfish",
+      "author_slug": "weakfish",
+      "source": "Hacker News — Claude Code uses Bun written in Rust now",
+      "source_url": "https://news.ycombinator.com/item?id=48966569",
+      "categories": [
+        "grug",
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "tui",
+        "javascript",
+        "complexity",
+        "engineering",
+        "humor"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Humorous critique of unnecessary complexity in software toolchains, with a grug-brained call for simplicity.",
+      "id": "weakfish-maybe-im-taking-crazy"
+    },
+    {
+      "text": "I don't know what I'm doing. But my LLM does. I set up site-to-site VPNs with Mikrotek in fifteen minutes, rather than the day-long exercise of googling and praying.",
+      "author": "zulux",
+      "author_slug": "zulux",
+      "source": "Hacker News — HomeLab #1: MikroTik as a Home Router",
+      "source_url": "https://news.ycombinator.com/item?id=48970772",
+      "categories": [
+        "tools",
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "ai",
+        "networking",
+        "mikrotik",
+        "productivity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Humorous, standalone insight about using LLMs to bypass complexity in networking, resonant with tech pragmatism and anti-complexity ethos.",
+      "id": "zulux-i-dont-know-what"
     }
   ]
 }

@@ -1,41 +1,8 @@
 {
-  "tag": "open-source",
-  "count": 3,
+  "author": "badlibrarian",
+  "slug": "badlibrarian",
+  "count": 1,
   "quotes": [
-    {
-      "id": "raymond-enough-eyeballs",
-      "text": "Given enough eyeballs, all bugs are shallow.",
-      "author": "Eric S. Raymond",
-      "author_slug": "raymond",
-      "source": "The Cathedral and the Bazaar, 1999",
-      "categories": [
-        "wisdom"
-      ],
-      "tags": [
-        "open-source",
-        "debugging",
-        "community",
-        "classic"
-      ],
-      "grug_level": 2,
-      "spiciness": 1
-    },
-    {
-      "text": "If your README has more badges than content, your project is a resume builder, not software.",
-      "author": "based",
-      "author_slug": "based",
-      "categories": [
-        "engineering"
-      ],
-      "tags": [
-        "readme",
-        "open-source"
-      ],
-      "grug_level": 4,
-      "spiciness": 4,
-      "id": "based-if-your-readme-has",
-      "source": "Community sourced"
-    },
     {
       "text": "GPT didn't make any progress reverse engineering ancient Corel Draw documents until I told it to ignore the open source libraries. LibreOffice's import code was half-baked, and silently changing Arial to Liberation Sans wasn't particularly liberating.",
       "author": "badlibrarian",

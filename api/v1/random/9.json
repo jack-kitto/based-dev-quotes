@@ -1,17 +1,17 @@
 {
-  "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
-  "author": "Mark Zuckerberg",
-  "author_slug": "zuckerberg",
+  "text": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%.",
+  "author": "Tom Cargill",
+  "author_slug": "cargill",
   "categories": [
-    "business",
-    "entrepreneur"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "risk",
-    "innovation"
+    "estimation",
+    "reality"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "zuckerberg-the-biggest-risk-is",
+  "id": "cargill-the-first-90-of",
   "source": "Community sourced"
 }

@@ -17847,5 +17847,117 @@
     "spiciness": 2,
     "id": "based-your-indie-project-is-1075",
     "source": "Community sourced"
+  },
+  {
+    "text": "Trailers are supposed to be pretty dumb. This is what makes them valuable from a logistical perspective. If we hyper focus on reducing the carbon footprint of each specific shipment we may find we created an overall increase in aggregate once the higher order and deferred consequences come to bear.",
+    "author": "bob1029",
+    "author_slug": "bob1029",
+    "source": "Hacker News — Self-Powered Trailers Promise Leaner Freight Runs",
+    "source_url": "https://news.ycombinator.com/item?id=48861496",
+    "categories": [
+      "grug",
+      "wisdom",
+      "complexity"
+    ],
+    "tags": [
+      "logistics",
+      "unintended-consequences",
+      "anti-complexity",
+      "engineering"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Pithy insight on simplicity vs. over-optimization in systems design, directly applicable to software engineering.",
+    "id": "bob1029-trailers-are-supposed-to"
+  },
+  {
+    "text": "Maybe I’m taking crazy pills, but I’m still stuck on “why the hell does a TUI need to run in terminal React by way of JavaScript” The fact that Anthropic felt the need to buy a runtime so they could make their TUI better speaks more to the quality of engineering than anything else IMO. If rewrites are so easy, why not rewrite CC in a native language? Would’ve been a hell of a lot cheaper.",
+    "author": "weakfish",
+    "author_slug": "weakfish",
+    "source": "Hacker News — Claude Code uses Bun written in Rust now",
+    "source_url": "https://news.ycombinator.com/item?id=48966569",
+    "categories": [
+      "grug",
+      "funny",
+      "tools"
+    ],
+    "tags": [
+      "tui",
+      "javascript",
+      "complexity",
+      "engineering",
+      "humor"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Humorous critique of unnecessary complexity in software toolchains, with a grug-brained call for simplicity.",
+    "id": "weakfish-maybe-im-taking-crazy"
+  },
+  {
+    "text": "Hardware's reputation derives from the reality that a lot of companies spin out the hardware before the software is even written - so all hardware bugs have to get fixed in software.",
+    "author": "bjt12345",
+    "author_slug": "bjt12345",
+    "source": "Hacker News — What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "source_url": "https://news.ycombinator.com/item?id=48966713",
+    "categories": [
+      "wisdom",
+      "tools"
+    ],
+    "tags": [
+      "hardware",
+      "software",
+      "bugs",
+      "engineering",
+      "pragmatism"
+    ],
+    "grug_level": 3,
+    "spiciness": 2,
+    "extraction_note": "Concise observation on the interplay between hardware and software development cycles, revealing real engineering trade-offs.",
+    "id": "bjt12345-hardwares-reputation-derives-from"
+  },
+  {
+    "text": "GPT didn't make any progress reverse engineering ancient Corel Draw documents until I told it to ignore the open source libraries. LibreOffice's import code was half-baked, and silently changing Arial to Liberation Sans wasn't particularly liberating.",
+    "author": "badlibrarian",
+    "author_slug": "badlibrarian",
+    "source": "Hacker News — How proprietary formats have become Microsoft's main tool for lock-in",
+    "source_url": "https://news.ycombinator.com/item?id=48974476",
+    "categories": [
+      "grug",
+      "shitpost",
+      "tools"
+    ],
+    "tags": [
+      "ai-tools",
+      "open-source",
+      "vendor-lock-in",
+      "libreoffice",
+      "anti-complexity"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Telling GPT to ignore OSS libraries to actually get work done is peak grug. The Liberation Sans quip is genuinely funny dev humor. Anti-bloat wisdom disguised as a war story.",
+    "id": "badlibrarian-gpt-didnt-make-any"
+  },
+  {
+    "text": "I don't know what I'm doing. But my LLM does. I set up site-to-site VPNs with Mikrotek in fifteen minutes, rather than the day-long exercise of googling and praying.",
+    "author": "zulux",
+    "author_slug": "zulux",
+    "source": "Hacker News — HomeLab #1: MikroTik as a Home Router",
+    "source_url": "https://news.ycombinator.com/item?id=48970772",
+    "categories": [
+      "tools",
+      "funny",
+      "grug"
+    ],
+    "tags": [
+      "ai",
+      "networking",
+      "mikrotik",
+      "productivity"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Humorous, standalone insight about using LLMs to bypass complexity in networking, resonant with tech pragmatism and anti-complexity ethos.",
+    "id": "zulux-i-dont-know-what"
   }
 ]

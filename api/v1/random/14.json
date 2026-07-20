@@ -1,16 +1,16 @@
 {
-  "text": "Your indie project doesn't need a perfect logo. It needs paying customers. Ship.",
+  "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "shipping",
-    "priorities"
+    "tech-debt",
+    "procrastination"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-indie-project-doesnt",
+  "spiciness": 4,
+  "id": "based-technical-debt-is-what",
   "source": "Community sourced"
 }

@@ -1,20 +1,20 @@
 {
-  "total_quotes": 1076,
-  "total_authors": 98,
+  "total_quotes": 1081,
+  "total_authors": 103,
   "total_categories": 23,
-  "total_tags": 813,
+  "total_tags": 822,
   "grug_level_distribution": {
     "2": 30,
-    "3": 811,
-    "4": 188,
+    "3": 812,
+    "4": 192,
     "5": 47
   },
   "spiciness_distribution": {
     "1": 170,
-    "2": 695,
-    "3": 174,
+    "2": 696,
+    "3": 178,
     "4": 34,
     "5": 3
   },
-  "generated_at": "2026-07-20T03:43:03.982098+00:00"
+  "generated_at": "2026-07-20T08:51:29.536256+00:00"
 }

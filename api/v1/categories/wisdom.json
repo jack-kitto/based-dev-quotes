@@ -1,6 +1,6 @@
 {
   "category": "wisdom",
-  "count": 176,
+  "count": 178,
   "quotes": [
     {
       "id": "grug-refactor",
@@ -3031,6 +3031,50 @@
       "spiciness": 1,
       "id": "einstein-the-best-design-is",
       "source": "Community sourced"
+    },
+    {
+      "text": "Trailers are supposed to be pretty dumb. This is what makes them valuable from a logistical perspective. If we hyper focus on reducing the carbon footprint of each specific shipment we may find we created an overall increase in aggregate once the higher order and deferred consequences come to bear.",
+      "author": "bob1029",
+      "author_slug": "bob1029",
+      "source": "Hacker News — Self-Powered Trailers Promise Leaner Freight Runs",
+      "source_url": "https://news.ycombinator.com/item?id=48861496",
+      "categories": [
+        "grug",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "logistics",
+        "unintended-consequences",
+        "anti-complexity",
+        "engineering"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy insight on simplicity vs. over-optimization in systems design, directly applicable to software engineering.",
+      "id": "bob1029-trailers-are-supposed-to"
+    },
+    {
+      "text": "Hardware's reputation derives from the reality that a lot of companies spin out the hardware before the software is even written - so all hardware bugs have to get fixed in software.",
+      "author": "bjt12345",
+      "author_slug": "bjt12345",
+      "source": "Hacker News — What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "source_url": "https://news.ycombinator.com/item?id=48966713",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "hardware",
+        "software",
+        "bugs",
+        "engineering",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Concise observation on the interplay between hardware and software development cycles, revealing real engineering trade-offs.",
+      "id": "bjt12345-hardwares-reputation-derives-from"
     }
   ]
 }

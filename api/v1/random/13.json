@@ -1,17 +1,16 @@
 {
-  "text": "Code that's easy to delete is better than code that's easy to write.",
+  "text": "The best indie projects are the ones you'd use even if nobody else did.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "simplicity",
-    "deletion"
+    "dogfooding",
+    "passion"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-code-thats-easy-to",
+  "id": "based-the-best-indie-projects",
   "source": "Community sourced"
 }

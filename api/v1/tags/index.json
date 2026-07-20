@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 822,
   "tags": {
     "10x": {
       "count": 2
@@ -56,7 +56,10 @@
       "count": 2
     },
     "ai": {
-      "count": 2
+      "count": 3
+    },
+    "ai-tools": {
+      "count": 1
     },
     "alerting": {
       "count": 1
@@ -75,6 +78,9 @@
     },
     "annoyance": {
       "count": 1
+    },
+    "anti-complexity": {
+      "count": 2
     },
     "api": {
       "count": 9
@@ -203,7 +209,7 @@
       "count": 2
     },
     "bugs": {
-      "count": 16
+      "count": 17
     },
     "build-in-public": {
       "count": 2
@@ -377,7 +383,7 @@
       "count": 1
     },
     "complexity": {
-      "count": 20
+      "count": 21
     },
     "compliance": {
       "count": 1
@@ -701,7 +707,7 @@
       "count": 1
     },
     "engineering": {
-      "count": 1
+      "count": 4
     },
     "engineers": {
       "count": 1
@@ -947,7 +953,7 @@
       "count": 1
     },
     "hardware": {
-      "count": 1
+      "count": 2
     },
     "hat-wearing": {
       "count": 1
@@ -995,7 +1001,7 @@
       "count": 4
     },
     "humor": {
-      "count": 8
+      "count": 9
     },
     "hustle": {
       "count": 3
@@ -1115,7 +1121,7 @@
       "count": 1
     },
     "javascript": {
-      "count": 4
+      "count": 5
     },
     "job-security": {
       "count": 1
@@ -1195,6 +1201,9 @@
     "libraries": {
       "count": 2
     },
+    "libreoffice": {
+      "count": 1
+    },
     "lifestyle": {
       "count": 5
     },
@@ -1217,6 +1226,9 @@
       "count": 5
     },
     "logic": {
+      "count": 1
+    },
+    "logistics": {
       "count": 1
     },
     "luck": {
@@ -1287,6 +1299,9 @@
     },
     "migrations": {
       "count": 2
+    },
+    "mikrotik": {
+      "count": 1
     },
     "milestones": {
       "count": 1
@@ -1376,7 +1391,7 @@
       "count": 2
     },
     "networking": {
-      "count": 3
+      "count": 4
     },
     "new-users": {
       "count": 1
@@ -1448,7 +1463,7 @@
       "count": 2
     },
     "open-source": {
-      "count": 2
+      "count": 3
     },
     "opinion": {
       "count": 2
@@ -1592,7 +1607,7 @@
       "count": 2
     },
     "pragmatism": {
-      "count": 9
+      "count": 10
     },
     "predictability": {
       "count": 1
@@ -1667,7 +1682,7 @@
       "count": 6
     },
     "productivity": {
-      "count": 6
+      "count": 7
     },
     "profit": {
       "count": 4
@@ -2065,6 +2080,9 @@
     "social-proof": {
       "count": 2
     },
+    "software": {
+      "count": 1
+    },
     "software-crisis": {
       "count": 1
     },
@@ -2278,6 +2296,9 @@
     "truth": {
       "count": 2
     },
+    "tui": {
+      "count": 1
+    },
     "types": {
       "count": 2
     },
@@ -2295,6 +2316,9 @@
     },
     "understanding": {
       "count": 7
+    },
+    "unintended-consequences": {
+      "count": 1
     },
     "uniqueness": {
       "count": 2
@@ -2361,6 +2385,9 @@
     },
     "velocity": {
       "count": 4
+    },
+    "vendor-lock-in": {
+      "count": 1
     },
     "version-control": {
       "count": 2

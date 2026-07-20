@@ -1,18 +1,18 @@
 {
-  "id": "knuth-premature-optimization",
-  "text": "Premature optimization is the root of all evil.",
-  "author": "Donald Knuth",
-  "author_slug": "knuth",
-  "source": "Structured Programming with go to Statements, 1974",
+  "id": "grug-type-system",
+  "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "wisdom",
-    "complexity"
+    "grug",
+    "shitpost"
   ],
   "tags": [
-    "optimization",
-    "simplicity",
-    "classic"
+    "types",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

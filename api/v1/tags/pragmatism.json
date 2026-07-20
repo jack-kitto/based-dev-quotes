@@ -1,6 +1,6 @@
 {
   "tag": "pragmatism",
-  "count": 9,
+  "count": 10,
   "quotes": [
     {
       "id": "grug-abstraction",
@@ -159,6 +159,28 @@
       "spiciness": 2,
       "id": "based-the-best-frontend-framework",
       "source": "Community sourced"
+    },
+    {
+      "text": "Hardware's reputation derives from the reality that a lot of companies spin out the hardware before the software is even written - so all hardware bugs have to get fixed in software.",
+      "author": "bjt12345",
+      "author_slug": "bjt12345",
+      "source": "Hacker News — What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "source_url": "https://news.ycombinator.com/item?id=48966713",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "hardware",
+        "software",
+        "bugs",
+        "engineering",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Concise observation on the interplay between hardware and software development cycles, revealing real engineering trade-offs.",
+      "id": "bjt12345-hardwares-reputation-derives-from"
     }
   ]
 }

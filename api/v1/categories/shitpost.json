@@ -1,6 +1,6 @@
 {
   "category": "shitpost",
-  "count": 59,
+  "count": 60,
   "quotes": [
     {
       "id": "grug-type-system",
@@ -1044,6 +1044,29 @@
       "spiciness": 1,
       "id": "it-crowd-have-you-tried-turning",
       "source": "Community sourced"
+    },
+    {
+      "text": "GPT didn't make any progress reverse engineering ancient Corel Draw documents until I told it to ignore the open source libraries. LibreOffice's import code was half-baked, and silently changing Arial to Liberation Sans wasn't particularly liberating.",
+      "author": "badlibrarian",
+      "author_slug": "badlibrarian",
+      "source": "Hacker News — How proprietary formats have become Microsoft's main tool for lock-in",
+      "source_url": "https://news.ycombinator.com/item?id=48974476",
+      "categories": [
+        "grug",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "ai-tools",
+        "open-source",
+        "vendor-lock-in",
+        "libreoffice",
+        "anti-complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Telling GPT to ignore OSS libraries to actually get work done is peak grug. The Liberation Sans quip is genuinely funny dev humor. Anti-bloat wisdom disguised as a war story.",
+      "id": "badlibrarian-gpt-didnt-make-any"
     }
   ]
 }

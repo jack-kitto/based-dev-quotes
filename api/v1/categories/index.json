@@ -8,7 +8,7 @@
       "count": 8
     },
     "complexity": {
-      "count": 19
+      "count": 20
     },
     "debugging": {
       "count": 16
@@ -29,10 +29,10 @@
       "count": 9
     },
     "funny": {
-      "count": 63
+      "count": 65
     },
     "grug": {
-      "count": 8
+      "count": 12
     },
     "indie-hacker": {
       "count": 128
@@ -53,13 +53,13 @@
       "count": 20
     },
     "shitpost": {
-      "count": 59
+      "count": 60
     },
     "suffering": {
       "count": 28
     },
     "tools": {
-      "count": 6
+      "count": 10
     },
     "unix": {
       "count": 2
@@ -68,7 +68,7 @@
       "count": 47
     },
     "wisdom": {
-      "count": 176
+      "count": 178
     }
   }
 }

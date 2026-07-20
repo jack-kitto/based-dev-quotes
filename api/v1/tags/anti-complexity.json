@@ -1,40 +1,28 @@
 {
-  "tag": "open-source",
-  "count": 3,
+  "tag": "anti-complexity",
+  "count": 2,
   "quotes": [
     {
-      "id": "raymond-enough-eyeballs",
-      "text": "Given enough eyeballs, all bugs are shallow.",
-      "author": "Eric S. Raymond",
-      "author_slug": "raymond",
-      "source": "The Cathedral and the Bazaar, 1999",
+      "text": "Trailers are supposed to be pretty dumb. This is what makes them valuable from a logistical perspective. If we hyper focus on reducing the carbon footprint of each specific shipment we may find we created an overall increase in aggregate once the higher order and deferred consequences come to bear.",
+      "author": "bob1029",
+      "author_slug": "bob1029",
+      "source": "Hacker News — Self-Powered Trailers Promise Leaner Freight Runs",
+      "source_url": "https://news.ycombinator.com/item?id=48861496",
       "categories": [
-        "wisdom"
+        "grug",
+        "wisdom",
+        "complexity"
       ],
       "tags": [
-        "open-source",
-        "debugging",
-        "community",
-        "classic"
-      ],
-      "grug_level": 2,
-      "spiciness": 1
-    },
-    {
-      "text": "If your README has more badges than content, your project is a resume builder, not software.",
-      "author": "based",
-      "author_slug": "based",
-      "categories": [
+        "logistics",
+        "unintended-consequences",
+        "anti-complexity",
         "engineering"
       ],
-      "tags": [
-        "readme",
-        "open-source"
-      ],
       "grug_level": 4,
-      "spiciness": 4,
-      "id": "based-if-your-readme-has",
-      "source": "Community sourced"
+      "spiciness": 3,
+      "extraction_note": "Pithy insight on simplicity vs. over-optimization in systems design, directly applicable to software engineering.",
+      "id": "bob1029-trailers-are-supposed-to"
     },
     {
       "text": "GPT didn't make any progress reverse engineering ancient Corel Draw documents until I told it to ignore the open source libraries. LibreOffice's import code was half-baked, and silently changing Arial to Liberation Sans wasn't particularly liberating.",

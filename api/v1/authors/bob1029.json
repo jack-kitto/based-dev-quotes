@@ -1,0 +1,29 @@
+{
+  "author": "bob1029",
+  "slug": "bob1029",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Trailers are supposed to be pretty dumb. This is what makes them valuable from a logistical perspective. If we hyper focus on reducing the carbon footprint of each specific shipment we may find we created an overall increase in aggregate once the higher order and deferred consequences come to bear.",
+      "author": "bob1029",
+      "author_slug": "bob1029",
+      "source": "Hacker News — Self-Powered Trailers Promise Leaner Freight Runs",
+      "source_url": "https://news.ycombinator.com/item?id=48861496",
+      "categories": [
+        "grug",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "logistics",
+        "unintended-consequences",
+        "anti-complexity",
+        "engineering"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy insight on simplicity vs. over-optimization in systems design, directly applicable to software engineering.",
+      "id": "bob1029-trailers-are-supposed-to"
+    }
+  ]
+}

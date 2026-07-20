@@ -1,5 +1,5 @@
 {
-  "total": 98,
+  "total": 103,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
@@ -8,6 +8,10 @@
     "atwood": {
       "name": "Jeff Atwood",
       "count": 3
+    },
+    "badlibrarian": {
+      "name": "badlibrarian",
+      "count": 1
     },
     "bambrick": {
       "name": "Leon Bambrick",
@@ -25,9 +29,17 @@
       "name": "Yogi Berra (applied to programming)",
       "count": 1
     },
+    "bjt12345": {
+      "name": "bjt12345",
+      "count": 1
+    },
     "blow": {
       "name": "Jonathan Blow",
       "count": 3
+    },
+    "bob1029": {
+      "name": "bob1029",
+      "count": 1
     },
     "booch": {
       "name": "Grady Booch",
@@ -377,6 +389,10 @@
       "name": "Larry Wall",
       "count": 1
     },
+    "weakfish": {
+      "name": "weakfish",
+      "count": 1
+    },
     "wulf": {
       "name": "W.A. Wulf",
       "count": 1
@@ -392,6 +408,10 @@
     "zuckerberg": {
       "name": "Mark Zuckerberg",
       "count": 2
+    },
+    "zulux": {
+      "name": "zulux",
+      "count": 1
     }
   }
 }

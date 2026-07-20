@@ -1,16 +1,18 @@
 {
-  "text": "The best error handling is the kind that never fires. The second best is the kind that fires with a helpful message.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "blow-civilization",
+  "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+  "author": "Jonathan Blow",
+  "author_slug": "blow",
+  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
   "categories": [
-    "engineering"
+    "suffering",
+    "complexity"
   ],
   "tags": [
-    "error-handling",
-    "resilience"
+    "decline",
+    "software-crisis",
+    "civilization"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-error-handling",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 4
 }
