@@ -1,16 +1,19 @@
 {
-  "text": "The best error handling is the kind that never fires. The second best is the kind that fires with a helpful message.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "salomon-30-hours",
+  "text": "Weeks of coding can save you hours of planning.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "engineering"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "error-handling",
-    "resilience"
+    "planning",
+    "coding",
+    "irony",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-error-handling",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

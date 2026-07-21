@@ -1,17 +1,17 @@
 {
-  "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+  "text": "Discipline is choosing between what you want now and what you want most. Most people choose now.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "legacy",
-    "fear"
+    "discipline",
+    "delayed-gratification"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-code-works",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-discipline-is-choosing-between",
   "source": "Community sourced"
 }

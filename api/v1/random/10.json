@@ -1,17 +1,16 @@
 {
-  "text": "The best product managers are the ones who can say 'no' to 99% of requests and still be loved.",
+  "text": "The best time to upsell is when the customer is already getting value. Not before.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "saying-no",
-    "prioritization"
+    "upsell",
+    "timing"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-product-managers",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-815",
   "source": "Community sourced"
 }

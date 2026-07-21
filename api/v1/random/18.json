@@ -1,17 +1,16 @@
 {
-  "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+  "text": "The best marketing strategy is to make something worth talking about.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "product"
+    "marketing"
   ],
   "tags": [
-    "ab-testing",
-    "data"
+    "product",
+    "word-of-mouth"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-ab-testing-takes-courage",
+  "id": "based-the-best-marketing-strategy-945",
   "source": "Community sourced"
 }

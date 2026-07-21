@@ -1,16 +1,16 @@
 {
-  "text": "If you can't explain your product's value in one sentence, you don't understand it.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The way to get started is to quit talking and begin doing.",
+  "author": "Walt Disney",
+  "author_slug": "disney",
   "categories": [
-    "product"
+    "wisdom"
   ],
   "tags": [
-    "value",
-    "clarity"
+    "action",
+    "starting"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-you-cant-explain-909",
+  "spiciness": 1,
+  "id": "disney-the-way-to-get",
   "source": "Community sourced"
 }

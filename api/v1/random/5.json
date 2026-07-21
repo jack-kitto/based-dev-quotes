@@ -1,16 +1,16 @@
 {
-  "text": "Your team should be able to disagree and commit. If they can't disagree, there's no trust. If they can't commit, there's no respect.",
+  "text": "Indie hackers who ship weekly have 10x the chances of finding product-market fit than those who ship quarterly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "indie-hacker"
   ],
   "tags": [
-    "team",
-    "disagreement"
+    "shipping",
+    "velocity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-team-should-be",
+  "id": "based-indie-hackers-who-ship-669",
   "source": "Community sourced"
 }

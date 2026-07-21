@@ -1,16 +1,17 @@
 {
-  "text": "Your team should be able to ship without permission. Give them autonomy. They'll surprise you.",
+  "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "engineering"
   ],
   "tags": [
-    "autonomy",
-    "trust"
+    "feature-requests",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-team-should-be-838",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-user-who-says",
   "source": "Community sourced"
 }

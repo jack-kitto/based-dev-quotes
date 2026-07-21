@@ -1,18 +1,17 @@
 {
-  "id": "knuth-premature-optimization",
-  "text": "Premature optimization is the root of all evil.",
-  "author": "Donald Knuth",
-  "author_slug": "knuth",
-  "source": "Structured Programming with go to Statements, 1974",
+  "text": "The most underrated indie hacker skill is copywriting. If you can write a clear landing page, you can sell anything.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "indie-hacker",
+    "marketing"
   ],
   "tags": [
-    "optimization",
-    "simplicity",
-    "classic"
+    "copywriting",
+    "skills"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-the-most-underrated-indie",
+  "source": "Community sourced"
 }
