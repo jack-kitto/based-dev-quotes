@@ -1,16 +1,16 @@
 {
-  "text": "The best revenge is massive success.",
-  "author": "Frank Sinatra",
-  "author_slug": "sinatra",
+  "text": "The best way to validate an indie project is to pre-sell it. If nobody pays, save yourself the build.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "success",
-    "motivation"
+    "validation",
+    "preselling"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "sinatra-the-best-revenge-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-way-to-547",
   "source": "Community sourced"
 }

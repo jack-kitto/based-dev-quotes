@@ -1,16 +1,17 @@
 {
-  "text": "If you can't onboard a new user without a sales call, your product isn't self-serve. It's enterprise software pretending to be SaaS.",
+  "text": "The best monitoring tells you what's broken. The best observability tells you why. Most teams have neither.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "self-serve",
-    "enterprise"
+    "monitoring",
+    "observability"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-you-cant-onboard",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-monitoring-tells",
   "source": "Community sourced"
 }

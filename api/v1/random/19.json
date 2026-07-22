@@ -1,17 +1,18 @@
 {
-  "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "regex-two-problems",
+  "text": "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.",
+  "author": "Jamie Zawinski",
+  "author_slug": "zawinski",
+  "source": "comp.lang.emacs Usenet post, 1997",
   "categories": [
-    "users",
-    "engineering"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "feature-requests",
-    "complexity"
+    "regex",
+    "complexity",
+    "classic"
   ],
   "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-user-who-says",
-  "source": "Community sourced"
+  "spiciness": 2
 }

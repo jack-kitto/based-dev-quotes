@@ -1,16 +1,17 @@
 {
-  "text": "The best marketing strategy is to make something worth talking about.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sleep-sort",
+  "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "marketing"
+    "funny"
   ],
   "tags": [
-    "product",
-    "word-of-mouth"
+    "stackoverflow",
+    "hacking",
+    "approximation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-marketing-strategy-945",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

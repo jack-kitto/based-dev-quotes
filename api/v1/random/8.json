@@ -1,19 +1,17 @@
 {
-  "id": "salomon-30-hours",
-  "text": "Weeks of coding can save you hours of planning.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "The Internet? Is that thing still around?",
+  "author": "Homer Simpson",
+  "author_slug": "simpson",
   "categories": [
-    "funny",
-    "suffering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "planning",
-    "coding",
-    "irony",
-    "classic"
+    "internet",
+    "humor"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "simpson-the-internet-is-that",
+  "source": "Community sourced"
 }

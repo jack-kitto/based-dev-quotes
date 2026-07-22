@@ -1,16 +1,17 @@
 {
-  "text": "Your logging should be detailed enough to debug, but not so detailed that it drowns in noise.",
+  "text": "The best mobile app is one thumb, one eyeball, one task.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design",
+    "product"
   ],
   "tags": [
-    "logging",
-    "balance"
+    "mobile",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-logging-should-be",
+  "id": "based-the-best-mobile-app",
   "source": "Community sourced"
 }

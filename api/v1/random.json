@@ -1,17 +1,18 @@
 {
-  "text": "The best time to manage your time is when you have too much of it.",
+  "text": "The best way to improve your product's onboarding is to watch 5 new users try to use it. Record their screen. Take notes.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "design",
+    "product"
   ],
   "tags": [
-    "time-management",
-    "proactive"
+    "onboarding",
+    "research"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-982",
+  "id": "based-the-best-way-to-756",
   "source": "Community sourced",
-  "_generated_at": "2026-07-21T02:43:20.274252+00:00"
+  "_generated_at": "2026-07-22T02:41:07.203045+00:00"
 }

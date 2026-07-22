@@ -1,17 +1,17 @@
 {
-  "text": "The most underrated indie hacker skill is copywriting. If you can write a clear landing page, you can sell anything.",
+  "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "marketing"
+    "saas",
+    "product"
   ],
   "tags": [
-    "copywriting",
-    "skills"
+    "onboarding",
+    "self-explanatory"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-most-underrated-indie",
+  "id": "based-the-best-saas-onboarding",
   "source": "Community sourced"
 }
