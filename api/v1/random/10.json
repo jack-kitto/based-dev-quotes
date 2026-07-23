@@ -1,16 +1,17 @@
 {
-  "text": "The best customer feedback comes from watching, not asking. Observations beat surveys.",
+  "text": "Design is not just what it looks like and feels like. Design is how it works. And if it doesn't work, no amount of design saves it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design",
+    "product"
   ],
   "tags": [
-    "customer-feedback",
-    "observation"
+    "ux",
+    "functionality"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-customer-feedback",
+  "id": "based-design-is-not-just",
   "source": "Community sourced"
 }

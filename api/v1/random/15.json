@@ -1,17 +1,16 @@
 {
-  "text": "There are only 10 types of people in the world: those who understand binary and those who don't.",
+  "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "saas"
   ],
   "tags": [
-    "binary",
-    "jokes"
+    "partnerships",
+    "integrations"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-there-are-only-10",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-saas-partnerships",
   "source": "Community sourced"
 }

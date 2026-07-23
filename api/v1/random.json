@@ -1,18 +1,19 @@
 {
-  "text": "The best way to improve your product's onboarding is to watch 5 new users try to use it. Record their screen. Take notes.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "99-bugs-wall",
+  "text": "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "design",
-    "product"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "onboarding",
-    "research"
+    "bugs",
+    "debugging",
+    "song"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-756",
-  "source": "Community sourced",
-  "_generated_at": "2026-07-22T02:41:07.203045+00:00"
+  "grug_level": 4,
+  "spiciness": 1,
+  "_generated_at": "2026-07-23T02:46:38.790151+00:00"
 }

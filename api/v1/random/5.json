@@ -1,16 +1,16 @@
 {
-  "text": "The best time to start building an audience is before you need one.",
+  "text": "The best time to think about security is before you ship. The second best time is after you've been breached.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering"
   ],
   "tags": [
-    "audience",
-    "timing"
+    "security",
+    "proactive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-403",
+  "id": "based-the-best-time-to-633",
   "source": "Community sourced"
 }

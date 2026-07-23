@@ -1,16 +1,17 @@
 {
-  "text": "Your leadership is defined by the decisions you make when nobody's watching.",
+  "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "engineering"
   ],
   "tags": [
-    "leadership",
-    "integrity"
+    "feature-requests",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-leadership-is-defined",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-user-who-says",
   "source": "Community sourced"
 }
