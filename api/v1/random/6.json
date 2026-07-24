@@ -1,17 +1,18 @@
 {
-  "text": "The user who says 'it's just a simple feature' has never written a line of code in their life.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "deleted-code-no-bugs",
+  "text": "Deleted code is debugged code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "users",
-    "engineering"
+    "wisdom",
+    "funny"
   ],
   "tags": [
-    "feature-requests",
-    "complexity"
+    "deletion",
+    "debugging",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-user-who-says",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

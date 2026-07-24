@@ -1,16 +1,17 @@
 {
-  "text": "Disruption isn't something you plan. It's something that happens to incumbents who were too comfortable.",
+  "text": "The best time to build a CLI version of your SaaS is when your power users ask for it. They're your best advocates.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "disruption",
-    "innovation"
+    "cli",
+    "power-users"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-disruption-isnt-something-you",
+  "id": "based-the-best-time-to-335",
   "source": "Community sourced"
 }

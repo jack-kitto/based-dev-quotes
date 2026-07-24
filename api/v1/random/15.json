@@ -1,16 +1,19 @@
 {
-  "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "saas"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "partnerships",
-    "integrations"
+    "simplicity",
+    "complexity",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-partnerships",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Every successful business started with someone saying 'I can do this better.' Most businesses fail because 'better' isn't enough.",
+  "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "product"
   ],
   "tags": [
-    "competition",
-    "differentiation"
+    "ux",
+    "first-impression"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-successful-business-started",
+  "id": "based-your-product-should-be-683",
   "source": "Community sourced"
 }

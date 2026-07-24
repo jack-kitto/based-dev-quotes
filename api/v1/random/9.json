@@ -1,16 +1,16 @@
 {
-  "text": "The best interfaces are the ones where every element earns its place. Nothing decorative. Everything intentional.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Growth is never by mere chance; it is the result of forces working together.",
+  "author": "James Cash Penney",
+  "author_slug": "penney",
   "categories": [
-    "design"
+    "business"
   ],
   "tags": [
-    "intentionality",
-    "minimalism"
+    "growth",
+    "forces"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-interfaces-are",
+  "spiciness": 1,
+  "id": "penney-growth-is-never-by",
   "source": "Community sourced"
 }
