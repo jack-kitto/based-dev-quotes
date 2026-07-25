@@ -1,20 +1,18 @@
 {
-  "id": "saas-idea-validation",
-  "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Indie hacker Twitter",
+  "text": "The best incident response is the one where you don't need to respond because the system healed itself. The second best is one with a runbook.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "saas",
-    "mvp",
-    "spreadsheet",
-    "validation"
+    "incident-response",
+    "automation"
   ],
-  "grug_level": 5,
-  "spiciness": 3,
-  "_generated_at": "2026-07-24T02:42:28.786693+00:00"
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-incident-response",
+  "source": "Community sourced",
+  "_generated_at": "2026-07-25T02:40:55.257955+00:00"
 }
