@@ -1,16 +1,19 @@
 {
-  "id": "hickey-design-like-coding",
-  "text": "Design is not making a UML diagram. Design is about taking things apart in such a way that they can be put back together.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Design, Composition, and Performance, 2013",
+  "id": "lampson-abstraction",
+  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+  "author": "Butler Lampson (modified)",
+  "author_slug": "lampson",
+  "source": "Attributed, with modification from David Wheeler's original",
   "categories": [
-    "wisdom"
+    "funny",
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "design",
-    "decomposition",
-    "architecture"
+    "indirection",
+    "abstraction",
+    "layers",
+    "classic"
   ],
   "grug_level": 3,
   "spiciness": 2

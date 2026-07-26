@@ -1,16 +1,17 @@
 {
-  "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+  "author": "Peter Drucker",
+  "author_slug": "drucker",
   "categories": [
-    "saas"
+    "marketing",
+    "wisdom"
   ],
   "tags": [
-    "freemium",
-    "conversion"
+    "customer-understanding",
+    "product"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-freemium-is-a-strategy",
+  "spiciness": 1,
+  "id": "drucker-the-aim-of-marketing",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "Every time you copy-paste code, a unit test dies.",
+  "text": "The best product teams listen more than they talk. Your users know more about their problems than you do.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "users",
+    "product"
   ],
   "tags": [
-    "copy-paste",
-    "testing"
+    "listening",
+    "humility"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-time-you-copypaste",
+  "id": "based-the-best-product-teams",
   "source": "Community sourced"
 }

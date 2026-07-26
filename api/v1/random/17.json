@@ -1,17 +1,16 @@
 {
-  "text": "Rewriting from scratch is always tempting. It's also always a terrible idea. But you won't believe me until you've done it yourself.",
+  "text": "Social media marketing is just shouting into the void and occasionally the void shouts back.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "rewrite",
-    "experience"
+    "social-media",
+    "shouting"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-rewriting-from-scratch-is",
+  "id": "based-social-media-marketing-is",
   "source": "Community sourced"
 }

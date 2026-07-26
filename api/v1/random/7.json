@@ -1,16 +1,17 @@
 {
-  "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
+  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "design",
+    "marketing"
   ],
   "tags": [
-    "integrations",
-    "growth"
+    "ab-testing",
+    "product"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-integrations-page-is",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-ab-testing-is-how",
   "source": "Community sourced"
 }

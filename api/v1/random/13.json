@@ -1,17 +1,18 @@
 {
-  "text": "The gap between what a designer hands off and what a developer builds is where user experience goes to die.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "money-printer",
+  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter (loosely based on Napoleon)",
   "categories": [
-    "design",
-    "engineering"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "handoff",
-    "implementation"
+    "production",
+    "friday",
+    "deployments"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-gap-between-what",
-  "source": "Community sourced"
+  "spiciness": 2
 }

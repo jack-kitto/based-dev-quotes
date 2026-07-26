@@ -1,16 +1,17 @@
 {
-  "text": "The best UX is the one you don't notice. When the design is invisible, the product is working.",
+  "text": "The gap between what a designer hands off and what a developer builds is where user experience goes to die.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "design",
+    "engineering"
   ],
   "tags": [
-    "ux",
-    "invisibility"
+    "handoff",
+    "implementation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-ux-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-gap-between-what",
   "source": "Community sourced"
 }
