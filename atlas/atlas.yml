@@ -1,0 +1,86 @@
+version: 1
+anchor:
+  name: Based Dev Quotes API
+  need: Provide a curated, static API of developer quotes with community submissions, automated
+    scraping, validation, and generation.
+components:
+  - id: quote-scraper
+    name: Quote Scraper
+    needs: []
+    code:
+      - scripts/scrape.py
+    attrs:
+      visibility: 0.8
+      evolution: 0.2
+      completeness: ready
+      journey: source
+      consequence: raw-candidates
+  - id: schema-validator
+    name: Quote Schema Validator
+    needs: []
+    code:
+      - scripts/validate.py
+      - scripts/validate.js
+    attrs:
+      visibility: 0.9
+      evolution: 0.1
+      completeness: ready
+      journey: quality-gate
+      consequence: reject-invalid
+  - id: quote-extraction
+    name: Quote Extraction Pipeline
+    needs:
+      - schema-validator
+    code:
+      - scripts/extract.py
+    attrs:
+      visibility: 0.85
+      evolution: 0.3
+      completeness: partial
+      journey: processing
+      consequence: curated-quotes
+  - id: static-api-generator
+    name: Static API Generator
+    needs:
+      - quote-extraction
+      - schema-validator
+    code:
+      - scripts/generate.py
+      - scripts/generate.js
+    attrs:
+      visibility: 0.9
+      evolution: 0.4
+      completeness: ready
+      journey: build
+      consequence: api-files
+  - id: submission-handler
+    name: Submission & PR Handler
+    needs:
+      - quote-extraction
+      - schema-validator
+    code:
+      - scripts/process_submissions.py
+      - scripts/telegram_bot.py
+      - scripts/merge_pr.py
+    attrs:
+      visibility: 0.7
+      evolution: 0.5
+      completeness: partial
+      journey: ingest
+      consequence: merged-quotes
+  - id: deployment
+    name: Deployment & CI Configuration
+    needs:
+      - static-api-generator
+      - submission-handler
+    code:
+      - .coolify.yml
+      - .github/workflows/generate.yml
+      - .github/workflows/scrape.yml
+      - api/v1/**/*.json
+    attrs:
+      visibility: 0.6
+      evolution: 0.2
+      completeness: ready
+      journey: delivery
+      consequence: public-api
