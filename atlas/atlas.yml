@@ -1,86 +1,83 @@
 version: 1
 anchor:
-  name: Based Dev Quotes API
-  need: Provide a curated, static API of developer quotes with community submissions, automated
-    scraping, validation, and generation.
+  name: based-dev-quotes API
+  need: Deliver a curated, searchable collection of developer quotes via a static JSON API
 components:
-  - id: quote-scraper
-    name: Quote Scraper
+  - id: quote-ingestion
+    name: Quote Ingestion Pipeline
     needs: []
     code:
       - scripts/scrape.py
+      - scripts/telegram_bot.py
+      - scripts/process_submissions.py
     attrs:
-      visibility: 0.8
+      visibility: 0.2
       evolution: 0.2
-      completeness: ready
-      journey: source
+      completeness: partial
+      journey: collect
       consequence: raw-candidates
-  - id: schema-validator
-    name: Quote Schema Validator
-    needs: []
-    code:
-      - scripts/validate.py
-      - scripts/validate.js
-    attrs:
-      visibility: 0.9
-      evolution: 0.1
-      completeness: ready
-      journey: quality-gate
-      consequence: reject-invalid
   - id: quote-extraction
-    name: Quote Extraction Pipeline
+    name: Quote Extraction & Scoring
     needs:
-      - schema-validator
+      - quote-ingestion
     code:
       - scripts/extract.py
     attrs:
-      visibility: 0.85
-      evolution: 0.3
+      visibility: 0.4
+      evolution: 0.4
       completeness: partial
-      journey: processing
-      consequence: curated-quotes
+      journey: process
+      consequence: structured-quotes
+  - id: quote-management
+    name: Quote Validation & PR Integration
+    needs:
+      - quote-extraction
+    code:
+      - scripts/merge_pr.py
+      - scripts/validate.py
+      - scripts/validate.js
+    attrs:
+      visibility: 0.5
+      evolution: 0.5
+      completeness: partial
+      journey: curate
+      consequence: approved-quotes
   - id: static-api-generator
     name: Static API Generator
     needs:
-      - quote-extraction
-      - schema-validator
+      - quote-management
     code:
       - scripts/generate.py
       - scripts/generate.js
     attrs:
-      visibility: 0.9
-      evolution: 0.4
+      visibility: 0.6
+      evolution: 0.6
       completeness: ready
-      journey: build
+      journey: generate
       consequence: api-files
-  - id: submission-handler
-    name: Submission & PR Handler
-    needs:
-      - quote-extraction
-      - schema-validator
-    code:
-      - scripts/process_submissions.py
-      - scripts/telegram_bot.py
-      - scripts/merge_pr.py
-    attrs:
-      visibility: 0.7
-      evolution: 0.5
-      completeness: partial
-      journey: ingest
-      consequence: merged-quotes
-  - id: deployment
-    name: Deployment & CI Configuration
+  - id: api-serving
+    name: Static API Serving
     needs:
       - static-api-generator
-      - submission-handler
+    code:
+      - api/v1/**/*.json
+    attrs:
+      visibility: 0.8
+      evolution: 0.8
+      completeness: shipped
+      journey: serve
+      consequence: public-endpoint
+  - id: deployment
+    name: Container Deployment & CI
+    needs:
+      - api-serving
     code:
       - .coolify.yml
       - .github/workflows/generate.yml
       - .github/workflows/scrape.yml
-      - api/v1/**/*.json
     attrs:
-      visibility: 0.6
-      evolution: 0.2
+      visibility: 0.9
+      evolution: 0.9
       completeness: ready
-      journey: delivery
-      consequence: public-api
+      journey: deploy
+      consequence: operational
