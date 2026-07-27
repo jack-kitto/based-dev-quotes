@@ -1,17 +1,18 @@
 {
-  "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
-  "author": "based",
-  "author_slug": "based",
+  "id": "prod-env-staging",
+  "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "DevOps folklore",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "abstraction",
-    "complexity"
+    "testing",
+    "production",
+    "environments"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-good-abstraction-starts",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

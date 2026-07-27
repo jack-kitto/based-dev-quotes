@@ -1,16 +1,17 @@
 {
-  "text": "The indie hacker's biggest enemy isn't competition. It's shiny object syndrome. Pick one thing and ship it.",
+  "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "saas",
+    "product"
   ],
   "tags": [
-    "focus",
-    "discipline"
+    "feature-requests",
+    "data"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-indie-hackers-biggest",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-feature-requests-are-just",
   "source": "Community sourced"
 }

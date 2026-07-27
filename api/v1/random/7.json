@@ -1,17 +1,17 @@
 {
-  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Code never lies. Comments sometimes do.",
+  "author": "Ron Jeffries",
+  "author_slug": "jeffries",
   "categories": [
-    "design",
-    "marketing"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "ab-testing",
-    "product"
+    "comments",
+    "truth"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-ab-testing-is-how",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "jeffries-code-never-lies-comments",
   "source": "Community sourced"
 }

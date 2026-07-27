@@ -1,16 +1,16 @@
 {
-  "text": "GraphQL is what happens when you tell frontend developers they can have exactly what they want. They want everything.",
+  "text": "Multitasking is a myth. You're just switching between tasks poorly and calling it efficiency.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "graphql",
-    "frontend"
+    "multitasking",
+    "focus"
   ],
-  "grug_level": 4,
+  "grug_level": 3,
   "spiciness": 3,
-  "id": "based-graphql-is-what-happens",
+  "id": "based-multitasking-is-a-myth",
   "source": "Community sourced"
 }
