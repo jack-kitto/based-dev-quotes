@@ -1,18 +1,18 @@
 {
-  "id": "prod-env-staging",
-  "text": "Everyone has a testing environment. Some people are lucky enough to have a totally separate environment to run production in.",
+  "id": "fix-bug-introduce-three",
+  "text": "Fixing one bug and introducing three more is called job security.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "DevOps folklore",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "suffering"
+    "debugging"
   ],
   "tags": [
-    "testing",
-    "production",
-    "environments"
+    "bugs",
+    "job-security",
+    "entropy"
   ],
-  "grug_level": 5,
+  "grug_level": 4,
   "spiciness": 2
 }

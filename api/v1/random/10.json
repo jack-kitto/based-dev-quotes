@@ -1,17 +1,16 @@
 {
-  "text": "Your most important feature request is the one users haven't asked for yet, but would change their life if it existed.",
+  "text": "Every failed startup is a case study. Every successful startup is a survivorship bias.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "feature-requests",
-    "insight"
+    "failure",
+    "bias"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-most-important-feature",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-every-failed-startup-is",
   "source": "Community sourced"
 }

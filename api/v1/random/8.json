@@ -1,16 +1,16 @@
 {
-  "text": "The market doesn't care about your tech stack. The market cares about whether you solve their problem.",
+  "text": "Your workflow should be simple enough to explain in 3 steps. If not, simplify it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity"
   ],
   "tags": [
-    "tech-stack",
-    "market"
+    "workflow",
+    "simplicity"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-market-doesnt-care",
+  "spiciness": 2,
+  "id": "based-your-workflow-should-be-944",
   "source": "Community sourced"
 }

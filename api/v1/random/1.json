@@ -1,16 +1,16 @@
 {
-  "text": "The best time to think about scalability is when you have 100 users. Not when you have 100 million.",
+  "text": "Your brand isn't what you say it is. It's what Google says it is. And what Reddit says. And what that one angry customer says.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "marketing"
   ],
   "tags": [
-    "scalability",
-    "premature-optimization"
+    "brand",
+    "reputation"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-454",
+  "spiciness": 3,
+  "id": "based-your-brand-isnt-what",
   "source": "Community sourced"
 }
