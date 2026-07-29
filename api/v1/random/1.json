@@ -1,16 +1,16 @@
 {
-  "text": "Your brand isn't what you say it is. It's what Google says it is. And what Reddit says. And what that one angry customer says.",
+  "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "indie-hacker"
   ],
   "tags": [
-    "brand",
-    "reputation"
+    "pricing",
+    "validation"
   ],
   "grug_level": 3,
   "spiciness": 3,
-  "id": "based-your-brand-isnt-what",
+  "id": "based-building-a-tool-youd",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "If you build exactly what the customer asked for, they'll complain it doesn't work the way they actually need it to.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "kernighan-debugging",
+  "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+  "author": "Brian Kernighan",
+  "author_slug": "kernighan",
+  "source": "The Elements of Programming Style, 1978",
   "categories": [
-    "users",
-    "product"
+    "debugging",
+    "wisdom"
   ],
   "tags": [
-    "requirements",
-    "expectations"
+    "debugging",
+    "cleverness",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-if-you-build-exactly",
-  "source": "Community sourced"
+  "spiciness": 1
 }

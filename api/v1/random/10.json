@@ -1,16 +1,18 @@
 {
-  "text": "Every failed startup is a case study. Every successful startup is a survivorship bias.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "best-marketing-ship",
+  "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Indie hacker wisdom",
   "categories": [
-    "business"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "failure",
-    "bias"
+    "marketing",
+    "shipping",
+    "seo"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-failed-startup-is",
-  "source": "Community sourced"
+  "spiciness": 2
 }
