@@ -1,16 +1,17 @@
 {
-  "text": "The best time to start a project is before you're ready. You'll never be ready.",
+  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "design",
+    "marketing"
   ],
   "tags": [
-    "starting",
-    "readiness"
+    "ab-testing",
+    "product"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-986",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-ab-testing-is-how",
   "source": "Community sourced"
 }

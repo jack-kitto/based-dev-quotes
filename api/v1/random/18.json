@@ -1,17 +1,16 @@
 {
-  "text": "The best way to prevent bugs is to write simple code. Simple code has fewer places to hide bugs.",
+  "text": "The best time to check in with a customer is when things are going well. Not just when they're not.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "simplicity",
-    "bugs"
+    "customers",
+    "proactive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-787",
+  "id": "based-the-best-time-to-1021",
   "source": "Community sourced"
 }
