@@ -1,17 +1,18 @@
 {
-  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "brooks-mythical-man-month",
+  "text": "Adding manpower to a late software project makes it later.",
+  "author": "Fred Brooks",
+  "author_slug": "brooks",
+  "source": "The Mythical Man-Month, 1975",
   "categories": [
-    "design",
-    "marketing"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "ab-testing",
-    "product"
+    "management",
+    "teams",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-ab-testing-is-how",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

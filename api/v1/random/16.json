@@ -1,16 +1,16 @@
 {
-  "text": "Every production database needs a backup. Every backup needs a test. Every test needs a schedule.",
+  "text": "The best way to build trust is to be consistent. Consistency compounds like interest.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "backups",
-    "reliability"
+    "trust",
+    "consistency"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "based-every-production-database-needs",
+  "id": "based-the-best-way-to-831",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+  "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "saas"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "customer-success",
-    "listening"
+    "code-quality",
+    "boy-scout"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-customer-success-team",
+  "id": "based-the-best-engineers-leave",
   "source": "Community sourced"
 }

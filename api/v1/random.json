@@ -1,18 +1,18 @@
 {
-  "text": "Your API versioning should be boring and predictable. If it's exciting, something's wrong.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Innovation is saying no to a thousand things.",
+  "author": "Steve Jobs",
+  "author_slug": "jobs",
   "categories": [
-    "saas",
-    "engineering"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "api",
-    "versioning"
+    "innovation",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-api-versioning-should",
+  "spiciness": 1,
+  "id": "jobs-innovation-is-saying-no",
   "source": "Community sourced",
-  "_generated_at": "2026-07-30T02:26:13.038346+00:00"
+  "_generated_at": "2026-07-31T02:50:35.002183+00:00"
 }

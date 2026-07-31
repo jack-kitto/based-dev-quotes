@@ -1,16 +1,19 @@
 {
-  "text": "Your indie business should be simple enough to explain in one sentence. If it takes a paragraph, simplify.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "microservices-monolith",
+  "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Hacker News wisdom",
   "categories": [
-    "indie-hacker"
+    "shitpost",
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "simplicity",
-    "clarity"
+    "microservices",
+    "startups",
+    "over-engineering"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-business-should-1071",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 4
 }

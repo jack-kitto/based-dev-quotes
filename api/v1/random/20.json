@@ -1,16 +1,17 @@
 {
-  "text": "Your first product taught you everything. Your second product teaches you what actually matters.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Code never lies. Comments sometimes do.",
+  "author": "Ron Jeffries",
+  "author_slug": "jeffries",
   "categories": [
-    "indie-hacker"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "learning",
-    "iteration"
+    "comments",
+    "truth"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-first-product-taught",
+  "id": "jeffries-code-never-lies-comments",
   "source": "Community sourced"
 }

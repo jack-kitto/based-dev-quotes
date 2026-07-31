@@ -1,17 +1,17 @@
 {
-  "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
-  "author": "Mark Zuckerberg",
-  "author_slug": "zuckerberg",
+  "text": "If you can't explain your product in 30 seconds, your marketing page can't explain it in 30 seconds either.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "users",
+    "marketing"
   ],
   "tags": [
-    "risk",
-    "innovation"
+    "pitch",
+    "clarity"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "zuckerberg-the-biggest-risk-is",
+  "spiciness": 2,
+  "id": "based-if-you-cant-explain-568",
   "source": "Community sourced"
 }
