@@ -1,18 +1,18 @@
 {
-  "text": "Innovation is saying no to a thousand things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business",
-    "wisdom"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "innovation",
-    "focus"
+    "post-mortem",
+    "improvement"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "jobs-innovation-is-saying-no",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-postmortems-are-like-therapy",
   "source": "Community sourced",
-  "_generated_at": "2026-07-31T02:50:35.002183+00:00"
+  "_generated_at": "2026-08-01T02:49:41.058078+00:00"
 }

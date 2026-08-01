@@ -1,16 +1,18 @@
 {
-  "text": "Every business should have a simple rule: if it doesn't make money, don't do it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "deleted-code-no-bugs",
+  "text": "Deleted code is debugged code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "business"
+    "wisdom",
+    "funny"
   ],
   "tags": [
-    "profit",
-    "focus"
+    "deletion",
+    "debugging",
+    "simplicity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-business-should-have",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

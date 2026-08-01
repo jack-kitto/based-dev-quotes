@@ -1,17 +1,17 @@
 {
-  "text": "Your product's empty state is as important as its full state. Design for both.",
+  "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "empty-state",
-    "ux"
+    "debugging",
+    "humor"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-products-empty-state",
+  "spiciness": 1,
+  "id": "based-every-programmer-has-a",
   "source": "Community sourced"
 }

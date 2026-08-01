@@ -1,17 +1,16 @@
 {
-  "text": "The best product features are the ones users create themselves. Build a platform, not a product.",
+  "text": "Your product's color system should have 3 primary colors. One for action, one for success, one for danger. Everything else is secondary.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "design"
   ],
   "tags": [
-    "platform",
-    "extensibility"
+    "color",
+    "system"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-product-features",
+  "id": "based-your-products-color-system",
   "source": "Community sourced"
 }

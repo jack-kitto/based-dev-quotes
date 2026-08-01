@@ -1,16 +1,16 @@
 {
-  "text": "The only real mistake is the one from which we learn nothing.",
-  "author": "Henry Ford",
-  "author_slug": "ford",
+  "text": "The best landing page converts at 5%. The average is 2%. Your landing page converts at 0.1% but you think it's 'fine.'",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "mistakes",
-    "learning"
+    "landing-page",
+    "conversion"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ford-the-only-real-mistake",
+  "spiciness": 3,
+  "id": "based-the-best-landing-page",
   "source": "Community sourced"
 }

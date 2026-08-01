@@ -1,16 +1,16 @@
 {
-  "text": "Your product is your resume. Build something people want to talk about.",
+  "text": "Design tokens aren't a trend. They're what happens when designers finally learn version control.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design"
   ],
   "tags": [
-    "product",
-    "portfolio"
+    "design-tokens",
+    "version-control"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-product-is-your",
+  "id": "based-design-tokens-arent-a",
   "source": "Community sourced"
 }
