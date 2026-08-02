@@ -1,16 +1,16 @@
 {
-  "text": "Your business is a machine. Build it to run without you.",
+  "text": "The best investment is in yourself. The best return is confidence.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity"
   ],
   "tags": [
-    "automation",
-    "leverage"
+    "investment",
+    "confidence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-business-is-a",
+  "spiciness": 1,
+  "id": "based-the-best-investment-is",
   "source": "Community sourced"
 }

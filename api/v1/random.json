@@ -1,18 +1,18 @@
 {
-  "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
+  "text": "The best SaaS businesses are built on boring problems. Boring problems have paying customers. Exciting problems have Twitter threads.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "saas",
+    "business"
   ],
   "tags": [
-    "post-mortem",
-    "improvement"
+    "boring",
+    "paying-customers"
   ],
   "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-postmortems-are-like-therapy",
+  "spiciness": 3,
+  "id": "based-the-best-saas-businesses-419",
   "source": "Community sourced",
-  "_generated_at": "2026-08-01T02:49:41.058078+00:00"
+  "_generated_at": "2026-08-02T02:48:21.285451+00:00"
 }
