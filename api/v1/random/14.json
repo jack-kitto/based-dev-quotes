@@ -1,17 +1,18 @@
 {
-  "text": "The most expensive part of software isn't the code. It's the maintenance. Plan for it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "standards-xkcd",
+  "text": "The nice thing about standards is that there are so many to choose from.",
+  "author": "Andrew S. Tanenbaum",
+  "author_slug": "tanenbaum",
+  "source": "Computer Networks, 1981",
   "categories": [
-    "engineering",
+    "funny",
     "wisdom"
   ],
   "tags": [
-    "maintenance",
-    "cost"
+    "standards",
+    "fragmentation",
+    "xkcd-energy"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-most-expensive-part",
-  "source": "Community sourced"
+  "spiciness": 2
 }

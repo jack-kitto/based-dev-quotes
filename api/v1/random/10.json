@@ -1,17 +1,18 @@
 {
-  "text": "Every successful entrepreneur has a story that starts with 'I had no idea what I was doing.'",
-  "author": "based",
-  "author_slug": "based",
+  "id": "stackoverflow-driven",
+  "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "business",
-    "entrepreneur"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "beginner",
-    "courage"
+    "stackoverflow",
+    "debugging",
+    "cargo-cult"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-successful-entrepreneur-has",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }
