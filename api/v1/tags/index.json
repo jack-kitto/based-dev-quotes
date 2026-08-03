@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 823,
   "tags": {
     "10x": {
       "count": 2
@@ -38,7 +38,7 @@
       "count": 1
     },
     "advice": {
-      "count": 2
+      "count": 3
     },
     "advocacy": {
       "count": 2
@@ -58,6 +58,12 @@
     "ai": {
       "count": 2
     },
+    "ai-hype": {
+      "count": 1
+    },
+    "ai-slop": {
+      "count": 1
+    },
     "alerting": {
       "count": 1
     },
@@ -67,6 +73,9 @@
     "always": {
       "count": 1
     },
+    "analog": {
+      "count": 1
+    },
     "analytics": {
       "count": 2
     },
@@ -74,6 +83,12 @@
       "count": 1
     },
     "annoyance": {
+      "count": 1
+    },
+    "anti-bloat": {
+      "count": 1
+    },
+    "anti-tooling": {
       "count": 1
     },
     "api": {
@@ -349,6 +364,9 @@
     "combination": {
       "count": 1
     },
+    "commands": {
+      "count": 1
+    },
     "comments": {
       "count": 4
     },
@@ -601,6 +619,9 @@
     "detective": {
       "count": 1
     },
+    "dev-humor": {
+      "count": 1
+    },
     "developer-experience": {
       "count": 1
     },
@@ -674,7 +695,7 @@
       "count": 2
     },
     "efficiency": {
-      "count": 12
+      "count": 13
     },
     "elimination": {
       "count": 1
@@ -884,7 +905,7 @@
       "count": 1
     },
     "fundamentals": {
-      "count": 2
+      "count": 3
     },
     "funding": {
       "count": 1
@@ -979,6 +1000,9 @@
     "hiring": {
       "count": 6
     },
+    "history": {
+      "count": 1
+    },
     "home": {
       "count": 1
     },
@@ -995,7 +1019,7 @@
       "count": 4
     },
     "humor": {
-      "count": 8
+      "count": 9
     },
     "hustle": {
       "count": 3
@@ -1133,6 +1157,9 @@
       "count": 1
     },
     "knowledge": {
+      "count": 1
+    },
+    "knowledge-management": {
       "count": 1
     },
     "knowledge-sharing": {
@@ -1450,6 +1477,9 @@
     "open-source": {
       "count": 2
     },
+    "operating-systems": {
+      "count": 1
+    },
     "opinion": {
       "count": 2
     },
@@ -1706,7 +1736,7 @@
       "count": 1
     },
     "quality": {
-      "count": 11
+      "count": 12
     },
     "questions": {
       "count": 1
@@ -2021,7 +2051,7 @@
       "count": 1
     },
     "simplicity": {
-      "count": 70
+      "count": 72
     },
     "simplification": {
       "count": 3
@@ -2429,7 +2459,7 @@
       "count": 1
     },
     "writing": {
-      "count": 1
+      "count": 2
     },
     "xkcd-energy": {
       "count": 1

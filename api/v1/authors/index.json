@@ -1,5 +1,5 @@
 {
-  "total": 98,
+  "total": 103,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
@@ -16,6 +16,10 @@
     "based": {
       "name": "based",
       "count": 867
+    },
+    "bauerd": {
+      "name": "bauerd",
+      "count": 1
     },
     "beck": {
       "name": "Kent Beck",
@@ -297,6 +301,10 @@
       "name": "Alan Perlis",
       "count": 3
     },
+    "peter-d-sherman": {
+      "name": "peter_d_sherman",
+      "count": 1
+    },
     "pike": {
       "name": "Rob Pike",
       "count": 2
@@ -307,6 +315,10 @@
     },
     "raymond": {
       "name": "Eric S. Raymond",
+      "count": 1
+    },
+    "rgmerk": {
+      "name": "rgmerk",
       "count": 1
     },
     "ries": {
@@ -325,6 +337,10 @@
       "name": "Vidal Sassoon",
       "count": 1
     },
+    "scaredginger": {
+      "name": "scaredginger",
+      "count": 1
+    },
     "simpson": {
       "name": "Homer Simpson",
       "count": 1
@@ -340,6 +356,10 @@
     "spolsky": {
       "name": "Joel Spolsky",
       "count": 2
+    },
+    "stephbook": {
+      "name": "stephbook",
+      "count": 1
     },
     "stroustrup": {
       "name": "Bjarne Stroustrup",

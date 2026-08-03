@@ -1,6 +1,6 @@
 {
   "tag": "quality",
-  "count": 11,
+  "count": 12,
   "quotes": [
     {
       "text": "Done is better than perfect. But also: good is better than done-but-broken.",
@@ -180,6 +180,26 @@
       "spiciness": 2,
       "id": "based-your-indie-project-should-1066",
       "source": "Community sourced"
+    },
+    {
+      "text": "They didn't need the disclaimer for this to be obvious AI slop.",
+      "author": "scaredginger",
+      "author_slug": "scaredginger",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49092215",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-slop",
+        "dev-humor",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Concise and humorous take on AI-generated content in dev communities.",
+      "id": "scaredginger-they-didnt-need-the"
     }
   ]
 }

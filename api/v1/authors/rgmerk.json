@@ -1,0 +1,27 @@
+{
+  "author": "rgmerk",
+  "slug": "rgmerk",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "CP/M - because pip just makes more sense than copy.",
+      "author": "rgmerk",
+      "author_slug": "rgmerk",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49149898",
+      "categories": [
+        "funny",
+        "unix"
+      ],
+      "tags": [
+        "commands",
+        "humor",
+        "history"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Humorous observation on command naming conventions in computing history.",
+      "id": "rgmerk-cpm-because-pip-just"
+    }
+  ]
+}

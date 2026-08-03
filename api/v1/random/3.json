@@ -1,16 +1,16 @@
 {
-  "text": "The best UX is the one you don't notice. When the design is invisible, the product is working.",
+  "text": "The best time to learn about security is before you get hacked. The second best time is after. The worst time is never.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "ux",
-    "invisibility"
+    "security",
+    "learning"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-ux-is",
+  "id": "based-the-best-time-to-398",
   "source": "Community sourced"
 }

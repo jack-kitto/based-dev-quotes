@@ -1,18 +1,17 @@
 {
-  "id": "standards-xkcd",
-  "text": "The nice thing about standards is that there are so many to choose from.",
-  "author": "Andrew S. Tanenbaum",
-  "author_slug": "tanenbaum",
-  "source": "Computer Networks, 1981",
+  "text": "Your API versioning should be boring and predictable. If it's exciting, something's wrong.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "standards",
-    "fragmentation",
-    "xkcd-energy"
+    "api",
+    "versioning"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-your-api-versioning-should",
+  "source": "Community sourced"
 }

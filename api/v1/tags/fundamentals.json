@@ -1,6 +1,6 @@
 {
   "tag": "fundamentals",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "torvalds-bad-programmers",
@@ -34,6 +34,26 @@
       "spiciness": 2,
       "id": "based-typography-is-95-of",
       "source": "Community sourced"
+    },
+    {
+      "text": "Should have started with writing your own blog posts.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49125065",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "fundamentals",
+        "writing",
+        "advice"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Pithy advice on starting with fundamentals before complex projects.",
+      "id": "stephbook-should-have-started-with"
     }
   ]
 }

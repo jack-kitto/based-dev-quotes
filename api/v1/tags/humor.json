@@ -1,6 +1,6 @@
 {
   "tag": "humor",
-  "count": 8,
+  "count": 9,
   "quotes": [
     {
       "text": "Debugging is like being a detective in a crime movie where you're also the suspect.",
@@ -136,6 +136,26 @@
       "spiciness": 2,
       "id": "based-the-best-error-message-885",
       "source": "Community sourced"
+    },
+    {
+      "text": "CP/M - because pip just makes more sense than copy.",
+      "author": "rgmerk",
+      "author_slug": "rgmerk",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49149898",
+      "categories": [
+        "funny",
+        "unix"
+      ],
+      "tags": [
+        "commands",
+        "humor",
+        "history"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Humorous observation on command naming conventions in computing history.",
+      "id": "rgmerk-cpm-because-pip-just"
     }
   ]
 }

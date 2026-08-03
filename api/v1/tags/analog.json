@@ -1,0 +1,29 @@
+{
+  "tag": "analog",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I returned to hand-written notebooks. None of these knowledge management frameworks ever worked for me. Sure my agents have their own semantic memory system but I'm not an agent.",
+      "author": "bauerd",
+      "author_slug": "bauerd",
+      "source": "Hacker News — Note-Taking and Personal Knowledge Management",
+      "source_url": "https://news.ycombinator.com/item?id=49084324",
+      "categories": [
+        "grug",
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "simplicity",
+        "anti-tooling",
+        "ai-hype",
+        "analog",
+        "knowledge-management"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug quote — rejecting all the fancy frameworks and AI-powered systems to go back to paper. The punchline 'I'm not an agent' is genuinely funny and cuts through the AI hype cleanly.",
+      "id": "bauerd-i-returned-to-handwritten"
+    }
+  ]
+}

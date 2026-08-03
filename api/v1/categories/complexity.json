@@ -1,6 +1,6 @@
 {
   "category": "complexity",
-  "count": 19,
+  "count": 20,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -351,6 +351,28 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "An order of magnitude less code complexity and less memory hungry than most bloated Operating Systems.",
+      "author": "peter_d_sherman",
+      "author_slug": "peter-d-sherman",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49149898",
+      "categories": [
+        "grug",
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "efficiency",
+        "simplicity",
+        "operating-systems",
+        "anti-bloat"
+      ],
+      "grug_level": 5,
+      "spiciness": 4,
+      "extraction_note": "Praise for low complexity and efficiency, embodying anti-bloat sentiment.",
+      "id": "peter-d-sherman-an-order-of-magnitude"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "tag": "ai-slop",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "They didn't need the disclaimer for this to be obvious AI slop.",
+      "author": "scaredginger",
+      "author_slug": "scaredginger",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49092215",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-slop",
+        "dev-humor",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Concise and humorous take on AI-generated content in dev communities.",
+      "id": "scaredginger-they-didnt-need-the"
+    }
+  ]
+}

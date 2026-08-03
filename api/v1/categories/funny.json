@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 66,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,69 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "They didn't need the disclaimer for this to be obvious AI slop.",
+      "author": "scaredginger",
+      "author_slug": "scaredginger",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49092215",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-slop",
+        "dev-humor",
+        "quality"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Concise and humorous take on AI-generated content in dev communities.",
+      "id": "scaredginger-they-didnt-need-the"
+    },
+    {
+      "text": "CP/M - because pip just makes more sense than copy.",
+      "author": "rgmerk",
+      "author_slug": "rgmerk",
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49149898",
+      "categories": [
+        "funny",
+        "unix"
+      ],
+      "tags": [
+        "commands",
+        "humor",
+        "history"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Humorous observation on command naming conventions in computing history.",
+      "id": "rgmerk-cpm-because-pip-just"
+    },
+    {
+      "text": "I returned to hand-written notebooks. None of these knowledge management frameworks ever worked for me. Sure my agents have their own semantic memory system but I'm not an agent.",
+      "author": "bauerd",
+      "author_slug": "bauerd",
+      "source": "Hacker News — Note-Taking and Personal Knowledge Management",
+      "source_url": "https://news.ycombinator.com/item?id=49084324",
+      "categories": [
+        "grug",
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "simplicity",
+        "anti-tooling",
+        "ai-hype",
+        "analog",
+        "knowledge-management"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug quote — rejecting all the fancy frameworks and AI-powered systems to go back to paper. The punchline 'I'm not an agent' is genuinely funny and cuts through the AI hype cleanly.",
+      "id": "bauerd-i-returned-to-handwritten"
     }
   ]
 }
