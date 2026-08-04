@@ -1,16 +1,17 @@
 {
-  "text": "Every production database needs a backup. Every backup needs a test. Every test needs a schedule.",
+  "text": "Post-mortems are like therapy: everyone feels better afterward, but nothing actually changes.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "backups",
-    "reliability"
+    "post-mortem",
+    "improvement"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-every-production-database-needs",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-postmortems-are-like-therapy",
   "source": "Community sourced"
 }

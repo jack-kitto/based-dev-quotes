@@ -1,16 +1,18 @@
 {
-  "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "stackoverflow-driven",
+  "text": "My development process: 1) Google the error 2) Find a Stack Overflow answer from 2014 3) It works 4) I have no idea why",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "database",
-    "foundation"
+    "stackoverflow",
+    "debugging",
+    "cargo-cult"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-database-schema-is",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }
