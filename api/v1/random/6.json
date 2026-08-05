@@ -1,16 +1,16 @@
 {
-  "text": "The best landing page converts at 5%. The average is 2%. Your landing page converts at 0.1% but you think it's 'fine.'",
+  "text": "Git is the best version control system. That's not saying much, but it's still true.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering"
   ],
   "tags": [
-    "landing-page",
-    "conversion"
+    "git",
+    "version-control"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-landing-page",
+  "spiciness": 2,
+  "id": "based-git-is-the-best",
   "source": "Community sourced"
 }

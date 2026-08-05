@@ -1,18 +1,18 @@
 {
-  "id": "gwern-on-finishing",
-  "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
-  "author": "Gwern Branwen",
-  "author_slug": "gwern",
-  "source": "gwern.net",
+  "id": "torvalds-c-plus-plus",
+  "text": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+  "author": "Linus Torvalds",
+  "author_slug": "torvalds",
+  "source": "Git Mailing List, 2007",
   "categories": [
-    "shipping",
-    "wisdom"
+    "shitpost",
+    "tools"
   ],
   "tags": [
-    "finishing",
-    "discipline",
-    "projects"
+    "c++",
+    "languages",
+    "rant"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 5
 }

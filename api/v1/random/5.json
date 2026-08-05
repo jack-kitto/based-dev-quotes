@@ -1,16 +1,17 @@
 {
-  "text": "The best features are the ones you don't build. Every feature adds maintenance burden.",
+  "text": "The best way to validate a SaaS idea is to sell it before you build it. If nobody buys, save yourself 6 months.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "product"
+    "saas",
+    "indie-hacker"
   ],
   "tags": [
-    "features",
-    "simplicity"
+    "validation",
+    "preselling"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-features-are",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-way-to-417",
   "source": "Community sourced"
 }
