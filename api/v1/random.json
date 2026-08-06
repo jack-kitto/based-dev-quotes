@@ -1,17 +1,17 @@
 {
-  "text": "The best investment is in yourself. The best return is confidence.",
+  "text": "The best SaaS demos are 5 minutes long. If yours is 30 minutes, your product is too complex.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "saas"
   ],
   "tags": [
-    "investment",
-    "confidence"
+    "demo",
+    "complexity"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-best-investment-is",
+  "spiciness": 2,
+  "id": "based-the-best-saas-demos",
   "source": "Community sourced",
-  "_generated_at": "2026-08-05T02:32:05.074662+00:00"
+  "_generated_at": "2026-08-06T02:34:42.287413+00:00"
 }

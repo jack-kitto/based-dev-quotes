@@ -1,17 +1,17 @@
 {
-  "text": "If you're debugging for more than an hour, stop. Walk away. The answer is usually something obvious you're too tired to see.",
+  "text": "The best indie businesses are ones you can run from a laptop, in a coffee shop, while ignoring everyone around you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "debugging",
-    "fatigue"
+    "location-independent",
+    "lifestyle"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-youre-debugging-for",
+  "id": "based-the-best-indie-businesses",
   "source": "Community sourced",
-  "_date": "2026-08-05"
+  "_date": "2026-08-06"
 }

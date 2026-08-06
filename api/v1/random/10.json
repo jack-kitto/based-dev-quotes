@@ -1,17 +1,17 @@
 {
-  "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
+  "text": "The best onboarding is invisible. The user shouldn't even know they're being onboarded.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "users",
+    "product"
   ],
   "tags": [
-    "abstraction",
-    "complexity"
+    "onboarding",
+    "ux"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-good-abstraction-starts",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-onboarding-is",
   "source": "Community sourced"
 }

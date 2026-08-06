@@ -1,16 +1,17 @@
 {
-  "text": "The best engineers don't just fix bugs. They write tests that prevent them from coming back.",
+  "text": "Every design is a wireframe until someone puts a gradient on it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design",
+    "shitpost"
   ],
   "tags": [
-    "bugs",
-    "prevention"
+    "wireframe",
+    "gradients"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-engineers-dont-785",
+  "id": "based-every-design-is-a",
   "source": "Community sourced"
 }
