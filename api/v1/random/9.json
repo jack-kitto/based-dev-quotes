@@ -1,16 +1,16 @@
 {
-  "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
+  "text": "Your calendar reflects your priorities. If it doesn't, you don't have priorities — you have wishes.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "database",
-    "pragmatism"
+    "calendar",
+    "priorities"
   ],
   "grug_level": 3,
   "spiciness": 3,
-  "id": "based-the-best-database-is",
+  "id": "based-your-calendar-reflects-your",
   "source": "Community sourced"
 }

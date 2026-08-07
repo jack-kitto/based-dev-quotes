@@ -1,16 +1,18 @@
 {
-  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "pike-complexity-moved",
+  "text": "A little copying is better than a little dependency.",
+  "author": "Rob Pike",
+  "author_slug": "pike",
+  "source": "Go Proverbs",
   "categories": [
-    "business"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "leadership",
-    "accountability"
+    "dependencies",
+    "simplicity",
+    "go"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-teams-performance-is",
-  "source": "Community sourced"
+  "spiciness": 2
 }

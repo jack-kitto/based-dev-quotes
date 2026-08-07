@@ -1,17 +1,17 @@
 {
-  "text": "Every design is a wireframe until someone puts a gradient on it.",
+  "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "shitpost"
+    "business",
+    "saas"
   ],
   "tags": [
-    "wireframe",
-    "gradients"
+    "churn",
+    "product"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-design-is-a",
+  "id": "based-your-churn-rate-tells",
   "source": "Community sourced"
 }

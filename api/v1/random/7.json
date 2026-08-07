@@ -1,17 +1,16 @@
 {
-  "text": "Simplicity is the ultimate sophistication.",
-  "author": "Leonardo da Vinci",
-  "author_slug": "davinci",
+  "text": "Your happiest customers are your best marketing channel. Make them happy.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "design"
+    "business"
   ],
   "tags": [
-    "simplicity",
-    "classic"
+    "customers",
+    "marketing"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "davinci-simplicity-is-the-ultimate",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-happiest-customers-are",
   "source": "Community sourced"
 }

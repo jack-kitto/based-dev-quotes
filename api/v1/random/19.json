@@ -1,16 +1,18 @@
 {
-  "text": "Growth is never by mere chance; it is the result of forces working together.",
-  "author": "James Cash Penney",
-  "author_slug": "penney",
+  "id": "first-rule-of-programming",
+  "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "business"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "growth",
-    "forces"
+    "refactoring",
+    "stability",
+    "fear"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "penney-growth-is-never-by",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

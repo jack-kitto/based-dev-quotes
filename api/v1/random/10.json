@@ -1,17 +1,16 @@
 {
-  "text": "The best onboarding is invisible. The user shouldn't even know they're being onboarded.",
+  "text": "The best code is no code at all. The second best code is code that writes itself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering"
   ],
   "tags": [
-    "onboarding",
-    "ux"
+    "simplicity",
+    "automation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-onboarding-is",
+  "id": "based-the-best-code-is",
   "source": "Community sourced"
 }
