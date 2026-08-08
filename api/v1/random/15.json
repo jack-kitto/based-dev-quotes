@@ -1,17 +1,16 @@
 {
-  "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
+  "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "productivity"
   ],
   "tags": [
-    "sql",
-    "jokes"
+    "todo",
+    "focus"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-a-sql-query-walks",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-todo-list-isnt",
   "source": "Community sourced"
 }

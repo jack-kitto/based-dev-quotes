@@ -1,18 +1,18 @@
 {
-  "id": "blow-layers",
-  "text": "Each layer of abstraction is a layer of bugs, a layer of performance problems, and a layer of things you don't understand.",
-  "author": "Jonathan Blow",
-  "author_slug": "blow",
-  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
+  "id": "hickey-simple-easy",
+  "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Simple Made Easy, Strange Loop 2011",
   "categories": [
-    "complexity",
-    "wisdom"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "abstraction",
-    "layers",
-    "understanding"
+    "simplicity",
+    "complexity",
+    "design"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 1
 }

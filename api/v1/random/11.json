@@ -1,17 +1,18 @@
 {
-  "text": "Innovation is saying no to a thousand things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "id": "shipping-beats-perfection",
+  "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Indie hacker culture",
   "categories": [
-    "business",
-    "wisdom"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "innovation",
-    "focus"
+    "shipping",
+    "perfection",
+    "mvp"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "jobs-innovation-is-saying-no",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

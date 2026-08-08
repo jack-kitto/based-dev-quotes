@@ -1,18 +1,17 @@
 {
-  "text": "If your product description needs more than 3 sentences, simplify the product.",
+  "text": "Your indie business should be something you can explain to your parents. If you can't, simplify.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "marketing"
+    "indie-hacker"
   ],
   "tags": [
-    "copywriting",
+    "clarity",
     "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-your-product-description",
+  "id": "based-your-indie-business-should-1045",
   "source": "Community sourced",
-  "_generated_at": "2026-08-07T02:40:29.914771+00:00"
+  "_generated_at": "2026-08-08T01:39:52.167799+00:00"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Your churn rate tells you more about your product than your acquisition rate ever will.",
+  "text": "The best way to get promoted is to do the job you want, not the job you have. But don't do it for free.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "saas"
+    "productivity"
   ],
   "tags": [
-    "churn",
-    "product"
+    "career",
+    "promotion"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-churn-rate-tells",
+  "spiciness": 3,
+  "id": "based-the-best-way-to-486",
   "source": "Community sourced"
 }

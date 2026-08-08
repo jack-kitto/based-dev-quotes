@@ -1,17 +1,16 @@
 {
-  "text": "Every failed product teaches you something that no successful product could.",
+  "text": "Your business is a machine. Build it to run without you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "indie-hacker"
+    "business"
   ],
   "tags": [
-    "failure",
-    "learning"
+    "automation",
+    "leverage"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-failed-product-teaches",
+  "id": "based-your-business-is-a",
   "source": "Community sourced"
 }

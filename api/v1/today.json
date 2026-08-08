@@ -1,17 +1,18 @@
 {
-  "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
+  "author": "Peter Drucker",
+  "author_slug": "drucker",
   "categories": [
-    "productivity"
+    "marketing",
+    "wisdom"
   ],
   "tags": [
-    "workflow",
-    "focus"
+    "customer-understanding",
+    "product"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-workflow-is",
+  "spiciness": 1,
+  "id": "drucker-the-aim-of-marketing",
   "source": "Community sourced",
-  "_date": "2026-08-07"
+  "_date": "2026-08-08"
 }

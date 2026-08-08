@@ -1,17 +1,19 @@
 {
-  "text": "The best way to market a SaaS is to show it working. Not tell people about it. Show them.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "feature-request-vs-bug",
+  "text": "A bug becomes a feature the moment a customer depends on it.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Software engineering folklore",
   "categories": [
-    "saas",
-    "marketing"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "demo",
-    "showing"
+    "bugs",
+    "features",
+    "customers",
+    "backwards-compatibility"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-1040",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

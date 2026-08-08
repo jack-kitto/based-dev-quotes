@@ -1,18 +1,16 @@
 {
-  "id": "first-rule-of-programming",
-  "text": "The first rule of programming: if it works, don't touch it. The second rule: see the first rule.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "design"
   ],
   "tags": [
-    "refactoring",
-    "stability",
-    "fear"
+    "forms",
+    "conversion"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-a-form-with-3",
+  "source": "Community sourced"
 }
