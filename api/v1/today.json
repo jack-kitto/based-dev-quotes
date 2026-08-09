@@ -1,18 +1,17 @@
 {
-  "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
-  "author": "Peter Drucker",
-  "author_slug": "drucker",
+  "text": "If you can't explain it simply, you don't understand it well enough.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "marketing",
     "wisdom"
   ],
   "tags": [
-    "customer-understanding",
-    "product"
+    "simplicity",
+    "understanding"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "drucker-the-aim-of-marketing",
+  "id": "einstein-if-you-cant-explain",
   "source": "Community sourced",
-  "_date": "2026-08-08"
+  "_date": "2026-08-09"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Your database is your system's memory. Treat it with respect. Backup it. Index it. Never let it forget.",
+  "text": "If you have to explain your navigation, your navigation is broken.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design"
   ],
   "tags": [
-    "database",
-    "reliability"
+    "navigation",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-database-is-your",
+  "spiciness": 2,
+  "id": "based-if-you-have-to",
   "source": "Community sourced"
 }

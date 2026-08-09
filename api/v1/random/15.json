@@ -1,16 +1,16 @@
 {
-  "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
+  "text": "The best business model is one where you get paid to learn.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "business"
   ],
   "tags": [
-    "todo",
-    "focus"
+    "business-model",
+    "learning"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-todo-list-isnt",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-business-model-414",
   "source": "Community sourced"
 }

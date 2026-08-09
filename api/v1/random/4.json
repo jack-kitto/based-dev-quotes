@@ -1,17 +1,17 @@
 {
-  "text": "A/B testing takes courage. The courage to let go of your favorite idea when the data says otherwise.",
+  "text": "Every product has a 'magic moment' — the instant the user gets it. Find it. Optimize for it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
+    "users",
     "product"
   ],
   "tags": [
-    "ab-testing",
-    "data"
+    "aha-moment",
+    "activation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-ab-testing-takes-courage",
+  "id": "based-every-product-has-a",
   "source": "Community sourced"
 }
