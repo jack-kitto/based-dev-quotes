@@ -1,16 +1,17 @@
 {
-  "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
+  "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "workflow",
-    "focus"
+    "deployment",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-workflow-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-you-need-a-232",
   "source": "Community sourced"
 }

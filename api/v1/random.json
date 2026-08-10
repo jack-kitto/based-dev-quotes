@@ -1,17 +1,20 @@
 {
-  "id": "copy-paste-stackoverflow",
-  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
+  "id": "feature-request-vs-bug",
+  "text": "A bug becomes a feature the moment a customer depends on it.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "Software engineering folklore",
   "categories": [
-    "funny"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "stackoverflow",
-    "copy-paste"
+    "bugs",
+    "features",
+    "customers",
+    "backwards-compatibility"
   ],
   "grug_level": 4,
-  "spiciness": 1,
-  "_generated_at": "2026-08-09T01:45:27.099631+00:00"
+  "spiciness": 2,
+  "_generated_at": "2026-08-10T01:49:09.116060+00:00"
 }

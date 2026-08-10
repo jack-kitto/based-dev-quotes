@@ -1,16 +1,16 @@
 {
-  "text": "Your pricing page is the most important page on your site. It's where strangers decide if you're a real business.",
+  "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "saas"
   ],
   "tags": [
-    "pricing",
-    "conversion"
+    "features",
+    "simplification"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-pricing-page-is",
+  "id": "based-every-saas-goes-through-535",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "If you can't explain it simply, you don't understand it well enough.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "The best marketing for an indie project is being useful. Be useful in forums, be useful on Twitter, be useful everywhere.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker",
+    "marketing"
   ],
   "tags": [
-    "simplicity",
-    "understanding"
+    "marketing",
+    "usefulness"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-if-you-cant-explain",
+  "spiciness": 2,
+  "id": "based-the-best-marketing-for",
   "source": "Community sourced",
-  "_date": "2026-08-09"
+  "_date": "2026-08-10"
 }

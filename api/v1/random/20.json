@@ -1,17 +1,18 @@
 {
-  "text": "You don't need permission to start. You don't need a co-founder to start. You don't need funding to start. You need to start.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "graham-default-alive",
+  "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Default Alive or Default Dead?, 2015",
   "categories": [
-    "business",
-    "entrepreneur"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "start",
-    "action"
+    "survival",
+    "profitability",
+    "startups"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-you-dont-need-permission",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

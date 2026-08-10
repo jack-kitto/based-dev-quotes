@@ -1,17 +1,16 @@
 {
-  "text": "The best time to set up CI/CD was when you started the project. The second best time is now. The worst time is after your third 'it works on my machine' incident.",
+  "text": "Your SaaS should have a 'change log' that shows you're actively building. Stagnation is death.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "saas"
   ],
   "tags": [
-    "cicd",
-    "deployment"
+    "changelog",
+    "activity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-200",
+  "id": "based-your-saas-should-have-1043",
   "source": "Community sourced"
 }

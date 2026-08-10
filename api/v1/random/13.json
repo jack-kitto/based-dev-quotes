@@ -1,16 +1,16 @@
 {
-  "text": "Your indie project should be something you'd use even if nobody else did.",
+  "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "saas"
   ],
   "tags": [
-    "passion",
-    "utility"
+    "freemium",
+    "conversion"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-project-should-1072",
+  "spiciness": 3,
+  "id": "based-freemium-is-a-strategy",
   "source": "Community sourced"
 }
