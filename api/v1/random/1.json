@@ -1,18 +1,17 @@
 {
-  "id": "standards-xkcd",
-  "text": "The nice thing about standards is that there are so many to choose from.",
-  "author": "Andrew S. Tanenbaum",
-  "author_slug": "tanenbaum",
-  "source": "Computer Networks, 1981",
+  "text": "Controlling complexity is the essence of computer programming.",
+  "author": "Brian Kernighan",
+  "author_slug": "kernighan",
   "categories": [
-    "funny",
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "standards",
-    "fragmentation",
-    "xkcd-energy"
+    "complexity",
+    "essence"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1,
+  "id": "kernighan-controlling-complexity-is-the",
+  "source": "Community sourced"
 }

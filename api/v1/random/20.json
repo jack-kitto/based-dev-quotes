@@ -1,18 +1,17 @@
 {
-  "id": "graham-default-alive",
-  "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Default Alive or Default Dead?, 2015",
+  "text": "Your landing page has 7 CTAs. That's not a landing page, that's a panic attack.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "design",
+    "marketing"
   ],
   "tags": [
-    "survival",
-    "profitability",
-    "startups"
+    "cta",
+    "landing-page"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 4,
+  "id": "based-your-landing-page-has",
+  "source": "Community sourced"
 }

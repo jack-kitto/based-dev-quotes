@@ -1,16 +1,16 @@
 {
-  "text": "Indie hackers: 'I want to build something that makes $10k MRR.' Reality: you build something that makes $100 MRR and you're thrilled.",
+  "text": "White space isn't wasted space. It's breathing room for your content.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design"
   ],
   "tags": [
-    "expectations",
-    "reality"
+    "whitespace",
+    "breathing-room"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-indie-hackers-i-want",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "based-white-space-isnt-wasted",
   "source": "Community sourced"
 }

@@ -1,16 +1,19 @@
 {
-  "text": "The best landing page converts at 5%. The average is 2%. Your landing page converts at 0.1% but you think it's 'fine.'",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "marketing"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "landing-page",
-    "conversion"
+    "simplicity",
+    "complexity",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-landing-page",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

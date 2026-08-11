@@ -1,16 +1,17 @@
 {
-  "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
+  "text": "Your staging environment should be a copy of production. If it's not, it's a lie you tell yourself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "features",
-    "simplification"
+    "staging",
+    "environments"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-saas-goes-through-535",
+  "spiciness": 3,
+  "id": "based-your-staging-environment-should",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your indie business should be built on something you'd do even if nobody paid you. That's the foundation.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Innovation is saying no to a thousand things.",
+  "author": "Steve Jobs",
+  "author_slug": "jobs",
   "categories": [
-    "indie-hacker"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "passion",
-    "foundation"
+    "innovation",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-business-should-1067",
+  "spiciness": 1,
+  "id": "jobs-innovation-is-saying-no",
   "source": "Community sourced"
 }
