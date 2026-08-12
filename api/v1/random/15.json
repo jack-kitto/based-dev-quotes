@@ -1,16 +1,16 @@
 {
-  "text": "White space isn't wasted space. It's breathing room for your content.",
+  "text": "The best technology choice is the one your team knows. The second best is the one that's actually right. Usually they're different.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "whitespace",
-    "breathing-room"
+    "technology-choices",
+    "team"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-white-space-isnt-wasted",
+  "spiciness": 3,
+  "id": "based-the-best-technology-choice",
   "source": "Community sourced"
 }

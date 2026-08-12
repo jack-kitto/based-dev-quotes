@@ -1,16 +1,18 @@
 {
-  "text": "If you're reading productivity books instead of doing the work, you're procrastinating with extra steps.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "move-fast-break-things",
+  "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "productivity"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "procrastination",
-    "action"
+    "facebook",
+    "speed",
+    "caution"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-youre-reading-productivity",
-  "source": "Community sourced"
+  "spiciness": 2
 }

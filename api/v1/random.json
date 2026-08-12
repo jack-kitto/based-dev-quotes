@@ -1,17 +1,17 @@
 {
-  "text": "Every new dependency is a potential vulnerability. Audit them like you audit your employees.",
+  "text": "The best time to think about scalability is when you have 100 users. Not when you have 100 million.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "dependencies",
-    "security"
+    "scalability",
+    "premature-optimization"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-new-dependency-is",
+  "id": "based-the-best-time-to-454",
   "source": "Community sourced",
-  "_generated_at": "2026-08-11T01:45:42.648335+00:00"
+  "_generated_at": "2026-08-12T01:57:35.789220+00:00"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Your indie project's biggest advantage is that you care more than anyone else.",
+  "text": "Indie hacking is just freelancing with equity. Both involve wearing 47 hats. The equity part is just hope in disguise.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker"
   ],
   "tags": [
-    "passion",
-    "advantage"
+    "freelancing",
+    "hat-wearing"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-projects-biggest",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-indie-hacking-is-just",
   "source": "Community sourced"
 }

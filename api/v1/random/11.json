@@ -1,17 +1,19 @@
 {
-  "text": "The best SaaS companies don't have support tickets. They have users who never need to contact support.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "blockchain-database",
+  "text": "Blockchain: a database, but slower, and everyone can see your data.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "saas",
-    "product"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "support",
-    "ux"
+    "blockchain",
+    "crypto",
+    "database",
+    "reductionism"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-companies",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 4
 }

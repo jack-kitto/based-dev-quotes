@@ -1,17 +1,16 @@
 {
-  "text": "Controlling complexity is the essence of computer programming.",
-  "author": "Brian Kernighan",
-  "author_slug": "kernighan",
+  "text": "The best SaaS teams ship weekly. Not because speed is a virtue, but because momentum compounds.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "saas"
   ],
   "tags": [
-    "complexity",
-    "essence"
+    "shipping",
+    "momentum"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "kernighan-controlling-complexity-is-the",
+  "spiciness": 2,
+  "id": "based-the-best-saas-teams-764",
   "source": "Community sourced"
 }

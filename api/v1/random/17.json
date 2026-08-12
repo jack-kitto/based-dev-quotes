@@ -1,17 +1,16 @@
 {
-  "text": "The best mobile app is one thumb, one eyeball, one task.",
+  "text": "Rust is what happens when C++ developers get tired of segfaults. It's also what happens when they get tired of productivity.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "engineering"
   ],
   "tags": [
-    "mobile",
-    "ux"
+    "rust",
+    "c++"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-mobile-app",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-rust-is-what-happens",
   "source": "Community sourced"
 }

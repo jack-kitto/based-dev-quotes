@@ -1,17 +1,18 @@
 {
-  "text": "Innovation is saying no to a thousand things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "id": "senior-dev-impostor",
+  "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "business",
-    "wisdom"
+    "funny",
+    "career"
   ],
   "tags": [
-    "innovation",
-    "focus"
+    "seniority",
+    "confidence",
+    "experience"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "jobs-innovation-is-saying-no",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }
