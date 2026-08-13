@@ -1,16 +1,18 @@
 {
-  "text": "The best SaaS teams ship weekly. Not because speed is a virtue, but because momentum compounds.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "blow-civilization",
+  "text": "Software is in decline. We are in a situation where we have systems that work less and less well, and we are building higher and higher on top of them.",
+  "author": "Jonathan Blow",
+  "author_slug": "blow",
+  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
   "categories": [
-    "saas"
+    "suffering",
+    "complexity"
   ],
   "tags": [
-    "shipping",
-    "momentum"
+    "decline",
+    "software-crisis",
+    "civilization"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-teams-764",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 4
 }

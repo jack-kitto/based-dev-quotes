@@ -1,17 +1,16 @@
 {
-  "text": "API-first SaaS companies think in integrations. API-last SaaS companies think in features. Guess which one wins.",
+  "text": "If you can't explain your architecture in 3 sentences, you don't understand it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
     "engineering"
   ],
   "tags": [
-    "api",
-    "integrations"
+    "architecture",
+    "clarity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-apifirst-saas-companies-think",
+  "id": "based-if-you-cant-explain-397",
   "source": "Community sourced"
 }

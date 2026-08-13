@@ -1,16 +1,16 @@
 {
-  "text": "Your leadership style should be as unique as your personality. Don't copy others' styles.",
+  "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "leadership",
-    "authenticity"
+    "database",
+    "foundation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-leadership-style-should",
+  "id": "based-your-database-schema-is",
   "source": "Community sourced"
 }
