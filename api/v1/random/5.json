@@ -1,16 +1,16 @@
 {
-  "text": "Your database schema is the foundation of your house. Build it wrong and everything else crumbles.",
+  "text": "The best icon is no icon. The second best is one with a label. The worst is a cryptic SVG from 2007.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design"
   ],
   "tags": [
-    "database",
-    "foundation"
+    "icons",
+    "clarity"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-database-schema-is",
+  "spiciness": 3,
+  "id": "based-the-best-icon-is",
   "source": "Community sourced"
 }

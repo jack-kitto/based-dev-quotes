@@ -1,16 +1,16 @@
 {
-  "text": "If you can't explain your architecture in 3 sentences, you don't understand it.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "author": "Winston Churchill",
+  "author_slug": "churchill",
   "categories": [
-    "engineering"
+    "wisdom"
   ],
   "tags": [
-    "architecture",
-    "clarity"
+    "courage",
+    "persistence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-you-cant-explain-397",
+  "spiciness": 1,
+  "id": "churchill-success-is-not-final",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Social media marketing is just shouting into the void and occasionally the void shouts back.",
+  "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "social-media",
-    "shouting"
+    "abstraction",
+    "complexity"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-social-media-marketing-is",
+  "id": "based-every-good-abstraction-starts",
   "source": "Community sourced"
 }
