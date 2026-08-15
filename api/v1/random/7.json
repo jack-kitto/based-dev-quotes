@@ -1,17 +1,17 @@
 {
-  "text": "Users don't want a better tool. They want a better outcome. The tool is just a means to that end.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+  "author": "Grace Hopper",
+  "author_slug": "hopper",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "outcomes",
-    "tool"
+    "innovation",
+    "tradition"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-users-dont-want-a",
+  "id": "hopper-the-most-dangerous-phrase",
   "source": "Community sourced"
 }

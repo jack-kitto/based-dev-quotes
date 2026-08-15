@@ -1,16 +1,17 @@
 {
-  "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
-  "author": "Eric Ries",
-  "author_slug": "ries",
+  "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "startup",
-    "uncertainty"
+    "functions",
+    "single-responsibility"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "ries-a-startup-is-a",
+  "id": "based-a-function-that-does",
   "source": "Community sourced"
 }

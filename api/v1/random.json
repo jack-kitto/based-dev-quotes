@@ -1,17 +1,18 @@
 {
-  "text": "The best bug reports are the ones that include steps to reproduce. The worst are 'it doesn't work.'",
+  "text": "The best way to reduce support tickets isn't a better help center. It's a product that doesn't confuse people.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "saas",
+    "product"
   ],
   "tags": [
-    "bug-reports",
-    "quality"
+    "support",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-bug-reports",
+  "id": "based-the-best-way-to-337",
   "source": "Community sourced",
-  "_generated_at": "2026-08-14T01:57:38.852276+00:00"
+  "_generated_at": "2026-08-15T01:14:18.687097+00:00"
 }

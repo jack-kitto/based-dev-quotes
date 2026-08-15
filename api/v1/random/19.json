@@ -1,16 +1,17 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "id": "cantrill-dtrace",
+  "text": "The hardest bugs are the ones where your mental model is wrong. You don't see the bug because you're looking at the world wrong.",
+  "author": "Bryan Cantrill",
+  "author_slug": "cantrill",
+  "source": "Debugging Under Fire, 2018",
   "categories": [
+    "debugging",
     "wisdom"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "debugging",
+    "mental-models"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
-  "source": "Community sourced"
+  "spiciness": 1
 }

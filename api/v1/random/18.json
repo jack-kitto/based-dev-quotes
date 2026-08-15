@@ -1,16 +1,17 @@
 {
-  "text": "Your sales process should be like your product: simple, clear, and focused on the user.",
+  "text": "Productivity is doing more of what matters. Not doing more things.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "sales",
-    "process"
+    "focus",
+    "priorities"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-sales-process-should",
+  "id": "based-productivity-is-doing-more",
   "source": "Community sourced"
 }
