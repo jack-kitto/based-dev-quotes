@@ -1,17 +1,19 @@
 {
-  "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
-  "author": "Grace Hopper",
-  "author_slug": "hopper",
+  "id": "cto-startup-titles",
+  "text": "At a startup, CTO stands for 'Currently The Only developer.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Startup folklore",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "innovation",
-    "tradition"
+    "startups",
+    "titles",
+    "solo-dev"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "hopper-the-most-dangerous-phrase",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

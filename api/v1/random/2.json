@@ -1,16 +1,18 @@
 {
-  "text": "Your SaaS should be so simple that support tickets are the exception, not the rule.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "senior-dev-google",
+  "text": "A senior developer is just a junior developer who has Googled more things.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "saas"
+    "funny",
+    "career"
   ],
   "tags": [
-    "support",
-    "simplicity"
+    "seniority",
+    "experience",
+    "google"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-saas-should-be-637",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

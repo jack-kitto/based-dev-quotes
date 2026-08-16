@@ -1,17 +1,16 @@
 {
-  "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
+  "text": "Your network isn't just who you know. It's who knows you. Be useful and visible.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "debugging",
-    "programming"
+    "networking",
+    "visibility"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "dijkstra-if-debugging-is-the",
+  "spiciness": 2,
+  "id": "based-your-network-isnt-just",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your product's design should be consistent enough that users don't have to re-learn it on every page.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "git-rebase-force-push",
+  "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "design"
+    "funny"
   ],
   "tags": [
-    "consistency",
-    "ux"
+    "git",
+    "danger",
+    "teams"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-products-design-should",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }
