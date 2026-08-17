@@ -1,16 +1,19 @@
 {
-  "text": "The best SaaS businesses have a 'churn rate' that's under 5%. If yours is over 10%, you have a retention problem.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "norvig-10-years",
+  "text": "Teach Yourself Programming in Ten Years.",
+  "author": "Peter Norvig",
+  "author_slug": "norvig",
+  "source": "Essay title, 2001",
   "categories": [
-    "saas"
+    "wisdom",
+    "career"
   ],
   "tags": [
-    "churn",
-    "metrics"
+    "learning",
+    "mastery",
+    "patience",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-businesses-758",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

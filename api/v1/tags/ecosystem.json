@@ -1,25 +1,7 @@
 {
-  "tag": "community",
-  "count": 2,
+  "tag": "ecosystem",
+  "count": 1,
   "quotes": [
-    {
-      "id": "raymond-enough-eyeballs",
-      "text": "Given enough eyeballs, all bugs are shallow.",
-      "author": "Eric S. Raymond",
-      "author_slug": "raymond",
-      "source": "The Cathedral and the Bazaar, 1999",
-      "categories": [
-        "wisdom"
-      ],
-      "tags": [
-        "open-source",
-        "debugging",
-        "community",
-        "classic"
-      ],
-      "grug_level": 2,
-      "spiciness": 1
-    },
     {
       "text": "There's nothing to promote the top libraries as the top libraries.",
       "author": "threatofrain",

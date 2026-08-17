@@ -1,0 +1,27 @@
+{
+  "author": "antonyragleap",
+  "slug": "antonyragleap",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Sometimes a language wins simply because its ecosystem makes certain tasks much easier.",
+      "author": "antonyragleap",
+      "author_slug": "antonyragleap",
+      "source": "Hacker News — Rhombus 1.1 is now available",
+      "source_url": "https://news.ycombinator.com/item?id=49325384",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "programming-languages",
+        "ecosystems",
+        "pragmatism"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Observation on why languages succeed, focusing on practicality over theory.",
+      "id": "antonyragleap-sometimes-a-language-wins"
+    }
+  ]
+}

@@ -1,16 +1,17 @@
 {
-  "text": "Unit tests don't prevent bugs. They prevent the specific bugs you anticipated. Production finds the rest.",
+  "text": "The best validation is someone giving you money. Everything else — surveys, waitlists, likes — is just flirting.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "testing",
-    "reality"
+    "validation",
+    "sales"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-unit-tests-dont-prevent",
+  "spiciness": 4,
+  "id": "based-the-best-validation-is",
   "source": "Community sourced"
 }

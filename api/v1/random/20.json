@@ -1,16 +1,16 @@
 {
-  "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "It does not matter how slowly you go as long as you do not stop.",
+  "author": "Confucius",
+  "author_slug": "confucius",
   "categories": [
-    "marketing"
+    "wisdom"
   ],
   "tags": [
-    "metrics",
-    "revenue"
+    "persistence",
+    "progress"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-every-marketing-metric-is",
+  "spiciness": 1,
+  "id": "confucius-it-does-not-matter",
   "source": "Community sourced"
 }

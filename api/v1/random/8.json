@@ -1,16 +1,17 @@
 {
-  "text": "A monorepo is just a repo that gave up on boundaries. A polyrepo is just a monorepo that gave up on simplicity.",
+  "text": "The problem with requirements is that they're written by people who don't have to implement them.",
   "author": "based",
   "author_slug": "based",
   "categories": [
+    "users",
     "engineering"
   ],
   "tags": [
-    "monorepo",
-    "polyrepo"
+    "requirements",
+    "disconnect"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-a-monorepo-is-just",
+  "id": "based-the-problem-with-requirements",
   "source": "Community sourced"
 }

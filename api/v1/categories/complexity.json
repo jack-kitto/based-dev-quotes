@@ -1,6 +1,6 @@
 {
   "category": "complexity",
-  "count": 19,
+  "count": 20,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -351,6 +351,27 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "No published specification, single Python implementation. Shame, as this solves a problem that badly needs to be solved well.",
+      "author": "armitron",
+      "author_slug": "armitron",
+      "source": "Hacker News — Reticulum – Decentralized Mesh Network",
+      "source_url": "https://news.ycombinator.com/item?id=49325061",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "specifications",
+        "python",
+        "open-source",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy critique of software projects lacking specs and relying on single implementations.",
+      "id": "armitron-no-published-specification-single"
     }
   ]
 }

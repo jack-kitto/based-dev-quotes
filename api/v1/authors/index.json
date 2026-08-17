@@ -1,8 +1,16 @@
 {
-  "total": 98,
+  "total": 101,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
+      "count": 1
+    },
+    "antonyragleap": {
+      "name": "antonyragleap",
+      "count": 1
+    },
+    "armitron": {
+      "name": "armitron",
       "count": 1
     },
     "atwood": {
@@ -355,6 +363,10 @@
     },
     "thoreau": {
       "name": "Henry David Thoreau",
+      "count": 1
+    },
+    "threatofrain": {
+      "name": "threatofrain",
       "count": 1
     },
     "torvalds": {

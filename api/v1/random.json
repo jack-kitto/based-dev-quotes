@@ -1,17 +1,17 @@
 {
-  "text": "Caching is the answer to everything until it's the source of everything that's broken.",
+  "text": "The best way to understand your customer is to become your customer. Use your own product.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "caching",
-    "invalidation"
+    "dogfooding",
+    "understanding"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-caching-is-the-answer",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-1027",
   "source": "Community sourced",
-  "_generated_at": "2026-08-17T01:15:44.194452+00:00"
+  "_generated_at": "2026-08-17T06:40:41.042706+00:00"
 }

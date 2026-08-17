@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 818,
   "tags": {
     "10x": {
       "count": 2
@@ -359,7 +359,7 @@
       "count": 1
     },
     "community": {
-      "count": 1
+      "count": 2
     },
     "competence": {
       "count": 1
@@ -668,6 +668,12 @@
       "count": 1
     },
     "economics": {
+      "count": 1
+    },
+    "ecosystem": {
+      "count": 1
+    },
+    "ecosystems": {
       "count": 1
     },
     "edge-cases": {
@@ -1448,7 +1454,7 @@
       "count": 2
     },
     "open-source": {
-      "count": 2
+      "count": 4
     },
     "opinion": {
       "count": 2
@@ -1478,6 +1484,9 @@
       "count": 1
     },
     "pacing": {
+      "count": 1
+    },
+    "package-management": {
       "count": 1
     },
     "pain": {
@@ -1592,7 +1601,7 @@
       "count": 2
     },
     "pragmatism": {
-      "count": 9
+      "count": 11
     },
     "predictability": {
       "count": 1
@@ -1678,6 +1687,9 @@
     "programming": {
       "count": 1
     },
+    "programming-languages": {
+      "count": 1
+    },
     "progress": {
       "count": 1
     },
@@ -1703,7 +1715,7 @@
       "count": 3
     },
     "python": {
-      "count": 1
+      "count": 2
     },
     "quality": {
       "count": 11
@@ -2081,6 +2093,9 @@
       "count": 1
     },
     "spam": {
+      "count": 1
+    },
+    "specifications": {
       "count": 1
     },
     "speed": {
