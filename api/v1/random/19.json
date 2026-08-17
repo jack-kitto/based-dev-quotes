@@ -1,17 +1,19 @@
 {
-  "text": "Docker: because 'it works on my machine' stopped being acceptable. Now it works on everyone's machine but nobody understands why.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "node-modules-black-hole",
+  "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter / memes",
   "categories": [
-    "engineering",
-    "devops"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "docker",
-    "containers"
+    "node-modules",
+    "npm",
+    "javascript",
+    "dependencies"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-docker-because-it-works",
-  "source": "Community sourced"
+  "spiciness": 2
 }

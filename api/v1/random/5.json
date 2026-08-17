@@ -1,17 +1,17 @@
 {
-  "text": "Your checkout page is where money goes to die if you add friction. Every extra field costs you 10% of conversions.",
+  "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "saas"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "checkout",
-    "conversion"
+    "debugging",
+    "humor"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-checkout-page-is",
+  "spiciness": 1,
+  "id": "based-every-programmer-has-a",
   "source": "Community sourced"
 }

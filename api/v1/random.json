@@ -1,17 +1,17 @@
 {
-  "text": "Every database migration is a small act of violence against your future self. Write the rollback first.",
+  "text": "Caching is the answer to everything until it's the source of everything that's broken.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "migrations",
-    "safety"
+    "caching",
+    "invalidation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-database-migration-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-caching-is-the-answer",
   "source": "Community sourced",
-  "_generated_at": "2026-08-16T01:18:36.739896+00:00"
+  "_generated_at": "2026-08-17T01:15:44.194452+00:00"
 }

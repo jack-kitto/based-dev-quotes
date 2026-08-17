@@ -1,16 +1,16 @@
 {
-  "text": "The best icon is no icon. The second best is one with a label. The worst is a cryptic SVG from 2007.",
+  "text": "The best SaaS businesses have a 'churn rate' that's under 5%. If yours is over 10%, you have a retention problem.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "saas"
   ],
   "tags": [
-    "icons",
-    "clarity"
+    "churn",
+    "metrics"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-icon-is",
+  "spiciness": 2,
+  "id": "based-the-best-saas-businesses-758",
   "source": "Community sourced"
 }
