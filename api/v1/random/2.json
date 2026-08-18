@@ -1,16 +1,16 @@
 {
-  "text": "Your reputation precedes you. Build it intentionally.",
+  "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "indie-hacker"
   ],
   "tags": [
-    "reputation",
-    "intention"
+    "efficiency",
+    "revenue"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-reputation-precedes-you",
+  "spiciness": 2,
+  "id": "based-the-best-indie-hacker",
   "source": "Community sourced"
 }

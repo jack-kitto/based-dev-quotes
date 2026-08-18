@@ -1,16 +1,16 @@
 {
-  "text": "The best API design is one where the next endpoint is exactly where you'd expect it to be.",
+  "text": "Your toolkit should be as small as possible. Each tool you add is a tool you have to learn and maintain.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "api",
-    "intuition"
+    "tools",
+    "minimalism"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-api-design",
+  "id": "based-your-toolkit-should-be",
   "source": "Community sourced"
 }

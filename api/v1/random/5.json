@@ -1,17 +1,16 @@
 {
-  "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
+  "text": "Every new dependency is a potential vulnerability. Audit them like you audit your employees.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "engineering"
   ],
   "tags": [
-    "debugging",
-    "humor"
+    "dependencies",
+    "security"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-every-programmer-has-a",
+  "spiciness": 2,
+  "id": "based-every-new-dependency-is",
   "source": "Community sourced"
 }
