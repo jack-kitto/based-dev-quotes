@@ -1,16 +1,17 @@
 {
-  "text": "Every database migration is a small act of violence against your future self. Write the rollback first.",
+  "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "migrations",
-    "safety"
+    "functions",
+    "single-responsibility"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-database-migration-is",
+  "spiciness": 1,
+  "id": "based-a-function-that-does",
   "source": "Community sourced"
 }

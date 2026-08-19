@@ -1,17 +1,17 @@
 {
-  "text": "The function of good software is to make the complex appear to be simple.",
-  "author": "Grady Booch",
-  "author_slug": "booch",
+  "id": "leave-it-better",
+  "text": "Always leave the code better than you found it.",
+  "author": "Robert C. Martin (Uncle Bob)",
+  "author_slug": "martin",
+  "source": "Clean Code (adapted from Boy Scout Rule)",
   "categories": [
-    "engineering",
     "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "abstraction"
+    "clean-code",
+    "maintenance",
+    "discipline"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "booch-the-function-of-good",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

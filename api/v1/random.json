@@ -1,17 +1,20 @@
 {
-  "text": "Simplicity is not the absence of clutter; it's the presence of order.",
-  "author": "Jonathan Ive",
-  "author_slug": "ive",
+  "id": "graham-do-things-that-dont-scale",
+  "text": "Do things that don't scale.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Do Things That Don't Scale, 2013",
   "categories": [
-    "design"
+    "indie-hacker",
+    "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "minimalism"
+    "startups",
+    "hustle",
+    "growth",
+    "classic"
   ],
-  "grug_level": 3,
+  "grug_level": 4,
   "spiciness": 1,
-  "id": "ive-simplicity-is-not-the",
-  "source": "Community sourced",
-  "_generated_at": "2026-08-18T01:13:26.141429+00:00"
+  "_generated_at": "2026-08-19T01:14:33.929488+00:00"
 }

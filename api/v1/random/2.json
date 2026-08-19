@@ -1,16 +1,17 @@
 {
-  "text": "The best indie hacker metric is revenue per hour of work. Everything else is a distraction.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The biggest risk is not taking any risk.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "indie-hacker"
+    "wisdom",
+    "business"
   ],
   "tags": [
-    "efficiency",
-    "revenue"
+    "risk",
+    "action"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-indie-hacker",
+  "spiciness": 1,
+  "id": "zuckerberg-the-biggest-risk-is-850",
   "source": "Community sourced"
 }

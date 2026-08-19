@@ -1,17 +1,16 @@
 {
-  "text": "If you can't describe your deployment process in 3 steps, it's too complicated.",
+  "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "productivity"
   ],
   "tags": [
-    "deployment",
-    "simplicity"
+    "deep-work",
+    "attention"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-cant-describe",
+  "id": "based-deep-work-is-not",
   "source": "Community sourced"
 }

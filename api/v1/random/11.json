@@ -1,16 +1,17 @@
 {
-  "text": "Your product is your resume. Build something people want to talk about.",
+  "text": "Watch what users do, not what they say. They'll tell you they use your product daily. Their login history tells a different story.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "users",
+    "product"
   ],
   "tags": [
-    "product",
-    "portfolio"
+    "user-research",
+    "behavior"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-is-your",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-watch-what-users-do",
   "source": "Community sourced"
 }
