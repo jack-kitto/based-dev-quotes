@@ -1,16 +1,16 @@
 {
-  "text": "Every codebase has that one file that nobody dares to touch. That file is your biggest risk.",
+  "text": "Imposter syndrome means you're in the right room. If you're the smartest person in the room, you're in the wrong room.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "legacy",
-    "risk"
+    "imposter-syndrome",
+    "growth"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-codebase-has-that",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-imposter-syndrome-means-youre",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+  "text": "Every programmer has a story about the time they spent 8 hours debugging a missing semicolon. If they say they don't, they're lying.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering",
-    "wisdom"
+    "shitpost"
   ],
   "tags": [
-    "functions",
-    "single-responsibility"
+    "debugging",
+    "humor"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "based-a-function-that-does",
+  "id": "based-every-programmer-has-a",
   "source": "Community sourced"
 }

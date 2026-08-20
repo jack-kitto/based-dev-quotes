@@ -1,16 +1,17 @@
 {
-  "text": "If you're debugging for more than an hour, stop. Walk away. The answer is usually something obvious you're too tired to see.",
+  "text": "REST APIs are just CRUD with better marketing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "debugging",
-    "fatigue"
+    "api",
+    "rest"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-youre-debugging-for",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-rest-apis-are-just",
   "source": "Community sourced"
 }

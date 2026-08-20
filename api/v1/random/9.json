@@ -1,16 +1,19 @@
 {
-  "text": "Your remote team's culture is defined by what happens when nobody's watching. Build trust, not surveillance.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "norvig-10-years",
+  "text": "Teach Yourself Programming in Ten Years.",
+  "author": "Peter Norvig",
+  "author_slug": "norvig",
+  "source": "Essay title, 2001",
   "categories": [
-    "business"
+    "wisdom",
+    "career"
   ],
   "tags": [
-    "remote",
-    "trust"
+    "learning",
+    "mastery",
+    "patience",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-remote-teams-culture",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

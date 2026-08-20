@@ -1,17 +1,18 @@
 {
-  "text": "Watch what users do, not what they say. They'll tell you they use your product daily. Their login history tells a different story.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sleep-on-it",
+  "text": "Sometimes the best debugging technique is to go to sleep and realize the answer at 3am while technically unconscious.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Developer experience",
   "categories": [
-    "users",
-    "product"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "user-research",
-    "behavior"
+    "sleep",
+    "debugging",
+    "subconscious"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-watch-what-users-do",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }
