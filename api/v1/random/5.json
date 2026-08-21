@@ -1,17 +1,17 @@
 {
-  "text": "The only way to go fast is to go well.",
-  "author": "Robert C. Martin",
-  "author_slug": "martin",
+  "text": "The best code is no code at all. Every line of code is a liability.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
   "categories": [
     "engineering",
     "wisdom"
   ],
   "tags": [
-    "speed",
-    "quality"
+    "simplicity",
+    "less-code"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "martin-the-only-way-to",
+  "spiciness": 2,
+  "id": "atwood-the-best-code-is",
   "source": "Community sourced"
 }

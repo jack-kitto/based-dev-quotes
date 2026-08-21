@@ -1,17 +1,17 @@
 {
-  "text": "REST APIs are just CRUD with better marketing.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The Internet? Is that thing still around?",
+  "author": "Homer Simpson",
+  "author_slug": "simpson",
   "categories": [
     "engineering",
     "shitpost"
   ],
   "tags": [
-    "api",
-    "rest"
+    "internet",
+    "humor"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-rest-apis-are-just",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "simpson-the-internet-is-that",
   "source": "Community sourced"
 }

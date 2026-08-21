@@ -1,17 +1,17 @@
 {
-  "text": "The most important property of a program is whether it accomplishes the intention of its user.",
-  "author": "C.A.R. Hoare",
-  "author_slug": "hoare",
+  "text": "Done is better than perfect. But also: good is better than done-but-broken.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
+    "productivity",
     "wisdom"
   ],
   "tags": [
-    "intention",
-    "purpose"
+    "shipping",
+    "quality"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "hoare-the-most-important-property",
+  "spiciness": 2,
+  "id": "based-done-is-better-than",
   "source": "Community sourced"
 }

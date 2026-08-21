@@ -1,16 +1,18 @@
 {
-  "text": "Every time you write a comment explaining 'why', a senior dev somewhere nods. Every time you write a comment explaining 'what', a senior dev somewhere drinks.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "eagleson-code",
+  "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+  "author": "Eagleson",
+  "author_slug": "eagleson",
+  "source": "Eagleson's Law",
   "categories": [
-    "engineering"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "comments",
-    "documentation"
+    "legacy-code",
+    "memory",
+    "past-self"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-every-time-you-write",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

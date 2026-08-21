@@ -1,16 +1,16 @@
 {
-  "text": "Your blog is your best salesperson. It works 24/7, never complains, and never asks for a raise.",
+  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "business"
   ],
   "tags": [
-    "blog",
-    "sales"
+    "leadership",
+    "accountability"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-blog-is-your",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-teams-performance-is",
   "source": "Community sourced"
 }
