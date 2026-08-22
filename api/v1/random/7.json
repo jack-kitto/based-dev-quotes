@@ -1,17 +1,16 @@
 {
-  "text": "The best way to understand your users is to be confused by your own product for 5 minutes. Then fix everything that confused you.",
+  "text": "Git blame isn't about finding who's responsible. It's about finding who's qualified to explain what this code was supposed to do.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering"
   ],
   "tags": [
-    "dogfooding",
-    "ux"
+    "git",
+    "blame"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-386",
+  "spiciness": 3,
+  "id": "based-git-blame-isnt-about",
   "source": "Community sourced"
 }

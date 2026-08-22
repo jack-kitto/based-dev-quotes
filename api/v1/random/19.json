@@ -1,17 +1,16 @@
 {
-  "text": "Edge cases aren't edge cases when you have enough users. They're Tuesday.",
+  "text": "Your SaaS metrics should be on a dashboard that's visible to everyone. Transparency builds trust.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "engineering"
+    "saas"
   ],
   "tags": [
-    "edge-cases",
-    "scale"
+    "metrics",
+    "transparency"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-edge-cases-arent-edge",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "based-your-saas-metrics-should",
   "source": "Community sourced"
 }

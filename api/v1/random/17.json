@@ -1,17 +1,16 @@
 {
-  "id": "torvalds-bad-programmers",
-  "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "Git Mailing List",
+  "text": "Your most valuable customers are the ones who stick around. Retention is the ultimate metric.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "data-structures",
-    "design",
-    "fundamentals"
+    "retention",
+    "value"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-your-most-valuable-customers",
+  "source": "Community sourced"
 }

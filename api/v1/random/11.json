@@ -1,16 +1,18 @@
 {
-  "text": "Your most powerful marketing asset is a customer who genuinely loves what you built.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "works-on-my-machine",
+  "text": "It works on my machine. Then we'll ship your machine.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "marketing"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "customers",
-    "advocacy"
+    "deployment",
+    "docker",
+    "containers"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-most-powerful-marketing",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Everything should be made as simple as possible, but not simpler.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "The best time to build your personal brand is before you need it. The second best time is now.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "simplicity",
-    "balance"
+    "personal-brand",
+    "proactive"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-everything-should-be-made",
+  "spiciness": 2,
+  "id": "based-the-best-time-to-1016",
   "source": "Community sourced"
 }
