@@ -1,16 +1,16 @@
 {
-  "text": "Git blame isn't about finding who's responsible. It's about finding who's qualified to explain what this code was supposed to do.",
+  "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "git",
-    "blame"
+    "tools",
+    "simplicity"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-git-blame-isnt-about",
+  "spiciness": 2,
+  "id": "based-your-tools-should-serve",
   "source": "Community sourced"
 }

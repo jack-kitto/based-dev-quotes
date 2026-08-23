@@ -1,16 +1,16 @@
 {
-  "text": "Your first indie product should solve YOUR problem. Not what you think others' problems are.",
+  "text": "Every indie hacker has 100 ideas. The successful ones execute one.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker"
   ],
   "tags": [
-    "problem",
-    "dogfooding"
+    "execution",
+    "ideas"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-first-indie-product",
+  "id": "based-every-indie-hacker-has",
   "source": "Community sourced"
 }

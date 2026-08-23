@@ -1,16 +1,20 @@
 {
-  "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "lampson-abstraction",
+  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+  "author": "Butler Lampson (modified)",
+  "author_slug": "lampson",
+  "source": "Attributed, with modification from David Wheeler's original",
   "categories": [
-    "productivity"
+    "funny",
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "tools",
-    "simplicity"
+    "indirection",
+    "abstraction",
+    "layers",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-tools-should-serve",
-  "source": "Community sourced"
+  "spiciness": 2
 }

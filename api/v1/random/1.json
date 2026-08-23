@@ -1,17 +1,17 @@
 {
-  "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The only way to go fast is to go well.",
+  "author": "Robert C. Martin",
+  "author_slug": "martin",
   "categories": [
-    "productivity",
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "meta",
-    "focus"
+    "speed",
+    "quality"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-real-productivity-hack",
+  "spiciness": 1,
+  "id": "martin-the-only-way-to",
   "source": "Community sourced"
 }

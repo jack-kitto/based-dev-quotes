@@ -1,18 +1,18 @@
 {
-  "text": "If you ask users what they want, they'll say a faster horse. Your job is to build the car.",
+  "text": "Every successful entrepreneur has a story that starts with 'I had no idea what I was doing.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "users",
-    "innovation"
+    "beginner",
+    "courage"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-ask-users",
+  "id": "based-every-successful-entrepreneur-has",
   "source": "Community sourced",
-  "_date": "2026-08-22"
+  "_date": "2026-08-23"
 }
