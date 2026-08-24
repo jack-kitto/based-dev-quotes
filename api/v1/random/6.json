@@ -1,16 +1,17 @@
 {
-  "text": "Your brand is your moat. Competitors can copy your features. They can't copy your identity.",
+  "text": "The best error message is the one that never appears. The second best tells me what I did wrong, not what the code did wrong.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "design"
   ],
   "tags": [
-    "brand",
-    "moat"
+    "error-messages",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-brand-is-your-843",
+  "id": "based-the-best-error-message",
   "source": "Community sourced"
 }

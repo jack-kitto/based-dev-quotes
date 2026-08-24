@@ -1,17 +1,19 @@
 {
-  "text": "The only way to go fast is to go well.",
-  "author": "Robert C. Martin",
-  "author_slug": "martin",
+  "id": "bootstrapped-vc",
+  "text": "The best funding round is revenue.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Bootstrapper culture",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "speed",
-    "quality"
+    "bootstrapping",
+    "vc",
+    "funding",
+    "revenue"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "martin-the-only-way-to",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }
