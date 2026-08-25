@@ -1,16 +1,16 @@
 {
-  "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
+  "text": "The best time to add a loading skeleton is before the user sees a blank screen for the first time.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "dashboard",
-    "clarity"
+    "loading",
+    "skeleton"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-dashboard-should-answer",
+  "id": "based-the-best-time-to-744",
   "source": "Community sourced"
 }

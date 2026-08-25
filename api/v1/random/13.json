@@ -1,17 +1,16 @@
 {
-  "text": "Your power users will forgive bugs. Your new users won't. Design for both.",
+  "text": "The best way to do deep work is to eliminate all distractions. Phone off. Slack closed. Door shut.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "productivity"
   ],
   "tags": [
-    "power-users",
-    "new-users"
+    "deep-work",
+    "distractions"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-power-users-will",
+  "id": "based-the-best-way-to-993",
   "source": "Community sourced"
 }

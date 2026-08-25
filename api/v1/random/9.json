@@ -1,17 +1,18 @@
 {
-  "text": "Your landing page has 7 CTAs. That's not a landing page, that's a panic attack.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "wulf-goto",
+  "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
+  "author": "W.A. Wulf",
+  "author_slug": "wulf",
+  "source": "A Case Against the GOTO, 1972",
   "categories": [
-    "design",
-    "marketing"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "cta",
-    "landing-page"
+    "efficiency",
+    "optimization",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-your-landing-page-has",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 2
 }

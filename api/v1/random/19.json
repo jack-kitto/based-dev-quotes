@@ -1,17 +1,16 @@
 {
-  "text": "Your SLA should be honest. If you can't hit 99.9%, don't promise it.",
+  "text": "The best time to manage your time is when you have too much of it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "productivity"
   ],
   "tags": [
-    "sla",
-    "honesty"
+    "time-management",
+    "proactive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-sla-should-be",
+  "id": "based-the-best-time-to-982",
   "source": "Community sourced"
 }

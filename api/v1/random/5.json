@@ -1,18 +1,17 @@
 {
-  "id": "pike-complexity-moved",
-  "text": "A little copying is better than a little dependency.",
-  "author": "Rob Pike",
-  "author_slug": "pike",
-  "source": "Go Proverbs",
+  "text": "Simplicity is the ultimate sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
     "wisdom",
-    "complexity"
+    "design"
   ],
   "tags": [
-    "dependencies",
     "simplicity",
-    "go"
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "davinci-simplicity-is-the-ultimate",
+  "source": "Community sourced"
 }

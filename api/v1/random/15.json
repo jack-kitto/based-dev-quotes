@@ -1,17 +1,16 @@
 {
-  "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
+  "text": "The best time to think about mobile design is before you start designing. Not after the desktop version is done.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "product"
+    "design"
   ],
   "tags": [
-    "onboarding",
-    "self-explanatory"
+    "mobile",
+    "responsive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-saas-onboarding",
+  "id": "based-the-best-time-to-447",
   "source": "Community sourced"
 }

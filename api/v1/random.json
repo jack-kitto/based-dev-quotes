@@ -1,17 +1,17 @@
 {
-  "text": "Side projects are the best way to learn. Main projects are the best way to earn. You need both.",
+  "text": "Solo founders don't fail because they can't code. They fail because they can't market.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "indie-hacker"
   ],
   "tags": [
-    "learning",
-    "earning"
+    "marketing",
+    "skills"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-side-projects-are-the",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-solo-founders-dont-fail",
   "source": "Community sourced",
-  "_generated_at": "2026-08-24T01:17:25.131342+00:00"
+  "_generated_at": "2026-08-25T01:15:46.649283+00:00"
 }
