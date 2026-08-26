@@ -1,16 +1,20 @@
 {
-  "text": "The best UI is the one the user doesn't notice. When you notice the UI, something's wrong.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "agile-is-dead",
+  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "design"
+    "funny",
+    "suffering",
+    "shitpost"
   ],
   "tags": [
-    "ux",
-    "invisibility"
+    "agile",
+    "scrum",
+    "methodology",
+    "management"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-ui-is",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 4
 }

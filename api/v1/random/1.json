@@ -1,16 +1,16 @@
 {
-  "text": "The best marketing advice is free. Ship something great and tell people about it. Everything else is optimization.",
+  "text": "Your SaaS metrics should be on a dashboard that's visible to everyone. Transparency builds trust.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "saas"
   ],
   "tags": [
-    "marketing",
-    "simplicity"
+    "metrics",
+    "transparency"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-marketing-advice",
+  "spiciness": 1,
+  "id": "based-your-saas-metrics-should",
   "source": "Community sourced"
 }

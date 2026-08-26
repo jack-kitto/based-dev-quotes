@@ -1,16 +1,17 @@
 {
-  "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
+  "text": "If you're not embarrassed by your code from 6 months ago, you're not growing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "deep-work",
-    "attention"
+    "growth",
+    "improvement"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-deep-work-is-not",
+  "id": "based-if-youre-not-embarrassed",
   "source": "Community sourced"
 }

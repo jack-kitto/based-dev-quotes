@@ -1,18 +1,16 @@
 {
-  "id": "wulf-goto",
-  "text": "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason — including blind stupidity.",
-  "author": "W.A. Wulf",
-  "author_slug": "wulf",
-  "source": "A Case Against the GOTO, 1972",
+  "text": "Your online presence is your resume. Keep it updated and keep it real.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "business"
   ],
   "tags": [
-    "efficiency",
-    "optimization",
-    "classic"
+    "online-presence",
+    "resume"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-your-online-presence-is",
+  "source": "Community sourced"
 }
