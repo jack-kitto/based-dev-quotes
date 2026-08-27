@@ -1,5 +1,5 @@
 {
-  "text": "Every time you copy-paste code, a unit test dies.",
+  "text": "I don't always test my code, but when I do, I do it in production.",
   "author": "based",
   "author_slug": "based",
   "categories": [
@@ -7,11 +7,11 @@
     "shitpost"
   ],
   "tags": [
-    "copy-paste",
-    "testing"
+    "testing",
+    "production"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-time-you-copypaste",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-i-dont-always-test",
   "source": "Community sourced"
 }

@@ -1,16 +1,19 @@
 {
-  "text": "Revenue is just a number. Profit is what matters. Cash flow is what keeps you alive.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "spolsky-rewrite",
+  "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+  "author": "Joel Spolsky",
+  "author_slug": "spolsky",
+  "source": "Things You Should Never Do, Part I, 2000",
   "categories": [
-    "business"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "revenue",
-    "cash-flow"
+    "rewrite",
+    "legacy-code",
+    "strategy",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-revenue-is-just-a",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 3
 }

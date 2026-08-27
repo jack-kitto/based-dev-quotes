@@ -1,16 +1,16 @@
 {
-  "text": "The best way to validate an indie project is to pre-sell it. If nobody pays, save yourself the build.",
+  "text": "A monorepo is just a repo that gave up on boundaries. A polyrepo is just a monorepo that gave up on simplicity.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "validation",
-    "preselling"
+    "monorepo",
+    "polyrepo"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-the-best-way-to-547",
+  "id": "based-a-monorepo-is-just",
   "source": "Community sourced"
 }

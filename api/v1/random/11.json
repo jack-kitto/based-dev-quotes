@@ -1,20 +1,17 @@
 {
-  "id": "agile-is-dead",
-  "text": "We tried agile. We tried scrum. We tried kanban. We tried SAFe. Turns out the problem was never the methodology.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Make it work, make it right, make it fast.",
+  "author": "Kent Beck",
+  "author_slug": "beck",
   "categories": [
-    "funny",
-    "suffering",
-    "shitpost"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "agile",
-    "scrum",
-    "methodology",
-    "management"
+    "process",
+    "optimization"
   ],
-  "grug_level": 5,
-  "spiciness": 4
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "beck-make-it-work-make",
+  "source": "Community sourced"
 }

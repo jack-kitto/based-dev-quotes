@@ -1,17 +1,17 @@
 {
-  "text": "The best engineers leave code better than they found it. The worst leave it worse than they found it. Most leave it the same.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Simplicity is a prerequisite for reliability.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
   "categories": [
     "engineering",
     "wisdom"
   ],
   "tags": [
-    "code-quality",
-    "boy-scout"
+    "simplicity",
+    "reliability"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-engineers-leave",
+  "spiciness": 1,
+  "id": "dijkstra-simplicity-is-a-prerequisite",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your product's color system should have 3 primary colors. One for action, one for success, one for danger. Everything else is secondary.",
+  "text": "The best way to get better at coding is to code. Not to watch tutorials. Not to read books. To code.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "productivity",
+    "engineering"
   ],
   "tags": [
-    "color",
-    "system"
+    "learning",
+    "practice"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-products-color-system",
+  "id": "based-the-best-way-to-495",
   "source": "Community sourced"
 }

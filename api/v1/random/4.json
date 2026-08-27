@@ -1,16 +1,17 @@
 {
-  "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
+  "text": "Naming things is easy. Naming things well is a skill. Naming things in a way that still makes sense 2 years later is a superpower.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "complexity",
-    "enterprise"
+    "naming",
+    "maintainability"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-saas-goes-through",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-naming-things-is-easy",
   "source": "Community sourced"
 }
