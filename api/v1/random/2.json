@@ -1,16 +1,18 @@
 {
-  "text": "Your microservices aren't microservices. They're just modules that hate each other and communicate via HTTP.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "money-printer",
+  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter (loosely based on Napoleon)",
   "categories": [
-    "engineering"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "microservices",
-    "architecture"
+    "production",
+    "friday",
+    "deployments"
   ],
   "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-your-microservices-arent-microservices",
-  "source": "Community sourced"
+  "spiciness": 2
 }

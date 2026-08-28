@@ -1,17 +1,16 @@
 {
-  "text": "I don't always test my code, but when I do, I do it in production.",
+  "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "engineering"
   ],
   "tags": [
-    "testing",
-    "production"
+    "database",
+    "pragmatism"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-i-dont-always-test",
+  "grug_level": 3,
+  "spiciness": 3,
+  "id": "based-the-best-database-is",
   "source": "Community sourced"
 }

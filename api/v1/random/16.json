@@ -1,16 +1,17 @@
 {
-  "text": "Creativity is just connecting things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "id": "it-compiled",
+  "text": "My code doesn't have bugs. It just develops random features.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "wisdom"
+    "funny"
   ],
   "tags": [
-    "creativity",
-    "connections"
+    "bugs",
+    "features",
+    "denial"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "jobs-creativity-is-just-connecting",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }
