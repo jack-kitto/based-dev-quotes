@@ -1,18 +1,16 @@
 {
-  "id": "money-printer",
-  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter (loosely based on Napoleon)",
+  "text": "Your indie business should run without you eventually. Build systems, not tasks.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "indie-hacker"
   ],
   "tags": [
-    "production",
-    "friday",
-    "deployments"
+    "automation",
+    "systems"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-indie-business-should-1063",
+  "source": "Community sourced"
 }

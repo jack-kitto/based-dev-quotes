@@ -1,19 +1,16 @@
 {
-  "id": "git-commit-messages",
-  "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter / every git log ever",
+  "text": "The best Python is the Python you don't write. Use libraries.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "engineering"
   ],
   "tags": [
-    "git",
-    "commits",
-    "entropy",
-    "discipline"
+    "python",
+    "libraries"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-python-is",
+  "source": "Community sourced"
 }

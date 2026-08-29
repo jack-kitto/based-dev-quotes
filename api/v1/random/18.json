@@ -1,19 +1,16 @@
 {
-  "id": "microservices-monolith",
-  "text": "You're not Google. Your 3-person startup doesn't need microservices. It needs to ship.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Hacker News wisdom",
+  "text": "Every design decision should answer one question: 'Does this help the user?' If not, remove it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "shitpost",
-    "indie-hacker",
-    "shipping"
+    "design"
   ],
   "tags": [
-    "microservices",
-    "startups",
-    "over-engineering"
+    "decisions",
+    "user-focus"
   ],
-  "grug_level": 5,
-  "spiciness": 4
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-every-design-decision-should",
+  "source": "Community sourced"
 }

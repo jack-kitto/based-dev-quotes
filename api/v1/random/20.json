@@ -1,17 +1,17 @@
 {
-  "text": "Don't find customers for your product. Find products for your customers.",
-  "author": "Peter Drucker",
-  "author_slug": "drucker",
+  "text": "Controlling complexity is the essence of computer programming.",
+  "author": "Brian Kernighan",
+  "author_slug": "kernighan",
   "categories": [
-    "business",
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "customer-focus",
-    "product"
+    "complexity",
+    "essence"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "drucker-dont-find-customers-for",
+  "id": "kernighan-controlling-complexity-is-the",
   "source": "Community sourced"
 }
