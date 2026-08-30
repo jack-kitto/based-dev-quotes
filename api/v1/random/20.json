@@ -1,17 +1,16 @@
 {
-  "text": "Controlling complexity is the essence of computer programming.",
-  "author": "Brian Kernighan",
-  "author_slug": "kernighan",
+  "text": "The only valid measurement of code quality is how many times you have to read it to understand it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "complexity",
-    "essence"
+    "code-quality",
+    "readability"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "kernighan-controlling-complexity-is-the",
+  "spiciness": 2,
+  "id": "based-the-only-valid-measurement",
   "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "The best time to set up analytics is before you launch. Not after you've been flying blind for 3 months.",
+  "text": "The best user research is watching someone use your product without telling them what to do. The discomfort reveals everything.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "product"
   ],
   "tags": [
-    "analytics",
-    "proactive"
+    "user-research",
+    "observation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-802",
+  "id": "based-the-best-user-research",
   "source": "Community sourced"
 }
