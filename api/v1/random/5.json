@@ -1,17 +1,17 @@
 {
-  "id": "torvalds-bad-programmers",
-  "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "Git Mailing List",
+  "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "data-structures",
-    "design",
-    "fundamentals"
+    "clarity",
+    "simplicity"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-if-you-cant-explain",
+  "source": "Community sourced"
 }

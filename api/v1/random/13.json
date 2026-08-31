@@ -1,16 +1,19 @@
 {
-  "text": "The best business model is one where you get paid to learn.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "node-modules-black-hole",
+  "text": "The heaviest objects in the universe: neutron stars, black holes, and node_modules.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter / memes",
   "categories": [
-    "business"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "business-model",
-    "learning"
+    "node-modules",
+    "npm",
+    "javascript",
+    "dependencies"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-business-model-414",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your team should celebrate wins, not just survived losses. Recognition is fuel.",
+  "text": "Your hero section doesn't need a video background. Nobody is on your landing page for the cinematography.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design",
+    "marketing"
   ],
   "tags": [
-    "recognition",
-    "culture"
+    "hero",
+    "video"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-team-should-celebrate",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-hero-section-doesnt",
   "source": "Community sourced"
 }

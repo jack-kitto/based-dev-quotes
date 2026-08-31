@@ -1,16 +1,18 @@
 {
-  "text": "The best way to improve your product's design is to remove things, not add them.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "hickey-hammock",
+  "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
+  "author": "Rich Hickey",
+  "author_slug": "hickey",
+  "source": "Hammock Driven Development, Clojure/conj 2010",
   "categories": [
-    "design"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "removal",
-    "simplicity"
+    "thinking",
+    "planning",
+    "patience"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-748",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

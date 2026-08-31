@@ -1,16 +1,16 @@
 {
-  "text": "Revenue is a lagging indicator. Customer satisfaction is a leading indicator. Measure both.",
+  "text": "The best API is the one you don't need to build. Use a service.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "metrics",
-    "satisfaction"
+    "api",
+    "services"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-revenue-is-a-lagging",
+  "id": "based-the-best-api-is-980",
   "source": "Community sourced"
 }

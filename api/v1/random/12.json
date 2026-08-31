@@ -1,17 +1,16 @@
 {
-  "text": "The best user research is watching someone use your product without telling them what to do. The discomfort reveals everything.",
+  "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "user-research",
-    "observation"
+    "business-model",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-user-research",
+  "id": "based-your-business-model-should",
   "source": "Community sourced"
 }

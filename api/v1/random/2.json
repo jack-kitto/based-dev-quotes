@@ -1,17 +1,16 @@
 {
-  "text": "Your CI pipeline is your safety net. If it's slow, developers skip it. If they skip it, you're shipping bugs.",
+  "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "indie-hacker"
   ],
   "tags": [
-    "ci",
-    "speed"
+    "pricing",
+    "validation"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-ci-pipeline-is",
+  "spiciness": 3,
+  "id": "based-building-a-tool-youd",
   "source": "Community sourced"
 }
