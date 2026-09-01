@@ -1,17 +1,17 @@
 {
-  "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Innovation is saying no to a thousand things.",
+  "author": "Steve Jobs",
+  "author_slug": "jobs",
   "categories": [
-    "productivity",
-    "engineering"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "github",
-    "resume"
+    "innovation",
+    "focus"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-github-profile-is",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "jobs-innovation-is-saying-no",
   "source": "Community sourced"
 }

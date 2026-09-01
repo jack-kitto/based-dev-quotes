@@ -1,17 +1,16 @@
 {
-  "text": "If you can't explain it to a six-year-old, you don't understand it. If your code can't be read by a junior dev, you haven't simplified it.",
+  "text": "If your feature flags are more complex than your code, you've built a configuration management system.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "clarity",
-    "simplicity"
+    "feature-flags",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-you-cant-explain",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-your-feature-flags",
   "source": "Community sourced"
 }

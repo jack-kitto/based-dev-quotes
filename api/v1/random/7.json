@@ -1,16 +1,17 @@
 {
-  "text": "Indie hackers who talk to users grow faster than indie hackers who code in isolation.",
+  "text": "Rollback is not a failure. Rollback is a feature. Use it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "user-feedback",
-    "growth"
+    "rollback",
+    "safety"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-indie-hackers-who-talk",
+  "id": "based-rollback-is-not-a",
   "source": "Community sourced"
 }

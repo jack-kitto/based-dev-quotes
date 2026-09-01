@@ -1,17 +1,16 @@
 {
-  "text": "The best way to build an audience is to be consistently helpful. Not consistently promotional.",
+  "text": "The best time to think about performance is never. The second best time is when users complain.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "marketing"
+    "engineering"
   ],
   "tags": [
-    "audience",
-    "helpfulness"
+    "performance",
+    "premature-optimization"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-1056",
+  "id": "based-the-best-time-to-460",
   "source": "Community sourced"
 }

@@ -1,18 +1,16 @@
 {
-  "id": "hickey-hammock",
-  "text": "Every time I see someone come out with an answer in a day, I know they don't understand the problem yet.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Hammock Driven Development, Clojure/conj 2010",
+  "text": "In the middle of difficulty lies opportunity.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "wisdom",
-    "suffering"
+    "wisdom"
   ],
   "tags": [
-    "thinking",
-    "planning",
-    "patience"
+    "difficulty",
+    "opportunity"
   ],
-  "grug_level": 2,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "einstein-in-the-middle-of",
+  "source": "Community sourced"
 }

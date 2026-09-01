@@ -1,19 +1,20 @@
 {
-  "id": "torvalds-talk-is-cheap",
-  "text": "Talk is cheap. Show me the code.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "Linux Kernel Mailing List, 2000",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "shipping",
-    "wisdom"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "shipping",
-    "action",
+    "simplicity",
+    "complexity",
     "classic"
   ],
-  "grug_level": 4,
+  "grug_level": 5,
   "spiciness": 2,
-  "_date": "2026-08-31"
+  "_date": "2026-09-01"
 }
