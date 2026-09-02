@@ -1,17 +1,17 @@
 {
-  "text": "Innovation is saying no to a thousand things.",
-  "author": "Steve Jobs",
-  "author_slug": "jobs",
+  "text": "Your LinkedIn feed is just Twitter for people who think they're too professional for Twitter.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business",
-    "wisdom"
+    "productivity",
+    "shitpost"
   ],
   "tags": [
-    "innovation",
-    "focus"
+    "linkedin",
+    "social-media"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "jobs-innovation-is-saying-no",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-linkedin-feed-is",
   "source": "Community sourced"
 }

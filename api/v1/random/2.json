@@ -1,16 +1,16 @@
 {
-  "text": "Legacy code is just code that nobody has the courage to delete yet.",
+  "text": "The best way to build trust is to be honest. Even when it hurts.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "marketing"
   ],
   "tags": [
-    "legacy",
-    "courage"
+    "trust",
+    "honesty"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-legacy-code-is-just",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "based-the-best-way-to-948",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "Make it work, make it right, make it fast.",
-  "author": "Kent Beck",
-  "author_slug": "beck",
+  "text": "Simplicity is the ultimate form of sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
-    "engineering",
+    "design",
     "wisdom"
   ],
   "tags": [
-    "process",
-    "optimization"
+    "simplicity",
+    "classic"
   ],
-  "grug_level": 3,
+  "grug_level": 2,
   "spiciness": 1,
-  "id": "beck-make-it-work-make",
+  "id": "davinci-simplicity-is-the-ultimate-907",
   "source": "Community sourced"
 }

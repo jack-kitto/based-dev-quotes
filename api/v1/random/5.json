@@ -1,16 +1,17 @@
 {
-  "text": "If your feature flags are more complex than your code, you've built a configuration management system.",
+  "text": "The best tech stack for an indie project is the one you can ship with today. Not the one you'll learn eventually.",
   "author": "based",
   "author_slug": "based",
   "categories": [
+    "indie-hacker",
     "engineering"
   ],
   "tags": [
-    "feature-flags",
-    "complexity"
+    "tech-stack",
+    "shipping"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-feature-flags",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-tech-stack",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Growth is never by mere chance; it is the result of forces working together.",
-  "author": "James Cash Penney",
-  "author_slug": "penney",
+  "text": "Innovation without execution is hallucination.",
+  "author": "Thomas Edison",
+  "author_slug": "edison",
   "categories": [
     "business"
   ],
   "tags": [
-    "growth",
-    "forces"
+    "innovation",
+    "execution"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "penney-growth-is-never-by",
+  "id": "edison-innovation-without-execution-is",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "Your remote team's culture is defined by what happens when nobody's watching. Build trust, not surveillance.",
+  "text": "If you're writing boilerplate, you're not programming. You're typing. Find a better abstraction or a better language.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "remote",
-    "trust"
+    "boilerplate",
+    "abstraction"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-remote-teams-culture",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-youre-writing-boilerplate",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "Your most valuable sales tool is a customer testimonial. Real words from real people beat any ad copy.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "muratori-clean-code",
+  "text": "'Clean code' is just code that looks nice. But looking nice and being good are not the same thing at all.",
+  "author": "Casey Muratori",
+  "author_slug": "muratori",
+  "source": "Clean Code, Pair Programming, and Refactoring Debate, 2023",
   "categories": [
-    "business",
-    "marketing"
+    "shitpost",
+    "complexity"
   ],
   "tags": [
-    "testimonials",
-    "social-proof"
+    "clean-code",
+    "performance",
+    "aesthetics"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-most-valuable-sales",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 5
 }
