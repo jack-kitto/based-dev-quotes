@@ -1,16 +1,17 @@
 {
-  "text": "The best productivity hack is a deadline. The second best is consequences.",
+  "text": "The best product decisions come from understanding the user's actual workflow, not the one you imagined they had.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "users",
+    "product"
   ],
   "tags": [
-    "deadlines",
-    "motivation"
+    "workflow",
+    "research"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-productivity-hack",
+  "id": "based-the-best-product-decisions-559",
   "source": "Community sourced"
 }

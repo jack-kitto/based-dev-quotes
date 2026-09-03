@@ -1,16 +1,17 @@
 {
-  "text": "Innovation without execution is hallucination.",
-  "author": "Thomas Edison",
-  "author_slug": "edison",
+  "text": "Good design is as little design as possible. Less, but better.",
+  "author": "Dieter Rams",
+  "author_slug": "rams",
   "categories": [
-    "business"
+    "design",
+    "wisdom"
   ],
   "tags": [
-    "innovation",
-    "execution"
+    "simplicity",
+    "minimalism"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "edison-innovation-without-execution-is",
+  "id": "rams-good-design-is-as",
   "source": "Community sourced"
 }

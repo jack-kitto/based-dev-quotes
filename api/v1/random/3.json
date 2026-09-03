@@ -1,16 +1,16 @@
 {
-  "text": "SOC 2 compliance is proof that you filled out a lot of paperwork, not proof that you're secure.",
+  "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering"
   ],
   "tags": [
-    "compliance",
-    "security"
+    "tech-debt",
+    "procrastination"
   ],
   "grug_level": 4,
   "spiciness": 4,
-  "id": "based-soc-2-compliance-is",
+  "id": "based-technical-debt-is-what",
   "source": "Community sourced"
 }

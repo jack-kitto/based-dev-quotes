@@ -1,18 +1,17 @@
 {
-  "id": "cantrill-debugging-production",
-  "text": "You have not experienced true fear until you have deployed a fix that works in staging but makes production worse.",
-  "author": "Bryan Cantrill",
-  "author_slug": "cantrill",
-  "source": "Platform as a Reflection of Values, 2018",
+  "text": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "suffering",
-    "debugging"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "production",
-    "fear",
-    "deployment"
+    "dark-mode",
+    "bugs"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-why-do-programmers-prefer",
+  "source": "Community sourced"
 }
