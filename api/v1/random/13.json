@@ -1,17 +1,18 @@
 {
-  "text": "Good design is as little design as possible. Less, but better.",
-  "author": "Dieter Rams",
-  "author_slug": "rams",
+  "id": "best-marketing-ship",
+  "text": "The best marketing strategy for a developer is to actually ship something useful and let people find it.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Indie hacker wisdom",
   "categories": [
-    "design",
-    "wisdom"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "simplicity",
-    "minimalism"
+    "marketing",
+    "shipping",
+    "seo"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "rams-good-design-is-as",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }
