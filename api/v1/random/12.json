@@ -1,18 +1,16 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "shitpost"
+    "business"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "competition",
+    "inaction"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-competition-isnt-other",
+  "source": "Community sourced"
 }

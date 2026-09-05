@@ -1,16 +1,16 @@
 {
-  "id": "copy-paste-stackoverflow",
-  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "The best business model is one where the customer pays you before you have to do the work. Find it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny"
+    "business"
   ],
   "tags": [
-    "stackoverflow",
-    "copy-paste"
+    "business-model",
+    "cash-flow"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 3,
+  "id": "based-the-best-business-model",
+  "source": "Community sourced"
 }

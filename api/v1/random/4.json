@@ -1,16 +1,17 @@
 {
-  "text": "Your SaaS should be so good that canceling feels like a loss, not a relief.",
+  "text": "The best SaaS businesses are built on boring, repetitive problems. Boring problems pay monthly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "saas",
+    "business"
   ],
   "tags": [
-    "retention",
-    "value"
+    "boring",
+    "recurring-revenue"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-saas-should-be",
+  "id": "based-the-best-saas-businesses-652",
   "source": "Community sourced"
 }
