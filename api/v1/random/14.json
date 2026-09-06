@@ -1,16 +1,16 @@
 {
-  "text": "The best time to think about mobile design is before you start designing. Not after the desktop version is done.",
+  "text": "Freemium is a strategy for companies that are confident they can convert you. If you're not confident, it's just giving stuff away.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "saas"
   ],
   "tags": [
-    "mobile",
-    "responsive"
+    "freemium",
+    "conversion"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-447",
+  "spiciness": 3,
+  "id": "based-freemium-is-a-strategy",
   "source": "Community sourced"
 }

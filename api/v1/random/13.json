@@ -1,17 +1,16 @@
 {
-  "text": "Nobody has ever complained that something was too easy to use.",
+  "text": "The best way to beat competition is to not have any. Build something so unique that there's nothing to compare it to.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "business"
   ],
   "tags": [
-    "ux",
-    "simplicity"
+    "competition",
+    "uniqueness"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-nobody-has-ever-complained",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-602",
   "source": "Community sourced"
 }

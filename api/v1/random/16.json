@@ -1,19 +1,16 @@
 {
-  "id": "wall-perl",
-  "text": "The three chief virtues of a programmer are: Laziness, Impatience, and Hubris.",
-  "author": "Larry Wall",
-  "author_slug": "wall",
-  "source": "Programming Perl, 1991",
+  "text": "Unit tests don't prevent bugs. They prevent the specific bugs you anticipated. Production finds the rest.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "virtues",
-    "laziness",
-    "perl",
-    "classic"
+    "testing",
+    "reality"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 3,
+  "id": "based-unit-tests-dont-prevent",
+  "source": "Community sourced"
 }
