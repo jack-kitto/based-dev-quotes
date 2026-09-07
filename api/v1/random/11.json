@@ -1,17 +1,16 @@
 {
-  "text": "The customer is always right about the problem. They're almost always wrong about the solution.",
+  "text": "The best way to find a bug is to write a test that reproduces it. Not to stare at the code until it confesses.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "customers",
-    "solutions"
+    "debugging",
+    "testing"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-customer-is-always",
+  "id": "based-the-best-way-to-779",
   "source": "Community sourced"
 }

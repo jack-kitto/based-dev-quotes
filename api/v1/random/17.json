@@ -1,17 +1,18 @@
 {
-  "text": "The function of good software is to make the complex appear to be simple.",
-  "author": "Grady Booch",
-  "author_slug": "booch",
+  "id": "naming-things-hard",
+  "text": "I spent 45 minutes naming a variable today. This is fine. This is normal. I am a professional.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "simplicity",
-    "abstraction"
+    "naming",
+    "variables",
+    "time-waste"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "booch-the-function-of-good",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }
