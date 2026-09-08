@@ -1,17 +1,16 @@
 {
-  "text": "The difference between a senior and a junior dev isn't knowledge. It's knowing which shortcuts will haunt you later.",
+  "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "experience",
-    "shortcuts"
+    "database",
+    "pragmatism"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-difference-between-a",
+  "spiciness": 3,
+  "id": "based-the-best-database-is",
   "source": "Community sourced"
 }

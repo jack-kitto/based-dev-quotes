@@ -1,17 +1,18 @@
 {
-  "text": "The beauty of being a solo founder is that you can ship in 20 minutes what takes a committee 3 months. The curse is that you have to do everything.",
+  "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design",
+    "engineering"
   ],
   "tags": [
-    "solo",
-    "speed"
+    "resilience",
+    "progressive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-beauty-of-being",
+  "id": "based-your-product-should-work",
   "source": "Community sourced",
-  "_date": "2026-09-07"
+  "_date": "2026-09-08"
 }

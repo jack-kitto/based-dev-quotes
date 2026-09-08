@@ -1,16 +1,20 @@
 {
-  "text": "Legacy code is just code that nobody has the courage to delete yet.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-microservices",
+  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "engineering"
+    "grug",
+    "complexity",
+    "shitpost"
   ],
   "tags": [
-    "legacy",
-    "courage"
+    "microservices",
+    "architecture",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-legacy-code-is-just",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 4
 }

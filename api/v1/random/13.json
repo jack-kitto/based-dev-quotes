@@ -1,16 +1,16 @@
 {
-  "text": "Your side project is a marathon, not a sprint. Pace yourself.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The best way to get a flat tire is to not have a spare.",
+  "author": "Murphy",
+  "author_slug": "murphy",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "pacing",
-    "endurance"
+    "murphys-law",
+    "preparedness"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "based-your-side-project-is-772",
+  "id": "murphy-the-best-way-to",
   "source": "Community sourced"
 }

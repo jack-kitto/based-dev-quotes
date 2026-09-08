@@ -1,16 +1,18 @@
 {
-  "text": "Entrepreneurship is not a job. It's a lifestyle. Choose it intentionally.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "99-bugs-wall",
+  "text": "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "entrepreneur"
+    "funny",
+    "debugging"
   ],
   "tags": [
-    "lifestyle",
-    "choice"
+    "bugs",
+    "debugging",
+    "song"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-entrepreneurship-is-not-a",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

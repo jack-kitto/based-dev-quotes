@@ -1,16 +1,17 @@
 {
-  "text": "The simplest solution is almost always the best one.",
-  "author": "Sherlock Holmes",
-  "author_slug": "holmes",
+  "text": "The best product decisions come from understanding the user's actual workflow, not the one you imagined they had.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "users",
+    "product"
   ],
   "tags": [
-    "simplicity",
-    "solutions"
+    "workflow",
+    "research"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "holmes-the-simplest-solution-is",
+  "spiciness": 2,
+  "id": "based-the-best-product-decisions-559",
   "source": "Community sourced"
 }
