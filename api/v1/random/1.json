@@ -1,16 +1,18 @@
 {
-  "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "full-stack-pain",
+  "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering"
+    "funny",
+    "career"
   ],
   "tags": [
-    "database",
-    "pragmatism"
+    "full-stack",
+    "hiring",
+    "startups"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-database-is",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 3
 }

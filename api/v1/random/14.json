@@ -1,17 +1,16 @@
 {
-  "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Nobody reads ads. People read what interests them. Sometimes it's an ad.",
+  "author": "Howard Gossage",
+  "author_slug": "gossage",
   "categories": [
-    "design",
-    "engineering"
+    "marketing"
   ],
   "tags": [
-    "css",
-    "complexity"
+    "advertising",
+    "attention"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-css-file",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "gossage-nobody-reads-ads-people",
   "source": "Community sourced"
 }

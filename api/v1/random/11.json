@@ -1,17 +1,18 @@
 {
-  "text": "Selling is just helping people make decisions they already want to make.",
+  "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "marketing"
+    "users",
+    "product",
+    "engineering"
   ],
   "tags": [
-    "sales",
-    "helping"
+    "features",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-selling-is-just-helping",
+  "id": "based-the-best-feature-is",
   "source": "Community sourced"
 }

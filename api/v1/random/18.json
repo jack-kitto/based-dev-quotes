@@ -1,17 +1,16 @@
 {
-  "text": "Your power users will forgive bugs. Your new users won't. Design for both.",
+  "text": "The indie hacker's nightmare isn't failure. It's spending 2 years building something that gets 3 users.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "indie-hacker"
   ],
   "tags": [
-    "power-users",
-    "new-users"
+    "validation",
+    "risk"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-power-users-will",
+  "spiciness": 3,
+  "id": "based-the-indie-hackers-nightmare",
   "source": "Community sourced"
 }

@@ -1,18 +1,17 @@
 {
-  "text": "Your product should work without JavaScript. Not because JavaScript is bad, but because resilience is good.",
+  "text": "The best time to add logging is before you need it. The second best time is during the incident you're having.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
     "engineering"
   ],
   "tags": [
-    "resilience",
-    "progressive"
+    "logging",
+    "proactive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-product-should-work",
+  "id": "based-the-best-time-to-789",
   "source": "Community sourced",
-  "_date": "2026-09-08"
+  "_date": "2026-09-09"
 }

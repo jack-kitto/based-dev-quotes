@@ -1,16 +1,16 @@
 {
-  "text": "The best way to get a flat tire is to not have a spare.",
-  "author": "Murphy",
-  "author_slug": "murphy",
+  "text": "The indie hacker's calendar: Monday — plan. Tuesday — code. Wednesday — code. Thursday — code. Friday — panic about marketing.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "murphys-law",
-    "preparedness"
+    "schedule",
+    "marketing"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "murphy-the-best-way-to",
+  "spiciness": 3,
+  "id": "based-the-indie-hackers-calendar",
   "source": "Community sourced"
 }

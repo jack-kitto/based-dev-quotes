@@ -1,17 +1,16 @@
 {
-  "text": "The best meetings are the ones with clear agendas, time limits, and action items. Everything else is a waste.",
+  "text": "If a design element doesn't serve a purpose, it's noise. Remove it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "productivity"
+    "design"
   ],
   "tags": [
-    "meetings",
-    "efficiency"
+    "purpose",
+    "noise"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-meetings-are-823",
+  "id": "based-if-a-design-element",
   "source": "Community sourced"
 }

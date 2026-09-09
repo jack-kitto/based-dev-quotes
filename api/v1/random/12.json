@@ -1,18 +1,16 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "The best time to build your personal brand is before you need it. The second best time is now.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "shitpost"
+    "business"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "personal-brand",
+    "proactive"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-1016",
+  "source": "Community sourced"
 }
