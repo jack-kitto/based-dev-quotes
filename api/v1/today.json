@@ -1,17 +1,17 @@
 {
-  "text": "The best time to add logging is before you need it. The second best time is during the incident you're having.",
+  "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "logging",
-    "proactive"
+    "failure",
+    "planning"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-789",
+  "id": "based-the-best-way-to-858",
   "source": "Community sourced",
-  "_date": "2026-09-09"
+  "_date": "2026-09-10"
 }

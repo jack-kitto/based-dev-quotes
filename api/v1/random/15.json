@@ -1,16 +1,16 @@
 {
-  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+  "text": "If your test suite takes more than 5 minutes, people won't run it. If people don't run it, it doesn't exist.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "leadership",
-    "accountability"
+    "testing",
+    "developer-experience"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-teams-performance-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-if-your-test-suite",
   "source": "Community sourced"
 }
