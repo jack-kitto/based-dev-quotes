@@ -1,16 +1,19 @@
 {
-  "text": "Your indie business should be built on something you'd do even if nobody paid you. That's the foundation.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "temporary-solution",
+  "text": "Nothing is more permanent than a temporary solution that works.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "suffering",
+    "wisdom"
   ],
   "tags": [
-    "passion",
-    "foundation"
+    "technical-debt",
+    "permanence",
+    "pragmatism"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-business-should-1067",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

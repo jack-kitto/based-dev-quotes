@@ -1,16 +1,16 @@
 {
-  "id": "copy-paste-stackoverflow",
-  "text": "A good programmer is someone who always looks both ways before crossing a one-way street. Then copies the answer from Stack Overflow anyway.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "The indie hacker's biggest enemy isn't competition. It's shiny object syndrome. Pick one thing and ship it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny"
+    "indie-hacker"
   ],
   "tags": [
-    "stackoverflow",
-    "copy-paste"
+    "focus",
+    "discipline"
   ],
   "grug_level": 4,
-  "spiciness": 1
+  "spiciness": 3,
+  "id": "based-the-indie-hackers-biggest",
+  "source": "Community sourced"
 }

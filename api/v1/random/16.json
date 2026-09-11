@@ -1,16 +1,18 @@
 {
-  "text": "The best time to add Stripe is before you launch. You'd be amazed how many people don't launch because they can't figure out payments.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "programmer-optimist",
+  "text": "The generation of random numbers is too important to be left to chance.",
+  "author": "Robert R. Coveyou",
+  "author_slug": "coveyou",
+  "source": "Oak Ridge National Laboratory",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "payments",
-    "launch"
+    "randomness",
+    "irony",
+    "math"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-364",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

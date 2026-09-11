@@ -1,17 +1,17 @@
 {
-  "text": "Discipline is choosing between what you want now and what you want most. Most people choose now.",
+  "text": "The best product managers are the ones who can say 'no' to 99% of requests and still be loved.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "users",
+    "product"
   ],
   "tags": [
-    "discipline",
-    "delayed-gratification"
+    "saying-no",
+    "prioritization"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-discipline-is-choosing-between",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-product-managers",
   "source": "Community sourced"
 }

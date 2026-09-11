@@ -1,16 +1,19 @@
 {
-  "text": "SaaS churn is like a leaky bucket. You can pour water in as fast as you want, but if the holes are big, you're wasting time.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "hoffman-embarrassed",
+  "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+  "author": "Reid Hoffman",
+  "author_slug": "hoffman",
+  "source": "LinkedIn founder, various interviews",
   "categories": [
-    "saas"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "churn",
-    "retention"
+    "mvp",
+    "launching",
+    "perfection",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-saas-churn-is-like",
-  "source": "Community sourced"
+  "spiciness": 1
 }

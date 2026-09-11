@@ -1,16 +1,16 @@
 {
-  "text": "Your side project should be fun. If it's not fun, it's just another job.",
+  "text": "Simplicity is not about absence. It's about presence of the right things.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design"
   ],
   "tags": [
-    "fun",
-    "enjoyment"
+    "simplicity",
+    "intention"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-side-project-should",
+  "id": "based-simplicity-is-not-about",
   "source": "Community sourced"
 }
