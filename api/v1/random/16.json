@@ -1,18 +1,16 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "text": "Your SaaS should be so good that canceling feels like a loss, not a relief.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "saas"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "retention",
+    "value"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-saas-should-be",
+  "source": "Community sourced"
 }

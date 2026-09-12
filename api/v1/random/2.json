@@ -1,17 +1,16 @@
 {
-  "text": "Your staging environment should be a copy of production. If it's not, it's a lie you tell yourself.",
+  "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "productivity"
   ],
   "tags": [
-    "staging",
-    "environments"
+    "habits",
+    "starting"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-staging-environment-should",
+  "spiciness": 2,
+  "id": "based-the-best-time-to-933",
   "source": "Community sourced"
 }

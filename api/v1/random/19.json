@@ -1,16 +1,17 @@
 {
-  "text": "The best way to build a high-performing team is to remove obstacles, not add pressure.",
+  "text": "Your most valuable sales tool is a customer testimonial. Real words from real people beat any ad copy.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "business",
+    "marketing"
   ],
   "tags": [
-    "team",
-    "obstacles"
+    "testimonials",
+    "social-proof"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-837",
+  "id": "based-your-most-valuable-sales",
   "source": "Community sourced"
 }

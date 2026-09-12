@@ -1,18 +1,16 @@
 {
-  "text": "If your SaaS has a gradient hero section, a stock photo of a diverse team laughing at a laptop, and three columns of features nobody reads — congratulations, you've built the internet.",
+  "text": "Your microservices aren't microservices. They're just modules that hate each other and communicate via HTTP.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "saas"
+    "engineering"
   ],
   "tags": [
-    "saas",
-    "landing-page",
-    "shitpost"
+    "microservices",
+    "architecture"
   ],
   "grug_level": 4,
   "spiciness": 4,
-  "id": "based-if-your-saas-has",
+  "id": "based-your-microservices-arent-microservices",
   "source": "Community sourced"
 }

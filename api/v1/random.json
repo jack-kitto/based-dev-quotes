@@ -1,17 +1,17 @@
 {
-  "text": "The only constant in software development is the changing of requirements.",
+  "text": "Building a product is easy. Finding customers is hard. The best founders do both.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "requirements",
-    "change"
+    "building",
+    "marketing"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-only-constant-in",
+  "spiciness": 2,
+  "id": "based-building-a-product-is",
   "source": "Community sourced",
-  "_generated_at": "2026-09-11T03:21:58.910041+00:00"
+  "_generated_at": "2026-09-12T03:27:21.291821+00:00"
 }

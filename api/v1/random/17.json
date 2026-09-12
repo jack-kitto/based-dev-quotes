@@ -1,17 +1,18 @@
 {
-  "text": "Money follows value. Create enough value and the money will come.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "senior-dev-google",
+  "text": "A senior developer is just a junior developer who has Googled more things.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "business",
-    "wisdom"
+    "funny",
+    "career"
   ],
   "tags": [
-    "value",
-    "money"
+    "seniority",
+    "experience",
+    "google"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-money-follows-value-create",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

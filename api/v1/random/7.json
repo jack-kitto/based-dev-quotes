@@ -1,16 +1,16 @@
 {
-  "text": "The indie hacker's biggest enemy isn't competition. It's shiny object syndrome. Pick one thing and ship it.",
+  "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "focus",
-    "discipline"
+    "tailwind",
+    "css"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-the-indie-hackers-biggest",
+  "id": "based-tailwind-css-is-just",
   "source": "Community sourced"
 }

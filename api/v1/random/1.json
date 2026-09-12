@@ -1,19 +1,18 @@
 {
-  "id": "temporary-solution",
-  "text": "Nothing is more permanent than a temporary solution that works.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "id": "patio11-salary-negotiation",
+  "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+  "author": "Patrick McKenzie (patio11)",
+  "author_slug": "patio11",
+  "source": "Don't Call Yourself a Programmer, 2011",
   "categories": [
-    "funny",
-    "suffering",
-    "wisdom"
+    "career",
+    "indie-hacker"
   ],
   "tags": [
-    "technical-debt",
-    "permanence",
-    "pragmatism"
+    "career",
+    "positioning",
+    "salary"
   ],
-  "grug_level": 5,
+  "grug_level": 3,
   "spiciness": 2
 }
