@@ -1,16 +1,16 @@
 {
-  "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The way to get started is to quit talking and begin doing.",
+  "author": "Walt Disney",
+  "author_slug": "disney",
   "categories": [
-    "engineering"
+    "wisdom"
   ],
   "tags": [
-    "tailwind",
-    "css"
+    "action",
+    "starting"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-tailwind-css-is-just",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "disney-the-way-to-get",
   "source": "Community sourced"
 }

@@ -1,16 +1,18 @@
 {
-  "text": "Your sales team should be as good at listening as they are at talking. Better, actually.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "senior-dev-impostor",
+  "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "business"
+    "funny",
+    "career"
   ],
   "tags": [
-    "sales",
-    "listening"
+    "seniority",
+    "confidence",
+    "experience"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-sales-team-should",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

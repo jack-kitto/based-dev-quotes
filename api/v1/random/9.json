@@ -1,17 +1,16 @@
 {
-  "text": "The best validation is someone giving you money. Everything else — surveys, waitlists, likes — is just flirting.",
+  "text": "Your brain is a browser with too many tabs open. Close some before you crash.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "productivity"
   ],
   "tags": [
-    "validation",
-    "sales"
+    "focus",
+    "overload"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-best-validation-is",
+  "grug_level": 3,
+  "spiciness": 3,
+  "id": "based-your-brain-is-a",
   "source": "Community sourced"
 }

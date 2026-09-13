@@ -1,5 +1,5 @@
 {
-  "text": "It works on my machine. Ship my machine.",
+  "text": "I don't always test my code, but when I do, I do it in production.",
   "author": "based",
   "author_slug": "based",
   "categories": [
@@ -7,11 +7,11 @@
     "shitpost"
   ],
   "tags": [
-    "docker",
-    "deployment"
+    "testing",
+    "production"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-it-works-on-my",
+  "spiciness": 4,
+  "id": "based-i-dont-always-test",
   "source": "Community sourced"
 }

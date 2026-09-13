@@ -1,17 +1,17 @@
 {
-  "text": "Good design is as little design as possible. Less, but better.",
-  "author": "Dieter Rams",
-  "author_slug": "rams",
+  "text": "The best engineers know the difference between clever code and clear code. They choose clear.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "design",
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "minimalism"
+    "clarity",
+    "cleverness"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "rams-good-design-is-as",
+  "spiciness": 2,
+  "id": "based-the-best-engineers-know-635",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "The best IDE is the one that disappears. You shouldn't be thinking about the tool.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "If you can't explain it simply, you don't understand it well enough.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "productivity",
-    "engineering"
+    "wisdom"
   ],
   "tags": [
-    "ide",
-    "flow"
+    "simplicity",
+    "understanding"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-ide-is",
+  "spiciness": 1,
+  "id": "einstein-if-you-cant-explain",
   "source": "Community sourced"
 }

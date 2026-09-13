@@ -1,18 +1,19 @@
 {
-  "id": "patio11-salary-negotiation",
-  "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
-  "author": "Patrick McKenzie (patio11)",
-  "author_slug": "patio11",
-  "source": "Don't Call Yourself a Programmer, 2011",
+  "id": "thompson-unix-c",
+  "text": "When in doubt, use brute force.",
+  "author": "Ken Thompson",
+  "author_slug": "thompson",
+  "source": "Unix philosophy",
   "categories": [
-    "career",
-    "indie-hacker"
+    "wisdom",
+    "grug",
+    "unix"
   ],
   "tags": [
-    "career",
-    "positioning",
-    "salary"
+    "brute-force",
+    "pragmatism",
+    "simplicity"
   ],
-  "grug_level": 3,
+  "grug_level": 5,
   "spiciness": 2
 }
