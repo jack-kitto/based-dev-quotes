@@ -1,16 +1,18 @@
 {
-  "text": "Your brain is a browser with too many tabs open. Close some before you crash.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "blow-simplest-thing",
+  "text": "I want the simplest possible thing that satisfies my actual requirements, and I want to understand every single line of it.",
+  "author": "Jonathan Blow",
+  "author_slug": "blow",
+  "source": "Preventing the Collapse of Civilization, DevGAMM 2019",
   "categories": [
-    "productivity"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "focus",
-    "overload"
+    "simplicity",
+    "understanding",
+    "control"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-brain-is-a",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

@@ -1,16 +1,16 @@
 {
-  "text": "If you can't explain it simply, you don't understand it well enough.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "Your attention is your most valuable resource. Spend it like you'd spend your last dollar.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "productivity"
   ],
   "tags": [
-    "simplicity",
-    "understanding"
+    "attention",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-if-you-cant-explain",
+  "spiciness": 2,
+  "id": "based-your-attention-is-your",
   "source": "Community sourced"
 }

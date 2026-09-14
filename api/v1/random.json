@@ -1,17 +1,17 @@
 {
-  "text": "The only real mistake is the one from which we learn nothing.",
-  "author": "Henry Ford",
-  "author_slug": "ford",
+  "text": "The best competitive advantage is speed. Big companies can't move fast. You can.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "mistakes",
-    "learning"
+    "speed",
+    "advantage"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ford-the-only-real-mistake",
+  "spiciness": 2,
+  "id": "based-the-best-competitive-advantage",
   "source": "Community sourced",
-  "_generated_at": "2026-09-13T03:33:28.568602+00:00"
+  "_generated_at": "2026-09-14T03:43:27.023435+00:00"
 }

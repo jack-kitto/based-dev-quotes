@@ -1,16 +1,17 @@
 {
-  "text": "Cold email works when it's actually about them, not about you. Which means 99% of cold emails don't work.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "recursion-joke",
+  "text": "To understand recursion, you must first understand recursion.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "CS101 folklore",
   "categories": [
-    "marketing"
+    "funny"
   ],
   "tags": [
-    "cold-email",
-    "personalization"
+    "recursion",
+    "cs101",
+    "meta"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-cold-email-works-when",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

@@ -1,19 +1,18 @@
 {
-  "id": "graham-default-alive",
-  "text": "If you have ramen profitability, you're default alive. The most important thing in a startup is not to die.",
-  "author": "Paul Graham",
-  "author_slug": "graham",
-  "source": "Default Alive or Default Dead?, 2015",
+  "text": "Your FAQ page is a list of your product's failures. Fix the underlying issues and delete the FAQ.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "founder"
+    "users",
+    "product"
   ],
   "tags": [
-    "survival",
-    "profitability",
-    "startups"
+    "faq",
+    "ux"
   ],
   "grug_level": 4,
-  "spiciness": 1,
-  "_date": "2026-09-13"
+  "spiciness": 3,
+  "id": "based-your-faq-page-is",
+  "source": "Community sourced",
+  "_date": "2026-09-14"
 }
