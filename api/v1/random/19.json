@@ -1,17 +1,16 @@
 {
-  "text": "Money follows value. Create enough value and the money will come.",
+  "text": "The best marketing campaigns are the ones people share voluntarily. Everything else is advertising.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "value",
-    "money"
+    "virality",
+    "sharing"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-money-follows-value-create",
+  "id": "based-the-best-marketing-campaigns",
   "source": "Community sourced"
 }

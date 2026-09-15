@@ -1,16 +1,18 @@
 {
-  "text": "Minimalism isn't about having less. It's about making room for more of what matters.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "users-find-way",
+  "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "UX folklore",
   "categories": [
-    "design"
+    "suffering",
+    "wisdom"
   ],
   "tags": [
-    "minimalism",
-    "intention"
+    "users",
+    "edge-cases",
+    "chaos"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-minimalism-isnt-about-having",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

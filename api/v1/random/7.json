@@ -1,16 +1,19 @@
 {
-  "text": "The indie hacker's motto: ship fast, charge more, sleep well.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "select-star-production",
+  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "motto",
-    "balance"
+    "sql",
+    "production",
+    "database",
+    "fear"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-indie-hackers-motto",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 3
 }

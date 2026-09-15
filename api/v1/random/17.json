@@ -1,16 +1,17 @@
 {
-  "text": "The best note-taking system is the one you actually use. Not the one you spend 47 hours setting up.",
+  "text": "Your most valuable sales tool is a customer testimonial. Real words from real people beat any ad copy.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "business",
+    "marketing"
   ],
   "tags": [
-    "notes",
-    "tools"
+    "testimonials",
+    "social-proof"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-notetaking-system",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-most-valuable-sales",
   "source": "Community sourced"
 }

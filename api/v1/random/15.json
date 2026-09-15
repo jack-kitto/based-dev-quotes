@@ -1,16 +1,17 @@
 {
-  "text": "Your best content is the content you'd want to read. Write for yourself first.",
+  "text": "Happy path development is what you do when you've never met a user. Users don't take happy paths. They take confused paths.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "users",
+    "engineering"
   ],
   "tags": [
-    "content",
-    "authenticity"
+    "happy-path",
+    "reality"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-best-content-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-happy-path-development-is",
   "source": "Community sourced"
 }
