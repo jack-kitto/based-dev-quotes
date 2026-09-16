@@ -1,16 +1,19 @@
 {
-  "text": "Your first product taught you everything. Your second product teaches you what actually matters.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "css-centering",
+  "text": "CSS is the only language where you can mass mass mass mass years of experience and still mass mass not center a div on the first try.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "learning",
-    "iteration"
+    "css",
+    "centering",
+    "frontend",
+    "pain"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-first-product-taught",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

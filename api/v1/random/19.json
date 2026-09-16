@@ -1,16 +1,17 @@
 {
-  "text": "The best marketing campaigns are the ones people share voluntarily. Everything else is advertising.",
+  "text": "There are 10 types of people in the world: those who understand binary and those who don't. And those who expected base-3.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "virality",
-    "sharing"
+    "binary",
+    "jokes"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-marketing-campaigns",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-there-are-10-types",
   "source": "Community sourced"
 }

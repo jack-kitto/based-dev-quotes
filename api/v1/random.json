@@ -1,18 +1,17 @@
 {
-  "text": "Your FAQ page is a list of your product's failures. Fix the underlying issues and delete the FAQ.",
+  "text": "Your startup's biggest asset is your ability to learn faster than your competitors.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "entrepreneur"
   ],
   "tags": [
-    "faq",
-    "ux"
+    "learning",
+    "speed"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-faq-page-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-startups-biggest-asset",
   "source": "Community sourced",
-  "_generated_at": "2026-09-15T03:44:09.092695+00:00"
+  "_generated_at": "2026-09-16T03:40:49.494737+00:00"
 }

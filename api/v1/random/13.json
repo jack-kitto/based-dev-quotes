@@ -1,16 +1,16 @@
 {
-  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+  "text": "If you can reproduce it, you can fix it. If you can't reproduce it, it doesn't exist.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "leadership",
-    "accountability"
+    "bugs",
+    "reproduction"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-teams-performance-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-if-you-can-reproduce",
   "source": "Community sourced"
 }
