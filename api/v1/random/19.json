@@ -1,17 +1,17 @@
 {
-  "text": "There are 10 types of people in the world: those who understand binary and those who don't. And those who expected base-3.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
+  "author": "Grace Hopper",
+  "author_slug": "hopper",
   "categories": [
     "engineering",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "binary",
-    "jokes"
+    "innovation",
+    "tradition"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-there-are-10-types",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "hopper-the-most-dangerous-phrase",
   "source": "Community sourced"
 }

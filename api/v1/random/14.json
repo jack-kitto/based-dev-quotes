@@ -1,16 +1,18 @@
 {
-  "text": "SaaS is just software that you rent instead of own. Like an apartment, except the landlord can change the floor plan while you're sleeping.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "move-fast-break-things",
+  "text": "Move fast and break things. Unless you're building medical software. Or financial software. Actually, maybe just move carefully.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "saas"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "saas",
-    "rent"
+    "facebook",
+    "speed",
+    "caution"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-saas-is-just-software",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

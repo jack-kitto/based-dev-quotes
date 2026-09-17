@@ -1,16 +1,16 @@
 {
-  "text": "Every failed startup is a case study. Every successful startup is a survivorship bias.",
+  "text": "If a design element doesn't serve a purpose, it's noise. Remove it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "failure",
-    "bias"
+    "purpose",
+    "noise"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-failed-startup-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-if-a-design-element",
   "source": "Community sourced"
 }
