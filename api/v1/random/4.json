@@ -1,17 +1,16 @@
 {
-  "text": "Your most valuable sales tool is a customer testimonial. Real words from real people beat any ad copy.",
+  "text": "The best time to raise prices is when you're afraid to. The second best time is always.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "marketing"
+    "business"
   ],
   "tags": [
-    "testimonials",
-    "social-proof"
+    "pricing",
+    "courage"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-most-valuable-sales",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-time-to-412",
   "source": "Community sourced"
 }

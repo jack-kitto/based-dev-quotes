@@ -1,17 +1,20 @@
 {
-  "text": "The most dangerous phrase in the language is: 'We've always done it this way.'",
-  "author": "Grace Hopper",
-  "author_slug": "hopper",
+  "id": "lampson-abstraction",
+  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+  "author": "Butler Lampson (modified)",
+  "author_slug": "lampson",
+  "source": "Attributed, with modification from David Wheeler's original",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "innovation",
-    "tradition"
+    "indirection",
+    "abstraction",
+    "layers",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "hopper-the-most-dangerous-phrase",
-  "source": "Community sourced"
+  "spiciness": 2
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Your user interface should be like a good joke: if you have to explain it, it's not good.",
+  "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "design"
+    "saas"
   ],
   "tags": [
-    "ux",
-    "clarity"
+    "integrations",
+    "growth"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-user-interface-should",
+  "id": "based-your-integrations-page-is",
   "source": "Community sourced"
 }
