@@ -1,18 +1,17 @@
 {
-  "id": "date-time-horror",
-  "text": "If you think you understand time zones, you don't understand time zones.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Falsehoods Programmers Believe About Time",
+  "text": "The best validation is someone giving you money. Everything else — surveys, waitlists, likes — is just flirting.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "timezones",
-    "datetime",
-    "falsehoods"
+    "validation",
+    "sales"
   ],
   "grug_level": 4,
-  "spiciness": 2
+  "spiciness": 4,
+  "id": "based-the-best-validation-is",
+  "source": "Community sourced"
 }

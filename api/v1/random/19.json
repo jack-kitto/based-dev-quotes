@@ -1,20 +1,16 @@
 {
-  "id": "lampson-abstraction",
-  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
-  "author": "Butler Lampson (modified)",
-  "author_slug": "lampson",
-  "source": "Attributed, with modification from David Wheeler's original",
+  "text": "Your team should celebrate wins, not just survived losses. Recognition is fuel.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom",
-    "complexity"
+    "business"
   ],
   "tags": [
-    "indirection",
-    "abstraction",
-    "layers",
-    "classic"
+    "recognition",
+    "culture"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1,
+  "id": "based-your-team-should-celebrate",
+  "source": "Community sourced"
 }

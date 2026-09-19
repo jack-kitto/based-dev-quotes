@@ -1,17 +1,17 @@
 {
-  "text": "The best engineers are the ones who can debug without looking at the code. They understand the system, not just the syntax.",
+  "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "design",
+    "engineering"
   ],
   "tags": [
-    "debugging",
-    "understanding"
+    "css",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-engineers-are-783",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-your-css-file",
   "source": "Community sourced"
 }

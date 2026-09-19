@@ -1,16 +1,17 @@
 {
-  "text": "The best way to reduce support tickets is to fix the root cause, not add more support agents.",
+  "text": "Every business starts with one person who decided to stop asking for permission.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "support",
-    "root-cause"
+    "permission",
+    "courage"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-1023",
+  "id": "based-every-business-starts-with",
   "source": "Community sourced"
 }

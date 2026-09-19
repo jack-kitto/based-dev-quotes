@@ -1,17 +1,16 @@
 {
-  "text": "Feature requests are just customers telling you what they think they want. Usage data tells you what they actually want.",
+  "text": "Your first customer is worth more than your next thousand. Treat them that way.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "product"
+    "business"
   ],
   "tags": [
-    "feature-requests",
-    "data"
+    "customers",
+    "retention"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-feature-requests-are-just",
+  "id": "based-your-first-customer-is",
   "source": "Community sourced"
 }

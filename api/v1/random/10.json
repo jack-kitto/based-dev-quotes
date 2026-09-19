@@ -1,16 +1,17 @@
 {
-  "text": "The best SaaS teams are the ones where engineers talk to customers monthly. Not yearly. Monthly.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Vision without execution is hallucination.",
+  "author": "Thomas Edison",
+  "author_slug": "edison",
   "categories": [
-    "saas"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "engineering",
-    "customers"
+    "execution",
+    "vision"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-teams",
+  "spiciness": 1,
+  "id": "edison-vision-without-execution-is",
   "source": "Community sourced"
 }

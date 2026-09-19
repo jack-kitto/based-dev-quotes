@@ -1,16 +1,16 @@
 {
-  "text": "Parkinson's Law: work expands to fill the time available. Set shorter deadlines.",
-  "author": "C. Northcote Parkinson",
-  "author_slug": "parkinson",
+  "text": "The best marketing is word of mouth. The second best is showing up consistently. The worst is buying followers.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity"
+    "marketing"
   ],
   "tags": [
-    "parkinsons-law",
-    "deadlines"
+    "word-of-mouth",
+    "consistency"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "parkinson-parkinsons-law-work-expands",
+  "id": "based-the-best-marketing-is",
   "source": "Community sourced"
 }
