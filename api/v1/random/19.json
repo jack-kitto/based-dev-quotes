@@ -1,16 +1,18 @@
 {
-  "text": "Your team should celebrate wins, not just survived losses. Recognition is fuel.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "atwood-any-application",
+  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
+  "source": "Atwood's Law, 2007",
   "categories": [
-    "business"
+    "funny",
+    "tools"
   ],
   "tags": [
-    "recognition",
-    "culture"
+    "javascript",
+    "inevitability",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-team-should-celebrate",
-  "source": "Community sourced"
+  "spiciness": 2
 }

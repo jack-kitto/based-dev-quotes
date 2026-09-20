@@ -1,16 +1,16 @@
 {
-  "text": "The best way to recover from failure is to start something new immediately. Don't let the failure define you.",
+  "text": "The best prototypes are ugly ones. If it's pretty, you'll fall in love with it. If it's ugly, you'll iterate.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "failure",
-    "resilience"
+    "prototyping",
+    "iteration"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-860",
+  "id": "based-the-best-prototypes-are",
   "source": "Community sourced"
 }

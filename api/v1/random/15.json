@@ -1,20 +1,17 @@
 {
-  "id": "lampson-abstraction",
-  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
-  "author": "Butler Lampson (modified)",
-  "author_slug": "lampson",
-  "source": "Attributed, with modification from David Wheeler's original",
+  "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+  "author": "Martin Fowler",
+  "author_slug": "fowler",
   "categories": [
-    "funny",
-    "wisdom",
-    "complexity"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "indirection",
-    "abstraction",
-    "layers",
-    "classic"
+    "readability",
+    "clarity"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1,
+  "id": "fowler-any-fool-can-write",
+  "source": "Community sourced"
 }

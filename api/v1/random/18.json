@@ -1,18 +1,17 @@
 {
-  "id": "standards-xkcd",
-  "text": "The nice thing about standards is that there are so many to choose from.",
-  "author": "Andrew S. Tanenbaum",
-  "author_slug": "tanenbaum",
-  "source": "Computer Networks, 1981",
+  "text": "The best way to understand your users is to be confused by your own product for 5 minutes. Then fix everything that confused you.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "users",
+    "product"
   ],
   "tags": [
-    "standards",
-    "fragmentation",
-    "xkcd-energy"
+    "dogfooding",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-the-best-way-to-386",
+  "source": "Community sourced"
 }

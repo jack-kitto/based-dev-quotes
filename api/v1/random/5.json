@@ -1,17 +1,17 @@
 {
-  "text": "If your CSS file is over 500 lines, you're either doing something wrong or you're building Bootstrap.",
+  "text": "Every line of code is a liability. Every feature is a bet. Every deploy is a risk. Ship accordingly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "engineering"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "css",
-    "complexity"
+    "risk",
+    "shipping"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-css-file",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-every-line-of-code",
   "source": "Community sourced"
 }

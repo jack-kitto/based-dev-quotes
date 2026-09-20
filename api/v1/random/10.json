@@ -1,17 +1,17 @@
 {
-  "text": "Vision without execution is hallucination.",
-  "author": "Thomas Edison",
-  "author_slug": "edison",
+  "text": "The best code is no code at all. Every line of code is a liability.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
   "categories": [
-    "business",
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "execution",
-    "vision"
+    "simplicity",
+    "less-code"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "edison-vision-without-execution-is",
+  "spiciness": 2,
+  "id": "atwood-the-best-code-is",
   "source": "Community sourced"
 }
