@@ -1,16 +1,16 @@
 {
-  "text": "Your indie project's biggest advantage is that you care more than anyone else.",
+  "text": "The best time to think about data migration is during schema design. Not after you've got 10TB of data.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "passion",
-    "advantage"
+    "migrations",
+    "planning"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-indie-projects-biggest",
+  "id": "based-the-best-time-to-469",
   "source": "Community sourced"
 }

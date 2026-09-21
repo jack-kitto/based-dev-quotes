@@ -1,18 +1,16 @@
 {
-  "id": "atwood-any-application",
-  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
-  "source": "Atwood's Law, 2007",
+  "text": "Your indie project should be good enough that users would be sad if it disappeared.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "tools"
+    "indie-hacker"
   ],
   "tags": [
-    "javascript",
-    "inevitability",
-    "classic"
+    "value",
+    "indispensability"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 2,
+  "id": "based-your-indie-project-should",
+  "source": "Community sourced"
 }

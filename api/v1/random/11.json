@@ -1,16 +1,17 @@
 {
-  "text": "The best SaaS onboarding takes 3 steps or less. If it takes more, simplify the product.",
+  "text": "The best SaaS businesses are boring. They solve one problem really well and charge monthly for it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "saas",
+    "business"
   ],
   "tags": [
-    "onboarding",
+    "saas",
     "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-saas-onboarding-760",
+  "id": "based-the-best-saas-businesses",
   "source": "Community sourced"
 }

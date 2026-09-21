@@ -1,16 +1,17 @@
 {
-  "text": "Every codebase has that one file that nobody dares to touch. That file is your biggest risk.",
+  "text": "The best loading indicator is no loading indicator. The second best is one that's honest about how long it'll take.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "design",
+    "product"
   ],
   "tags": [
-    "legacy",
-    "risk"
+    "loading",
+    "ux"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-codebase-has-that",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-loading-indicator",
   "source": "Community sourced"
 }

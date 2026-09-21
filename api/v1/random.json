@@ -1,18 +1,17 @@
 {
-  "text": "The worst part about being a senior developer isn't the complexity. It's knowing that the simple solution you proposed was right all along.",
+  "text": "Every bug has a root cause. Find it. Don't just fix the symptom.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "senior",
-    "simplicity"
+    "bugs",
+    "root-cause"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-worst-part-about",
+  "id": "based-every-bug-has-a",
   "source": "Community sourced",
-  "_generated_at": "2026-09-20T03:45:40.736059+00:00"
+  "_generated_at": "2026-09-21T03:41:55.974982+00:00"
 }
