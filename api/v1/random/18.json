@@ -1,17 +1,16 @@
 {
-  "text": "The best product managers are the ones who can say 'no' to 99% of requests and still be loved.",
+  "text": "Your first product won't be your best. Your second won't either. Your tenth might be the one.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "indie-hacker"
   ],
   "tags": [
-    "saying-no",
-    "prioritization"
+    "iteration",
+    "persistence"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-best-product-managers",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-first-product-wont",
   "source": "Community sourced"
 }

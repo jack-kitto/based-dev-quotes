@@ -1,16 +1,16 @@
 {
-  "text": "The best time to think about data migration is during schema design. Not after you've got 10TB of data.",
+  "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "migrations",
-    "planning"
+    "investment",
+    "learning"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-469",
+  "spiciness": 3,
+  "id": "based-the-best-investment-you",
   "source": "Community sourced"
 }
