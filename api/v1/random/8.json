@@ -1,16 +1,17 @@
 {
-  "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
+  "text": "If you need a user manual for your UI, you've already failed.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "design",
+    "product"
   ],
   "tags": [
-    "investment",
-    "learning"
+    "ux",
+    "simplicity"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-investment-you",
+  "grug_level": 4,
+  "spiciness": 2,
+  "id": "based-if-you-need-a",
   "source": "Community sourced"
 }

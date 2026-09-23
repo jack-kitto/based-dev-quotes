@@ -1,17 +1,16 @@
 {
-  "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+  "text": "The best products are the ones that feel inevitable. Not designed. inevitable.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "engineering"
+    "product"
   ],
   "tags": [
-    "api",
-    "distribution"
+    "design",
+    "natural"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-apifirst-isnt-a-technical",
+  "id": "based-the-best-products-are",
   "source": "Community sourced"
 }

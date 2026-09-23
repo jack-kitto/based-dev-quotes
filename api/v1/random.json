@@ -1,18 +1,21 @@
 {
-  "text": "The most expensive part of software isn't the code. It's the maintenance. Plan for it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "lampson-abstraction",
+  "text": "All problems in computer science can be solved by another level of indirection... except for the problem of too many layers of indirection.",
+  "author": "Butler Lampson (modified)",
+  "author_slug": "lampson",
+  "source": "Attributed, with modification from David Wheeler's original",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "maintenance",
-    "cost"
+    "indirection",
+    "abstraction",
+    "layers",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-most-expensive-part",
-  "source": "Community sourced",
-  "_generated_at": "2026-09-22T03:39:23.164941+00:00"
+  "spiciness": 2,
+  "_generated_at": "2026-09-23T03:38:49.504906+00:00"
 }

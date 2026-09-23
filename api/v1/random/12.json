@@ -1,17 +1,17 @@
 {
-  "text": "I don't always test my code, but when I do, I do it in production.",
+  "text": "The best engineers don't write more code. They write less code that does more.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "testing",
-    "production"
+    "leverage",
+    "efficiency"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-i-dont-always-test",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-engineers-dont-471",
   "source": "Community sourced"
 }
