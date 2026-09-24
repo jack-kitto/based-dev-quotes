@@ -1,18 +1,19 @@
 {
-  "text": "Every successful entrepreneur has a story that starts with 'I had no idea what I was doing.'",
-  "author": "based",
-  "author_slug": "based",
+  "id": "users-find-way",
+  "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "UX folklore",
   "categories": [
-    "business",
-    "entrepreneur"
+    "suffering",
+    "wisdom"
   ],
   "tags": [
-    "beginner",
-    "courage"
+    "users",
+    "edge-cases",
+    "chaos"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-successful-entrepreneur-has",
-  "source": "Community sourced",
-  "_date": "2026-09-23"
+  "grug_level": 4,
+  "spiciness": 1,
+  "_date": "2026-09-24"
 }

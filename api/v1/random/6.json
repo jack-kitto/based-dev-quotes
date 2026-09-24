@@ -1,16 +1,17 @@
 {
-  "text": "Solo founders don't lack ideas. They lack the discipline to ship one idea instead of starting five.",
+  "text": "I don't have a backup plan. I have 'recreate it worse from memory' plan.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "discipline",
-    "focus"
+    "disaster-recovery",
+    "backups"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-solo-founders-dont-lack",
+  "id": "based-i-dont-have-a",
   "source": "Community sourced"
 }
