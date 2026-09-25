@@ -1,16 +1,17 @@
 {
-  "text": "The best debugging tool is a good night's sleep. Most bugs look obvious in the morning.",
+  "text": "Selling is just helping people make decisions they already want to make.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business",
+    "marketing"
   ],
   "tags": [
-    "debugging",
-    "rest"
+    "sales",
+    "helping"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-debugging-tool",
+  "id": "based-selling-is-just-helping",
   "source": "Community sourced"
 }

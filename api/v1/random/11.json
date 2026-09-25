@@ -1,16 +1,18 @@
 {
-  "text": "Your competition isn't other products. It's inertia. Most people choose to do nothing.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "standards-xkcd",
+  "text": "The nice thing about standards is that there are so many to choose from.",
+  "author": "Andrew S. Tanenbaum",
+  "author_slug": "tanenbaum",
+  "source": "Computer Networks, 1981",
   "categories": [
-    "business"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "competition",
-    "inertia"
+    "standards",
+    "fragmentation",
+    "xkcd-energy"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-competition-isnt-other-841",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 2
 }

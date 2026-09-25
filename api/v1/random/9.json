@@ -1,16 +1,17 @@
 {
-  "text": "Your best content is the content you'd want to read. Write for yourself first.",
+  "text": "Your most important feature request is the one users haven't asked for yet, but would change their life if it existed.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "users",
+    "product"
   ],
   "tags": [
-    "content",
-    "authenticity"
+    "feature-requests",
+    "insight"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-best-content-is",
+  "id": "based-your-most-important-feature",
   "source": "Community sourced"
 }
