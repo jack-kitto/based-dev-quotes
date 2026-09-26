@@ -1,16 +1,16 @@
 {
-  "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+  "text": "Your database is your system's memory. Treat it with respect. Backup it. Index it. Never let it forget.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "code-review",
-    "knowledge-sharing"
+    "database",
+    "reliability"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-code-reviews-arent-about",
+  "spiciness": 1,
+  "id": "based-your-database-is-your",
   "source": "Community sourced"
 }

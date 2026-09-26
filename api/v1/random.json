@@ -1,17 +1,17 @@
 {
-  "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
-  "author": "Eric Ries",
-  "author_slug": "ries",
+  "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
     "business"
   ],
   "tags": [
-    "startup",
-    "uncertainty"
+    "problem-solving",
+    "pain"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ries-a-startup-is-a",
+  "spiciness": 2,
+  "id": "based-the-best-businesses-solve-508",
   "source": "Community sourced",
-  "_generated_at": "2026-09-25T03:46:53.115650+00:00"
+  "_generated_at": "2026-09-26T03:52:49.849367+00:00"
 }

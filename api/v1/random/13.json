@@ -1,17 +1,18 @@
 {
-  "text": "If you can't describe your deployment process in 3 steps, it's too complicated.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "hoare-two-ways",
+  "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+  "author": "C.A.R. Hoare",
+  "author_slug": "hoare",
+  "source": "The Emperor's Old Clothes, 1980 Turing Award Lecture",
   "categories": [
-    "engineering",
-    "devops"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "deployment",
-    "simplicity"
+    "simplicity",
+    "design",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-you-cant-describe",
-  "source": "Community sourced"
+  "spiciness": 1
 }

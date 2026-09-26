@@ -1,17 +1,16 @@
 {
-  "text": "Selling is just helping people make decisions they already want to make.",
+  "text": "Your SaaS should have a 'change log' that shows you're actively building. Stagnation is death.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "marketing"
+    "saas"
   ],
   "tags": [
-    "sales",
-    "helping"
+    "changelog",
+    "activity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-selling-is-just-helping",
+  "id": "based-your-saas-should-have-1043",
   "source": "Community sourced"
 }

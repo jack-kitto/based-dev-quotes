@@ -1,18 +1,16 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "text": "The best leaders are the ones who listen more than they talk.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "leadership",
+    "listening"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-leaders-are",
+  "source": "Community sourced"
 }
