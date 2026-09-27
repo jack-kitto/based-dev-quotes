@@ -1,17 +1,17 @@
 {
-  "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
+  "text": "The best incident response is the one where you don't need to respond because the system healed itself. The second best is one with a runbook.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "failure",
-    "listening"
+    "incident-response",
+    "automation"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-graveyard-of-failed",
+  "spiciness": 2,
+  "id": "based-the-best-incident-response",
   "source": "Community sourced"
 }

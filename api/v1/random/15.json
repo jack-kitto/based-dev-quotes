@@ -1,16 +1,16 @@
 {
-  "text": "The simplest solution is almost always the best one.",
-  "author": "Sherlock Holmes",
-  "author_slug": "holmes",
+  "text": "Your first product won't be your best. Your second won't either. Your tenth might be the one.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "simplicity",
-    "solutions"
+    "iteration",
+    "persistence"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "holmes-the-simplest-solution-is",
+  "spiciness": 2,
+  "id": "based-your-first-product-wont",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
+  "text": "The best time management trick is realizing you can't manage time. You can only manage yourself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "problem-solving",
-    "pain"
+    "time-management",
+    "self-management"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-businesses-solve-508",
+  "id": "based-the-best-time-management",
   "source": "Community sourced",
-  "_generated_at": "2026-09-26T03:52:49.849367+00:00"
+  "_generated_at": "2026-09-27T04:02:35.175846+00:00"
 }

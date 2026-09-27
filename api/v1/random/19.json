@@ -1,16 +1,16 @@
 {
-  "text": "Your SaaS should have a 'change log' that shows you're actively building. Stagnation is death.",
+  "text": "The best time to add logging is before you need it. The second best time is during the incident you're having.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering"
   ],
   "tags": [
-    "changelog",
-    "activity"
+    "logging",
+    "proactive"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-saas-should-have-1043",
+  "id": "based-the-best-time-to-789",
   "source": "Community sourced"
 }

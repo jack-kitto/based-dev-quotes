@@ -1,17 +1,16 @@
 {
-  "text": "Your product's search should be as good as Google's. Not because you're Google, but because search is how users find things.",
+  "text": "The best SaaS metric is Net Revenue Retention. If it's above 100%, your customers are growing with you. Below 100%, you're leaking.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "saas"
   ],
   "tags": [
-    "search",
-    "ux"
+    "nrr",
+    "metrics"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-products-search-should",
+  "id": "based-the-best-saas-metric",
   "source": "Community sourced"
 }

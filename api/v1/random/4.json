@@ -1,16 +1,16 @@
 {
-  "text": "Don't watch the clock; do what it does. Keep going.",
-  "author": "Sam Levenson",
-  "author_slug": "levenson",
+  "text": "The indie hacker's calendar: Monday — plan. Tuesday — code. Wednesday — code. Thursday — code. Friday — panic about marketing.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "persistence",
-    "action"
+    "schedule",
+    "marketing"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "levenson-dont-watch-the-clock",
+  "spiciness": 3,
+  "id": "based-the-indie-hackers-calendar",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "The best productivity hack is caring deeply about what you're working on. Everything else is optimization.",
+  "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "saas"
   ],
   "tags": [
-    "passion",
-    "intrinsic-motivation"
+    "complexity",
+    "enterprise"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-productivity-hack-585",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-every-saas-goes-through",
   "source": "Community sourced"
 }
