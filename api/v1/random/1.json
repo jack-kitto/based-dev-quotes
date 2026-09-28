@@ -1,17 +1,16 @@
 {
-  "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
+  "text": "A funnel is just a polite way of saying 'we lose most of our customers at each step.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "marketing"
   ],
   "tags": [
-    "shipping",
-    "bugs"
+    "funnel",
+    "conversion"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-ship-it-then-fix",
+  "id": "based-a-funnel-is-just",
   "source": "Community sourced"
 }

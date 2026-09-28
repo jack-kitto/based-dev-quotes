@@ -1,17 +1,16 @@
 {
-  "text": "User feedback is data. But data without context is just noise. Always ask 'why?'",
+  "text": "The indie hacker's biggest asset isn't their code. It's their taste. Build things with taste.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "indie-hacker"
   ],
   "tags": [
-    "feedback",
-    "context"
+    "taste",
+    "quality"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-user-feedback-is-data",
+  "id": "based-the-indie-hackers-biggest-771",
   "source": "Community sourced"
 }

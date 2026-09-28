@@ -1,17 +1,17 @@
 {
-  "text": "Your competition isn't other products. It's inertia. Most people choose to do nothing.",
+  "text": "The best way to reduce cognitive load is to present information in layers. Don't overwhelm. Reveal gradually.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "competition",
-    "inertia"
+    "cognitive-load",
+    "layering"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-competition-isnt-other-841",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-750",
   "source": "Community sourced",
-  "_date": "2026-09-27"
+  "_date": "2026-09-28"
 }

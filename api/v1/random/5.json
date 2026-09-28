@@ -1,16 +1,16 @@
 {
-  "text": "If your database has more than 50 tables, you probably need a domain expert, not a better ORM.",
+  "text": "Influencer marketing is just paying someone to pretend they like your product. The audience knows. They just don't care.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "marketing"
   ],
   "tags": [
-    "database",
-    "complexity"
+    "influencer",
+    "authenticity"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-database-has",
+  "spiciness": 4,
+  "id": "based-influencer-marketing-is-just",
   "source": "Community sourced"
 }

@@ -1,18 +1,17 @@
 {
-  "text": "The best time management trick is realizing you can't manage time. You can only manage yourself.",
+  "text": "The user who gives you critical feedback is your best friend. The user who silently leaves is your biggest risk.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "users"
   ],
   "tags": [
-    "time-management",
-    "self-management"
+    "feedback",
+    "churn"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-management",
+  "id": "based-the-user-who-gives",
   "source": "Community sourced",
-  "_generated_at": "2026-09-27T04:02:35.175846+00:00"
+  "_generated_at": "2026-09-28T04:03:28.244531+00:00"
 }
