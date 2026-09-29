@@ -1,16 +1,16 @@
 {
-  "text": "A funnel is just a polite way of saying 'we lose most of our customers at each step.'",
+  "text": "Your marketing budget should be proportional to your product's quality. Great products need less marketing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "marketing"
   ],
   "tags": [
-    "funnel",
-    "conversion"
+    "budget",
+    "quality"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-a-funnel-is-just",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-marketing-budget-should",
   "source": "Community sourced"
 }
