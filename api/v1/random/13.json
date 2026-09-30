@@ -1,16 +1,18 @@
 {
-  "text": "The best way to build resilience is to get knocked down and get back up. Every time.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "users-find-way",
+  "text": "Users will always find a way to use your software in the worst possible way you never imagined.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "UX folklore",
   "categories": [
-    "business"
+    "suffering",
+    "wisdom"
   ],
   "tags": [
-    "resilience",
-    "persistence"
+    "users",
+    "edge-cases",
+    "chaos"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-best-way-to-866",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

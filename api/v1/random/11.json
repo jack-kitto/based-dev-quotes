@@ -1,17 +1,16 @@
 {
-  "text": "Every product has a 'magic moment' — the instant the user gets it. Find it. Optimize for it.",
+  "text": "The best API is one where you don't need the docs. The second best is docs that are actually complete. Neither exists.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering"
   ],
   "tags": [
-    "aha-moment",
-    "activation"
+    "api",
+    "documentation"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-product-has-a",
+  "spiciness": 3,
+  "id": "based-the-best-api-is",
   "source": "Community sourced"
 }

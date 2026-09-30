@@ -1,16 +1,16 @@
 {
-  "text": "The best time to launch is when you have something that works. The worst time is when you think it's perfect.",
+  "text": "Your stack trace is your best friend. Read it. Understand it. It's trying to help you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "launch",
-    "perfectionism"
+    "stack-trace",
+    "debugging"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-357",
+  "id": "based-your-stack-trace-is",
   "source": "Community sourced"
 }

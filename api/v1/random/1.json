@@ -1,16 +1,17 @@
 {
-  "text": "Your marketing budget should be proportional to your product's quality. Great products need less marketing.",
+  "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "budget",
-    "quality"
+    "passive-income",
+    "leverage"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-marketing-budget-should",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-business-should-make",
   "source": "Community sourced"
 }

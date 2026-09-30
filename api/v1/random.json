@@ -1,18 +1,18 @@
 {
-  "text": "The best career advice is: nobody is coming to save you. You have to build your own thing.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  "author": "Will Durant",
+  "author_slug": "durant",
   "categories": [
     "productivity",
     "wisdom"
   ],
   "tags": [
-    "career",
-    "self-reliance"
+    "habits",
+    "excellence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-career-advice",
+  "spiciness": 1,
+  "id": "durant-we-are-what-we",
   "source": "Community sourced",
-  "_generated_at": "2026-09-29T04:36:49.318016+00:00"
+  "_generated_at": "2026-09-30T04:20:35.933926+00:00"
 }
