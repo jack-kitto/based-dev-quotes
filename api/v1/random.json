@@ -1,18 +1,17 @@
 {
-  "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-  "author": "Will Durant",
-  "author_slug": "durant",
+  "text": "Every business model is just 'charge money for value' with extra steps.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "habits",
-    "excellence"
+    "business-model",
+    "value"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "durant-we-are-what-we",
+  "spiciness": 2,
+  "id": "based-every-business-model-is",
   "source": "Community sourced",
-  "_generated_at": "2026-09-30T04:20:35.933926+00:00"
+  "_generated_at": "2026-10-01T04:32:20.817082+00:00"
 }

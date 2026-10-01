@@ -1,16 +1,18 @@
 {
-  "text": "You don't need a second monitor. You need fewer tabs.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "dijkstra-simplicity",
+  "text": "Simplicity is prerequisite for reliability.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "EWD498",
   "categories": [
-    "productivity"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "setup",
-    "focus"
+    "simplicity",
+    "reliability",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-you-dont-need-a",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 1
 }

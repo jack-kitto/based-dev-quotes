@@ -1,17 +1,18 @@
 {
-  "text": "It works on my machine. Ship my machine.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "senior-dev-impostor",
+  "text": "Junior dev: 'I don't know what I'm doing.' Senior dev: 'I also don't know what I'm doing, but faster and with more confidence.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "shitpost"
+    "funny",
+    "career"
   ],
   "tags": [
-    "docker",
-    "deployment"
+    "seniority",
+    "confidence",
+    "experience"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-it-works-on-my",
-  "source": "Community sourced"
+  "spiciness": 2
 }

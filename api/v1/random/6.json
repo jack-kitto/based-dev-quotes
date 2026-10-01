@@ -1,16 +1,17 @@
 {
-  "text": "A leader is one who knows the way, goes the way, and shows the way.",
-  "author": "John C. Maxwell",
-  "author_slug": "maxwell",
+  "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+  "author": "Bill Gates",
+  "author_slug": "gates",
   "categories": [
-    "business"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "leadership",
-    "example"
+    "metrics",
+    "quality"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "maxwell-a-leader-is-one",
+  "id": "gates-measuring-programming-progress-by",
   "source": "Community sourced"
 }
