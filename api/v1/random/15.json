@@ -1,17 +1,16 @@
 {
-  "text": "Every product should pass the 'Grandma test': could your grandma figure it out? If not, simplify.",
+  "text": "Your startup is a bet on yourself. Bet big.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "design"
+    "entrepreneur"
   ],
   "tags": [
-    "usability",
-    "simplicity"
+    "bet",
+    "confidence"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-every-product-should-pass",
+  "id": "based-your-startup-is-a",
   "source": "Community sourced"
 }

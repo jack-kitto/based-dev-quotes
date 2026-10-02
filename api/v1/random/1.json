@@ -1,16 +1,16 @@
 {
-  "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
+  "text": "The hardest part of SaaS isn't acquisition. It's activation. Getting someone to sign up is easy. Getting them to use it is hard.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "saas"
   ],
   "tags": [
-    "habits",
-    "starting"
+    "activation",
+    "onboarding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-933",
+  "id": "based-the-hardest-part-of-529",
   "source": "Community sourced"
 }

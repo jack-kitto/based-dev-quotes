@@ -1,17 +1,17 @@
 {
-  "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
-  "author": "Bill Gates",
-  "author_slug": "gates",
+  "text": "Your competitors will copy your features. They can't copy your taste. Build something with taste.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "saas",
+    "design"
   ],
   "tags": [
-    "metrics",
-    "quality"
+    "competition",
+    "taste"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "gates-measuring-programming-progress-by",
+  "spiciness": 2,
+  "id": "based-your-competitors-will-copy",
   "source": "Community sourced"
 }

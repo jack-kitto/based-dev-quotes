@@ -1,18 +1,19 @@
 {
-  "text": "The best code is no code at all. Every line of code is a liability.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
+  "id": "patio11-salary-negotiation",
+  "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
+  "author": "Patrick McKenzie (patio11)",
+  "author_slug": "patio11",
+  "source": "Don't Call Yourself a Programmer, 2011",
   "categories": [
-    "engineering",
-    "wisdom"
+    "career",
+    "indie-hacker"
   ],
   "tags": [
-    "simplicity",
-    "less-code"
+    "career",
+    "positioning",
+    "salary"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "atwood-the-best-code-is",
-  "source": "Community sourced",
-  "_date": "2026-10-01"
+  "_date": "2026-10-02"
 }
