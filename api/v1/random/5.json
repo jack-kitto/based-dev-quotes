@@ -1,20 +1,18 @@
 {
-  "id": "dns-always-dns",
-  "text": "It's not DNS. There's no way it's DNS. It was DNS.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "sysadmin folklore (SSBroski / haiku)",
+  "id": "production-is-different",
+  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+  "author": "Yogi Berra (applied to programming)",
+  "author_slug": "berra",
+  "source": "Various attributions",
   "categories": [
     "funny",
-    "debugging",
-    "suffering"
+    "wisdom"
   ],
   "tags": [
-    "dns",
-    "debugging",
-    "networking",
-    "classic"
+    "theory",
+    "practice",
+    "production"
   ],
-  "grug_level": 5,
+  "grug_level": 3,
   "spiciness": 1
 }

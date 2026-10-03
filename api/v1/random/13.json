@@ -1,16 +1,17 @@
 {
-  "text": "Your indie project should be something you're proud to show people. If you're not, iterate.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "leave-it-better",
+  "text": "Always leave the code better than you found it.",
+  "author": "Robert C. Martin (Uncle Bob)",
+  "author_slug": "martin",
+  "source": "Clean Code (adapted from Boy Scout Rule)",
   "categories": [
-    "indie-hacker"
+    "wisdom"
   ],
   "tags": [
-    "pride",
-    "quality"
+    "clean-code",
+    "maintenance",
+    "discipline"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-project-should-1066",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

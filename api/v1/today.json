@@ -1,19 +1,18 @@
 {
-  "id": "patio11-salary-negotiation",
-  "text": "Don't call yourself a programmer. Call yourself something that sounds like you make or save the company money.",
-  "author": "Patrick McKenzie (patio11)",
-  "author_slug": "patio11",
-  "source": "Don't Call Yourself a Programmer, 2011",
+  "text": "The best engineers aren't the ones who write the most code. They're the ones who delete the most code.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "career",
-    "indie-hacker"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "career",
-    "positioning",
-    "salary"
+    "deletion",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "_date": "2026-10-02"
+  "id": "based-the-best-engineers-arent",
+  "source": "Community sourced",
+  "_date": "2026-10-03"
 }

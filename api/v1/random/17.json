@@ -1,17 +1,16 @@
 {
-  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
+  "text": "Indie hackers who ship weekly have 10x the chances of finding product-market fit than those who ship quarterly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "marketing"
+    "indie-hacker"
   ],
   "tags": [
-    "ab-testing",
-    "product"
+    "shipping",
+    "velocity"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-ab-testing-is-how",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-indie-hackers-who-ship-669",
   "source": "Community sourced"
 }

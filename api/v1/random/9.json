@@ -1,17 +1,16 @@
 {
-  "text": "The problem with requirements is that they're written by people who don't have to implement them.",
+  "text": "The best SaaS businesses have a 'aha moment' within 5 minutes of signup. If yours takes 5 days, you'll lose them.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "engineering"
+    "saas"
   ],
   "tags": [
-    "requirements",
-    "disconnect"
+    "activation",
+    "aha-moment"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-problem-with-requirements",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-saas-businesses-523",
   "source": "Community sourced"
 }

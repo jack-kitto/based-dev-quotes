@@ -1,16 +1,16 @@
 {
-  "text": "The best architecture is the one that doesn't need an architecture diagram.",
+  "text": "Every indie hacker has 100 ideas. The successful ones execute one.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "architecture",
-    "simplicity"
+    "execution",
+    "ideas"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-architecture-is",
+  "id": "based-every-indie-hacker-has",
   "source": "Community sourced"
 }
