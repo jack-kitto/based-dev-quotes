@@ -1,17 +1,16 @@
 {
-  "text": "The best code is no code at all. Every line of code is a liability.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
+  "text": "The best way to scale is to automate the repetitive and eliminate the unnecessary.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "simplicity",
-    "less-code"
+    "scaling",
+    "automation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "atwood-the-best-code-is",
+  "id": "based-the-best-way-to-922",
   "source": "Community sourced"
 }

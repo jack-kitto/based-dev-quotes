@@ -1,18 +1,18 @@
 {
-  "id": "hickey-simple-easy",
-  "text": "Simple is not easy. Easy is near to our capabilities. Simple is about lack of interleaving. They are completely orthogonal.",
-  "author": "Rich Hickey",
-  "author_slug": "hickey",
-  "source": "Simple Made Easy, Strange Loop 2011",
+  "id": "naming-things-hard",
+  "text": "I spent 45 minutes naming a variable today. This is fine. This is normal. I am a professional.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "wisdom",
-    "complexity"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "simplicity",
-    "complexity",
-    "design"
+    "naming",
+    "variables",
+    "time-waste"
   ],
-  "grug_level": 3,
+  "grug_level": 5,
   "spiciness": 1
 }

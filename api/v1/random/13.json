@@ -1,17 +1,17 @@
 {
-  "id": "leave-it-better",
-  "text": "Always leave the code better than you found it.",
-  "author": "Robert C. Martin (Uncle Bob)",
-  "author_slug": "martin",
-  "source": "Clean Code (adapted from Boy Scout Rule)",
+  "text": "Premature optimization is the root of all evil. But premature abstraction is the root of all suffering.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "clean-code",
-    "maintenance",
-    "discipline"
+    "optimization",
+    "abstraction"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-premature-optimization-is-the",
+  "source": "Community sourced"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your team's performance is a reflection of your leadership. If they're failing, look in the mirror.",
+  "text": "Done is better than perfect. But also: good is better than done-but-broken.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "leadership",
-    "accountability"
+    "shipping",
+    "quality"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-teams-performance-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-done-is-better-than",
   "source": "Community sourced"
 }

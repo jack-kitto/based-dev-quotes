@@ -1,17 +1,16 @@
 {
-  "text": "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.",
-  "author": "Peter Drucker",
-  "author_slug": "drucker",
+  "text": "Indie hackers who ship weekly grow faster than indie hackers who ship quarterly. Ship more, learn faster.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "marketing",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "customer-understanding",
-    "product"
+    "shipping",
+    "velocity"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "drucker-the-aim-of-marketing",
+  "spiciness": 2,
+  "id": "based-indie-hackers-who-ship",
   "source": "Community sourced"
 }
