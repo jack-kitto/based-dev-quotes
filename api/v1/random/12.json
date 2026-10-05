@@ -1,16 +1,17 @@
 {
-  "text": "The best workflow is the one that gets out of your way and lets you focus on the work.",
+  "text": "Every indie hacker should learn one marketing skill: writing. Everything else is a bonus.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "indie-hacker",
+    "marketing"
   ],
   "tags": [
-    "workflow",
-    "focus"
+    "writing",
+    "skills"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-workflow-is",
+  "id": "based-every-indie-hacker-should",
   "source": "Community sourced"
 }
