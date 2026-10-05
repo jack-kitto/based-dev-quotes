@@ -1,17 +1,18 @@
 {
-  "text": "Your attention is your most valuable resource. Spend it like you'd spend your last dollar.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "First, solve the problem. Then, write the code.",
+  "author": "John Johnson",
+  "author_slug": "johnson",
   "categories": [
-    "productivity"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "attention",
-    "focus"
+    "problem-solving",
+    "planning"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-attention-is-your",
+  "spiciness": 1,
+  "id": "johnson-first-solve-the-problem",
   "source": "Community sourced",
-  "_generated_at": "2026-10-05T04:26:37.443870+00:00"
+  "_generated_at": "2026-10-05T13:17:19.917386+00:00"
 }

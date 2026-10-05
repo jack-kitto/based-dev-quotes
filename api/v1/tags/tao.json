@@ -1,0 +1,49 @@
+{
+  "tag": "tao",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "The novice became suspicious and said: \"Master, is all this 'Tao of Backup' stuff just so you can sell more copies of Veracity?\" The master said: \"Now you are truly enlightened.\"",
+      "author": "ibotty",
+      "author_slug": "ibotty",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "backups",
+        "tao",
+        "sales",
+        "humor",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Classic piece of dev folklore that still lands — self-aware guru grift delivered with perfect zen deadpan.",
+      "id": "ibotty-the-novice-became-suspicious"
+    },
+    {
+      "text": "You will only learn to make proper backups after you suffer a catastrophic loss of data. Protecting the student from this is depriving him of the only true knowledge, the one that is not merely stored in the head, but burned into the skin.",
+      "author": "bambax",
+      "author_slug": "bambax",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "hard-lessons",
+        "tao",
+        "operations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Painfully accurate observation about how engineers actually learn ops lessons — suffering is the teacher.",
+      "id": "bambax-you-will-only-learn"
+    }
+  ]
+}

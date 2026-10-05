@@ -1,6 +1,6 @@
 {
   "tag": "pragmatism",
-  "count": 9,
+  "count": 11,
   "quotes": [
     {
       "id": "grug-abstraction",
@@ -159,6 +159,47 @@
       "spiciness": 2,
       "id": "based-the-best-frontend-framework",
       "source": "Community sourced"
+    },
+    {
+      "text": "I've tried it, but I haven't seen anything that overly impressed me in terms of accuracy. I'm sure there are applications for LLMs where the quality of the answers is less important, but I don't have any of those.",
+      "author": "jacquesm",
+      "author_slug": "jacquesm",
+      "source": "Hacker News — Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source_url": "https://news.ycombinator.com/item?id=49953495",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "llm-hype",
+        "accuracy",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Grug-brained skepticism of the LLM speed race — cutting through tokens/sec flexing to ask the only question that matters (does it work?). The closing 'but I don't have any of those' lands hard.",
+      "id": "jacquesm-ive-tried-it-but"
+    },
+    {
+      "text": "Hosting 90GB on Internet Archive is step one. Mirroring the torrents is step two, before copyright lawyers notice the auction bypass. Seed it while it exists.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "preservation",
+        "torrents",
+        "pragmatism",
+        "backup"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Pragmatic, action-oriented advice with a great closing imperative. Very 'seed it before it's gone'.",
+      "id": "soltanov-hosting-90gb-on-internet"
     }
   ]
 }

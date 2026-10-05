@@ -1,0 +1,26 @@
+{
+  "tag": "ai-hype",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "'Bad things' [for you] in return for benefits [for me].",
+      "author": "neonnoodle",
+      "author_slug": "neonnoodle",
+      "source": "Hacker News — Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "source_url": "https://news.ycombinator.com/item?id=49964248",
+      "categories": [
+        "shitpost",
+        "funny"
+      ],
+      "tags": [
+        "sam-altman",
+        "ai-hype",
+        "corporate-greed"
+      ],
+      "grug_level": 2,
+      "spiciness": 5,
+      "extraction_note": "The bracketed edit of Altman's quote is surgical — recontextualizing who bears the 'bad things' vs who collects the benefits. Punchy, standalone, thermonuclear take.",
+      "id": "neonnoodle-bad-things-for-you"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tag": "bots",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Create bot detection and bot protection, then sell crawlers. Is this the peak of hypocrisy?",
+      "author": "sreekanth850",
+      "author_slug": "sreekanth850",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "bots",
+        "crawlers",
+        "hypocrisy",
+        "scraping"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp, funny callout of the business model contradiction: fence out the bots, then monetize the fence. Controversial, memorable, needs no context.",
+      "id": "sreekanth850-create-bot-detection-and"
+    }
+  ]
+}

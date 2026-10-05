@@ -1,6 +1,6 @@
 {
   "tag": "networking",
-  "count": 3,
+  "count": 4,
   "quotes": [
     {
       "id": "dns-always-dns",
@@ -53,6 +53,26 @@
       "spiciness": 2,
       "id": "based-your-network-isnt-just",
       "source": "Community sourced"
+    },
+    {
+      "text": "Port 5900 open to the WAN. He wrote an article to tell the world that he doesn't understand basic networking.",
+      "author": "7r33",
+      "author_slug": "7r33",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "networking",
+        "security",
+        "burn"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Beautiful short-form dev burn: setup + punchline in one line. Cleaned the original typo ('Having 5900 hot to wan') so the joke actually lands without the reader needing to decode it.",
+      "id": "7r33-port-5900-open-to"
     }
   ]
 }

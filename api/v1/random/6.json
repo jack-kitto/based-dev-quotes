@@ -1,17 +1,16 @@
 {
-  "text": "The Internet? Is that thing still around?",
-  "author": "Homer Simpson",
-  "author_slug": "simpson",
+  "text": "Every SaaS goes through the same lifecycle: 'We need more features' → 'We need better features' → 'We need fewer features.'",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "saas"
   ],
   "tags": [
-    "internet",
-    "humor"
+    "features",
+    "simplification"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "simpson-the-internet-is-that",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-every-saas-goes-through-535",
   "source": "Community sourced"
 }

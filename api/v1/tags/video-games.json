@@ -1,0 +1,29 @@
+{
+  "tag": "video-games",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Coming right up: Belgian hybrid shower curtain and defense startup Aperture Science raises 780M Euros, while biotech unicorn Umbrella is on the verge of coming out of stealth and releasing a vaccine for cancer.",
+      "author": "schmorptron",
+      "author_slug": "schmorptron",
+      "source": "Hacker News — Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "source_url": "https://news.ycombinator.com/item?id=49963366",
+      "categories": [
+        "funny",
+        "shitpost",
+        "founder"
+      ],
+      "tags": [
+        "startup-names",
+        "video-games",
+        "satire",
+        "vc",
+        "corporate-dystopia"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Perfect parody of VC hype naming — Aperture Science (Portal) + Umbrella Corp (Resident Evil) as if they were real raises. Standalone, punchy, genuinely funny.",
+      "id": "schmorptron-coming-right-up-belgian"
+    }
+  ]
+}

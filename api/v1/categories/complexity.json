@@ -1,6 +1,6 @@
 {
   "category": "complexity",
-  "count": 19,
+  "count": 24,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -351,6 +351,115 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "We'll have to start treating the CPR number as just a username, instead of a password. It should never have been \"secret\" in the first place.",
+      "author": "madsohm",
+      "author_slug": "madsohm",
+      "source": "Hacker News — Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "source_url": "https://news.ycombinator.com/item?id=49962012",
+      "categories": [
+        "wisdom",
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "identifiers",
+        "passwords",
+        "authentication",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Universal security insight — identifiers aren't secrets. Works far beyond Denmark and is exactly the kind of unglamorous pragmatic wisdom this API wants.",
+      "id": "madsohm-well-have-to-start"
+    },
+    {
+      "text": "Why not use those providers directly? Does Cloudflare need to be in the middle of everything?",
+      "author": "binarymax",
+      "author_slug": "binarymax",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "grug",
+        "complexity",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "middlemen",
+        "anti-abstraction",
+        "apis",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Textbook grug anti-middleman instinct, stated in two blunt sentences. Kept as a rhetorical question because the question IS the joke — kept verbatim to preserve voice.",
+      "id": "binarymax-why-not-use-those"
+    },
+    {
+      "text": "Apple can't see a future where the Mac isn't like the iPhone: a 30% cut of all software revenue, a 30% cut of any AI tokens you use, and 30% of your time as a developer developing for your own account.",
+      "author": "PaulHoule",
+      "author_slug": "paulhoule",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "indie-hacker",
+        "complexity"
+      ],
+      "tags": [
+        "apple",
+        "app-store-tax",
+        "platform-risk",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "The '30%' refrain turns platform-enshittification critique into a genuinely memorable line. Collapsed the run-on original into one clean sentence, kept all three escalating cuts.",
+      "id": "paulhoule-apple-cant-see-a"
+    },
+    {
+      "text": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "doom",
+        "hackery",
+        "code-golf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Perfect reaction to cursed-but-impressive code: calls it malpractice while loving every second.",
+      "id": "soltanov-less-lines-of-code"
+    },
+    {
+      "text": "If you squint and ignore the brain damage, SQL is kind of... functional. Almost. In a way.",
+      "author": "TheOtherHobbes",
+      "author_slug": "theotherhobbes",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "functional",
+        "brain-damage",
+        "languages"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Backhanded compliment with great comedic timing — 'brain damage' qualifier does the heavy lifting.",
+      "id": "theotherhobbes-if-you-squint-and"
     }
   ]
 }

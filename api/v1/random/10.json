@@ -1,16 +1,16 @@
 {
-  "text": "Tailwind CSS is just inline styles with extra steps. And that's fine.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
+  "author": "Eric Ries",
+  "author_slug": "ries",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "tailwind",
-    "css"
+    "startup",
+    "uncertainty"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-tailwind-css-is-just",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "ries-a-startup-is-a",
   "source": "Community sourced"
 }

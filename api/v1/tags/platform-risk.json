@@ -1,0 +1,27 @@
+{
+  "tag": "platform-risk",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Apple can't see a future where the Mac isn't like the iPhone: a 30% cut of all software revenue, a 30% cut of any AI tokens you use, and 30% of your time as a developer developing for your own account.",
+      "author": "PaulHoule",
+      "author_slug": "paulhoule",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "indie-hacker",
+        "complexity"
+      ],
+      "tags": [
+        "apple",
+        "app-store-tax",
+        "platform-risk",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "The '30%' refrain turns platform-enshittification critique into a genuinely memorable line. Collapsed the run-on original into one clean sentence, kept all three escalating cuts.",
+      "id": "paulhoule-apple-cant-see-a"
+    }
+  ]
+}

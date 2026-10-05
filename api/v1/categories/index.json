@@ -8,7 +8,7 @@
       "count": 8
     },
     "complexity": {
-      "count": 19
+      "count": 24
     },
     "debugging": {
       "count": 16
@@ -26,16 +26,16 @@
       "count": 33
     },
     "founder": {
-      "count": 9
+      "count": 11
     },
     "funny": {
-      "count": 63
+      "count": 75
     },
     "grug": {
-      "count": 8
+      "count": 12
     },
     "indie-hacker": {
-      "count": 128
+      "count": 130
     },
     "marketing": {
       "count": 86
@@ -53,13 +53,13 @@
       "count": 20
     },
     "shitpost": {
-      "count": 59
+      "count": 66
     },
     "suffering": {
-      "count": 28
+      "count": 31
     },
     "tools": {
-      "count": 6
+      "count": 10
     },
     "unix": {
       "count": 2
@@ -68,7 +68,7 @@
       "count": 47
     },
     "wisdom": {
-      "count": 176
+      "count": 184
     }
   }
 }

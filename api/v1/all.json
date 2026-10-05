@@ -1,6 +1,6 @@
 {
-  "total": 1076,
-  "generated_at": "2026-10-05T04:26:37.443870+00:00",
+  "total": 1097,
+  "generated_at": "2026-10-05T13:17:19.917386+00:00",
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -17850,6 +17850,457 @@
       "spiciness": 2,
       "id": "based-your-indie-project-is-1075",
       "source": "Community sourced"
+    },
+    {
+      "text": "Coming right up: Belgian hybrid shower curtain and defense startup Aperture Science raises 780M Euros, while biotech unicorn Umbrella is on the verge of coming out of stealth and releasing a vaccine for cancer.",
+      "author": "schmorptron",
+      "author_slug": "schmorptron",
+      "source": "Hacker News — Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "source_url": "https://news.ycombinator.com/item?id=49963366",
+      "categories": [
+        "funny",
+        "shitpost",
+        "founder"
+      ],
+      "tags": [
+        "startup-names",
+        "video-games",
+        "satire",
+        "vc",
+        "corporate-dystopia"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Perfect parody of VC hype naming — Aperture Science (Portal) + Umbrella Corp (Resident Evil) as if they were real raises. Standalone, punchy, genuinely funny.",
+      "id": "schmorptron-coming-right-up-belgian"
+    },
+    {
+      "text": "The $1B unicorn number feels like it's from 2015 — that's a pretty typical Series A/B valuation at this point.",
+      "author": "ramesh31",
+      "author_slug": "ramesh31",
+      "source": "Hacker News — Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "source_url": "https://news.ycombinator.com/item?id=49963366",
+      "categories": [
+        "founder",
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "valuation",
+        "unicorns",
+        "vc",
+        "inflation",
+        "startups"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Trimmed the question framing into a flat, quotable take on how meaningless the unicorn milestone has become. Observes real market drift without fluff.",
+      "id": "ramesh31-the-1b-unicorn-number"
+    },
+    {
+      "text": "We'll have to start treating the CPR number as just a username, instead of a password. It should never have been \"secret\" in the first place.",
+      "author": "madsohm",
+      "author_slug": "madsohm",
+      "source": "Hacker News — Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "source_url": "https://news.ycombinator.com/item?id=49962012",
+      "categories": [
+        "wisdom",
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "identifiers",
+        "passwords",
+        "authentication",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Universal security insight — identifiers aren't secrets. Works far beyond Denmark and is exactly the kind of unglamorous pragmatic wisdom this API wants.",
+      "id": "madsohm-well-have-to-start"
+    },
+    {
+      "text": "Why not use those providers directly? Does Cloudflare need to be in the middle of everything?",
+      "author": "binarymax",
+      "author_slug": "binarymax",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "grug",
+        "complexity",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "middlemen",
+        "anti-abstraction",
+        "apis",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Textbook grug anti-middleman instinct, stated in two blunt sentences. Kept as a rhetorical question because the question IS the joke — kept verbatim to preserve voice.",
+      "id": "binarymax-why-not-use-those"
+    },
+    {
+      "text": "Create bot detection and bot protection, then sell crawlers. Is this the peak of hypocrisy?",
+      "author": "sreekanth850",
+      "author_slug": "sreekanth850",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "bots",
+        "crawlers",
+        "hypocrisy",
+        "scraping"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp, funny callout of the business model contradiction: fence out the bots, then monetize the fence. Controversial, memorable, needs no context.",
+      "id": "sreekanth850-create-bot-detection-and"
+    },
+    {
+      "text": "'Bad things' [for you] in return for benefits [for me].",
+      "author": "neonnoodle",
+      "author_slug": "neonnoodle",
+      "source": "Hacker News — Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "source_url": "https://news.ycombinator.com/item?id=49964248",
+      "categories": [
+        "shitpost",
+        "funny"
+      ],
+      "tags": [
+        "sam-altman",
+        "ai-hype",
+        "corporate-greed"
+      ],
+      "grug_level": 2,
+      "spiciness": 5,
+      "extraction_note": "The bracketed edit of Altman's quote is surgical — recontextualizing who bears the 'bad things' vs who collects the benefits. Punchy, standalone, thermonuclear take.",
+      "id": "neonnoodle-bad-things-for-you"
+    },
+    {
+      "text": "I've tried it, but I haven't seen anything that overly impressed me in terms of accuracy. I'm sure there are applications for LLMs where the quality of the answers is less important, but I don't have any of those.",
+      "author": "jacquesm",
+      "author_slug": "jacquesm",
+      "source": "Hacker News — Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source_url": "https://news.ycombinator.com/item?id=49953495",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "llm-hype",
+        "accuracy",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Grug-brained skepticism of the LLM speed race — cutting through tokens/sec flexing to ask the only question that matters (does it work?). The closing 'but I don't have any of those' lands hard.",
+      "id": "jacquesm-ive-tried-it-but"
+    },
+    {
+      "text": "Port 5900 open to the WAN. He wrote an article to tell the world that he doesn't understand basic networking.",
+      "author": "7r33",
+      "author_slug": "7r33",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "networking",
+        "security",
+        "burn"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Beautiful short-form dev burn: setup + punchline in one line. Cleaned the original typo ('Having 5900 hot to wan') so the joke actually lands without the reader needing to decode it.",
+      "id": "7r33-port-5900-open-to"
+    },
+    {
+      "text": "Apple can't see a future where the Mac isn't like the iPhone: a 30% cut of all software revenue, a 30% cut of any AI tokens you use, and 30% of your time as a developer developing for your own account.",
+      "author": "PaulHoule",
+      "author_slug": "paulhoule",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "indie-hacker",
+        "complexity"
+      ],
+      "tags": [
+        "apple",
+        "app-store-tax",
+        "platform-risk",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "The '30%' refrain turns platform-enshittification critique into a genuinely memorable line. Collapsed the run-on original into one clean sentence, kept all three escalating cuts.",
+      "id": "paulhoule-apple-cant-see-a"
+    },
+    {
+      "text": "I'll consider it when Sam starts accepting getting Molotov cocktails thrown at his house. Surely we all need to accept bad things, right?",
+      "author": "Hamuko",
+      "author_slug": "hamuko",
+      "source": "Hacker News — Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "source_url": "https://news.ycombinator.com/item?id=49964248",
+      "categories": [
+        "shitpost",
+        "funny"
+      ],
+      "tags": [
+        "ai",
+        "altman",
+        "sarcasm",
+        "safety"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Sarcastic retort that lands as a clean one-liner; works without the article context.",
+      "id": "hamuko-ill-consider-it-when"
+    },
+    {
+      "text": "I believe the world should accept the 'bad things' that result from allowing me to take other people's property, because of all the good I'd do with the money. Except AI won't even feed hungry children — it will only make the rich richer and flood the internet with slop.",
+      "author": "DarkWiiPlayer",
+      "author_slug": "darkwiiplayer",
+      "source": "Hacker News — Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "source_url": "https://news.ycombinator.com/item?id=49964248",
+      "categories": [
+        "wisdom",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "theft",
+        "justification",
+        "slop"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "The theft analogy makes the argument absurd on its face, then the punchline undercuts it further. Strong, sharp, and funny.",
+      "id": "darkwiiplayer-i-believe-the-world"
+    },
+    {
+      "text": "There's something both wonderful and slightly terrifying about decades of film history being preserved because one person at an auction happened to notice a folder full of old CD-ROMs",
+      "author": "Ylano",
+      "author_slug": "ylano",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "digital-preservation",
+        "history",
+        "archives",
+        "cd-rom"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Pithy observation about how fragile digital history actually is — stands on its own as a nice insight.",
+      "id": "ylano-theres-something-both-wonderful"
+    },
+    {
+      "text": "Hosting 90GB on Internet Archive is step one. Mirroring the torrents is step two, before copyright lawyers notice the auction bypass. Seed it while it exists.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "preservation",
+        "torrents",
+        "pragmatism",
+        "backup"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Pragmatic, action-oriented advice with a great closing imperative. Very 'seed it before it's gone'.",
+      "id": "soltanov-hosting-90gb-on-internet"
+    },
+    {
+      "text": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "doom",
+        "hackery",
+        "code-golf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Perfect reaction to cursed-but-impressive code: calls it malpractice while loving every second.",
+      "id": "soltanov-less-lines-of-code"
+    },
+    {
+      "text": "If you squint and ignore the brain damage, SQL is kind of... functional. Almost. In a way.",
+      "author": "TheOtherHobbes",
+      "author_slug": "theotherhobbes",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "functional",
+        "brain-damage",
+        "languages"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Backhanded compliment with great comedic timing — 'brain damage' qualifier does the heavy lifting.",
+      "id": "theotherhobbes-if-you-squint-and"
+    },
+    {
+      "text": "Meanwhile I'm too inept to get WordPress to load dynamic content faster than molasses.",
+      "author": "emsixteen",
+      "author_slug": "emsixteen",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "wordpress",
+        "performance",
+        "self-deprecating",
+        "struggle"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "extraction_note": "Self-deprecating dev humor that's instantly relatable — can't do basic WP performance while someone else runs Doom in SQL.",
+      "id": "emsixteen-meanwhile-im-too-inept"
+    },
+    {
+      "text": "The property grid control is still the greatest general purpose UI of all time. Define your classes with some attributes and it just works. It was all downhill from there with web and mobile.",
+      "author": "waldrews",
+      "author_slug": "waldrews",
+      "source": "Hacker News — A browser-native classic Visual Basic VB6 IDE",
+      "source_url": "https://news.ycombinator.com/item?id=49956681",
+      "categories": [
+        "wisdom",
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "ui",
+        "vb6",
+        "rad",
+        "nostalgia",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Genuine dev nostalgia with a sharp anti-complexity thesis: declarative UI worked, and the industry abandoned it.",
+      "id": "waldrews-the-property-grid-control"
+    },
+    {
+      "text": "The novice became suspicious and said: \"Master, is all this 'Tao of Backup' stuff just so you can sell more copies of Veracity?\" The master said: \"Now you are truly enlightened.\"",
+      "author": "ibotty",
+      "author_slug": "ibotty",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "backups",
+        "tao",
+        "sales",
+        "humor",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Classic piece of dev folklore that still lands — self-aware guru grift delivered with perfect zen deadpan.",
+      "id": "ibotty-the-novice-became-suspicious"
+    },
+    {
+      "text": "He returned to the master and said: \"Master, you have the only uncorrupted copy!\" But the master had already overwritten it with a copy of DOOM.",
+      "author": "tovve",
+      "author_slug": "tovve",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "data-loss",
+        "doom",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Perfect comedic timing on a real engineering sin — DOOM overwriting the last good backup is universal dev humor.",
+      "id": "tovve-he-returned-to-the"
+    },
+    {
+      "text": "You will only learn to make proper backups after you suffer a catastrophic loss of data. Protecting the student from this is depriving him of the only true knowledge, the one that is not merely stored in the head, but burned into the skin.",
+      "author": "bambax",
+      "author_slug": "bambax",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "hard-lessons",
+        "tao",
+        "operations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Painfully accurate observation about how engineers actually learn ops lessons — suffering is the teacher.",
+      "id": "bambax-you-will-only-learn"
+    },
+    {
+      "text": "Imagine an ad streamed directly to your auditory nerve. You can't turn it off or change the volume.",
+      "author": "mainecoder",
+      "author_slug": "mainecoder",
+      "source": "Hacker News — First Implantable Cochlear Implant Launches",
+      "source_url": "https://news.ycombinator.com/item?id=49920785",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ads",
+        "dystopia",
+        "subscriptions",
+        "implants",
+        "satire"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Goes from medical milestone to monetization hellscape in one line — darkly funny, punchy, and culturally relevant.",
+      "id": "mainecoder-imagine-an-ad-streamed"
     }
   ]
 }

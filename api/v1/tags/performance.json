@@ -1,6 +1,6 @@
 {
   "tag": "performance",
-  "count": 5,
+  "count": 6,
   "quotes": [
     {
       "id": "muratori-clean-code",
@@ -83,6 +83,27 @@
       "spiciness": 2,
       "id": "based-your-saas-should-be-763",
       "source": "Community sourced"
+    },
+    {
+      "text": "Meanwhile I'm too inept to get WordPress to load dynamic content faster than molasses.",
+      "author": "emsixteen",
+      "author_slug": "emsixteen",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "wordpress",
+        "performance",
+        "self-deprecating",
+        "struggle"
+      ],
+      "grug_level": 3,
+      "spiciness": 1,
+      "extraction_note": "Self-deprecating dev humor that's instantly relatable — can't do basic WP performance while someone else runs Doom in SQL.",
+      "id": "emsixteen-meanwhile-im-too-inept"
     }
   ]
 }

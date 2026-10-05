@@ -1,6 +1,6 @@
 {
   "tag": "simplicity",
-  "count": 70,
+  "count": 71,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -1194,6 +1194,29 @@
       "spiciness": 2,
       "id": "based-your-indie-business-should-1071",
       "source": "Community sourced"
+    },
+    {
+      "text": "Why not use those providers directly? Does Cloudflare need to be in the middle of everything?",
+      "author": "binarymax",
+      "author_slug": "binarymax",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "grug",
+        "complexity",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "middlemen",
+        "anti-abstraction",
+        "apis",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Textbook grug anti-middleman instinct, stated in two blunt sentences. Kept as a rhetorical question because the question IS the joke — kept verbatim to preserve voice.",
+      "id": "binarymax-why-not-use-those"
     }
   ]
 }

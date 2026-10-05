@@ -1,0 +1,28 @@
+{
+  "author": "TheOtherHobbes",
+  "slug": "theotherhobbes",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If you squint and ignore the brain damage, SQL is kind of... functional. Almost. In a way.",
+      "author": "TheOtherHobbes",
+      "author_slug": "theotherhobbes",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "functional",
+        "brain-damage",
+        "languages"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Backhanded compliment with great comedic timing — 'brain damage' qualifier does the heavy lifting.",
+      "id": "theotherhobbes-if-you-squint-and"
+    }
+  ]
+}

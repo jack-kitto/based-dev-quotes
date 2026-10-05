@@ -1,0 +1,48 @@
+{
+  "tag": "doom",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "doom",
+        "hackery",
+        "code-golf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Perfect reaction to cursed-but-impressive code: calls it malpractice while loving every second.",
+      "id": "soltanov-less-lines-of-code"
+    },
+    {
+      "text": "He returned to the master and said: \"Master, you have the only uncorrupted copy!\" But the master had already overwritten it with a copy of DOOM.",
+      "author": "tovve",
+      "author_slug": "tovve",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "data-loss",
+        "doom",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Perfect comedic timing on a real engineering sin — DOOM overwriting the last good backup is universal dev humor.",
+      "id": "tovve-he-returned-to-the"
+    }
+  ]
+}

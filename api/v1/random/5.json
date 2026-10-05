@@ -1,16 +1,17 @@
 {
-  "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
+  "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "ideas",
-    "reading"
+    "sql",
+    "jokes"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-best-ideas-come",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-a-sql-query-walks",
   "source": "Community sourced"
 }

@@ -1,0 +1,30 @@
+{
+  "author": "ramesh31",
+  "slug": "ramesh31",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The $1B unicorn number feels like it's from 2015 — that's a pretty typical Series A/B valuation at this point.",
+      "author": "ramesh31",
+      "author_slug": "ramesh31",
+      "source": "Hacker News — Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "source_url": "https://news.ycombinator.com/item?id=49963366",
+      "categories": [
+        "founder",
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "valuation",
+        "unicorns",
+        "vc",
+        "inflation",
+        "startups"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Trimmed the question framing into a flat, quotable take on how meaningless the unicorn milestone has become. Observes real market drift without fluff.",
+      "id": "ramesh31-the-1b-unicorn-number"
+    }
+  ]
+}

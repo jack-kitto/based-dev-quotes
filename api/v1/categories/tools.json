@@ -1,6 +1,6 @@
 {
   "category": "tools",
-  "count": 6,
+  "count": 10,
   "quotes": [
     {
       "id": "torvalds-c-plus-plus",
@@ -112,6 +112,95 @@
       ],
       "grug_level": 4,
       "spiciness": 4
+    },
+    {
+      "text": "Why not use those providers directly? Does Cloudflare need to be in the middle of everything?",
+      "author": "binarymax",
+      "author_slug": "binarymax",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "grug",
+        "complexity",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "middlemen",
+        "anti-abstraction",
+        "apis",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Textbook grug anti-middleman instinct, stated in two blunt sentences. Kept as a rhetorical question because the question IS the joke — kept verbatim to preserve voice.",
+      "id": "binarymax-why-not-use-those"
+    },
+    {
+      "text": "Create bot detection and bot protection, then sell crawlers. Is this the peak of hypocrisy?",
+      "author": "sreekanth850",
+      "author_slug": "sreekanth850",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "funny",
+        "shitpost",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "bots",
+        "crawlers",
+        "hypocrisy",
+        "scraping"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp, funny callout of the business model contradiction: fence out the bots, then monetize the fence. Controversial, memorable, needs no context.",
+      "id": "sreekanth850-create-bot-detection-and"
+    },
+    {
+      "text": "I've tried it, but I haven't seen anything that overly impressed me in terms of accuracy. I'm sure there are applications for LLMs where the quality of the answers is less important, but I don't have any of those.",
+      "author": "jacquesm",
+      "author_slug": "jacquesm",
+      "source": "Hacker News — Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source_url": "https://news.ycombinator.com/item?id=49953495",
+      "categories": [
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "llm-hype",
+        "accuracy",
+        "pragmatism"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Grug-brained skepticism of the LLM speed race — cutting through tokens/sec flexing to ask the only question that matters (does it work?). The closing 'but I don't have any of those' lands hard.",
+      "id": "jacquesm-ive-tried-it-but"
+    },
+    {
+      "text": "The property grid control is still the greatest general purpose UI of all time. Define your classes with some attributes and it just works. It was all downhill from there with web and mobile.",
+      "author": "waldrews",
+      "author_slug": "waldrews",
+      "source": "Hacker News — A browser-native classic Visual Basic VB6 IDE",
+      "source_url": "https://news.ycombinator.com/item?id=49956681",
+      "categories": [
+        "wisdom",
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "ui",
+        "vb6",
+        "rad",
+        "nostalgia",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Genuine dev nostalgia with a sharp anti-complexity thesis: declarative UI worked, and the industry abandoned it.",
+      "id": "waldrews-the-property-grid-control"
     }
   ]
 }

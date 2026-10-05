@@ -1,16 +1,17 @@
 {
-  "text": "The best UX is the one you don't notice. When the design is invisible, the product is working.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "git-rebase-force-push",
+  "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "design"
+    "funny"
   ],
   "tags": [
-    "ux",
-    "invisibility"
+    "git",
+    "danger",
+    "teams"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-ux-is",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

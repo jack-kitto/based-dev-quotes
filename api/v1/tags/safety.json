@@ -1,6 +1,6 @@
 {
   "tag": "safety",
-  "count": 3,
+  "count": 4,
   "quotes": [
     {
       "text": "Every database migration is a small act of violence against your future self. Write the rollback first.",
@@ -50,6 +50,27 @@
       "spiciness": 2,
       "id": "based-the-best-teams-are",
       "source": "Community sourced"
+    },
+    {
+      "text": "I'll consider it when Sam starts accepting getting Molotov cocktails thrown at his house. Surely we all need to accept bad things, right?",
+      "author": "Hamuko",
+      "author_slug": "hamuko",
+      "source": "Hacker News — Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "source_url": "https://news.ycombinator.com/item?id=49964248",
+      "categories": [
+        "shitpost",
+        "funny"
+      ],
+      "tags": [
+        "ai",
+        "altman",
+        "sarcasm",
+        "safety"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Sarcastic retort that lands as a clean one-liner; works without the article context.",
+      "id": "hamuko-ill-consider-it-when"
     }
   ]
 }

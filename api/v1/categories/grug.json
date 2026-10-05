@@ -1,6 +1,6 @@
 {
   "category": "grug",
-  "count": 8,
+  "count": 12,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -150,6 +150,95 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "We'll have to start treating the CPR number as just a username, instead of a password. It should never have been \"secret\" in the first place.",
+      "author": "madsohm",
+      "author_slug": "madsohm",
+      "source": "Hacker News — Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "source_url": "https://news.ycombinator.com/item?id=49962012",
+      "categories": [
+        "wisdom",
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "identifiers",
+        "passwords",
+        "authentication",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Universal security insight — identifiers aren't secrets. Works far beyond Denmark and is exactly the kind of unglamorous pragmatic wisdom this API wants.",
+      "id": "madsohm-well-have-to-start"
+    },
+    {
+      "text": "Why not use those providers directly? Does Cloudflare need to be in the middle of everything?",
+      "author": "binarymax",
+      "author_slug": "binarymax",
+      "source": "Hacker News — Web Search API",
+      "source_url": "https://news.ycombinator.com/item?id=49963171",
+      "categories": [
+        "grug",
+        "complexity",
+        "tools"
+      ],
+      "tags": [
+        "cloudflare",
+        "middlemen",
+        "anti-abstraction",
+        "apis",
+        "simplicity"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Textbook grug anti-middleman instinct, stated in two blunt sentences. Kept as a rhetorical question because the question IS the joke — kept verbatim to preserve voice.",
+      "id": "binarymax-why-not-use-those"
+    },
+    {
+      "text": "Hosting 90GB on Internet Archive is step one. Mirroring the torrents is step two, before copyright lawyers notice the auction bypass. Seed it while it exists.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "preservation",
+        "torrents",
+        "pragmatism",
+        "backup"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Pragmatic, action-oriented advice with a great closing imperative. Very 'seed it before it's gone'.",
+      "id": "soltanov-hosting-90gb-on-internet"
+    },
+    {
+      "text": "The novice became suspicious and said: \"Master, is all this 'Tao of Backup' stuff just so you can sell more copies of Veracity?\" The master said: \"Now you are truly enlightened.\"",
+      "author": "ibotty",
+      "author_slug": "ibotty",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "backups",
+        "tao",
+        "sales",
+        "humor",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Classic piece of dev folklore that still lands — self-aware guru grift delivered with perfect zen deadpan.",
+      "id": "ibotty-the-novice-became-suspicious"
     }
   ]
 }

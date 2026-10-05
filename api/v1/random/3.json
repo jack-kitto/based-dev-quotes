@@ -1,16 +1,17 @@
 {
-  "text": "Cold email works when it's actually about them, not about you. Which means 99% of cold emails don't work.",
+  "text": "First principles thinking sounds profound until you realize it's just 'ask why' without the philosophy degree.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "cold-email",
-    "personalization"
+    "first-principles",
+    "thinking"
   ],
-  "grug_level": 4,
+  "grug_level": 3,
   "spiciness": 3,
-  "id": "based-cold-email-works-when",
+  "id": "based-first-principles-thinking-sounds",
   "source": "Community sourced"
 }

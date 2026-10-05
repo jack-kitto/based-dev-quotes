@@ -1,6 +1,6 @@
 {
   "tag": "backups",
-  "count": 3,
+  "count": 6,
   "quotes": [
     {
       "text": "I don't have a backup plan. I have 'recreate it worse from memory' plan.",
@@ -50,6 +50,70 @@
       "spiciness": 1,
       "id": "based-every-production-database-needs",
       "source": "Community sourced"
+    },
+    {
+      "text": "The novice became suspicious and said: \"Master, is all this 'Tao of Backup' stuff just so you can sell more copies of Veracity?\" The master said: \"Now you are truly enlightened.\"",
+      "author": "ibotty",
+      "author_slug": "ibotty",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "backups",
+        "tao",
+        "sales",
+        "humor",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Classic piece of dev folklore that still lands — self-aware guru grift delivered with perfect zen deadpan.",
+      "id": "ibotty-the-novice-became-suspicious"
+    },
+    {
+      "text": "He returned to the master and said: \"Master, you have the only uncorrupted copy!\" But the master had already overwritten it with a copy of DOOM.",
+      "author": "tovve",
+      "author_slug": "tovve",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "data-loss",
+        "doom",
+        "humor"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Perfect comedic timing on a real engineering sin — DOOM overwriting the last good backup is universal dev humor.",
+      "id": "tovve-he-returned-to-the"
+    },
+    {
+      "text": "You will only learn to make proper backups after you suffer a catastrophic loss of data. Protecting the student from this is depriving him of the only true knowledge, the one that is not merely stored in the head, but burned into the skin.",
+      "author": "bambax",
+      "author_slug": "bambax",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "wisdom",
+        "suffering"
+      ],
+      "tags": [
+        "backups",
+        "hard-lessons",
+        "tao",
+        "operations"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Painfully accurate observation about how engineers actually learn ops lessons — suffering is the teacher.",
+      "id": "bambax-you-will-only-learn"
     }
   ]
 }

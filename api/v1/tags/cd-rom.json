@@ -1,0 +1,26 @@
+{
+  "tag": "cd-rom",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "There's something both wonderful and slightly terrifying about decades of film history being preserved because one person at an auction happened to notice a folder full of old CD-ROMs",
+      "author": "Ylano",
+      "author_slug": "ylano",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "digital-preservation",
+        "history",
+        "archives",
+        "cd-rom"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Pithy observation about how fragile digital history actually is — stands on its own as a nice insight.",
+      "id": "ylano-theres-something-both-wonderful"
+    }
+  ]
+}

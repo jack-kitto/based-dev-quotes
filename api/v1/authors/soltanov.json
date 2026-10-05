@@ -1,0 +1,49 @@
+{
+  "author": "soltanov",
+  "slug": "soltanov",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Hosting 90GB on Internet Archive is step one. Mirroring the torrents is step two, before copyright lawyers notice the auction bypass. Seed it while it exists.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — In the wake of Tippett Studios' closure, a digital archive appears online",
+      "source_url": "https://news.ycombinator.com/item?id=49957812",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "preservation",
+        "torrents",
+        "pragmatism",
+        "backup"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Pragmatic, action-oriented advice with a great closing imperative. Very 'seed it before it's gone'.",
+      "id": "soltanov-hosting-90gb-on-internet"
+    },
+    {
+      "text": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "doom",
+        "hackery",
+        "code-golf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Perfect reaction to cursed-but-impressive code: calls it malpractice while loving every second.",
+      "id": "soltanov-less-lines-of-code"
+    }
+  ]
+}

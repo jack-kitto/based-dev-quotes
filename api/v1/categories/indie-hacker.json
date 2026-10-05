@@ -1,6 +1,6 @@
 {
   "category": "indie-hacker",
-  "count": 128,
+  "count": 130,
   "quotes": [
     {
       "id": "hoffman-embarrassed",
@@ -2114,6 +2114,50 @@
       "spiciness": 2,
       "id": "based-your-indie-project-is-1075",
       "source": "Community sourced"
+    },
+    {
+      "text": "The $1B unicorn number feels like it's from 2015 — that's a pretty typical Series A/B valuation at this point.",
+      "author": "ramesh31",
+      "author_slug": "ramesh31",
+      "source": "Hacker News — Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "source_url": "https://news.ycombinator.com/item?id=49963366",
+      "categories": [
+        "founder",
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "valuation",
+        "unicorns",
+        "vc",
+        "inflation",
+        "startups"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Trimmed the question framing into a flat, quotable take on how meaningless the unicorn milestone has become. Observes real market drift without fluff.",
+      "id": "ramesh31-the-1b-unicorn-number"
+    },
+    {
+      "text": "Apple can't see a future where the Mac isn't like the iPhone: a 30% cut of all software revenue, a 30% cut of any AI tokens you use, and 30% of your time as a developer developing for your own account.",
+      "author": "PaulHoule",
+      "author_slug": "paulhoule",
+      "source": "Hacker News — Apple and a Hacker's Future",
+      "source_url": "https://news.ycombinator.com/item?id=49962857",
+      "categories": [
+        "indie-hacker",
+        "complexity"
+      ],
+      "tags": [
+        "apple",
+        "app-store-tax",
+        "platform-risk",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "The '30%' refrain turns platform-enshittification critique into a genuinely memorable line. Collapsed the run-on original into one clean sentence, kept all three escalating cuts.",
+      "id": "paulhoule-apple-cant-see-a"
     }
   ]
 }

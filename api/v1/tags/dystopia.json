@@ -1,0 +1,28 @@
+{
+  "tag": "dystopia",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Imagine an ad streamed directly to your auditory nerve. You can't turn it off or change the volume.",
+      "author": "mainecoder",
+      "author_slug": "mainecoder",
+      "source": "Hacker News — First Implantable Cochlear Implant Launches",
+      "source_url": "https://news.ycombinator.com/item?id=49920785",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ads",
+        "dystopia",
+        "subscriptions",
+        "implants",
+        "satire"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Goes from medical milestone to monetization hellscape in one line — darkly funny, punchy, and culturally relevant.",
+      "id": "mainecoder-imagine-an-ad-streamed"
+    }
+  ]
+}

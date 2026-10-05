@@ -1,6 +1,6 @@
 {
   "tag": "wisdom",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "text": "The art of being wise is the art of knowing what to overlook.",
@@ -17,6 +17,28 @@
       "spiciness": 1,
       "id": "james-the-art-of-being",
       "source": "Community sourced"
+    },
+    {
+      "text": "The novice became suspicious and said: \"Master, is all this 'Tao of Backup' stuff just so you can sell more copies of Veracity?\" The master said: \"Now you are truly enlightened.\"",
+      "author": "ibotty",
+      "author_slug": "ibotty",
+      "source": "Hacker News — The Tao of Backup",
+      "source_url": "https://news.ycombinator.com/item?id=49932236",
+      "categories": [
+        "funny",
+        "grug"
+      ],
+      "tags": [
+        "backups",
+        "tao",
+        "sales",
+        "humor",
+        "wisdom"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Classic piece of dev folklore that still lands — self-aware guru grift delivered with perfect zen deadpan.",
+      "id": "ibotty-the-novice-became-suspicious"
     }
   ]
 }

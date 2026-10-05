@@ -1,6 +1,10 @@
 {
-  "total": 98,
+  "total": 118,
   "authors": {
+    "7r33": {
+      "name": "7r33",
+      "count": 1
+    },
     "abelson": {
       "name": "Harold Abelson",
       "count": 1
@@ -8,6 +12,10 @@
     "atwood": {
       "name": "Jeff Atwood",
       "count": 3
+    },
+    "bambax": {
+      "name": "bambax",
+      "count": 1
     },
     "bambrick": {
       "name": "Leon Bambrick",
@@ -23,6 +31,10 @@
     },
     "berra": {
       "name": "Yogi Berra (applied to programming)",
+      "count": 1
+    },
+    "binarymax": {
+      "name": "binarymax",
       "count": 1
     },
     "blow": {
@@ -77,6 +89,10 @@
       "name": "Robert R. Coveyou",
       "count": 1
     },
+    "darkwiiplayer": {
+      "name": "DarkWiiPlayer",
+      "count": 1
+    },
     "davinci": {
       "name": "Leonardo da Vinci",
       "count": 2
@@ -112,6 +128,10 @@
     "einstein": {
       "name": "Albert Einstein",
       "count": 4
+    },
+    "emsixteen": {
+      "name": "emsixteen",
+      "count": 1
     },
     "feathers": {
       "name": "Michael Feathers",
@@ -153,6 +173,10 @@
       "name": "Gwern Branwen",
       "count": 1
     },
+    "hamuko": {
+      "name": "Hamuko",
+      "count": 1
+    },
     "hickey": {
       "name": "Rich Hickey",
       "count": 4
@@ -181,12 +205,20 @@
       "name": "Arianna Huffington",
       "count": 1
     },
+    "ibotty": {
+      "name": "ibotty",
+      "count": 1
+    },
     "it-crowd": {
       "name": "Roy (IT Crowd)",
       "count": 1
     },
     "ive": {
       "name": "Jonathan Ive",
+      "count": 1
+    },
+    "jacquesm": {
+      "name": "jacquesm",
       "count": 1
     },
     "james": {
@@ -233,6 +265,14 @@
       "name": "Barbara Liskov",
       "count": 1
     },
+    "madsohm": {
+      "name": "madsohm",
+      "count": 1
+    },
+    "mainecoder": {
+      "name": "mainecoder",
+      "count": 1
+    },
     "marclou": {
       "name": "Marc Lou",
       "count": 1
@@ -269,6 +309,10 @@
       "name": "Murphy",
       "count": 1
     },
+    "neonnoodle": {
+      "name": "neonnoodle",
+      "count": 1
+    },
     "newport": {
       "name": "Cal Newport",
       "count": 1
@@ -285,6 +329,10 @@
       "name": "Patrick McKenzie (patio11)",
       "count": 2
     },
+    "paulhoule": {
+      "name": "PaulHoule",
+      "count": 1
+    },
     "penn": {
       "name": "William Penn",
       "count": 1
@@ -300,6 +348,10 @@
     "pike": {
       "name": "Rob Pike",
       "count": 2
+    },
+    "ramesh31": {
+      "name": "ramesh31",
+      "count": 1
     },
     "rams": {
       "name": "Dieter Rams",
@@ -325,6 +377,10 @@
       "name": "Vidal Sassoon",
       "count": 1
     },
+    "schmorptron": {
+      "name": "schmorptron",
+      "count": 1
+    },
     "simpson": {
       "name": "Homer Simpson",
       "count": 1
@@ -337,9 +393,17 @@
       "name": "Simon Sinek",
       "count": 1
     },
+    "soltanov": {
+      "name": "soltanov",
+      "count": 2
+    },
     "spolsky": {
       "name": "Joel Spolsky",
       "count": 2
+    },
+    "sreekanth850": {
+      "name": "sreekanth850",
+      "count": 1
     },
     "stroustrup": {
       "name": "Bjarne Stroustrup",
@@ -347,6 +411,10 @@
     },
     "tanenbaum": {
       "name": "Andrew S. Tanenbaum",
+      "count": 1
+    },
+    "theotherhobbes": {
+      "name": "TheOtherHobbes",
       "count": 1
     },
     "thompson": {
@@ -361,6 +429,10 @@
       "name": "Linus Torvalds",
       "count": 4
     },
+    "tovve": {
+      "name": "tovve",
+      "count": 1
+    },
     "tracy": {
       "name": "Warren Tracy",
       "count": 1
@@ -373,6 +445,10 @@
       "name": "Voltaire",
       "count": 1
     },
+    "waldrews": {
+      "name": "waldrews",
+      "count": 1
+    },
     "wall": {
       "name": "Larry Wall",
       "count": 1
@@ -383,6 +459,10 @@
     },
     "yegge": {
       "name": "Steve Yegge",
+      "count": 1
+    },
+    "ylano": {
+      "name": "Ylano",
       "count": 1
     },
     "zawinski": {

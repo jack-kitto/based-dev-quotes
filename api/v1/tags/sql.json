@@ -1,6 +1,6 @@
 {
   "tag": "sql",
-  "count": 2,
+  "count": 4,
   "quotes": [
     {
       "id": "select-star-production",
@@ -37,6 +37,48 @@
       "spiciness": 1,
       "id": "based-a-sql-query-walks",
       "source": "Community sourced"
+    },
+    {
+      "text": "Less lines of code than vanilla C while abusing query planning as a state machine is peak engineering malpractice. I love it.",
+      "author": "soltanov",
+      "author_slug": "soltanov",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "doom",
+        "hackery",
+        "code-golf"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Perfect reaction to cursed-but-impressive code: calls it malpractice while loving every second.",
+      "id": "soltanov-less-lines-of-code"
+    },
+    {
+      "text": "If you squint and ignore the brain damage, SQL is kind of... functional. Almost. In a way.",
+      "author": "TheOtherHobbes",
+      "author_slug": "theotherhobbes",
+      "source": "Hacker News — We ported the original Doom to SQL",
+      "source_url": "https://news.ycombinator.com/item?id=49948300",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "sql",
+        "functional",
+        "brain-damage",
+        "languages"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Backhanded compliment with great comedic timing — 'brain damage' qualifier does the heavy lifting.",
+      "id": "theotherhobbes-if-you-squint-and"
     }
   ]
 }

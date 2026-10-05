@@ -1,0 +1,29 @@
+{
+  "tag": "rad",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The property grid control is still the greatest general purpose UI of all time. Define your classes with some attributes and it just works. It was all downhill from there with web and mobile.",
+      "author": "waldrews",
+      "author_slug": "waldrews",
+      "source": "Hacker News — A browser-native classic Visual Basic VB6 IDE",
+      "source_url": "https://news.ycombinator.com/item?id=49956681",
+      "categories": [
+        "wisdom",
+        "funny",
+        "tools"
+      ],
+      "tags": [
+        "ui",
+        "vb6",
+        "rad",
+        "nostalgia",
+        "complexity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Genuine dev nostalgia with a sharp anti-complexity thesis: declarative UI worked, and the industry abandoned it.",
+      "id": "waldrews-the-property-grid-control"
+    }
+  ]
+}

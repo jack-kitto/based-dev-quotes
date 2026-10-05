@@ -1,0 +1,30 @@
+{
+  "author": "madsohm",
+  "slug": "madsohm",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "We'll have to start treating the CPR number as just a username, instead of a password. It should never have been \"secret\" in the first place.",
+      "author": "madsohm",
+      "author_slug": "madsohm",
+      "source": "Hacker News — Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "source_url": "https://news.ycombinator.com/item?id=49962012",
+      "categories": [
+        "wisdom",
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "identifiers",
+        "passwords",
+        "authentication",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Universal security insight — identifiers aren't secrets. Works far beyond Denmark and is exactly the kind of unglamorous pragmatic wisdom this API wants.",
+      "id": "madsohm-well-have-to-start"
+    }
+  ]
+}
