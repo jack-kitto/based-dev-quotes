@@ -1,17 +1,16 @@
 {
-  "text": "Your competitors will copy your features. They can't copy your taste. Build something with taste.",
+  "text": "Your team should be able to challenge any decision, including the CEO's. If they can't, you have a dictatorship.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "design"
+    "business"
   ],
   "tags": [
-    "competition",
-    "taste"
+    "culture",
+    "challenge"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-competitors-will-copy",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-team-should-be-834",
   "source": "Community sourced"
 }

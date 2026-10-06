@@ -1,17 +1,17 @@
 {
-  "text": "SaaS churn is like a leaky bucket. You can pour water in as fast as you want, but if the holes are big, you're wasting time.",
+  "text": "The best architecture is the one that doesn't need an architecture diagram.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "engineering"
   ],
   "tags": [
-    "churn",
-    "retention"
+    "architecture",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-saas-churn-is-like",
+  "id": "based-the-best-architecture-is",
   "source": "Community sourced",
-  "_date": "2026-10-05"
+  "_date": "2026-10-06"
 }

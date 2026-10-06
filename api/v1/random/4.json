@@ -1,16 +1,18 @@
 {
-  "text": "Hustle culture is just exploitation with better marketing.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "production-is-different",
+  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
+  "author": "Yogi Berra (applied to programming)",
+  "author_slug": "berra",
+  "source": "Various attributions",
   "categories": [
-    "productivity"
+    "funny",
+    "wisdom"
   ],
   "tags": [
-    "hustle",
-    "burnout"
+    "theory",
+    "practice",
+    "production"
   ],
-  "grug_level": 4,
-  "spiciness": 5,
-  "id": "based-hustle-culture-is-just",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 1
 }
