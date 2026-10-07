@@ -1,18 +1,16 @@
 {
-  "id": "production-is-different",
-  "text": "In theory, there is no difference between theory and practice. In practice, there is.",
-  "author": "Yogi Berra (applied to programming)",
-  "author_slug": "berra",
-  "source": "Various attributions",
+  "text": "The best entrepreneurs are the ones who can make decisions with incomplete information.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "entrepreneur"
   ],
   "tags": [
-    "theory",
-    "practice",
-    "production"
+    "decisions",
+    "uncertainty"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-the-best-entrepreneurs-are-959",
+  "source": "Community sourced"
 }

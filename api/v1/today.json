@@ -1,17 +1,17 @@
 {
-  "text": "The best architecture is the one that doesn't need an architecture diagram.",
+  "text": "The best meetings are the ones that don't happen. The second best are the ones that end early.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "architecture",
-    "simplicity"
+    "meetings",
+    "efficiency"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-architecture-is",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-meetings-are",
   "source": "Community sourced",
-  "_date": "2026-10-06"
+  "_date": "2026-10-07"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
-  "author": "Rick Cook",
-  "author_slug": "cook",
+  "text": "The best time to update your resume is when you don't need one. The second best is when you're too late.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "productivity"
   ],
   "tags": [
-    "idiots",
-    "universe"
+    "resume",
+    "career"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "cook-programming-today-is-a",
+  "spiciness": 3,
+  "id": "based-the-best-time-to-493",
   "source": "Community sourced"
 }

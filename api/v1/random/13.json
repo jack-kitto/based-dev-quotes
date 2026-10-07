@@ -1,18 +1,19 @@
 {
-  "id": "atwood-any-application",
-  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
-  "author": "Jeff Atwood",
-  "author_slug": "atwood",
-  "source": "Atwood's Law, 2007",
+  "id": "hofstadter-law",
+  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+  "author": "Douglas Hofstadter",
+  "author_slug": "hofstadter",
+  "source": "Gödel, Escher, Bach, 1979",
   "categories": [
     "funny",
-    "tools"
+    "suffering"
   ],
   "tags": [
-    "javascript",
-    "inevitability",
+    "estimation",
+    "time",
+    "recursive",
     "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1
 }
