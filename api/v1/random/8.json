@@ -1,19 +1,20 @@
 {
-  "id": "saas-idea-validation",
-  "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
+  "id": "ai-replace-devs",
+  "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Indie hacker Twitter",
+  "source": "Dev Twitter, 2023",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "funny",
+    "career",
+    "shitpost"
   ],
   "tags": [
-    "saas",
-    "mvp",
-    "spreadsheet",
-    "validation"
+    "ai",
+    "replacement",
+    "jobs",
+    "automation"
   ],
-  "grug_level": 5,
+  "grug_level": 3,
   "spiciness": 3
 }

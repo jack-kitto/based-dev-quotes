@@ -1,18 +1,17 @@
 {
-  "text": "The best product teams listen more than they talk. Your users know more about their problems than you do.",
+  "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business"
   ],
   "tags": [
-    "listening",
-    "humility"
+    "dashboard",
+    "clarity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-product-teams",
+  "id": "based-your-dashboard-should-answer",
   "source": "Community sourced",
-  "_generated_at": "2026-10-07T04:41:04.051293+00:00"
+  "_generated_at": "2026-10-08T04:51:30.437970+00:00"
 }

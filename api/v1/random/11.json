@@ -1,16 +1,17 @@
 {
-  "text": "Your pricing page is your most important A/B test. The difference between $29 and $39 per month is millions in ARR.",
+  "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "pricing",
-    "ab-testing"
+    "shipping",
+    "bugs"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-your-pricing-page-is-524",
+  "id": "based-ship-it-then-fix",
   "source": "Community sourced"
 }
