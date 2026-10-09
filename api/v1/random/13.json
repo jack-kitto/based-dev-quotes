@@ -1,16 +1,17 @@
 {
-  "text": "Your best ideas come when you're focused, not when you're distracted. Protect your focus time.",
+  "text": "The best time to build a CLI version of your SaaS is when your power users ask for it. They're your best advocates.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "ideas",
-    "focus"
+    "cli",
+    "power-users"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-best-ideas-come-999",
+  "id": "based-the-best-time-to-335",
   "source": "Community sourced"
 }

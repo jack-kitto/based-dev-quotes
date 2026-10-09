@@ -1,17 +1,17 @@
 {
-  "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
+  "text": "Your integrations page is your growth strategy. The more tools you connect, the more valuable you become.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas"
   ],
   "tags": [
-    "dashboard",
-    "clarity"
+    "integrations",
+    "growth"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-dashboard-should-answer",
+  "id": "based-your-integrations-page-is",
   "source": "Community sourced",
-  "_generated_at": "2026-10-08T04:51:30.437970+00:00"
+  "_generated_at": "2026-10-09T04:54:46.530276+00:00"
 }
