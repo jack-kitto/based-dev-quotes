@@ -1,16 +1,16 @@
 {
-  "text": "Your SaaS should work offline. Not because everyone needs offline, but because 'no internet' happens to everyone.",
+  "text": "Your calendar reflects your priorities. If it doesn't, you don't have priorities — you have wishes.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "productivity"
   ],
   "tags": [
-    "offline",
-    "resilience"
+    "calendar",
+    "priorities"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-saas-should-work-761",
+  "spiciness": 3,
+  "id": "based-your-calendar-reflects-your",
   "source": "Community sourced"
 }

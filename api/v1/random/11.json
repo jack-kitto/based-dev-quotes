@@ -1,17 +1,17 @@
 {
-  "text": "The best businesses are built on one simple insight: 'This could be so much better.' Execute that insight.",
+  "text": "TypeScript is just JavaScript wearing a trench coat and fake mustache pretending to be a serious language.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "insight",
-    "execution"
+    "typescript",
+    "javascript"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-businesses-are",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-typescript-is-just-javascript",
   "source": "Community sourced"
 }

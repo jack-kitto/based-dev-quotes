@@ -1,16 +1,17 @@
 {
-  "text": "Your first startup will probably fail. Your second might too. Your third might be the one.",
+  "text": "The best way to learn business is to run one. No MBA needed.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "entrepreneur"
+    "indie-hacker",
+    "business"
   ],
   "tags": [
-    "startup",
-    "persistence"
+    "learning",
+    "business"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-first-startup-will",
+  "id": "based-the-best-way-to-1070",
   "source": "Community sourced"
 }
