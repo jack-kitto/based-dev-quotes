@@ -1,16 +1,19 @@
 {
-  "text": "Your data pipeline is only as good as its weakest transformation. Garbage in, garbage out.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "java-sufficiently-smart",
+  "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+  "author": "Bjarne Stroustrup",
+  "author_slug": "stroustrup",
+  "source": "The Design and Evolution of C++",
   "categories": [
-    "engineering"
+    "funny",
+    "wisdom",
+    "tools"
   ],
   "tags": [
-    "data",
-    "quality"
+    "languages",
+    "complaints",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-data-pipeline-is",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 2
 }

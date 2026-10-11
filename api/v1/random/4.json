@@ -1,16 +1,16 @@
 {
-  "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
-  "author": "Simon Sinek",
-  "author_slug": "sinek",
+  "text": "Your SaaS should have a status page that's always up to date. When it's down, your status page is the only thing users trust.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "saas"
   ],
   "tags": [
-    "leadership",
-    "care"
+    "status-page",
+    "trust"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "sinek-leadership-is-not-about",
+  "spiciness": 2,
+  "id": "based-your-saas-should-have-765",
   "source": "Community sourced"
 }

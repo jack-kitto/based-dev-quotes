@@ -1,16 +1,17 @@
 {
-  "text": "Your reputation precedes you. Build it intentionally.",
+  "text": "Every good abstraction starts as 'this is so simple!' and ends as 'I can't believe how complex this is.'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "reputation",
-    "intention"
+    "abstraction",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-reputation-precedes-you",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-every-good-abstraction-starts",
   "source": "Community sourced"
 }

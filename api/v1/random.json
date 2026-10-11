@@ -1,17 +1,18 @@
 {
-  "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+  "text": "The best IDE is the one that disappears. You shouldn't be thinking about the tool.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "productivity",
+    "engineering"
   ],
   "tags": [
-    "failure",
-    "planning"
+    "ide",
+    "flow"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-858",
+  "id": "based-the-best-ide-is",
   "source": "Community sourced",
-  "_generated_at": "2026-10-10T04:40:18.004515+00:00"
+  "_generated_at": "2026-10-11T04:25:06.505420+00:00"
 }
