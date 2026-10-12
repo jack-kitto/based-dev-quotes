@@ -1,16 +1,16 @@
 {
-  "text": "The SaaS customer lifecycle: sign up, use it twice, forget password, reset password, never log in again. Your job is to break this cycle.",
+  "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "business"
   ],
   "tags": [
-    "retention",
-    "activation"
+    "business-model",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-saas-customer-lifecycle",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-business-model-should",
   "source": "Community sourced"
 }

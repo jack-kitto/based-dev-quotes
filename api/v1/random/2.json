@@ -1,16 +1,16 @@
 {
-  "text": "Responsive design is easy. Responsive design that doesn't look like garbage on a 320px screen is hard.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The best revenge is massive success.",
+  "author": "Frank Sinatra",
+  "author_slug": "sinatra",
   "categories": [
-    "design"
+    "wisdom"
   ],
   "tags": [
-    "responsive",
-    "mobile"
+    "success",
+    "motivation"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-responsive-design-is-easy",
+  "spiciness": 1,
+  "id": "sinatra-the-best-revenge-is",
   "source": "Community sourced"
 }

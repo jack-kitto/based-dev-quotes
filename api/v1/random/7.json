@@ -1,16 +1,17 @@
 {
-  "text": "Your dashboard should answer questions, not display charts. If you have to interpret it, it's failing.",
+  "text": "The best way to simplify is to start with the user's needs, not your features.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design",
+    "product"
   ],
   "tags": [
-    "dashboard",
-    "clarity"
+    "simplicity",
+    "user-needs"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-dashboard-should-answer",
+  "id": "based-the-best-way-to-1006",
   "source": "Community sourced"
 }

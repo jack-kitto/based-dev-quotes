@@ -1,18 +1,18 @@
 {
-  "id": "full-stack-pain",
-  "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+  "id": "friday-deploy",
+  "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "source": "Programming folklore",
   "categories": [
     "funny",
-    "career"
+    "suffering"
   ],
   "tags": [
-    "full-stack",
-    "hiring",
-    "startups"
+    "friday",
+    "deployment",
+    "fear"
   ],
-  "grug_level": 4,
-  "spiciness": 3
+  "grug_level": 5,
+  "spiciness": 1
 }
