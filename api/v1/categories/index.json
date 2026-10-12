@@ -5,10 +5,10 @@
       "count": 216
     },
     "career": {
-      "count": 8
+      "count": 11
     },
     "complexity": {
-      "count": 19
+      "count": 24
     },
     "debugging": {
       "count": 16
@@ -29,10 +29,10 @@
       "count": 9
     },
     "funny": {
-      "count": 63
+      "count": 72
     },
     "grug": {
-      "count": 8
+      "count": 10
     },
     "indie-hacker": {
       "count": 128
@@ -53,13 +53,13 @@
       "count": 20
     },
     "shitpost": {
-      "count": 59
+      "count": 66
     },
     "suffering": {
       "count": 28
     },
     "tools": {
-      "count": 6
+      "count": 7
     },
     "unix": {
       "count": 2
@@ -68,7 +68,7 @@
       "count": 47
     },
     "wisdom": {
-      "count": 176
+      "count": 181
     }
   }
 }

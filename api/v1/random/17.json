@@ -1,16 +1,17 @@
 {
-  "text": "Every indie hacker has 100 ideas. The successful ones execute one.",
+  "text": "Ship it, then fix it. Nobody sees your bugs until you've told them where to look.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "execution",
-    "ideas"
+    "shipping",
+    "bugs"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-every-indie-hacker-has",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-ship-it-then-fix",
   "source": "Community sourced"
 }

@@ -1,6 +1,6 @@
 {
   "category": "complexity",
-  "count": 19,
+  "count": 24,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -351,6 +351,114 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "The bottleneck is no longer writing code but staying aligned with it, knowing what it does and whether it does what you meant. In my own work, that's now most of the job, even for code I asked for.",
+      "author": "jcolot",
+      "author_slug": "jcolot",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "code-review",
+        "ai",
+        "maintainers",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Sharp reframing of the AI-coding debate: the real cost shifted from writing to comprehending. Concise, real-earned insight.",
+      "id": "jcolot-the-bottleneck-is-no"
+    },
+    {
+      "text": "I think this is the end of open-contributions. Maintainers already have too much on their plate. Plus it is becoming exceedingly rare to find a contributor that saves time — as in, can do better than the maintainer themselves using an LLM and reviewing it.",
+      "author": "KolmogorovComp",
+      "author_slug": "kolmogorovcomp",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "complexity",
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "ai",
+        "maintainers",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Genuinely uncomfortable take that most people won't say out loud: AI-assisted drive-by PRs are net negative for maintainers.",
+      "id": "kolmogorovcomp-i-think-this-is"
+    },
+    {
+      "text": "W3C: Why can't we just have <includes src=\"./header.html\"> and be done with it?",
+      "author": "fergie",
+      "author_slug": "fergie",
+      "source": "Hacker News — Type-safe HTML templating in Zig",
+      "source_url": "https://news.ycombinator.com/item?id=50051573",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "web-standards",
+        "templating",
+        "simplicity",
+        "html"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug take: a whole templating language solved by one dumb HTML tag. Punchy, standalone, universally relatable.",
+      "id": "fergie-w3c-why-cant-we"
+    },
+    {
+      "text": "I would really like the README to be revised in human English. Claudish makes my brain averse to absorbing the information.",
+      "author": "zanderwohl",
+      "author_slug": "zanderwohl",
+      "source": "Hacker News — Choreographic Programming in Rust",
+      "source_url": "https://news.ycombinator.com/item?id=50042936",
+      "categories": [
+        "funny",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-generated-docs",
+        "readme",
+        "complexity",
+        "writing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Sharp, funny dig at AI-mangled documentation — very grug, very real. Works standalone.",
+      "id": "zanderwohl-i-would-really-like"
+    },
+    {
+      "text": "This is super interesting, but I would vastly prefer a regular article with the relevant illustrations interspersed as static images.",
+      "author": "layer8",
+      "author_slug": "layer8",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "web-design",
+        "anti-complexity",
+        "scrolljank",
+        "just-works"
+      ],
+      "grug_level": 5,
+      "spiciness": 2,
+      "extraction_note": "Pure grug take on fancy interactive articles — the quiet plea of every developer tired of scroll-triggered theatrics.",
+      "id": "layer8-this-is-super-interesting"
     }
   ]
 }

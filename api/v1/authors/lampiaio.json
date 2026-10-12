@@ -1,0 +1,28 @@
+{
+  "author": "lampiaio",
+  "slug": "lampiaio",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "OSM is one of my personal 7 Wonders of the Internet.",
+      "author": "lampiaio",
+      "author_slug": "lampiaio",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "openstreetmap",
+        "open-source",
+        "internet",
+        "community"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Short, warm, memorable line about a beloved piece of internet infrastructure. Great standalone quote.",
+      "id": "lampiaio-osm-is-one-of"
+    }
+  ]
+}

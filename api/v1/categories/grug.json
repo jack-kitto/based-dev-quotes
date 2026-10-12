@@ -1,6 +1,6 @@
 {
   "category": "grug",
-  "count": 8,
+  "count": 10,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -150,6 +150,49 @@
       ],
       "grug_level": 5,
       "spiciness": 2
+    },
+    {
+      "text": "W3C: Why can't we just have <includes src=\"./header.html\"> and be done with it?",
+      "author": "fergie",
+      "author_slug": "fergie",
+      "source": "Hacker News — Type-safe HTML templating in Zig",
+      "source_url": "https://news.ycombinator.com/item?id=50051573",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "web-standards",
+        "templating",
+        "simplicity",
+        "html"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug take: a whole templating language solved by one dumb HTML tag. Punchy, standalone, universally relatable.",
+      "id": "fergie-w3c-why-cant-we"
+    },
+    {
+      "text": "This is super interesting, but I would vastly prefer a regular article with the relevant illustrations interspersed as static images.",
+      "author": "layer8",
+      "author_slug": "layer8",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "web-design",
+        "anti-complexity",
+        "scrolljank",
+        "just-works"
+      ],
+      "grug_level": 5,
+      "spiciness": 2,
+      "extraction_note": "Pure grug take on fancy interactive articles — the quiet plea of every developer tired of scroll-triggered theatrics.",
+      "id": "layer8-this-is-super-interesting"
     }
   ]
 }

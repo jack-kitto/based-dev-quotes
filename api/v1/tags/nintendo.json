@@ -1,0 +1,28 @@
+{
+  "tag": "nintendo",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Almost every bit of design, math, and coding knowledge was flipped on its head overnight. Developers who were managing relatively simple XY coordinates suddenly had to discover the complexities of 3D rotations, perspective math, and more linear algebra than they ever expected to know. It's even crazier we got masterpieces like Mario 64 so early into the first 3D console generation.",
+      "author": "deltaburnt",
+      "author_slug": "deltaburnt",
+      "source": "Hacker News — The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "source_url": "https://news.ycombinator.com/item?id=50036287",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "game-dev",
+        "3d",
+        "linear-algebra",
+        "nintendo",
+        "history"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Genuinely great historical observation about paradigm shifts in engineering, and quietly flattering to anyone who struggled with 3D math.",
+      "id": "deltaburnt-almost-every-bit-of"
+    }
+  ]
+}

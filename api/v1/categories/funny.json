@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 72,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,198 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "I implemented CSS geometry properties for SVG2 in resvg with Claude. I know it works and I've read the diff. But I'm afraid to send a PR because it might offend an artisanal handcrafted free-range software enthusiast. I guess any other AI enjoyer who needs this feature will just burn a few tokens and do it themselves to keep the luddites from smashing the factories.",
+      "author": "jerkstate",
+      "author_slug": "jerkstate",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-generated-code",
+        "open-source",
+        "pr-culture",
+        "luddites"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Peak HN drama distilled: 'artisanal handcrafted free-range software enthusiast' is an all-timer insult, and the underlying point about balkanized forks is real.",
+      "id": "jerkstate-i-implemented-css-geometry"
+    },
+    {
+      "text": "Whose agents have escaped this time?",
+      "author": "baxtr",
+      "author_slug": "baxtr",
+      "source": "Hacker News — Incident with Actions, Pull Requests and Issues",
+      "source_url": "https://news.ycombinator.com/item?id=50055375",
+      "categories": [
+        "shitpost",
+        "funny"
+      ],
+      "tags": [
+        "github",
+        "outage",
+        "ai-agents",
+        "incident"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "One-liner that perfectly captures the emerging genre of blaming rogue AI agents for every infra incident. Rhetorical and hilarious.",
+      "id": "baxtr-whose-agents-have-escaped"
+    },
+    {
+      "text": "W3C: Why can't we just have <includes src=\"./header.html\"> and be done with it?",
+      "author": "fergie",
+      "author_slug": "fergie",
+      "source": "Hacker News — Type-safe HTML templating in Zig",
+      "source_url": "https://news.ycombinator.com/item?id=50051573",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "web-standards",
+        "templating",
+        "simplicity",
+        "html"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug take: a whole templating language solved by one dumb HTML tag. Punchy, standalone, universally relatable.",
+      "id": "fergie-w3c-why-cant-we"
+    },
+    {
+      "text": "Have you noticed that Codex-generated websites tend to have these 01, 02, 03 numbers as part of card layouts? It's almost the em-dash equivalent for AI-built website detection.",
+      "author": "samstress",
+      "author_slug": "samstress",
+      "source": "Hacker News — Total Annihilation, rebuilt for modern computers",
+      "source_url": "https://news.ycombinator.com/item?id=50045984",
+      "categories": [
+        "funny",
+        "tools",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-detection",
+        "codegen",
+        "design-tells",
+        "llm"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Genuinely funny, specific observation about AI-generated design tells. Reads like a developer folk theory in the best way.",
+      "id": "samstress-have-you-noticed-that"
+    },
+    {
+      "text": "I would really like the README to be revised in human English. Claudish makes my brain averse to absorbing the information.",
+      "author": "zanderwohl",
+      "author_slug": "zanderwohl",
+      "source": "Hacker News — Choreographic Programming in Rust",
+      "source_url": "https://news.ycombinator.com/item?id=50042936",
+      "categories": [
+        "funny",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-generated-docs",
+        "readme",
+        "complexity",
+        "writing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Sharp, funny dig at AI-mangled documentation — very grug, very real. Works standalone.",
+      "id": "zanderwohl-i-would-really-like"
+    },
+    {
+      "text": "Unexpected interpretation of on-device inference: it drives an AMD GPU in a Thunderbolt enclosure.",
+      "author": "mkesper",
+      "author_slug": "mkesper",
+      "source": "Hacker News — Running the unmodified Linux amdgpu driver on an iPad",
+      "source_url": "https://news.ycombinator.com/item?id=50041573",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "hardware",
+        "inference",
+        "amd",
+        "joke"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry joke about the gap between marketing language and actual setup. Cute but not deep.",
+      "id": "mkesper-unexpected-interpretation-of-ondevice"
+    },
+    {
+      "text": "Who would want to play Gran Turismo without long CD loading screens?",
+      "author": "eluusive",
+      "author_slug": "eluusive",
+      "source": "Hacker News — Show HN: PS2 games statically recompiled to WebAssembly",
+      "source_url": "https://news.ycombinator.com/item?id=50052251",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "nostalgia",
+        "gaming",
+        "emulation",
+        "loading-screens"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Perfectly dry one-liner joke about nostalgia for jank. Works standalone, genuinely funny.",
+      "id": "eluusive-who-would-want-to"
+    },
+    {
+      "text": "OSM is one of my personal 7 Wonders of the Internet.",
+      "author": "lampiaio",
+      "author_slug": "lampiaio",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "openstreetmap",
+        "open-source",
+        "internet",
+        "community"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Short, warm, memorable line about a beloved piece of internet infrastructure. Great standalone quote.",
+      "id": "lampiaio-osm-is-one-of"
+    },
+    {
+      "text": "Good afternoon. Please provide us a screenshot of these OSM map. Only know \"Google Maps\". Thank you.",
+      "author": "pixelN",
+      "author_slug": "pixeln",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "openstreetmap",
+        "bureaucracy",
+        "cold-war",
+        "lost-in-translation"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Hilarious real-world email exchange — an entire geopolitical situation compressed into one bewildered reply.",
+      "id": "pixeln-good-afternoon-please-provide"
     }
   ]
 }

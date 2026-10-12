@@ -1,0 +1,29 @@
+{
+  "author": "samstress",
+  "slug": "samstress",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Have you noticed that Codex-generated websites tend to have these 01, 02, 03 numbers as part of card layouts? It's almost the em-dash equivalent for AI-built website detection.",
+      "author": "samstress",
+      "author_slug": "samstress",
+      "source": "Hacker News — Total Annihilation, rebuilt for modern computers",
+      "source_url": "https://news.ycombinator.com/item?id=50045984",
+      "categories": [
+        "funny",
+        "tools",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-detection",
+        "codegen",
+        "design-tells",
+        "llm"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Genuinely funny, specific observation about AI-generated design tells. Reads like a developer folk theory in the best way.",
+      "id": "samstress-have-you-noticed-that"
+    }
+  ]
+}

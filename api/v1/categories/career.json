@@ -1,6 +1,6 @@
 {
   "category": "career",
-  "count": 8,
+  "count": 11,
   "quotes": [
     {
       "id": "senior-dev-google",
@@ -148,6 +148,71 @@
       ],
       "grug_level": 3,
       "spiciness": 3
+    },
+    {
+      "text": "I think this is the end of open-contributions. Maintainers already have too much on their plate. Plus it is becoming exceedingly rare to find a contributor that saves time — as in, can do better than the maintainer themselves using an LLM and reviewing it.",
+      "author": "KolmogorovComp",
+      "author_slug": "kolmogorovcomp",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "complexity",
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "ai",
+        "maintainers",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Genuinely uncomfortable take that most people won't say out loud: AI-assisted drive-by PRs are net negative for maintainers.",
+      "id": "kolmogorovcomp-i-think-this-is"
+    },
+    {
+      "text": "Almost every bit of design, math, and coding knowledge was flipped on its head overnight. Developers who were managing relatively simple XY coordinates suddenly had to discover the complexities of 3D rotations, perspective math, and more linear algebra than they ever expected to know. It's even crazier we got masterpieces like Mario 64 so early into the first 3D console generation.",
+      "author": "deltaburnt",
+      "author_slug": "deltaburnt",
+      "source": "Hacker News — The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "source_url": "https://news.ycombinator.com/item?id=50036287",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "game-dev",
+        "3d",
+        "linear-algebra",
+        "nintendo",
+        "history"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Genuinely great historical observation about paradigm shifts in engineering, and quietly flattering to anyone who struggled with 3D math.",
+      "id": "deltaburnt-almost-every-bit-of"
+    },
+    {
+      "text": "I really don't like how AI changed my profession, but hey at least I get something good from it.",
+      "author": "zuInnp",
+      "author_slug": "zuinnp",
+      "source": "Hacker News — Show HN: PS2 games statically recompiled to WebAssembly",
+      "source_url": "https://news.ycombinator.com/item?id=50052251",
+      "categories": [
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "ai",
+        "developer-burnout",
+        "ambivalence",
+        "industry"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Genuine, unvarnished ambivalence about AI in dev — captures a feeling most engineers won't say out loud.",
+      "id": "zuinnp-i-really-dont-like"
     }
   ]
 }

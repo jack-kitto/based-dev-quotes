@@ -1,0 +1,28 @@
+{
+  "author": "jcolot",
+  "slug": "jcolot",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The bottleneck is no longer writing code but staying aligned with it, knowing what it does and whether it does what you meant. In my own work, that's now most of the job, even for code I asked for.",
+      "author": "jcolot",
+      "author_slug": "jcolot",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "code-review",
+        "ai",
+        "maintainers",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Sharp reframing of the AI-coding debate: the real cost shifted from writing to comprehending. Concise, real-earned insight.",
+      "id": "jcolot-the-bottleneck-is-no"
+    }
+  ]
+}

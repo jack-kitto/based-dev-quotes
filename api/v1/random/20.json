@@ -1,17 +1,16 @@
 {
-  "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-  "author": "Martin Fowler",
-  "author_slug": "fowler",
+  "text": "Your test suite should catch regressions. If it doesn't, it's just running code for no reason.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "readability",
-    "clarity"
+    "testing",
+    "regression"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "fowler-any-fool-can-write",
+  "spiciness": 2,
+  "id": "based-your-test-suite-should",
   "source": "Community sourced"
 }

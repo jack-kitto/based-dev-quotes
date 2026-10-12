@@ -1,5 +1,5 @@
 {
-  "total": 98,
+  "total": 112,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
@@ -16,6 +16,10 @@
     "based": {
       "name": "based",
       "count": 867
+    },
+    "baxtr": {
+      "name": "baxtr",
+      "count": 1
     },
     "beck": {
       "name": "Kent Beck",
@@ -81,6 +85,10 @@
       "name": "Leonardo da Vinci",
       "count": 2
     },
+    "deltaburnt": {
+      "name": "deltaburnt",
+      "count": 1
+    },
     "deming": {
       "name": "W. Edwards Deming",
       "count": 2
@@ -113,8 +121,16 @@
       "name": "Albert Einstein",
       "count": 4
     },
+    "eluusive": {
+      "name": "eluusive",
+      "count": 1
+    },
     "feathers": {
       "name": "Michael Feathers",
+      "count": 1
+    },
+    "fergie": {
+      "name": "fergie",
       "count": 1
     },
     "ford": {
@@ -193,6 +209,10 @@
       "name": "William James",
       "count": 1
     },
+    "jcolot": {
+      "name": "jcolot",
+      "count": 1
+    },
     "jefferson": {
       "name": "Thomas Jefferson",
       "count": 1
@@ -200,6 +220,10 @@
     "jeffries": {
       "name": "Ron Jeffries / XP",
       "count": 2
+    },
+    "jerkstate": {
+      "name": "jerkstate",
+      "count": 1
     },
     "jobs": {
       "name": "Steve Jobs",
@@ -217,8 +241,20 @@
       "name": "Donald Knuth",
       "count": 1
     },
+    "kolmogorovcomp": {
+      "name": "KolmogorovComp",
+      "count": 1
+    },
+    "lampiaio": {
+      "name": "lampiaio",
+      "count": 1
+    },
     "lampson": {
       "name": "Butler Lampson (modified)",
+      "count": 1
+    },
+    "layer8": {
+      "name": "layer8",
       "count": 1
     },
     "levels": {
@@ -261,6 +297,10 @@
       "name": "Ludwig Mies van der Rohe",
       "count": 1
     },
+    "mkesper": {
+      "name": "mkesper",
+      "count": 1
+    },
     "muratori": {
       "name": "Casey Muratori",
       "count": 1
@@ -301,6 +341,10 @@
       "name": "Rob Pike",
       "count": 2
     },
+    "pixeln": {
+      "name": "pixelN",
+      "count": 1
+    },
     "rams": {
       "name": "Dieter Rams",
       "count": 1
@@ -319,6 +363,10 @@
     },
     "saint-exupery": {
       "name": "Antoine de Saint-Exupéry",
+      "count": 1
+    },
+    "samstress": {
+      "name": "samstress",
       "count": 1
     },
     "sassoon": {
@@ -385,6 +433,10 @@
       "name": "Steve Yegge",
       "count": 1
     },
+    "zanderwohl": {
+      "name": "zanderwohl",
+      "count": 1
+    },
     "zawinski": {
       "name": "Jamie Zawinski",
       "count": 1
@@ -392,6 +444,10 @@
     "zuckerberg": {
       "name": "Mark Zuckerberg",
       "count": 2
+    },
+    "zuinnp": {
+      "name": "zuInnp",
+      "count": 1
     }
   }
 }

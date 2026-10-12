@@ -1,6 +1,6 @@
 {
   "tag": "writing",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "text": "Every indie hacker should learn one marketing skill: writing. Everything else is a bonus.",
@@ -18,6 +18,28 @@
       "spiciness": 2,
       "id": "based-every-indie-hacker-should",
       "source": "Community sourced"
+    },
+    {
+      "text": "I would really like the README to be revised in human English. Claudish makes my brain averse to absorbing the information.",
+      "author": "zanderwohl",
+      "author_slug": "zanderwohl",
+      "source": "Hacker News — Choreographic Programming in Rust",
+      "source_url": "https://news.ycombinator.com/item?id=50042936",
+      "categories": [
+        "funny",
+        "complexity",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-generated-docs",
+        "readme",
+        "complexity",
+        "writing"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Sharp, funny dig at AI-mangled documentation — very grug, very real. Works standalone.",
+      "id": "zanderwohl-i-would-really-like"
     }
   ]
 }

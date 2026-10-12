@@ -1,0 +1,27 @@
+{
+  "tag": "pr-culture",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I implemented CSS geometry properties for SVG2 in resvg with Claude. I know it works and I've read the diff. But I'm afraid to send a PR because it might offend an artisanal handcrafted free-range software enthusiast. I guess any other AI enjoyer who needs this feature will just burn a few tokens and do it themselves to keep the luddites from smashing the factories.",
+      "author": "jerkstate",
+      "author_slug": "jerkstate",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai-generated-code",
+        "open-source",
+        "pr-culture",
+        "luddites"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Peak HN drama distilled: 'artisanal handcrafted free-range software enthusiast' is an all-timer insult, and the underlying point about balkanized forks is real.",
+      "id": "jerkstate-i-implemented-css-geometry"
+    }
+  ]
+}

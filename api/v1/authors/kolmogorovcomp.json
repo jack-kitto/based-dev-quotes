@@ -1,0 +1,29 @@
+{
+  "author": "KolmogorovComp",
+  "slug": "kolmogorovcomp",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I think this is the end of open-contributions. Maintainers already have too much on their plate. Plus it is becoming exceedingly rare to find a contributor that saves time — as in, can do better than the maintainer themselves using an LLM and reviewing it.",
+      "author": "KolmogorovComp",
+      "author_slug": "kolmogorovcomp",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "complexity",
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "ai",
+        "maintainers",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Genuinely uncomfortable take that most people won't say out loud: AI-assisted drive-by PRs are net negative for maintainers.",
+      "id": "kolmogorovcomp-i-think-this-is"
+    }
+  ]
+}

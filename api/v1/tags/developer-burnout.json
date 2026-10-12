@@ -1,0 +1,27 @@
+{
+  "tag": "developer-burnout",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I really don't like how AI changed my profession, but hey at least I get something good from it.",
+      "author": "zuInnp",
+      "author_slug": "zuinnp",
+      "source": "Hacker News — Show HN: PS2 games statically recompiled to WebAssembly",
+      "source_url": "https://news.ycombinator.com/item?id=50052251",
+      "categories": [
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "ai",
+        "developer-burnout",
+        "ambivalence",
+        "industry"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Genuine, unvarnished ambivalence about AI in dev — captures a feeling most engineers won't say out loud.",
+      "id": "zuinnp-i-really-dont-like"
+    }
+  ]
+}

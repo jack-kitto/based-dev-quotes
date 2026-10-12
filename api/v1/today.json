@@ -1,19 +1,18 @@
 {
-  "id": "debugging-detective",
-  "text": "Debugging is like being the detective in a crime movie where you are also the murderer.",
-  "author": "Filipe Fortes",
-  "author_slug": "fortes",
-  "source": "Twitter, 2013",
+  "text": "Your staging environment should match production. If it doesn't, your staging is lying to you.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "debugging"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "debugging",
-    "detective",
-    "crime"
+    "staging",
+    "parity"
   ],
-  "grug_level": 4,
-  "spiciness": 1,
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-staging-environment-should-741",
+  "source": "Community sourced",
   "_date": "2026-10-12"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+  "text": "Event-driven architecture is great until you have to debug why an event from 3 days ago triggered a cascade of failures.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "engineering"
   ],
   "tags": [
-    "legacy",
-    "fear"
+    "events",
+    "debugging"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-if-your-code-works",
+  "id": "based-eventdriven-architecture-is-great",
   "source": "Community sourced"
 }

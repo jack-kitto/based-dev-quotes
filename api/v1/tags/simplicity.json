@@ -1,6 +1,6 @@
 {
   "tag": "simplicity",
-  "count": 70,
+  "count": 71,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -1194,6 +1194,28 @@
       "spiciness": 2,
       "id": "based-your-indie-business-should-1071",
       "source": "Community sourced"
+    },
+    {
+      "text": "W3C: Why can't we just have <includes src=\"./header.html\"> and be done with it?",
+      "author": "fergie",
+      "author_slug": "fergie",
+      "source": "Hacker News — Type-safe HTML templating in Zig",
+      "source_url": "https://news.ycombinator.com/item?id=50051573",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "web-standards",
+        "templating",
+        "simplicity",
+        "html"
+      ],
+      "grug_level": 5,
+      "spiciness": 3,
+      "extraction_note": "Perfect grug take: a whole templating language solved by one dumb HTML tag. Punchy, standalone, universally relatable.",
+      "id": "fergie-w3c-why-cant-we"
     }
   ]
 }

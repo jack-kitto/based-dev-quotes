@@ -1,0 +1,27 @@
+{
+  "tag": "anti-complexity",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "This is super interesting, but I would vastly prefer a regular article with the relevant illustrations interspersed as static images.",
+      "author": "layer8",
+      "author_slug": "layer8",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "web-design",
+        "anti-complexity",
+        "scrolljank",
+        "just-works"
+      ],
+      "grug_level": 5,
+      "spiciness": 2,
+      "extraction_note": "Pure grug take on fancy interactive articles — the quiet plea of every developer tired of scroll-triggered theatrics.",
+      "id": "layer8-this-is-super-interesting"
+    }
+  ]
+}

@@ -1,16 +1,17 @@
 {
-  "text": "Your brand isn't what you say it is. It's what Google says it is. And what Reddit says. And what that one angry customer says.",
+  "text": "A/B testing is how you find out which of your two bad ideas is slightly less bad.",
   "author": "based",
   "author_slug": "based",
   "categories": [
+    "design",
     "marketing"
   ],
   "tags": [
-    "brand",
-    "reputation"
+    "ab-testing",
+    "product"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-brand-isnt-what",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-ab-testing-is-how",
   "source": "Community sourced"
 }

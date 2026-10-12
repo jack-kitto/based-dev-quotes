@@ -1,0 +1,27 @@
+{
+  "tag": "lost-in-translation",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Good afternoon. Please provide us a screenshot of these OSM map. Only know \"Google Maps\". Thank you.",
+      "author": "pixelN",
+      "author_slug": "pixeln",
+      "source": "Hacker News — Cartographers of North Korea (2019)",
+      "source_url": "https://news.ycombinator.com/item?id=50047091",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "openstreetmap",
+        "bureaucracy",
+        "cold-war",
+        "lost-in-translation"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Hilarious real-world email exchange — an entire geopolitical situation compressed into one bewildered reply.",
+      "id": "pixeln-good-afternoon-please-provide"
+    }
+  ]
+}

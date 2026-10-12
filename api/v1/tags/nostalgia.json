@@ -1,0 +1,27 @@
+{
+  "tag": "nostalgia",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Who would want to play Gran Turismo without long CD loading screens?",
+      "author": "eluusive",
+      "author_slug": "eluusive",
+      "source": "Hacker News — Show HN: PS2 games statically recompiled to WebAssembly",
+      "source_url": "https://news.ycombinator.com/item?id=50052251",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "nostalgia",
+        "gaming",
+        "emulation",
+        "loading-screens"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Perfectly dry one-liner joke about nostalgia for jank. Works standalone, genuinely funny.",
+      "id": "eluusive-who-would-want-to"
+    }
+  ]
+}

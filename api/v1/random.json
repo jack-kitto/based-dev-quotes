@@ -1,17 +1,17 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "The problem with Object-Oriented Programming is that it was invented by academics, and everything they do is overcomplicated.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "oop",
+    "opinion"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-problem-with-objectoriented",
   "source": "Community sourced",
-  "_generated_at": "2026-10-12T04:40:59.789272+00:00"
+  "_generated_at": "2026-10-12T14:06:50.109569+00:00"
 }

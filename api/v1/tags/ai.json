@@ -1,6 +1,6 @@
 {
   "tag": "ai",
-  "count": 2,
+  "count": 5,
   "quotes": [
     {
       "id": "ai-replace-devs",
@@ -39,6 +39,70 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "The bottleneck is no longer writing code but staying aligned with it, knowing what it does and whether it does what you meant. In my own work, that's now most of the job, even for code I asked for.",
+      "author": "jcolot",
+      "author_slug": "jcolot",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "code-review",
+        "ai",
+        "maintainers",
+        "understanding"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Sharp reframing of the AI-coding debate: the real cost shifted from writing to comprehending. Concise, real-earned insight.",
+      "id": "jcolot-the-bottleneck-is-no"
+    },
+    {
+      "text": "I think this is the end of open-contributions. Maintainers already have too much on their plate. Plus it is becoming exceedingly rare to find a contributor that saves time — as in, can do better than the maintainer themselves using an LLM and reviewing it.",
+      "author": "KolmogorovComp",
+      "author_slug": "kolmogorovcomp",
+      "source": "Hacker News — QGIS bans AI assisted contributions",
+      "source_url": "https://news.ycombinator.com/item?id=50054751",
+      "categories": [
+        "complexity",
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "open-source",
+        "ai",
+        "maintainers",
+        "attention"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Genuinely uncomfortable take that most people won't say out loud: AI-assisted drive-by PRs are net negative for maintainers.",
+      "id": "kolmogorovcomp-i-think-this-is"
+    },
+    {
+      "text": "I really don't like how AI changed my profession, but hey at least I get something good from it.",
+      "author": "zuInnp",
+      "author_slug": "zuinnp",
+      "source": "Hacker News — Show HN: PS2 games statically recompiled to WebAssembly",
+      "source_url": "https://news.ycombinator.com/item?id=50052251",
+      "categories": [
+        "career",
+        "wisdom"
+      ],
+      "tags": [
+        "ai",
+        "developer-burnout",
+        "ambivalence",
+        "industry"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Genuine, unvarnished ambivalence about AI in dev — captures a feeling most engineers won't say out loud.",
+      "id": "zuinnp-i-really-dont-like"
     }
   ]
 }

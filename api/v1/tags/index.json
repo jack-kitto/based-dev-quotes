@@ -1,8 +1,11 @@
 {
-  "total": 813,
+  "total": 850,
   "tags": {
     "10x": {
       "count": 2
+    },
+    "3d": {
+      "count": 1
     },
     "a11y": {
       "count": 1
@@ -56,7 +59,19 @@
       "count": 2
     },
     "ai": {
-      "count": 2
+      "count": 5
+    },
+    "ai-agents": {
+      "count": 1
+    },
+    "ai-detection": {
+      "count": 1
+    },
+    "ai-generated-code": {
+      "count": 1
+    },
+    "ai-generated-docs": {
+      "count": 1
     },
     "alerting": {
       "count": 1
@@ -67,6 +82,12 @@
     "always": {
       "count": 1
     },
+    "ambivalence": {
+      "count": 1
+    },
+    "amd": {
+      "count": 1
+    },
     "analytics": {
       "count": 2
     },
@@ -74,6 +95,9 @@
       "count": 1
     },
     "annoyance": {
+      "count": 1
+    },
+    "anti-complexity": {
       "count": 1
     },
     "api": {
@@ -98,7 +122,7 @@
       "count": 1
     },
     "attention": {
-      "count": 3
+      "count": 4
     },
     "attraction": {
       "count": 1
@@ -210,6 +234,9 @@
     },
     "building": {
       "count": 2
+    },
+    "bureaucracy": {
+      "count": 1
     },
     "burnout": {
       "count": 3
@@ -329,7 +356,10 @@
       "count": 4
     },
     "code-review": {
-      "count": 5
+      "count": 6
+    },
+    "codegen": {
+      "count": 1
     },
     "coding": {
       "count": 1
@@ -338,6 +368,9 @@
       "count": 1
     },
     "cold-email": {
+      "count": 1
+    },
+    "cold-war": {
       "count": 1
     },
     "collaboration": {
@@ -359,7 +392,7 @@
       "count": 1
     },
     "community": {
-      "count": 1
+      "count": 2
     },
     "competence": {
       "count": 1
@@ -377,7 +410,7 @@
       "count": 1
     },
     "complexity": {
-      "count": 20
+      "count": 21
     },
     "compliance": {
       "count": 1
@@ -595,10 +628,16 @@
     "design-systems": {
       "count": 3
     },
+    "design-tells": {
+      "count": 1
+    },
     "design-tokens": {
       "count": 1
     },
     "detective": {
+      "count": 1
+    },
+    "developer-burnout": {
       "count": 1
     },
     "developer-experience": {
@@ -689,6 +728,9 @@
       "count": 2
     },
     "empty-state": {
+      "count": 1
+    },
+    "emulation": {
       "count": 1
     },
     "endurance": {
@@ -901,11 +943,17 @@
     "future-self": {
       "count": 2
     },
+    "game-dev": {
+      "count": 1
+    },
+    "gaming": {
+      "count": 1
+    },
     "git": {
       "count": 7
     },
     "github": {
-      "count": 1
+      "count": 2
     },
     "go": {
       "count": 1
@@ -947,7 +995,7 @@
       "count": 1
     },
     "hardware": {
-      "count": 1
+      "count": 2
     },
     "hat-wearing": {
       "count": 1
@@ -979,6 +1027,9 @@
     "hiring": {
       "count": 6
     },
+    "history": {
+      "count": 1
+    },
     "home": {
       "count": 1
     },
@@ -987,6 +1038,9 @@
     },
     "honesty": {
       "count": 5
+    },
+    "html": {
+      "count": 1
     },
     "humans": {
       "count": 1
@@ -1039,6 +1093,9 @@
     "incentives": {
       "count": 1
     },
+    "incident": {
+      "count": 1
+    },
     "incident-response": {
       "count": 2
     },
@@ -1055,12 +1112,15 @@
       "count": 1
     },
     "industry": {
-      "count": 1
+      "count": 2
     },
     "inertia": {
       "count": 1
     },
     "inevitability": {
+      "count": 1
+    },
+    "inference": {
       "count": 1
     },
     "influencer": {
@@ -1085,7 +1145,7 @@
       "count": 1
     },
     "internet": {
-      "count": 1
+      "count": 2
     },
     "intrinsic-motivation": {
       "count": 1
@@ -1123,6 +1183,9 @@
     "jobs": {
       "count": 1
     },
+    "joke": {
+      "count": 1
+    },
     "jokes": {
       "count": 3
     },
@@ -1130,6 +1193,9 @@
       "count": 1
     },
     "junior": {
+      "count": 1
+    },
+    "just-works": {
       "count": 1
     },
     "knowledge": {
@@ -1198,14 +1264,23 @@
     "lifestyle": {
       "count": 5
     },
+    "linear-algebra": {
+      "count": 1
+    },
     "linkedin": {
       "count": 1
     },
     "listening": {
       "count": 5
     },
+    "llm": {
+      "count": 1
+    },
     "loading": {
       "count": 2
+    },
+    "loading-screens": {
+      "count": 1
     },
     "localhost": {
       "count": 1
@@ -1219,7 +1294,13 @@
     "logic": {
       "count": 1
     },
+    "lost-in-translation": {
+      "count": 1
+    },
     "luck": {
+      "count": 1
+    },
+    "luddites": {
       "count": 1
     },
     "machine-learning": {
@@ -1227,6 +1308,9 @@
     },
     "maintainability": {
       "count": 1
+    },
+    "maintainers": {
+      "count": 2
     },
     "maintenance": {
       "count": 6
@@ -1387,6 +1471,9 @@
     "niche": {
       "count": 1
     },
+    "nintendo": {
+      "count": 1
+    },
     "node-modules": {
       "count": 1
     },
@@ -1394,6 +1481,9 @@
       "count": 1
     },
     "noisy-neighbor": {
+      "count": 1
+    },
+    "nostalgia": {
       "count": 1
     },
     "notes": {
@@ -1448,6 +1538,9 @@
       "count": 2
     },
     "open-source": {
+      "count": 5
+    },
+    "openstreetmap": {
       "count": 2
     },
     "opinion": {
@@ -1460,6 +1553,9 @@
       "count": 7
     },
     "organic": {
+      "count": 1
+    },
+    "outage": {
       "count": 1
     },
     "outcomes": {
@@ -1586,6 +1682,9 @@
       "count": 3
     },
     "pr": {
+      "count": 1
+    },
+    "pr-culture": {
       "count": 1
     },
     "practice": {
@@ -1745,7 +1844,7 @@
       "count": 2
     },
     "readme": {
-      "count": 2
+      "count": 3
     },
     "realism": {
       "count": 2
@@ -1936,6 +2035,9 @@
     "scope-creep": {
       "count": 1
     },
+    "scrolljank": {
+      "count": 1
+    },
     "scrum": {
       "count": 1
     },
@@ -2021,7 +2123,7 @@
       "count": 1
     },
     "simplicity": {
-      "count": 70
+      "count": 71
     },
     "simplification": {
       "count": 3
@@ -2203,6 +2305,9 @@
     "technology-choices": {
       "count": 1
     },
+    "templating": {
+      "count": 1
+    },
     "terminology": {
       "count": 1
     },
@@ -2294,7 +2399,7 @@
       "count": 2
     },
     "understanding": {
-      "count": 7
+      "count": 8
     },
     "uniqueness": {
       "count": 2
@@ -2395,6 +2500,12 @@
     "wealth": {
       "count": 3
     },
+    "web-design": {
+      "count": 1
+    },
+    "web-standards": {
+      "count": 1
+    },
     "webhooks": {
       "count": 2
     },
@@ -2429,7 +2540,7 @@
       "count": 1
     },
     "writing": {
-      "count": 1
+      "count": 2
     },
     "xkcd-energy": {
       "count": 1
