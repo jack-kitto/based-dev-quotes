@@ -1,16 +1,18 @@
 {
-  "text": "Your first 100 users should be people you know personally. If you can't convince them, you can't convince strangers.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "regex-now-two-problems-extended",
+  "text": "I had a problem, so I decided to use threads. pNow roblems. I two have",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "indie-hacker"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "early-users",
-    "convincing"
+    "concurrency",
+    "threads",
+    "race-conditions"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-first-100-users",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

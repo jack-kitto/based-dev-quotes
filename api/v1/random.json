@@ -1,17 +1,17 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "In the middle of difficulty lies opportunity.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
     "wisdom"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "difficulty",
+    "opportunity"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "id": "einstein-in-the-middle-of",
   "source": "Community sourced",
-  "_generated_at": "2026-10-12T04:40:59.789272+00:00"
+  "_generated_at": "2026-10-13T05:45:59.940044+00:00"
 }

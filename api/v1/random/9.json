@@ -1,16 +1,16 @@
 {
-  "text": "Side projects are the best way to learn. Main projects are the best way to earn. You need both.",
+  "text": "Your best customers aren't the ones who pay the most. They're the ones who stay the longest and tell others.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "saas"
   ],
   "tags": [
-    "learning",
-    "earning"
+    "customers",
+    "retention"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-side-projects-are-the",
+  "id": "based-your-best-customers-arent",
   "source": "Community sourced"
 }

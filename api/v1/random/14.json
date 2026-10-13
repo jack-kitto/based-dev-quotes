@@ -1,16 +1,16 @@
 {
-  "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
+  "text": "The best way to reduce cognitive load is to present information in layers. Don't overwhelm. Reveal gradually.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "business-model",
-    "simplicity"
+    "cognitive-load",
+    "layering"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-business-model-should",
+  "id": "based-the-best-way-to-750",
   "source": "Community sourced"
 }

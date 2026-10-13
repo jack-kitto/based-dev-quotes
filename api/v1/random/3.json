@@ -1,18 +1,20 @@
 {
-  "id": "friday-deploy",
-  "text": "Don't deploy on Friday. Actually, don't deploy on Thursday either because you might have to fix it on Friday.",
+  "id": "leftpad-lesson",
+  "text": "One 11-line npm package going offline broke half the internet. We learned nothing and kept going.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Programming folklore",
+  "source": "left-pad incident, 2016",
   "categories": [
     "funny",
-    "suffering"
+    "suffering",
+    "shitpost"
   ],
   "tags": [
-    "friday",
-    "deployment",
-    "fear"
+    "npm",
+    "dependencies",
+    "leftpad",
+    "fragility"
   ],
   "grug_level": 5,
-  "spiciness": 1
+  "spiciness": 3
 }
