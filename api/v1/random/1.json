@@ -1,16 +1,17 @@
 {
-  "text": "The best way to build a habit is to start small. Ridiculously small. Then build from there.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "sleep-sort",
+  "text": "Genius is 1% inspiration, 99% finding a Stack Overflow answer that's only slightly wrong.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "productivity"
+    "funny"
   ],
   "tags": [
-    "habits",
-    "small-steps"
+    "stackoverflow",
+    "hacking",
+    "approximation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-930",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

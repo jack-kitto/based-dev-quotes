@@ -1,17 +1,17 @@
 {
-  "text": "If you can't describe your deployment process in 3 steps, it's too complicated.",
+  "text": "Your onboarding email sequence should feel like a helpful friend, not a desperate salesperson.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "deployment",
-    "simplicity"
+    "email",
+    "onboarding"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-if-you-cant-describe",
+  "id": "based-your-onboarding-email-sequence",
   "source": "Community sourced"
 }

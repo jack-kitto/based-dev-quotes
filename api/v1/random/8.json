@@ -1,16 +1,17 @@
 {
-  "text": "Your to-do list isn't a productivity tool. It's a guilt collection. Delete it and do the one thing that matters.",
+  "text": "The best time to quit your job is when you have 6 months of runway. Not when you're fed up. Not when you're rich.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "indie-hacker",
+    "entrepreneur"
   ],
   "tags": [
-    "todo",
-    "focus"
+    "quitting",
+    "planning"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-todo-list-isnt",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-656",
   "source": "Community sourced"
 }

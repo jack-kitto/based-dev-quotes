@@ -1,16 +1,16 @@
 {
-  "text": "Your best customers aren't the ones who pay the most. They're the ones who stay the longest and tell others.",
+  "text": "The best SaaS metric is Net Revenue Retention. If it's above 100%, your customers are growing with you. Below 100%, you're leaking.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "saas"
   ],
   "tags": [
-    "customers",
-    "retention"
+    "nrr",
+    "metrics"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-best-customers-arent",
+  "id": "based-the-best-saas-metric",
   "source": "Community sourced"
 }

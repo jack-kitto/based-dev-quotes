@@ -1,16 +1,19 @@
 {
-  "text": "Rest is not the opposite of work. It's the foundation of it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "scope-creep",
+  "text": "Client: 'Can you just add one small feature?' Narrator: It was not, in fact, a small feature.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Freelancer folklore",
   "categories": [
-    "productivity"
+    "funny",
+    "suffering",
+    "indie-hacker"
   ],
   "tags": [
-    "rest",
-    "work"
+    "scope-creep",
+    "clients",
+    "freelancing"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-rest-is-not-the",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

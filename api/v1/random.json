@@ -1,17 +1,18 @@
 {
-  "text": "In the middle of difficulty lies opportunity.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "productivity",
+    "engineering"
   ],
   "tags": [
-    "difficulty",
-    "opportunity"
+    "github",
+    "resume"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-in-the-middle-of",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-github-profile-is",
   "source": "Community sourced",
-  "_generated_at": "2026-10-13T05:45:59.940044+00:00"
+  "_generated_at": "2026-10-14T03:49:34.261259+00:00"
 }
