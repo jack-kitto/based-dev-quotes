@@ -1,17 +1,16 @@
 {
-  "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
-  "author": "Paul J. Meyer",
-  "author_slug": "meyer",
+  "text": "Your ability to focus is your most valuable skill. Train it like a muscle.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "productivity"
   ],
   "tags": [
-    "planning",
-    "focus"
+    "focus",
+    "skill"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "meyer-productivity-is-never-an",
+  "spiciness": 2,
+  "id": "based-your-ability-to-focus",
   "source": "Community sourced"
 }

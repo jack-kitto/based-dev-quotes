@@ -1,17 +1,16 @@
 {
-  "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
+  "text": "Your personal brand should attract the right people and repel the wrong ones. Both are valuable.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "marketing"
+    "business"
   ],
   "tags": [
-    "distribution",
-    "product"
+    "personal-brand",
+    "attraction"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-tech-stack-matters",
+  "id": "based-your-personal-brand-should",
   "source": "Community sourced"
 }
