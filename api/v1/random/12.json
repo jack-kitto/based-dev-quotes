@@ -1,19 +1,17 @@
 {
-  "id": "salomon-30-hours",
-  "text": "Weeks of coding can save you hours of planning.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "users",
+    "product"
   ],
   "tags": [
-    "planning",
-    "coding",
-    "irony",
-    "classic"
+    "ux",
+    "first-impression"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-product-should-be-683",
+  "source": "Community sourced"
 }

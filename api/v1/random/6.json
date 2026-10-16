@@ -1,16 +1,17 @@
 {
-  "text": "The best way to increase profit is to decrease waste. Not to increase revenue.",
+  "text": "Your user interface should be like a good joke: if you have to explain it, it's not good.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "design"
   ],
   "tags": [
-    "profit",
-    "efficiency"
+    "ux",
+    "clarity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-728",
+  "id": "based-your-user-interface-should",
   "source": "Community sourced"
 }

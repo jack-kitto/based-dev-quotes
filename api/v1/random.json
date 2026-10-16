@@ -1,17 +1,17 @@
 {
-  "text": "The best way to get a flat tire is to not have a spare.",
-  "author": "Murphy",
-  "author_slug": "murphy",
+  "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering"
+    "business"
   ],
   "tags": [
-    "murphys-law",
-    "preparedness"
+    "ideas",
+    "reading"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "murphy-the-best-way-to",
+  "spiciness": 2,
+  "id": "based-your-best-ideas-come",
   "source": "Community sourced",
-  "_generated_at": "2026-10-15T03:31:00.381330+00:00"
+  "_generated_at": "2026-10-16T03:26:49.294440+00:00"
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your personal brand should attract the right people and repel the wrong ones. Both are valuable.",
+  "text": "The best product teams listen more than they talk. Your users know more about their problems than you do.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "users",
+    "product"
   ],
   "tags": [
-    "personal-brand",
-    "attraction"
+    "listening",
+    "humility"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-personal-brand-should",
+  "id": "based-the-best-product-teams",
   "source": "Community sourced"
 }

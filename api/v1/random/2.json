@@ -1,16 +1,16 @@
 {
-  "text": "The best products do less, but do it perfectly.",
+  "text": "Your competition isn't other products. Your competition is 'doing nothing.' Most customers choose that.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "product"
+    "business"
   ],
   "tags": [
-    "focus",
-    "excellence"
+    "competition",
+    "inaction"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-products-do",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-competition-isnt-other",
   "source": "Community sourced"
 }
