@@ -1,19 +1,19 @@
 {
-  "id": "hofstadter-law",
-  "text": "It always takes longer than you expect, even when you take into account Hofstadter's Law.",
-  "author": "Douglas Hofstadter",
-  "author_slug": "hofstadter",
-  "source": "Gödel, Escher, Bach, 1979",
+  "id": "meetings-email",
+  "text": "This meeting could have been an email. That email could have been a Slack message. That Slack message could have been nothing.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Corporate dev culture",
   "categories": [
     "funny",
     "suffering"
   ],
   "tags": [
-    "estimation",
-    "time",
-    "recursive",
-    "classic"
+    "meetings",
+    "email",
+    "slack",
+    "productivity"
   ],
-  "grug_level": 3,
-  "spiciness": 1
+  "grug_level": 5,
+  "spiciness": 3
 }

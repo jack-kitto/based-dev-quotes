@@ -1,17 +1,18 @@
 {
-  "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "carmack-low-level",
+  "text": "If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator.",
+  "author": "John Carmack",
+  "author_slug": "carmack",
+  "source": "Masters of Doom",
   "categories": [
-    "users",
-    "product"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "ux",
-    "first-impression"
+    "bootstrapping",
+    "resourcefulness",
+    "hustle"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-should-be-683",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }

@@ -1,17 +1,18 @@
 {
-  "text": "The best engineers are the ones who know what not to build.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "revenue-vanity-profit-sanity",
+  "text": "Revenue is vanity, profit is sanity, cash is reality.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Business proverb",
   "categories": [
-    "engineering",
-    "wisdom"
+    "founder",
+    "indie-hacker"
   ],
   "tags": [
-    "discipline",
-    "simplicity"
+    "revenue",
+    "profit",
+    "cash-flow"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-engineers-are-714",
-  "source": "Community sourced"
+  "spiciness": 1
 }

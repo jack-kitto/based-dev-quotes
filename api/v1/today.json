@@ -1,17 +1,21 @@
 {
-  "text": "The best way to meet a deadline is to set intermediate deadlines. The big deadline is just a collection of small ones.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-microservices",
+  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "productivity"
+    "grug",
+    "complexity",
+    "shitpost"
   ],
   "tags": [
-    "deadlines",
-    "decomposition"
+    "microservices",
+    "architecture",
+    "simplicity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-984",
-  "source": "Community sourced",
-  "_date": "2026-10-16"
+  "grug_level": 5,
+  "spiciness": 4,
+  "_date": "2026-10-17"
 }
