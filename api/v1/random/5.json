@@ -1,17 +1,17 @@
 {
-  "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
+  "text": "Hardware: the parts of a computer system that can be kicked.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "meta",
-    "focus"
+    "hardware",
+    "humor"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-real-productivity-hack",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-hardware-the-parts-of",
   "source": "Community sourced"
 }

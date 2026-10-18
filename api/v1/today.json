@@ -1,21 +1,17 @@
 {
-  "id": "grug-microservices",
-  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "text": "The best time to manage your time is when you have too much of it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "grug",
-    "complexity",
-    "shitpost"
+    "productivity"
   ],
   "tags": [
-    "microservices",
-    "architecture",
-    "simplicity"
+    "time-management",
+    "proactive"
   ],
-  "grug_level": 5,
-  "spiciness": 4,
-  "_date": "2026-10-17"
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-982",
+  "source": "Community sourced",
+  "_date": "2026-10-18"
 }
