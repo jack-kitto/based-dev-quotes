@@ -1,0 +1,28 @@
+{
+  "tag": "zawinskis-law",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Pretty much every product tries to expand to do things that completely different products used to do, and become a mega-product-for-everything. It's like Zawinski's Law on steroids.",
+      "author": "jakub_g",
+      "author_slug": "jakub-g",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "complexity",
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "zawinskis-law",
+        "scope-creep",
+        "bloat",
+        "mega-product"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Names a real pattern (app-accretion bloat) and anchors it to Zawinski's Law. Standalone and quotable.",
+      "id": "jakub-g-pretty-much-every-product"
+    }
+  ]
+}

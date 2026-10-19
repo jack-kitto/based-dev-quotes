@@ -1,8 +1,16 @@
 {
-  "total": 98,
+  "total": 110,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
+      "count": 1
+    },
+    "ahrzb": {
+      "name": "ahrzb",
+      "count": 1
+    },
+    "animats": {
+      "name": "Animats",
       "count": 1
     },
     "atwood": {
@@ -36,6 +44,10 @@
     "brooks": {
       "name": "Fred Brooks",
       "count": 2
+    },
+    "bugake": {
+      "name": "bugake",
+      "count": 1
     },
     "cantrill": {
       "name": "Bryan Cantrill",
@@ -189,6 +201,10 @@
       "name": "Jonathan Ive",
       "count": 1
     },
+    "jakub-g": {
+      "name": "jakub_g",
+      "count": 1
+    },
     "james": {
       "name": "William James",
       "count": 1
@@ -215,6 +231,10 @@
     },
     "knuth": {
       "name": "Donald Knuth",
+      "count": 1
+    },
+    "kristianc": {
+      "name": "kristianc",
       "count": 1
     },
     "lampson": {
@@ -269,6 +289,10 @@
       "name": "Murphy",
       "count": 1
     },
+    "nelaggy": {
+      "name": "nelaggy",
+      "count": 1
+    },
     "newport": {
       "name": "Cal Newport",
       "count": 1
@@ -309,6 +333,10 @@
       "name": "Eric S. Raymond",
       "count": 1
     },
+    "raz32dust": {
+      "name": "raz32dust",
+      "count": 1
+    },
     "ries": {
       "name": "Eric Ries",
       "count": 1
@@ -325,6 +353,14 @@
       "name": "Vidal Sassoon",
       "count": 1
     },
+    "sgt": {
+      "name": "sgt",
+      "count": 1
+    },
+    "simonbarker87": {
+      "name": "simonbarker87",
+      "count": 1
+    },
     "simpson": {
       "name": "Homer Simpson",
       "count": 1
@@ -337,12 +373,20 @@
       "name": "Simon Sinek",
       "count": 1
     },
+    "soared": {
+      "name": "soared",
+      "count": 1
+    },
     "spolsky": {
       "name": "Joel Spolsky",
       "count": 2
     },
     "stroustrup": {
       "name": "Bjarne Stroustrup",
+      "count": 1
+    },
+    "sznio": {
+      "name": "sznio",
       "count": 1
     },
     "tanenbaum": {
@@ -368,6 +412,10 @@
     "unknown": {
       "name": "Unknown",
       "count": 63
+    },
+    "valakas": {
+      "name": "Valakas_",
+      "count": 1
     },
     "voltaire": {
       "name": "Voltaire",

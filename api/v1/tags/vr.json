@@ -1,0 +1,27 @@
+{
+  "tag": "vr",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "It was like trying to do mechanical drawing while wearing oven mitts. Precision work with hands in open air is just not human-compatible.",
+      "author": "Animats",
+      "author_slug": "animats",
+      "source": "Hacker News — William Gibson and the trademarking of cyberspace",
+      "source_url": "https://news.ycombinator.com/item?id=50146625",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "vr",
+        "ux",
+        "hardware",
+        "metaphor"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Perfect grug-brained tech metaphor. Oven mitts VR CAD is instantly relatable and funny without any setup.",
+      "id": "animats-it-was-like-trying"
+    }
+  ]
+}

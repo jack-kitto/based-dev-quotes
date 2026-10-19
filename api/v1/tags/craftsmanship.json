@@ -1,0 +1,27 @@
+{
+  "tag": "craftsmanship",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "This age will be brilliant for sorting between those who care about \"done\" as in \"technically complete\" vs \"done\" as \"creates enduring value for the person on the other end of it.\" AI largely only does the former.",
+      "author": "kristianc",
+      "author_slug": "kristianc",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "ai-coding",
+        "craftsmanship",
+        "shipping",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Sharp, non-obvious distinction about what AI actually produces — a clean lens on 'done'. Great standalone thought.",
+      "id": "kristianc-this-age-will-be"
+    }
+  ]
+}

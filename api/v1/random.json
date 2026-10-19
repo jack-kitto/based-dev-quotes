@@ -1,18 +1,17 @@
 {
-  "text": "Naming things is easy. Naming things well is a skill. Naming things in a way that still makes sense 2 years later is a superpower.",
+  "text": "Your indie project's biggest advantage is that you care more than anyone else.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "naming",
-    "maintainability"
+    "passion",
+    "advantage"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-naming-things-is-easy",
+  "id": "based-your-indie-projects-biggest",
   "source": "Community sourced",
-  "_generated_at": "2026-10-19T03:33:34.280483+00:00"
+  "_generated_at": "2026-10-19T11:47:44.740281+00:00"
 }

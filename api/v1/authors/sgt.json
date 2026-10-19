@@ -1,0 +1,28 @@
+{
+  "author": "sgt",
+  "slug": "sgt",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I wonder how many people nowadays see something like this, click on it, and expect a \"Download and Install\" button.",
+      "author": "sgt",
+      "author_slug": "sgt",
+      "source": "Hacker News — Linux 7.3 Released",
+      "source_url": "https://news.ycombinator.com/item?id=50149392",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "ux-expectations",
+        "linux",
+        "user-experience",
+        "dev-culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Sharp observational humor about the gap between how devs see a kernel release and how normal users see a download page.",
+      "id": "sgt-i-wonder-how-many"
+    }
+  ]
+}

@@ -1,16 +1,17 @@
 {
-  "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
+  "text": "Hardware: the parts of a computer system that can be kicked.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "frameworks",
-    "pragmatism"
+    "hardware",
+    "humor"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-frontend-framework",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-hardware-the-parts-of",
   "source": "Community sourced"
 }

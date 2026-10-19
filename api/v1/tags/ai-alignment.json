@@ -1,0 +1,27 @@
+{
+  "tag": "ai-alignment",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Using latent space for thinking is an obvious idea and has been known for ages — the frontier labs avoided an arms race in this direction due to interpretability and alignment concerns.",
+      "author": "sznio",
+      "author_slug": "sznio",
+      "source": "Hacker News — Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source_url": "https://news.ycombinator.com/item?id=50145337",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ai-alignment",
+        "interpretability",
+        "research",
+        "obvious-in-hindsight"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Highlights the uncomfortable tension between what's technically obvious and what's deliberately avoided for safety reasons.",
+      "id": "sznio-using-latent-space-for"
+    }
+  ]
+}

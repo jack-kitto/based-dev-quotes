@@ -1,6 +1,6 @@
 {
   "category": "wisdom",
-  "count": 176,
+  "count": 184,
   "quotes": [
     {
       "id": "grug-refactor",
@@ -3031,6 +3031,173 @@
       "spiciness": 1,
       "id": "einstein-the-best-design-is",
       "source": "Community sourced"
+    },
+    {
+      "text": "I wonder how many people nowadays see something like this, click on it, and expect a \"Download and Install\" button.",
+      "author": "sgt",
+      "author_slug": "sgt",
+      "source": "Hacker News — Linux 7.3 Released",
+      "source_url": "https://news.ycombinator.com/item?id=50149392",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "ux-expectations",
+        "linux",
+        "user-experience",
+        "dev-culture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Sharp observational humor about the gap between how devs see a kernel release and how normal users see a download page.",
+      "id": "sgt-i-wonder-how-many"
+    },
+    {
+      "text": "Using latent space for thinking is an obvious idea and has been known for ages — the frontier labs avoided an arms race in this direction due to interpretability and alignment concerns.",
+      "author": "sznio",
+      "author_slug": "sznio",
+      "source": "Hacker News — Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source_url": "https://news.ycombinator.com/item?id=50145337",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ai-alignment",
+        "interpretability",
+        "research",
+        "obvious-in-hindsight"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Highlights the uncomfortable tension between what's technically obvious and what's deliberately avoided for safety reasons.",
+      "id": "sznio-using-latent-space-for"
+    },
+    {
+      "text": "There is no reason to assume thinking in words is the right granularity, or will stay the right granularity.",
+      "author": "ahrzb",
+      "author_slug": "ahrzb",
+      "source": "Hacker News — Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source_url": "https://news.ycombinator.com/item?id=50145337",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ai",
+        "language-models",
+        "abstraction",
+        "first-principles"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Clean, memorable first-principles insight that challenges a widespread assumption in AI design.",
+      "id": "ahrzb-there-is-no-reason"
+    },
+    {
+      "text": "It was like trying to do mechanical drawing while wearing oven mitts. Precision work with hands in open air is just not human-compatible.",
+      "author": "Animats",
+      "author_slug": "animats",
+      "source": "Hacker News — William Gibson and the trademarking of cyberspace",
+      "source_url": "https://news.ycombinator.com/item?id=50146625",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "vr",
+        "ux",
+        "hardware",
+        "metaphor"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Perfect grug-brained tech metaphor. Oven mitts VR CAD is instantly relatable and funny without any setup.",
+      "id": "animats-it-was-like-trying"
+    },
+    {
+      "text": "A field can have a bright future while losing what drew people to it.",
+      "author": "raz32dust",
+      "author_slug": "raz32dust",
+      "source": "Hacker News — There's never been a better time to go into math",
+      "source_url": "https://news.ycombinator.com/item?id=50136150",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "burnout",
+        "passion",
+        "tech-industry",
+        "identity"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Quietly devastating observation about how industries can grow while hollowing out the thing that made them meaningful. Applies perfectly to software.",
+      "id": "raz32dust-a-field-can-have"
+    },
+    {
+      "text": "Pretty much every product tries to expand to do things that completely different products used to do, and become a mega-product-for-everything. It's like Zawinski's Law on steroids.",
+      "author": "jakub_g",
+      "author_slug": "jakub-g",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "complexity",
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "zawinskis-law",
+        "scope-creep",
+        "bloat",
+        "mega-product"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Names a real pattern (app-accretion bloat) and anchors it to Zawinski's Law. Standalone and quotable.",
+      "id": "jakub-g-pretty-much-every-product"
+    },
+    {
+      "text": "\"Great software is opinionated\" is something I've been saying for years... And yet I have to say it so often to the teams I've worked with or managed.",
+      "author": "simonbarker87",
+      "author_slug": "simonbarker87",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "opinionated-software",
+        "taste",
+        "engineering-leadership"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Core insight: opinionated software needs opinionated humans, and that's not an obvious point to teams. Trimmed the self-effacing preamble.",
+      "id": "simonbarker87-great-software-is-opinionated"
+    },
+    {
+      "text": "This age will be brilliant for sorting between those who care about \"done\" as in \"technically complete\" vs \"done\" as \"creates enduring value for the person on the other end of it.\" AI largely only does the former.",
+      "author": "kristianc",
+      "author_slug": "kristianc",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "ai-coding",
+        "craftsmanship",
+        "shipping",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Sharp, non-obvious distinction about what AI actually produces — a clean lens on 'done'. Great standalone thought.",
+      "id": "kristianc-this-age-will-be"
     }
   ]
 }

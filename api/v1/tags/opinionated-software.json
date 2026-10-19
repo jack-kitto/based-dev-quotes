@@ -1,0 +1,47 @@
+{
+  "tag": "opinionated-software",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "One man's fun is another man's \"idk what any of these words mean, I pay $20/mo for some company to abstract this complexity away.\"",
+      "author": "soared",
+      "author_slug": "soared",
+      "source": "Hacker News — If you don't run your own LLM proxy, how do you know whats going on?",
+      "source_url": "https://news.ycombinator.com/item?id=50145507",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "abstraction",
+        "complexity",
+        "opinionated-software",
+        "pricing"
+      ],
+      "grug_level": 5,
+      "spiciness": 2,
+      "extraction_note": "Perfect grug-brained take — most people just want complexity abstracted away, not a hobby. Pithy and self-aware.",
+      "id": "soared-one-mans-fun-is"
+    },
+    {
+      "text": "\"Great software is opinionated\" is something I've been saying for years... And yet I have to say it so often to the teams I've worked with or managed.",
+      "author": "simonbarker87",
+      "author_slug": "simonbarker87",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "opinionated-software",
+        "taste",
+        "engineering-leadership"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Core insight: opinionated software needs opinionated humans, and that's not an obvious point to teams. Trimmed the self-effacing preamble.",
+      "id": "simonbarker87-great-software-is-opinionated"
+    }
+  ]
+}

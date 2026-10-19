@@ -1,6 +1,6 @@
 {
   "tag": "hype",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "rewrite-in-rust",
@@ -20,6 +20,28 @@
       ],
       "grug_level": 4,
       "spiciness": 4
+    },
+    {
+      "text": "There's never been a better time to go into [insert field that is presently being helped by AI, but not yet fully autonomously replaced, giving the false impression and hope that somehow that's the way it will continue in the future].",
+      "author": "Valakas_",
+      "author_slug": "valakas",
+      "source": "Hacker News — There's never been a better time to go into math",
+      "source_url": "https://news.ycombinator.com/item?id=50136150",
+      "categories": [
+        "career",
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "career-advice",
+        "satire",
+        "hype"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Brilliant meta-satire that skewers the entire genre of AI-era career advice. The bracketed format makes it a reusable template for any field.",
+      "id": "valakas-theres-never-been-a"
     }
   ]
 }

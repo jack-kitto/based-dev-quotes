@@ -1,0 +1,28 @@
+{
+  "author": "ahrzb",
+  "slug": "ahrzb",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "There is no reason to assume thinking in words is the right granularity, or will stay the right granularity.",
+      "author": "ahrzb",
+      "author_slug": "ahrzb",
+      "source": "Hacker News — Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source_url": "https://news.ycombinator.com/item?id=50145337",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ai",
+        "language-models",
+        "abstraction",
+        "first-principles"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Clean, memorable first-principles insight that challenges a widespread assumption in AI design.",
+      "id": "ahrzb-there-is-no-reason"
+    }
+  ]
+}

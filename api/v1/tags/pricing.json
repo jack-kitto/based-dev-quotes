@@ -1,6 +1,6 @@
 {
   "tag": "pricing",
-  "count": 17,
+  "count": 18,
   "quotes": [
     {
       "id": "patio11-charge-more",
@@ -277,6 +277,28 @@
       "spiciness": 2,
       "id": "based-the-best-time-to-812",
       "source": "Community sourced"
+    },
+    {
+      "text": "One man's fun is another man's \"idk what any of these words mean, I pay $20/mo for some company to abstract this complexity away.\"",
+      "author": "soared",
+      "author_slug": "soared",
+      "source": "Hacker News — If you don't run your own LLM proxy, how do you know whats going on?",
+      "source_url": "https://news.ycombinator.com/item?id=50145507",
+      "categories": [
+        "grug",
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "abstraction",
+        "complexity",
+        "opinionated-software",
+        "pricing"
+      ],
+      "grug_level": 5,
+      "spiciness": 2,
+      "extraction_note": "Perfect grug-brained take — most people just want complexity abstracted away, not a hobby. Pithy and self-aware.",
+      "id": "soared-one-mans-fun-is"
     }
   ]
 }

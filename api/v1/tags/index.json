@@ -1,8 +1,11 @@
 {
-  "total": 813,
+  "total": 839,
   "tags": {
     "10x": {
       "count": 2
+    },
+    "6502": {
+      "count": 1
     },
     "a11y": {
       "count": 1
@@ -11,7 +14,7 @@
       "count": 3
     },
     "abstraction": {
-      "count": 10
+      "count": 12
     },
     "accessibility": {
       "count": 1
@@ -56,7 +59,16 @@
       "count": 2
     },
     "ai": {
-      "count": 2
+      "count": 4
+    },
+    "ai-alignment": {
+      "count": 1
+    },
+    "ai-coding": {
+      "count": 1
+    },
+    "ai-hype": {
+      "count": 1
     },
     "alerting": {
       "count": 1
@@ -136,6 +148,9 @@
     "behavior": {
       "count": 3
     },
+    "benchmarks": {
+      "count": 1
+    },
     "bet": {
       "count": 2
     },
@@ -147,6 +162,9 @@
     },
     "blame": {
       "count": 2
+    },
+    "bloat": {
+      "count": 1
     },
     "blockchain": {
       "count": 1
@@ -212,7 +230,7 @@
       "count": 2
     },
     "burnout": {
-      "count": 3
+      "count": 4
     },
     "business": {
       "count": 2
@@ -250,6 +268,9 @@
     "career": {
       "count": 6
     },
+    "career-advice": {
+      "count": 1
+    },
     "cargo-cult": {
       "count": 2
     },
@@ -278,6 +299,9 @@
       "count": 2
     },
     "chaos": {
+      "count": 1
+    },
+    "charts-lie": {
       "count": 1
     },
     "checkout": {
@@ -377,7 +401,7 @@
       "count": 1
     },
     "complexity": {
-      "count": 20
+      "count": 21
     },
     "compliance": {
       "count": 1
@@ -413,7 +437,7 @@
       "count": 6
     },
     "constraints": {
-      "count": 1
+      "count": 2
     },
     "containers": {
       "count": 5
@@ -464,6 +488,9 @@
       "count": 6
     },
     "coverage": {
+      "count": 1
+    },
+    "craftsmanship": {
       "count": 1
     },
     "creativity": {
@@ -601,6 +628,9 @@
     "detective": {
       "count": 1
     },
+    "dev-culture": {
+      "count": 1
+    },
     "developer-experience": {
       "count": 1
     },
@@ -701,6 +731,9 @@
       "count": 1
     },
     "engineering": {
+      "count": 1
+    },
+    "engineering-leadership": {
       "count": 1
     },
     "engineers": {
@@ -815,7 +848,7 @@
       "count": 2
     },
     "first-principles": {
-      "count": 1
+      "count": 2
     },
     "fizzbuzz": {
       "count": 1
@@ -947,7 +980,7 @@
       "count": 1
     },
     "hardware": {
-      "count": 1
+      "count": 3
     },
     "hat-wearing": {
       "count": 1
@@ -1001,7 +1034,7 @@
       "count": 3
     },
     "hype": {
-      "count": 1
+      "count": 2
     },
     "i18n": {
       "count": 1
@@ -1016,7 +1049,7 @@
       "count": 4
     },
     "identity": {
-      "count": 1
+      "count": 2
     },
     "idiots": {
       "count": 1
@@ -1087,6 +1120,9 @@
     "internet": {
       "count": 1
     },
+    "interpretability": {
+      "count": 1
+    },
     "intrinsic-motivation": {
       "count": 1
     },
@@ -1144,6 +1180,9 @@
     "landing-page": {
       "count": 7
     },
+    "language-models": {
+      "count": 1
+    },
     "languages": {
       "count": 4
     },
@@ -1199,6 +1238,9 @@
       "count": 5
     },
     "linkedin": {
+      "count": 1
+    },
+    "linux": {
       "count": 1
     },
     "listening": {
@@ -1258,6 +1300,9 @@
     "meetings": {
       "count": 5
     },
+    "mega-product": {
+      "count": 1
+    },
     "memorable": {
       "count": 1
     },
@@ -1275,6 +1320,9 @@
     },
     "meta": {
       "count": 2
+    },
+    "metaphor": {
+      "count": 1
     },
     "methodology": {
       "count": 2
@@ -1296,6 +1344,9 @@
     },
     "minimalism": {
       "count": 9
+    },
+    "misleading-metrics": {
+      "count": 1
     },
     "mistakes": {
       "count": 1
@@ -1429,6 +1480,9 @@
     "obvious": {
       "count": 1
     },
+    "obvious-in-hindsight": {
+      "count": 1
+    },
     "off-by-one": {
       "count": 2
     },
@@ -1451,6 +1505,9 @@
       "count": 2
     },
     "opinion": {
+      "count": 2
+    },
+    "opinionated-software": {
       "count": 2
     },
     "opportunity": {
@@ -1496,7 +1553,7 @@
       "count": 2
     },
     "passion": {
-      "count": 7
+      "count": 8
     },
     "passive-income": {
       "count": 1
@@ -1616,7 +1673,7 @@
       "count": 2
     },
     "pricing": {
-      "count": 17
+      "count": 18
     },
     "pride": {
       "count": 1
@@ -1817,7 +1874,7 @@
       "count": 4
     },
     "research": {
-      "count": 4
+      "count": 5
     },
     "resilience": {
       "count": 6
@@ -1845,6 +1902,9 @@
     },
     "retention": {
       "count": 15
+    },
+    "retro-computing": {
+      "count": 1
     },
     "retrospective": {
       "count": 1
@@ -1903,6 +1963,9 @@
     "sales": {
       "count": 11
     },
+    "satire": {
+      "count": 1
+    },
     "satisfaction": {
       "count": 5
     },
@@ -1934,7 +1997,7 @@
       "count": 1
     },
     "scope-creep": {
-      "count": 1
+      "count": 2
     },
     "scrum": {
       "count": 1
@@ -2000,7 +2063,7 @@
       "count": 1
     },
     "shipping": {
-      "count": 23
+      "count": 24
     },
     "shitpost": {
       "count": 4
@@ -2174,7 +2237,7 @@
       "count": 1
     },
     "taste": {
-      "count": 3
+      "count": 5
     },
     "tdd": {
       "count": 2
@@ -2193,6 +2256,9 @@
     },
     "tech-debt": {
       "count": 2
+    },
+    "tech-industry": {
+      "count": 1
     },
     "tech-stack": {
       "count": 3
@@ -2326,6 +2392,9 @@
     "user-demand": {
       "count": 1
     },
+    "user-experience": {
+      "count": 1
+    },
     "user-feedback": {
       "count": 1
     },
@@ -2345,7 +2414,10 @@
       "count": 1
     },
     "ux": {
-      "count": 32
+      "count": 33
+    },
+    "ux-expectations": {
+      "count": 1
     },
     "validation": {
       "count": 10
@@ -2381,6 +2453,9 @@
       "count": 1
     },
     "vision": {
+      "count": 1
+    },
+    "vr": {
       "count": 1
     },
     "vulnerability": {
@@ -2439,6 +2514,9 @@
     },
     "yaml": {
       "count": 2
+    },
+    "zawinskis-law": {
+      "count": 1
     }
   }
 }

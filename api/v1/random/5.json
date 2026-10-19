@@ -1,17 +1,20 @@
 {
-  "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "dns-always-dns",
+  "text": "It's not DNS. There's no way it's DNS. It was DNS.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "sysadmin folklore (SSBroski / haiku)",
   "categories": [
-    "saas",
-    "product"
+    "funny",
+    "debugging",
+    "suffering"
   ],
   "tags": [
-    "onboarding",
-    "self-explanatory"
+    "dns",
+    "debugging",
+    "networking",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-onboarding",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }

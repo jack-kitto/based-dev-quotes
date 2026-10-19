@@ -1,6 +1,6 @@
 {
   "tag": "taste",
-  "count": 3,
+  "count": 5,
   "quotes": [
     {
       "id": "torvalds-good-taste",
@@ -52,6 +52,46 @@
       "spiciness": 2,
       "id": "based-the-indie-hackers-biggest-771",
       "source": "Community sourced"
+    },
+    {
+      "text": "\"Great software is opinionated\" is something I've been saying for years... And yet I have to say it so often to the teams I've worked with or managed.",
+      "author": "simonbarker87",
+      "author_slug": "simonbarker87",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "opinionated-software",
+        "taste",
+        "engineering-leadership"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Core insight: opinionated software needs opinionated humans, and that's not an obvious point to teams. Trimmed the self-effacing preamble.",
+      "id": "simonbarker87-great-software-is-opinionated"
+    },
+    {
+      "text": "This age will be brilliant for sorting between those who care about \"done\" as in \"technically complete\" vs \"done\" as \"creates enduring value for the person on the other end of it.\" AI largely only does the former.",
+      "author": "kristianc",
+      "author_slug": "kristianc",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom",
+        "shipping"
+      ],
+      "tags": [
+        "ai-coding",
+        "craftsmanship",
+        "shipping",
+        "taste"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Sharp, non-obvious distinction about what AI actually produces — a clean lens on 'done'. Great standalone thought.",
+      "id": "kristianc-this-age-will-be"
     }
   ]
 }

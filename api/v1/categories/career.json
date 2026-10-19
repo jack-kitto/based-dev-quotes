@@ -1,6 +1,6 @@
 {
   "category": "career",
-  "count": 8,
+  "count": 10,
   "quotes": [
     {
       "id": "senior-dev-google",
@@ -148,6 +148,49 @@
       ],
       "grug_level": 3,
       "spiciness": 3
+    },
+    {
+      "text": "There's never been a better time to go into [insert field that is presently being helped by AI, but not yet fully autonomously replaced, giving the false impression and hope that somehow that's the way it will continue in the future].",
+      "author": "Valakas_",
+      "author_slug": "valakas",
+      "source": "Hacker News — There's never been a better time to go into math",
+      "source_url": "https://news.ycombinator.com/item?id=50136150",
+      "categories": [
+        "career",
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "ai",
+        "career-advice",
+        "satire",
+        "hype"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Brilliant meta-satire that skewers the entire genre of AI-era career advice. The bracketed format makes it a reusable template for any field.",
+      "id": "valakas-theres-never-been-a"
+    },
+    {
+      "text": "A field can have a bright future while losing what drew people to it.",
+      "author": "raz32dust",
+      "author_slug": "raz32dust",
+      "source": "Hacker News — There's never been a better time to go into math",
+      "source_url": "https://news.ycombinator.com/item?id=50136150",
+      "categories": [
+        "wisdom",
+        "career"
+      ],
+      "tags": [
+        "burnout",
+        "passion",
+        "tech-industry",
+        "identity"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Quietly devastating observation about how industries can grow while hollowing out the thing that made them meaningful. Applies perfectly to software.",
+      "id": "raz32dust-a-field-can-have"
     }
   ]
 }

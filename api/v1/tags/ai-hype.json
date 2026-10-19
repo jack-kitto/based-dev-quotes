@@ -1,0 +1,28 @@
+{
+  "tag": "ai-hype",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Crazy how they make an improvement of 0.03 look like a 5x difference.",
+      "author": "nelaggy",
+      "author_slug": "nelaggy",
+      "source": "Hacker News — Timestral: Mistral release time-series foundation models",
+      "source_url": "https://news.ycombinator.com/item?id=50150434",
+      "categories": [
+        "funny",
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "benchmarks",
+        "misleading-metrics",
+        "ai-hype",
+        "charts-lie"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy, universally relatable observation about misleading benchmark visualization. Works standalone and applies far beyond ML.",
+      "id": "nelaggy-crazy-how-they-make"
+    }
+  ]
+}

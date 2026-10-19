@@ -1,16 +1,17 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "First principles thinking sounds profound until you realize it's just 'ask why' without the philosophy degree.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "first-principles",
+    "thinking"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "spiciness": 3,
+  "id": "based-first-principles-thinking-sounds",
   "source": "Community sourced"
 }

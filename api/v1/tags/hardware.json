@@ -1,6 +1,6 @@
 {
   "tag": "hardware",
-  "count": 1,
+  "count": 3,
   "quotes": [
     {
       "text": "Hardware: the parts of a computer system that can be kicked.",
@@ -18,6 +18,48 @@
       "spiciness": 1,
       "id": "based-hardware-the-parts-of",
       "source": "Community sourced"
+    },
+    {
+      "text": "It was like trying to do mechanical drawing while wearing oven mitts. Precision work with hands in open air is just not human-compatible.",
+      "author": "Animats",
+      "author_slug": "animats",
+      "source": "Hacker News — William Gibson and the trademarking of cyberspace",
+      "source_url": "https://news.ycombinator.com/item?id=50146625",
+      "categories": [
+        "funny",
+        "wisdom"
+      ],
+      "tags": [
+        "vr",
+        "ux",
+        "hardware",
+        "metaphor"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Perfect grug-brained tech metaphor. Oven mitts VR CAD is instantly relatable and funny without any setup.",
+      "id": "animats-it-was-like-trying"
+    },
+    {
+      "text": "The 6502 is so primitive that it runs on an Atari equipped with 128 bytes of RAM. Yes, 128 bytes — used for code, data, video, and everything else. (But it can address 64 KB.) It is so primitive that it is unable to multiply integers.",
+      "author": "bugake",
+      "author_slug": "bugake",
+      "source": "Hacker News — Laptop Based on 6502 CPU",
+      "source_url": "https://news.ycombinator.com/item?id=50111537",
+      "categories": [
+        "unix",
+        "funny"
+      ],
+      "tags": [
+        "retro-computing",
+        "6502",
+        "constraints",
+        "hardware"
+      ],
+      "grug_level": 4,
+      "spiciness": 1,
+      "extraction_note": "Fantastic fact that puts modern dev constraints in perspective. 128 bytes for code+data+video and no multiply instruction.",
+      "id": "bugake-the-6502-is-so"
     }
   ]
 }

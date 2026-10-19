@@ -1,0 +1,26 @@
+{
+  "author": "simonbarker87",
+  "slug": "simonbarker87",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "\"Great software is opinionated\" is something I've been saying for years... And yet I have to say it so often to the teams I've worked with or managed.",
+      "author": "simonbarker87",
+      "author_slug": "simonbarker87",
+      "source": "Hacker News — Someone behind the software",
+      "source_url": "https://news.ycombinator.com/item?id=50142573",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "opinionated-software",
+        "taste",
+        "engineering-leadership"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Core insight: opinionated software needs opinionated humans, and that's not an obvious point to teams. Trimmed the self-effacing preamble.",
+      "id": "simonbarker87-great-software-is-opinionated"
+    }
+  ]
+}

@@ -1,18 +1,16 @@
 {
-  "id": "spolsky-leaky-abstractions",
-  "text": "All non-trivial abstractions, to some degree, are leaky.",
-  "author": "Joel Spolsky",
-  "author_slug": "spolsky",
-  "source": "The Law of Leaky Abstractions, 2002",
+  "text": "Every design decision should answer one question: 'Does this help the user?' If not, remove it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "design"
   ],
   "tags": [
-    "abstraction",
-    "leaky",
-    "classic"
+    "decisions",
+    "user-focus"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-every-design-decision-should",
+  "source": "Community sourced"
 }
