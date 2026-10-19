@@ -1,18 +1,16 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "text": "Your best marketing channel is the one you can sustain. Consistency beats brilliance.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "wisdom"
+    "marketing"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "consistency",
+    "sustainability"
   ],
-  "grug_level": 2,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-best-marketing-channel",
+  "source": "Community sourced"
 }

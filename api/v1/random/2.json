@@ -1,16 +1,17 @@
 {
-  "text": "Your indie project should be good enough that users would be sad if it disappeared.",
+  "text": "Your form has 15 required fields. You're not collecting data, you're conducting an interrogation.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "design",
+    "product"
   ],
   "tags": [
-    "value",
-    "indispensability"
+    "forms",
+    "ux"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-indie-project-should",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-form-has-15",
   "source": "Community sourced"
 }

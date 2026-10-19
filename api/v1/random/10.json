@@ -1,17 +1,16 @@
 {
-  "text": "Productivity is never an accident. It is always the result of commitment to excellence, intelligent planning, and focused effort.",
-  "author": "Paul J. Meyer",
-  "author_slug": "meyer",
+  "text": "Every 'add more whitespace' suggestion is just 'I don't know how to fix this content' with better PR.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "design"
   ],
   "tags": [
-    "planning",
-    "focus"
+    "whitespace",
+    "shitpost"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "meyer-productivity-is-never-an",
+  "spiciness": 3,
+  "id": "based-every-add-more-whitespace",
   "source": "Community sourced"
 }

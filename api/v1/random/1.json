@@ -1,16 +1,19 @@
 {
-  "text": "Nobody reads ads. People read what interests them. Sometimes it's an ad.",
-  "author": "Howard Gossage",
-  "author_slug": "gossage",
+  "id": "yagni",
+  "text": "You aren't gonna need it.",
+  "author": "Ron Jeffries / XP",
+  "author_slug": "jeffries",
+  "source": "Extreme Programming Installed, 2000",
   "categories": [
-    "marketing"
+    "wisdom",
+    "shipping"
   ],
   "tags": [
-    "advertising",
-    "attention"
+    "yagni",
+    "simplicity",
+    "over-engineering",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "gossage-nobody-reads-ads-people",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }

@@ -1,20 +1,18 @@
 {
-  "id": "grug-microservices",
-  "text": "grug wonder why big brain take simple monolith, split into 200 microservices, then mass mass effort to make work like monolith again.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "id": "spolsky-leaky-abstractions",
+  "text": "All non-trivial abstractions, to some degree, are leaky.",
+  "author": "Joel Spolsky",
+  "author_slug": "spolsky",
+  "source": "The Law of Leaky Abstractions, 2002",
   "categories": [
-    "grug",
-    "complexity",
-    "shitpost"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "microservices",
-    "architecture",
-    "simplicity"
+    "abstraction",
+    "leaky",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 4
+  "grug_level": 3,
+  "spiciness": 1
 }
