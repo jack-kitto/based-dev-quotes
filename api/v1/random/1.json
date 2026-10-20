@@ -1,19 +1,18 @@
 {
-  "id": "yagni",
-  "text": "You aren't gonna need it.",
-  "author": "Ron Jeffries / XP",
-  "author_slug": "jeffries",
-  "source": "Extreme Programming Installed, 2000",
+  "id": "martin-legacy-code",
+  "text": "Legacy code is simply code without tests.",
+  "author": "Michael Feathers",
+  "author_slug": "feathers",
+  "source": "Working Effectively with Legacy Code, 2004",
   "categories": [
     "wisdom",
-    "shipping"
+    "debugging"
   ],
   "tags": [
-    "yagni",
-    "simplicity",
-    "over-engineering",
-    "classic"
+    "legacy-code",
+    "testing",
+    "definition"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 2,
+  "spiciness": 2
 }

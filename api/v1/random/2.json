@@ -1,17 +1,16 @@
 {
-  "text": "Your form has 15 required fields. You're not collecting data, you're conducting an interrogation.",
+  "text": "The best way to validate an indie idea is to build a landing page, collect emails, and see who signs up.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "indie-hacker"
   ],
   "tags": [
-    "forms",
-    "ux"
+    "validation",
+    "landing-page"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-form-has-15",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-1046",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
+  "text": "The most productive thing you can do today is delete half your to-do list.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "product"
+    "productivity"
   ],
   "tags": [
-    "onboarding",
-    "self-explanatory"
+    "todo",
+    "simplification"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-saas-onboarding",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-most-productive-thing",
   "source": "Community sourced"
 }

@@ -1,16 +1,16 @@
 {
-  "text": "If it takes less than 2 minutes, do it now. If it takes less than 2 hours, do it today. If it takes longer, schedule it and then don't schedule it.",
+  "text": "The best time to start a habit is now. Not tomorrow. Not Monday. Now.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "productivity"
   ],
   "tags": [
-    "gtd",
-    "execution"
+    "habits",
+    "starting"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-if-it-takes-less",
+  "spiciness": 2,
+  "id": "based-the-best-time-to-933",
   "source": "Community sourced"
 }
