@@ -1,16 +1,16 @@
 {
-  "text": "Indie hackers: 'I want to build something that makes $10k MRR.' Reality: you build something that makes $100 MRR and you're thrilled.",
+  "text": "The best architecture is the one that lets you swap out any component without the rest of the system noticing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "expectations",
-    "reality"
+    "architecture",
+    "modularity"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-indie-hackers-i-want",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-architecture-is-619",
   "source": "Community sourced"
 }
