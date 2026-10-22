@@ -1,16 +1,18 @@
 {
-  "text": "The best marketing is solving someone's problem publicly. Show, don't tell.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "money-printer",
+  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter (loosely based on Napoleon)",
   "categories": [
-    "marketing"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "content",
-    "demonstration"
+    "production",
+    "friday",
+    "deployments"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-marketing-is-615",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

@@ -1,16 +1,17 @@
 {
-  "text": "Your most important work requires deep focus. Protect it like your life depends on it.",
+  "text": "Your product should be good enough to sell itself. If it isn't, fix the product, not the marketing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "saas",
+    "product"
   ],
   "tags": [
-    "deep-work",
-    "protection"
+    "product",
+    "marketing"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-most-important-work",
+  "id": "based-your-product-should-be",
   "source": "Community sourced"
 }

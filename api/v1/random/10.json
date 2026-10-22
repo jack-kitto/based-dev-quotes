@@ -1,16 +1,16 @@
 {
-  "text": "The best architecture is the one that lets you swap out any component without the rest of the system noticing.",
+  "text": "The best indie hack is the one you can maintain alone for 3 years. If it needs a team, it's not an indie hack.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "architecture",
-    "modularity"
+    "sustainability",
+    "maintenance"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-architecture-is-619",
+  "id": "based-the-best-indie-hack",
   "source": "Community sourced"
 }

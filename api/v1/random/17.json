@@ -1,18 +1,19 @@
 {
-  "id": "shipping-beats-perfection",
-  "text": "Shipping beats perfection. Every time. No exceptions. Ship the ugly thing.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Indie hacker culture",
+  "id": "spolsky-rewrite",
+  "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
+  "author": "Joel Spolsky",
+  "author_slug": "spolsky",
+  "source": "Things You Should Never Do, Part I, 2000",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "wisdom",
+    "suffering"
   ],
   "tags": [
-    "shipping",
-    "perfection",
-    "mvp"
+    "rewrite",
+    "legacy-code",
+    "strategy",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 4,
+  "spiciness": 3
 }

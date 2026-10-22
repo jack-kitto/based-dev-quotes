@@ -1,16 +1,18 @@
 {
-  "text": "The user who submits a bug report with screenshots and steps to reproduce is worth their weight in gold.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "raymond-enough-eyeballs",
+  "text": "Given enough eyeballs, all bugs are shallow.",
+  "author": "Eric S. Raymond",
+  "author_slug": "raymond",
+  "source": "The Cathedral and the Bazaar, 1999",
   "categories": [
-    "users"
+    "wisdom"
   ],
   "tags": [
-    "bug-reports",
-    "quality"
+    "open-source",
+    "debugging",
+    "community",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-the-user-who-submits",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }

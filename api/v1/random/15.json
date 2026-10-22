@@ -1,17 +1,17 @@
 {
-  "id": "git-rebase-force-push",
-  "text": "The three most dangerous things in programming: a developer with a soldering iron, a manager who codes on weekends, and a junior with git push --force.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "funny"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "git",
-    "danger",
-    "teams"
+    "risk",
+    "innovation"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "zuckerberg-the-biggest-risk-is",
+  "source": "Community sourced"
 }
