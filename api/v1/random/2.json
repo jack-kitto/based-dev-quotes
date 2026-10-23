@@ -1,18 +1,16 @@
 {
-  "id": "money-printer",
-  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter (loosely based on Napoleon)",
+  "text": "The best way to build a culture of ownership is to give people ownership. Not just tasks. Ownership.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "business"
   ],
   "tags": [
-    "production",
-    "friday",
-    "deployments"
+    "ownership",
+    "culture"
   ],
-  "grug_level": 4,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-839",
+  "source": "Community sourced"
 }

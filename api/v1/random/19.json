@@ -1,17 +1,17 @@
 {
-  "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-  "author": "Harold Abelson",
-  "author_slug": "abelson",
+  "text": "Good design is as little design as possible. Less, but better.",
+  "author": "Dieter Rams",
+  "author_slug": "rams",
   "categories": [
-    "engineering",
+    "design",
     "wisdom"
   ],
   "tags": [
-    "readability",
-    "clarity"
+    "simplicity",
+    "minimalism"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "abelson-programs-must-be-written",
+  "id": "rams-good-design-is-as",
   "source": "Community sourced"
 }

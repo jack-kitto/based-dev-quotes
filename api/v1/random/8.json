@@ -1,18 +1,16 @@
 {
-  "id": "torvalds-good-taste",
-  "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
-  "author": "Linus Torvalds",
-  "author_slug": "torvalds",
-  "source": "TED Interview, 2016",
+  "text": "In the middle of difficulty lies opportunity.",
+  "author": "Albert Einstein",
+  "author_slug": "einstein",
   "categories": [
-    "wisdom",
-    "complexity"
+    "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "taste",
-    "design"
+    "difficulty",
+    "opportunity"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 1,
+  "id": "einstein-in-the-middle-of",
+  "source": "Community sourced"
 }

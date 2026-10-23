@@ -1,16 +1,17 @@
 {
-  "text": "The best indie hack is the one you can maintain alone for 3 years. If it needs a team, it's not an indie hack.",
+  "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "business",
+    "saas"
   ],
   "tags": [
-    "sustainability",
-    "maintenance"
+    "customer-success",
+    "listening"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-indie-hack",
+  "id": "based-your-customer-success-team",
   "source": "Community sourced"
 }

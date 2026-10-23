@@ -1,17 +1,19 @@
 {
-  "text": "Your user interface should be like a good joke: if you have to explain it, it's not good.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "rewrite-in-rust",
+  "text": "No matter what problem you post on the internet, someone will suggest rewriting it in Rust.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Hacker News / Reddit",
   "categories": [
-    "users",
-    "design"
+    "funny",
+    "shitpost",
+    "tools"
   ],
   "tags": [
-    "ux",
-    "clarity"
+    "rust",
+    "rewrite",
+    "hype"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-user-interface-should",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 4
 }
