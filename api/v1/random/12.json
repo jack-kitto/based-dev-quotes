@@ -1,16 +1,16 @@
 {
-  "text": "The best investment you can make is in yourself. The second best is in tools that save you time. The worst is in courses that save you nothing.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+  "author": "Simon Sinek",
+  "author_slug": "sinek",
   "categories": [
-    "productivity"
+    "business"
   ],
   "tags": [
-    "investment",
-    "learning"
+    "leadership",
+    "care"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-investment-you",
+  "spiciness": 1,
+  "id": "sinek-leadership-is-not-about",
   "source": "Community sourced"
 }

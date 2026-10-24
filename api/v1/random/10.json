@@ -1,17 +1,17 @@
 {
-  "text": "Your customer success team should be your best listeners. They should understand the customer's world better than the customer does.",
+  "text": "The best alerting system is one that pages you about things that actually matter. The worst is one that pages you about everything so you ignore it all.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "saas"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "customer-success",
-    "listening"
+    "monitoring",
+    "alerting"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-customer-success-team",
+  "id": "based-the-best-alerting-system",
   "source": "Community sourced"
 }

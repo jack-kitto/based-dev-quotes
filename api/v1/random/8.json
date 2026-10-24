@@ -1,16 +1,16 @@
 {
-  "text": "In the middle of difficulty lies opportunity.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "text": "The best indie businesses are ones you can run from a laptop, in a coffee shop, while ignoring everyone around you.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "difficulty",
-    "opportunity"
+    "location-independent",
+    "lifestyle"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-in-the-middle-of",
+  "spiciness": 2,
+  "id": "based-the-best-indie-businesses",
   "source": "Community sourced"
 }
