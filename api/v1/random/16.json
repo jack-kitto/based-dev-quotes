@@ -1,5 +1,5 @@
 {
-  "text": "Most business advice is survivorship bias. The successful founders tell you what worked. The failed ones knew what didn't.",
+  "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
   "author": "based",
   "author_slug": "based",
   "categories": [
@@ -7,11 +7,11 @@
     "wisdom"
   ],
   "tags": [
-    "advice",
-    "bias"
+    "revenue",
+    "cash-flow"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-most-business-advice-is",
+  "spiciness": 2,
+  "id": "based-revenue-is-vanity-profit",
   "source": "Community sourced"
 }

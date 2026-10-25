@@ -1,16 +1,17 @@
 {
-  "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
-  "author": "Eric Ries",
-  "author_slug": "ries",
+  "text": "Your growth rate matters less than your retention rate. A leaky bucket can't be filled.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "business",
+    "saas"
   ],
   "tags": [
-    "startup",
-    "uncertainty"
+    "growth",
+    "retention"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "ries-a-startup-is-a",
+  "spiciness": 2,
+  "id": "based-your-growth-rate-matters",
   "source": "Community sourced"
 }

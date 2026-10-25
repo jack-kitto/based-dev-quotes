@@ -1,16 +1,18 @@
 {
-  "text": "SEO is a long game. If you want results today, run ads. If you want results in 6 months, write content.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "regex-now-two-problems-extended",
+  "text": "I had a problem, so I decided to use threads. pNow roblems. I two have",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "marketing"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "seo",
-    "content"
+    "concurrency",
+    "threads",
+    "race-conditions"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-seo-is-a-long",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

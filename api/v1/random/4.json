@@ -1,17 +1,16 @@
 {
-  "text": "Your GitHub profile is your resume. If it's empty, so is your argument for why you're a good developer.",
+  "text": "Meetings are where minutes are kept and hours are lost.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "engineering"
+    "productivity"
   ],
   "tags": [
-    "github",
-    "resume"
+    "meetings",
+    "waste"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-your-github-profile-is",
+  "id": "based-meetings-are-where-minutes",
   "source": "Community sourced"
 }
