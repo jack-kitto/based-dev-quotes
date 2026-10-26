@@ -1,17 +1,17 @@
 {
-  "text": "Revenue is vanity, profit is sanity, cash flow is reality.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "If you're not embarrassed by your first release, you launched too late.",
+  "author": "Reid Hoffman",
+  "author_slug": "hoffman",
   "categories": [
     "business",
     "wisdom"
   ],
   "tags": [
-    "revenue",
-    "cash-flow"
+    "mvp",
+    "shipping"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-revenue-is-vanity-profit",
+  "spiciness": 1,
+  "id": "hoffman-if-youre-not-embarrassed",
   "source": "Community sourced"
 }

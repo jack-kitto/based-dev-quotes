@@ -1,17 +1,18 @@
 {
-  "text": "Your growth rate matters less than your retention rate. A leaky bucket can't be filled.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "marc-lou-build-fast",
+  "text": "I don't compete on features. I compete on speed. Ship in days, not months.",
+  "author": "Marc Lou",
+  "author_slug": "marclou",
+  "source": "Twitter / YouTube",
   "categories": [
-    "business",
-    "saas"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "growth",
-    "retention"
+    "speed",
+    "competition",
+    "shipping"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-growth-rate-matters",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

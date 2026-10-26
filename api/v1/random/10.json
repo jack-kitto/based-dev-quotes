@@ -1,17 +1,16 @@
 {
-  "text": "The real productivity hack is caring less about productivity hacks and more about the work.",
+  "text": "If you have to explain your navigation, your navigation is broken.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "design"
   ],
   "tags": [
-    "meta",
-    "focus"
+    "navigation",
+    "ux"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-real-productivity-hack",
+  "spiciness": 2,
+  "id": "based-if-you-have-to",
   "source": "Community sourced"
 }
