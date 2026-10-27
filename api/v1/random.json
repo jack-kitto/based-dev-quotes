@@ -1,18 +1,19 @@
 {
-  "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
+  "id": "senior-dev-google",
+  "text": "A senior developer is just a junior developer who has Googled more things.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "career"
   ],
   "tags": [
-    "debugging",
-    "programming"
+    "seniority",
+    "experience",
+    "google"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "dijkstra-if-debugging-is-the",
-  "source": "Community sourced",
-  "_generated_at": "2026-10-26T03:33:38.461749+00:00"
+  "grug_level": 4,
+  "spiciness": 2,
+  "_generated_at": "2026-10-27T03:58:46.398901+00:00"
 }

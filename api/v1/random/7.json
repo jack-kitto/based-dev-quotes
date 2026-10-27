@@ -1,16 +1,17 @@
 {
-  "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Simplicity is the ultimate form of sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
-    "engineering"
+    "design",
+    "wisdom"
   ],
   "tags": [
-    "debugging",
-    "logging"
+    "simplicity",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-debugging-strategy",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "davinci-simplicity-is-the-ultimate-907",
   "source": "Community sourced"
 }

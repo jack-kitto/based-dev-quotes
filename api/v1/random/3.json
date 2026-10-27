@@ -1,17 +1,17 @@
 {
-  "text": "Simplicity does not precede complexity, but follows it.",
-  "author": "Alan Perlis",
-  "author_slug": "perlis",
+  "text": "A function that does one thing well is worth a thousand functions that do everything poorly.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
     "engineering",
     "wisdom"
   ],
   "tags": [
-    "simplicity",
-    "complexity"
+    "functions",
+    "single-responsibility"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "perlis-simplicity-does-not-precede",
+  "id": "based-a-function-that-does",
   "source": "Community sourced"
 }

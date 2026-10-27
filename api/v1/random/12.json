@@ -1,16 +1,17 @@
 {
-  "text": "Your biggest growth comes from your biggest failures. Embrace them.",
+  "text": "Every line of code is a liability. Every feature is a bet. Every deploy is a risk. Ship accordingly.",
   "author": "based",
   "author_slug": "based",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "failure",
-    "growth"
+    "risk",
+    "shipping"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-biggest-growth-comes",
+  "id": "based-every-line-of-code",
   "source": "Community sourced"
 }

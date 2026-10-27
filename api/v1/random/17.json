@@ -1,16 +1,18 @@
 {
-  "text": "Your business should be boring to run and exciting to bank.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "ramen-profitable",
+  "text": "Step 1: Get ramen profitable. Step 2: There is no step 2. Everything else is a luxury.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Indie hacker culture (term from Paul Graham)",
   "categories": [
-    "business"
+    "indie-hacker",
+    "founder"
   ],
   "tags": [
-    "boring",
-    "revenue"
+    "profitability",
+    "ramen",
+    "survival"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-your-business-should-be",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

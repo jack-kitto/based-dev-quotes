@@ -1,17 +1,18 @@
 {
-  "text": "If you're not embarrassed by your first release, you launched too late.",
-  "author": "Reid Hoffman",
-  "author_slug": "hoffman",
+  "id": "10x-developer",
+  "text": "A 10x developer is someone who makes 5 other developers 2x more productive. Not someone who writes 10x more code.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter / HN discourse",
   "categories": [
-    "business",
-    "wisdom"
+    "wisdom",
+    "career"
   ],
   "tags": [
-    "mvp",
-    "shipping"
+    "10x",
+    "teamwork",
+    "productivity"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "hoffman-if-youre-not-embarrassed",
-  "source": "Community sourced"
+  "spiciness": 2
 }
