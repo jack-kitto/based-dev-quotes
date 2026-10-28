@@ -1,16 +1,17 @@
 {
-  "text": "Growth is never by mere chance; it is the result of forces working together.",
-  "author": "James Cash Penney",
-  "author_slug": "penney",
+  "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "growth",
-    "forces"
+    "legacy",
+    "fear"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "penney-growth-is-never-by",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-your-code-works",
   "source": "Community sourced"
 }

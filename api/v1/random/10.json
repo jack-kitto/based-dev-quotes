@@ -1,16 +1,17 @@
 {
-  "text": "It does not matter how slowly you go as long as you do not stop.",
-  "author": "Confucius",
-  "author_slug": "confucius",
+  "text": "The best way to learn business is to run one. No MBA needed.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "indie-hacker",
+    "business"
   ],
   "tags": [
-    "persistence",
-    "progress"
+    "learning",
+    "business"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "confucius-it-does-not-matter",
+  "spiciness": 2,
+  "id": "based-the-best-way-to-1070",
   "source": "Community sourced"
 }

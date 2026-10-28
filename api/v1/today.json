@@ -1,17 +1,18 @@
 {
-  "text": "The best time to add analytics is on day one. The second best time is when you realize you've been flying blind for 6 months.",
+  "text": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "business",
+    "product"
   ],
   "tags": [
-    "analytics",
-    "data"
+    "innovation",
+    "focus"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-time-to-323",
+  "id": "based-innovation-is-not-about",
   "source": "Community sourced",
-  "_date": "2026-10-27"
+  "_date": "2026-10-28"
 }
