@@ -1,17 +1,16 @@
 {
-  "text": "If your code works, don't touch it. If it doesn't work, maybe also don't touch it.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The best is the enemy of the good.",
+  "author": "Voltaire",
+  "author_slug": "voltaire",
   "categories": [
-    "engineering",
-    "shitpost"
+    "wisdom"
   ],
   "tags": [
-    "legacy",
-    "fear"
+    "perfectionism",
+    "good-enough"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-your-code-works",
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "voltaire-the-best-is-the",
   "source": "Community sourced"
 }

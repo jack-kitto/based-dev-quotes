@@ -1,18 +1,16 @@
 {
-  "id": "sandi-metz-wrong-abstraction",
-  "text": "Duplication is far cheaper than the wrong abstraction.",
-  "author": "Sandi Metz",
-  "author_slug": "metz",
-  "source": "The Wrong Abstraction, 2016",
+  "text": "The best time to refactor is when nobody is watching. The second best time is between features. The worst time is during an incident.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "complexity"
+    "engineering"
   ],
   "tags": [
-    "abstraction",
-    "duplication",
-    "simplicity"
+    "refactoring",
+    "timing"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-time-to-481",
+  "source": "Community sourced"
 }
