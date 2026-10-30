@@ -1,16 +1,18 @@
 {
-  "text": "The best way to learn React is to build something with it. Not to read about it. Build.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-refactor",
+  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "engineering"
+    "grug",
+    "wisdom"
   ],
   "tags": [
-    "react",
-    "learning"
+    "refactoring",
+    "discipline"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-971",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 1
 }

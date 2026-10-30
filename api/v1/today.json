@@ -1,18 +1,17 @@
 {
-  "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-  "author": "Harold Abelson",
-  "author_slug": "abelson",
+  "text": "Your indie business should be simple enough to explain in one sentence. If it takes a paragraph, simplify.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "readability",
+    "simplicity",
     "clarity"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "abelson-programs-must-be-written",
+  "spiciness": 2,
+  "id": "based-your-indie-business-should-1071",
   "source": "Community sourced",
-  "_date": "2026-10-29"
+  "_date": "2026-10-30"
 }

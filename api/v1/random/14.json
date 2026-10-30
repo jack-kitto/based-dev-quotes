@@ -1,16 +1,17 @@
 {
-  "text": "The best is the enemy of the good.",
-  "author": "Voltaire",
-  "author_slug": "voltaire",
+  "text": "The problem with requirements is that they're written by people who don't have to implement them.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "users",
+    "engineering"
   ],
   "tags": [
-    "perfectionism",
-    "good-enough"
+    "requirements",
+    "disconnect"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "voltaire-the-best-is-the",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-problem-with-requirements",
   "source": "Community sourced"
 }
