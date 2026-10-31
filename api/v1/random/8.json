@@ -1,17 +1,17 @@
 {
-  "text": "Your product roadmap should be based on user needs, not competitor features.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  "author": "Will Durant",
+  "author_slug": "durant",
   "categories": [
-    "users",
-    "product"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "roadmap",
-    "users"
+    "habits",
+    "excellence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-roadmap-should",
+  "spiciness": 1,
+  "id": "durant-we-are-what-we",
   "source": "Community sourced"
 }

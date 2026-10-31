@@ -1,16 +1,16 @@
 {
-  "text": "The best technology choice is the one your team knows. The second best is the one that's actually right. Usually they're different.",
+  "text": "Your SaaS should be so simple that support tickets are the exception, not the rule.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "saas"
   ],
   "tags": [
-    "technology-choices",
-    "team"
+    "support",
+    "simplicity"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-best-technology-choice",
+  "spiciness": 2,
+  "id": "based-your-saas-should-be-637",
   "source": "Community sourced"
 }

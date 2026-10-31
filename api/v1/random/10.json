@@ -1,18 +1,16 @@
 {
-  "id": "grug-refactor",
-  "text": "grug have cardinal rule: never refactor and change functionality at same time. grug see mass mass senior devs do this and mass mass problems every time.",
-  "author": "The Grug Brained Developer",
-  "author_slug": "grug",
-  "source": "The Grug Brained Developer",
-  "source_url": "https://grugbrain.dev/",
+  "text": "The best SaaS partnerships are the ones where both companies' customers benefit. Everything else is just cross-promotion.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "grug",
-    "wisdom"
+    "saas"
   ],
   "tags": [
-    "refactoring",
-    "discipline"
+    "partnerships",
+    "integrations"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-saas-partnerships",
+  "source": "Community sourced"
 }

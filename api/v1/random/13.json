@@ -1,17 +1,18 @@
 {
-  "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-  "author": "Harold Abelson",
-  "author_slug": "abelson",
+  "id": "dijkstra-humble-programmer",
+  "text": "The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility.",
+  "author": "Edsger W. Dijkstra",
+  "author_slug": "dijkstra",
+  "source": "The Humble Programmer, 1972 Turing Award Lecture",
   "categories": [
-    "engineering",
-    "wisdom"
+    "wisdom",
+    "grug"
   ],
   "tags": [
-    "readability",
-    "clarity"
+    "humility",
+    "competence",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "abelson-programs-must-be-written",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }
