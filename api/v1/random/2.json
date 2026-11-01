@@ -1,17 +1,16 @@
 {
-  "text": "The best product decisions come from understanding the user's actual workflow, not the one you imagined they had.",
+  "text": "Your tools should serve you, not the other way around. If a tool adds complexity, replace it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "productivity"
   ],
   "tags": [
-    "workflow",
-    "research"
+    "tools",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-product-decisions-559",
+  "id": "based-your-tools-should-serve",
   "source": "Community sourced"
 }

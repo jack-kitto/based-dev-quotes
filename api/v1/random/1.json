@@ -1,18 +1,17 @@
 {
-  "id": "machine-learning-if-else",
-  "text": "Machine learning is just spicy if/else statements.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "The Internet? Is that thing still around?",
+  "author": "Homer Simpson",
+  "author_slug": "simpson",
   "categories": [
-    "funny",
+    "engineering",
     "shitpost"
   ],
   "tags": [
-    "machine-learning",
-    "ai",
-    "reductionism"
+    "internet",
+    "humor"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "simpson-the-internet-is-that",
+  "source": "Community sourced"
 }

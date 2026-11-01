@@ -1,16 +1,16 @@
 {
-  "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
+  "text": "The best engineers write code that writes code. The second best write code. The worst write comments.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "engineering"
   ],
   "tags": [
-    "tech-debt",
-    "procrastination"
+    "automation",
+    "leverage"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-technical-debt-is-what",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-engineers-write-625",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
-  "author": "Bill Gates",
-  "author_slug": "gates",
+  "id": "money-printer",
+  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter (loosely based on Napoleon)",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "metrics",
-    "quality"
+    "production",
+    "friday",
+    "deployments"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "gates-measuring-programming-progress-by",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

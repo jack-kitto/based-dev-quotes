@@ -1,17 +1,17 @@
 {
-  "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-  "author": "Will Durant",
-  "author_slug": "durant",
+  "id": "graham-wealth",
+  "text": "A startup is a company designed to grow fast. The only essential thing is growth. Everything else we associate with startups follows from growth.",
+  "author": "Paul Graham",
+  "author_slug": "graham",
+  "source": "Startup = Growth, 2012",
   "categories": [
-    "productivity",
-    "wisdom"
+    "founder"
   ],
   "tags": [
-    "habits",
-    "excellence"
+    "startups",
+    "growth",
+    "definition"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "durant-we-are-what-we",
-  "source": "Community sourced"
+  "grug_level": 2,
+  "spiciness": 1
 }
