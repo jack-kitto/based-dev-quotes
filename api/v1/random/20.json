@@ -1,16 +1,16 @@
 {
-  "text": "If a design element doesn't serve a purpose, it's noise. Remove it.",
+  "text": "Your team should be able to challenge any decision, including the CEO's. If they can't, you have a dictatorship.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "business"
   ],
   "tags": [
-    "purpose",
-    "noise"
+    "culture",
+    "challenge"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-a-design-element",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-team-should-be-834",
   "source": "Community sourced"
 }

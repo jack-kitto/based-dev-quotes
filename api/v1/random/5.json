@@ -1,16 +1,17 @@
 {
-  "text": "The best leaders are the ones who can admit they're wrong. Vulnerability is strength.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Worse is better.",
+  "author": "Richard P. Gabriel",
+  "author_slug": "gabriel",
   "categories": [
-    "business"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "leadership",
-    "vulnerability"
+    "simplicity",
+    "pragmatism"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-leaders-are-1038",
+  "id": "gabriel-worse-is-better",
   "source": "Community sourced"
 }

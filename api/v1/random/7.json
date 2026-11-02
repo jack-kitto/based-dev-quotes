@@ -1,16 +1,18 @@
 {
-  "text": "Don't watch the clock; do what it does. Keep going.",
-  "author": "Sam Levenson",
-  "author_slug": "levenson",
+  "id": "im-in-this-picture",
+  "text": "The code you wrote 6 months ago might as well have been written by someone else. And that someone was an idiot.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Programming folklore",
   "categories": [
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "persistence",
-    "action"
+    "legacy-code",
+    "past-self",
+    "humility"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "levenson-dont-watch-the-clock",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }

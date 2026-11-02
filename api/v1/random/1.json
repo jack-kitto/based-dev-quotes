@@ -1,17 +1,18 @@
 {
-  "text": "The Internet? Is that thing still around?",
-  "author": "Homer Simpson",
-  "author_slug": "simpson",
+  "id": "gwern-on-finishing",
+  "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+  "author": "Gwern Branwen",
+  "author_slug": "gwern",
+  "source": "gwern.net",
   "categories": [
-    "engineering",
-    "shitpost"
+    "shipping",
+    "wisdom"
   ],
   "tags": [
-    "internet",
-    "humor"
+    "finishing",
+    "discipline",
+    "projects"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "simpson-the-internet-is-that",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 1
 }

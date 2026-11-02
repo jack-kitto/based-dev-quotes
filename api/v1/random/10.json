@@ -1,16 +1,16 @@
 {
-  "text": "Deep work is not about working harder. It's about working on the right things with full attention.",
+  "text": "The best features are the ones you don't build. Every feature adds maintenance burden.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "product"
   ],
   "tags": [
-    "deep-work",
-    "attention"
+    "features",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-deep-work-is-not",
+  "id": "based-the-best-features-are",
   "source": "Community sourced"
 }

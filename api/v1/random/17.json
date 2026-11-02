@@ -1,17 +1,16 @@
 {
-  "text": "Your FAQ page is a list of your product's failures. Fix the underlying issues and delete the FAQ.",
+  "text": "The best indie hackers are the ones who can switch between CEO and developer in 5 minutes.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "indie-hacker"
   ],
   "tags": [
-    "faq",
-    "ux"
+    "switching",
+    "hats"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-faq-page-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-indie-hackers-769",
   "source": "Community sourced"
 }
