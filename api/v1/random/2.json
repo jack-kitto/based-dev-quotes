@@ -1,16 +1,16 @@
 {
-  "text": "Your team should be able to disagree and commit. If they can't disagree, there's no trust. If they can't commit, there's no respect.",
+  "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "saas"
   ],
   "tags": [
-    "team",
-    "disagreement"
+    "complexity",
+    "enterprise"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-team-should-be",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-every-saas-goes-through",
   "source": "Community sourced"
 }

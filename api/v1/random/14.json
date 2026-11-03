@@ -1,19 +1,16 @@
 {
-  "id": "6-months-avoid-reading",
-  "text": "6 months of debugging can save you 5 minutes of reading the documentation.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Programming folklore",
+  "text": "Your most important metric as an indie hacker is revenue per hour worked. Optimize for that.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering",
-    "debugging"
+    "indie-hacker"
   ],
   "tags": [
-    "documentation",
-    "debugging",
-    "irony"
+    "revenue",
+    "efficiency"
   ],
-  "grug_level": 5,
-  "spiciness": 2
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-most-important-metric-1059",
+  "source": "Community sourced"
 }

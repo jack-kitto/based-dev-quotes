@@ -1,17 +1,18 @@
 {
-  "text": "Rewriting from scratch is always tempting. It's also always a terrible idea. But you won't believe me until you've done it yourself.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "docker-works-here",
+  "text": "Docker: because 'it works on my machine' wasn't a good enough answer, so now we ship the machine.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "tools"
   ],
   "tags": [
-    "rewrite",
-    "experience"
+    "docker",
+    "containers",
+    "deployment"
   ],
   "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-rewriting-from-scratch-is",
-  "source": "Community sourced"
+  "spiciness": 1
 }

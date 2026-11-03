@@ -1,17 +1,17 @@
 {
-  "text": "Your product's biggest flaw is the one your users complain about most. Fix that first.",
+  "text": "Every design is a wireframe until someone puts a gradient on it.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "design",
+    "shitpost"
   ],
   "tags": [
-    "feedback",
-    "prioritization"
+    "wireframe",
+    "gradients"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-products-biggest-flaw",
+  "id": "based-every-design-is-a",
   "source": "Community sourced"
 }
