@@ -1,17 +1,17 @@
 {
-  "text": "The best way to reduce support tickets isn't a better help center. It's a product that doesn't confuse people.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Controlling complexity is the essence of computer programming.",
+  "author": "Brian Kernighan",
+  "author_slug": "kernighan",
   "categories": [
-    "saas",
-    "product"
+    "engineering",
+    "wisdom"
   ],
   "tags": [
-    "support",
-    "ux"
+    "complexity",
+    "essence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-337",
+  "spiciness": 1,
+  "id": "kernighan-controlling-complexity-is-the",
   "source": "Community sourced"
 }

@@ -1,18 +1,18 @@
 {
-  "text": "Knowledge is power. Applied knowledge is superpower. Hoarded knowledge is a hoarder.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Less is more.",
+  "author": "Ludwig Mies van der Rohe",
+  "author_slug": "mies",
   "categories": [
-    "productivity",
+    "design",
     "wisdom"
   ],
   "tags": [
-    "knowledge",
-    "application"
+    "minimalism",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-knowledge-is-power-applied",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "mies-less-is-more",
   "source": "Community sourced",
-  "_date": "2026-11-03"
+  "_date": "2026-11-04"
 }
