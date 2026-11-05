@@ -1,16 +1,18 @@
 {
-  "text": "The best frontend framework is the one your team knows. The second best is the one that fits the problem.",
+  "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
   "author": "based",
   "author_slug": "based",
   "categories": [
+    "users",
+    "product",
     "engineering"
   ],
   "tags": [
-    "frameworks",
-    "pragmatism"
+    "features",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-frontend-framework",
+  "id": "based-the-best-feature-is",
   "source": "Community sourced"
 }

@@ -1,17 +1,18 @@
 {
-  "text": "The best team rituals are the ones that build connection, not just output. Happy teams ship faster.",
+  "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "rituals",
-    "connection"
+    "logging",
+    "monitoring"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-team-rituals",
+  "id": "based-your-logging-should-tell",
   "source": "Community sourced",
-  "_generated_at": "2026-11-04T05:06:20.139998+00:00"
+  "_generated_at": "2026-11-05T05:28:15.875871+00:00"
 }
