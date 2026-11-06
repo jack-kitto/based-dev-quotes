@@ -1,16 +1,17 @@
 {
-  "text": "The best way to beat competition is to not have any. Build something so unique that there's nothing to compare it to.",
+  "text": "Docker: because 'it works on my machine' stopped being acceptable. Now it works on everyone's machine but nobody understands why.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "competition",
-    "uniqueness"
+    "docker",
+    "containers"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-602",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-docker-because-it-works",
   "source": "Community sourced"
 }

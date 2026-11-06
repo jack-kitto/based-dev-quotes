@@ -1,16 +1,17 @@
 {
-  "text": "Your newsletter is your most valuable marketing asset. Build it before you need it.",
+  "text": "The code works. Don't touch it. I don't know why it works. Don't ask.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "newsletter",
-    "asset"
+    "legacy",
+    "cargo-cult"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-newsletter-is-your",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-code-works-dont",
   "source": "Community sourced"
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Fail fast, fail forward, fail cheaply. But most importantly: learn.",
+  "text": "The best time to systematize is when you're small. Systems built under pressure are always worse.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "business"
   ],
   "tags": [
-    "failure",
-    "learning"
+    "systems",
+    "scaling"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-fail-fast-fail-forward",
+  "id": "based-the-best-time-to-599",
   "source": "Community sourced"
 }

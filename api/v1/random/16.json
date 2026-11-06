@@ -1,17 +1,16 @@
 {
-  "text": "The only way to go fast is to go well.",
-  "author": "Robert C. Martin",
-  "author_slug": "martin",
+  "text": "Your growth strategy should be unique to your business. Copying others' strategies is a recipe for mediocrity.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "speed",
-    "quality"
+    "growth",
+    "uniqueness"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "martin-the-only-way-to",
+  "spiciness": 2,
+  "id": "based-your-growth-strategy-should",
   "source": "Community sourced"
 }

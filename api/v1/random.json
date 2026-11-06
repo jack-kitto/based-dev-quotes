@@ -1,18 +1,17 @@
 {
-  "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
+  "text": "The best debugging strategy is to add logging, not to add breakpoints. Logging scales. Breakpoints don't.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "engineering"
   ],
   "tags": [
-    "logging",
-    "monitoring"
+    "debugging",
+    "logging"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-logging-should-tell",
+  "id": "based-the-best-debugging-strategy",
   "source": "Community sourced",
-  "_generated_at": "2026-11-05T05:28:15.875871+00:00"
+  "_generated_at": "2026-11-06T05:27:00.919153+00:00"
 }

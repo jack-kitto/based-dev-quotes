@@ -1,16 +1,19 @@
 {
-  "text": "A funnel is just a polite way of saying 'we lose most of our customers at each step.'",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-complexity-bad",
+  "text": "complexity very, very bad. say again: complexity very bad. you not smart enough to manage it, nobody is.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "marketing"
+    "grug",
+    "complexity"
   ],
   "tags": [
-    "funnel",
-    "conversion"
+    "simplicity",
+    "complexity",
+    "classic"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-a-funnel-is-just",
-  "source": "Community sourced"
+  "grug_level": 5,
+  "spiciness": 2
 }
