@@ -1,17 +1,17 @@
 {
-  "text": "Your power users will forgive bugs. Your new users won't. Design for both.",
+  "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "power-users",
-    "new-users"
+    "logging",
+    "monitoring"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-power-users-will",
+  "id": "based-your-logging-should-tell",
   "source": "Community sourced"
 }

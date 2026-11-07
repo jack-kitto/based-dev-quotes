@@ -1,17 +1,18 @@
 {
-  "text": "The code works. Don't touch it. I don't know why it works. Don't ask.",
+  "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "users",
+    "product",
+    "engineering"
   ],
   "tags": [
-    "legacy",
-    "cargo-cult"
+    "features",
+    "simplicity"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-code-works-dont",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-feature-is",
   "source": "Community sourced"
 }

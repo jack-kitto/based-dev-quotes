@@ -1,17 +1,19 @@
 {
-  "id": "thompson-cant-trust",
-  "text": "You can't trust code that you did not totally create yourself.",
-  "author": "Ken Thompson",
-  "author_slug": "thompson",
-  "source": "Reflections on Trusting Trust, 1984 Turing Award Lecture",
+  "id": "hoffman-embarrassed",
+  "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+  "author": "Reid Hoffman",
+  "author_slug": "hoffman",
+  "source": "LinkedIn founder, various interviews",
   "categories": [
-    "wisdom"
+    "indie-hacker",
+    "shipping"
   ],
   "tags": [
-    "security",
-    "trust",
+    "mvp",
+    "launching",
+    "perfection",
     "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2
+  "spiciness": 1
 }

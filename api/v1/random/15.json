@@ -1,17 +1,18 @@
 {
-  "text": "Happy path development is what you do when you've never met a user. Users don't take happy paths. They take confused paths.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "torvalds-good-taste",
+  "text": "I think that 'good taste' is much more about the ability to see and understand that simplicity — and to prefer it over cleverness.",
+  "author": "Linus Torvalds",
+  "author_slug": "torvalds",
+  "source": "TED Interview, 2016",
   "categories": [
-    "users",
-    "engineering"
+    "wisdom",
+    "complexity"
   ],
   "tags": [
-    "happy-path",
-    "reality"
+    "simplicity",
+    "taste",
+    "design"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-happy-path-development-is",
-  "source": "Community sourced"
+  "grug_level": 3,
+  "spiciness": 1
 }

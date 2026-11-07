@@ -1,16 +1,17 @@
 {
-  "text": "Your habits shape your future. Choose them wisely.",
+  "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "habits",
-    "future"
+    "failure",
+    "listening"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-your-habits-shape-your",
+  "spiciness": 3,
+  "id": "based-the-graveyard-of-failed",
   "source": "Community sourced"
 }
