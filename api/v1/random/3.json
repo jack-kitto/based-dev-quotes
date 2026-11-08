@@ -1,18 +1,20 @@
 {
-  "id": "dijkstra-simplicity",
-  "text": "Simplicity is prerequisite for reliability.",
-  "author": "Edsger W. Dijkstra",
-  "author_slug": "dijkstra",
-  "source": "EWD498",
+  "id": "ai-replace-devs",
+  "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter, 2023",
   "categories": [
-    "wisdom",
-    "complexity"
+    "funny",
+    "career",
+    "shitpost"
   ],
   "tags": [
-    "simplicity",
-    "reliability",
-    "classic"
+    "ai",
+    "replacement",
+    "jobs",
+    "automation"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 3
 }

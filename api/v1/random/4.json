@@ -1,19 +1,16 @@
 {
-  "id": "hoffman-embarrassed",
-  "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
-  "author": "Reid Hoffman",
-  "author_slug": "hoffman",
-  "source": "LinkedIn founder, various interviews",
+  "text": "Your brand is your promise. Your product is your proof. Your customers are your witnesses.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "business"
   ],
   "tags": [
-    "mvp",
-    "launching",
-    "perfection",
-    "classic"
+    "brand",
+    "promise"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 1,
+  "id": "based-your-brand-is-your",
+  "source": "Community sourced"
 }

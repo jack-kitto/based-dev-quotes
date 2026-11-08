@@ -1,18 +1,16 @@
 {
-  "text": "The best feature is the one you don't build. Every feature is a future maintenance burden and a current cognitive load.",
+  "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product",
-    "engineering"
+    "business"
   ],
   "tags": [
-    "features",
+    "business-model",
     "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-feature-is",
+  "id": "based-your-business-model-should",
   "source": "Community sourced"
 }

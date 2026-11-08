@@ -1,16 +1,16 @@
 {
-  "text": "The art of being wise is the art of knowing what to overlook.",
-  "author": "William James",
-  "author_slug": "james",
+  "text": "The best code review comment is 'LGTM' after 0 seconds of review. The most honest is 'I'll look at this tomorrow' repeated 47 times.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "simplicity",
-    "wisdom"
+    "code-review",
+    "honesty"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "james-the-art-of-being",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-best-code-review",
   "source": "Community sourced"
 }

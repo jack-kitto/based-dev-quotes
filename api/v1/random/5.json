@@ -1,17 +1,17 @@
 {
-  "text": "The graveyard of failed startups is filled with products nobody asked for, built by people who didn't listen.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Simplicity is the ultimate form of sophistication.",
+  "author": "Leonardo da Vinci",
+  "author_slug": "davinci",
   "categories": [
-    "business",
-    "entrepreneur"
+    "design",
+    "wisdom"
   ],
   "tags": [
-    "failure",
-    "listening"
+    "simplicity",
+    "classic"
   ],
-  "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-the-graveyard-of-failed",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "davinci-simplicity-is-the-ultimate-907",
   "source": "Community sourced"
 }

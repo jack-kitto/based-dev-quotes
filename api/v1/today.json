@@ -1,19 +1,19 @@
 {
-  "id": "programmer-optimist",
-  "text": "The generation of random numbers is too important to be left to chance.",
-  "author": "Robert R. Coveyou",
-  "author_slug": "coveyou",
-  "source": "Oak Ridge National Laboratory",
+  "id": "gwern-on-finishing",
+  "text": "The real lesson is: finish things. Not starting is fine. Not finishing is a problem.",
+  "author": "Gwern Branwen",
+  "author_slug": "gwern",
+  "source": "gwern.net",
   "categories": [
-    "funny",
+    "shipping",
     "wisdom"
   ],
   "tags": [
-    "randomness",
-    "irony",
-    "math"
+    "finishing",
+    "discipline",
+    "projects"
   ],
-  "grug_level": 2,
+  "grug_level": 4,
   "spiciness": 1,
-  "_date": "2026-11-07"
+  "_date": "2026-11-08"
 }
