@@ -1,16 +1,17 @@
 {
-  "text": "The difference between spam and marketing is whether the recipient asked for it.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Innovation is saying no to a thousand things.",
+  "author": "Steve Jobs",
+  "author_slug": "jobs",
   "categories": [
-    "marketing"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "spam",
-    "consent"
+    "innovation",
+    "focus"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-difference-between-spam",
+  "spiciness": 1,
+  "id": "jobs-innovation-is-saying-no",
   "source": "Community sourced"
 }

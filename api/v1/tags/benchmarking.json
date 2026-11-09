@@ -1,0 +1,27 @@
+{
+  "tag": "benchmarking",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "They hardly compare against the conventional next-token-prediction objective, which suggests they don't beat it. Machine learning papers often tend to focus exclusively on the positives without mentioning the bad aspects.",
+      "author": "cubefox",
+      "author_slug": "cubefox",
+      "source": "Hacker News — Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "source_url": "https://news.ycombinator.com/item?id=50422168",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ml-research",
+        "benchmarking",
+        "skepticism",
+        "papers"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Sharp read-the-rooms observation about what researchers *don't* benchmark — the missing comparison is the tell. Works standalone as a general truth about hype papers.",
+      "id": "cubefox-they-hardly-compare-against"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "total": 1076,
-  "generated_at": "2026-11-09T04:57:04.345591+00:00",
+  "total": 1086,
+  "generated_at": "2026-11-09T14:54:48.642739+00:00",
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -17850,6 +17850,216 @@
       "spiciness": 2,
       "id": "based-your-indie-project-is-1075",
       "source": "Community sourced"
+    },
+    {
+      "text": "There are far too many “machines for turning commons into tragedies” running amok for there to be any significant creation of commons in the future. The machines are in a race to the bottom: they cannot prevent themselves from harvesting too early and too aggressively for any commons that does somehow get created anyway to survive.",
+      "author": "fwlr",
+      "author_slug": "fwlr",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "commons",
+        "platforms",
+        "enshittification",
+        "web"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "“Machines for turning commons into tragedies” is a genuinely sharp, memorable phrase; trimmed the bulleted reasoning into one clean second sentence.",
+      "id": "fwlr-there-are-far-too"
+    },
+    {
+      "text": "I refuse to read articles with provably wrong/clickbait titles.",
+      "author": "jkahrs595",
+      "author_slug": "jkahrs595",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "clickbait",
+        "reading",
+        "principles"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy one-liner with a deadpan absolutism that reads well out of context.",
+      "id": "jkahrs595-i-refuse-to-read"
+    },
+    {
+      "text": "C is not low level. You won't learn how memory is allocated by inspecting malloc() any more than you'd learn how characters are printed to the screen by reading printf(). You only learn about the thin or heavy wrapper that C is responsible for — the real magic is happening in the kernel and the device firmware.",
+      "author": "TZubiri",
+      "author_slug": "tzubiri",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "c",
+        "memory",
+        "abstractions",
+        "low-level",
+        "unix"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Classic anti-abstraction wisdom — ‘C is not low level’ is a spicy, quotable thesis; fixed capitalization and paragraph flow without changing voice.",
+      "id": "tzubiri-c-is-not-low"
+    },
+    {
+      "text": "If the DRAM scarcity continues, not much.",
+      "author": "amelius",
+      "author_slug": "amelius",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "malloc",
+        "hardware",
+        "dram",
+        "economics"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry one-word-punchline answer to ‘what is malloc doing’; works perfectly standalone.",
+      "id": "amelius-if-the-dram-scarcity"
+    },
+    {
+      "text": "They hardly compare against the conventional next-token-prediction objective, which suggests they don't beat it. Machine learning papers often tend to focus exclusively on the positives without mentioning the bad aspects.",
+      "author": "cubefox",
+      "author_slug": "cubefox",
+      "source": "Hacker News — Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "source_url": "https://news.ycombinator.com/item?id=50422168",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ml-research",
+        "benchmarking",
+        "skepticism",
+        "papers"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Sharp read-the-rooms observation about what researchers *don't* benchmark — the missing comparison is the tell. Works standalone as a general truth about hype papers.",
+      "id": "cubefox-they-hardly-compare-against"
+    },
+    {
+      "text": "It seems ridiculous that there would be consumer demand to unlock a car from a phone in the first place. What is the point of all this infrastructure and complexity? So you can be just a little bit more lazy. This sort of tech is both a vulnerability and a waste of human resources and ingenuity.",
+      "author": "everdrive",
+      "author_slug": "everdrive",
+      "source": "Hacker News — Unlocking any car from X brand in most of the world",
+      "source_url": "https://news.ycombinator.com/item?id=50419215",
+      "categories": [
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "complexity",
+        "cars",
+        "security",
+        "absurdity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy anti-complexity takedown — 'all this infrastructure so you can be a little more lazy' is a perfect grug-brained observation.",
+      "id": "everdrive-it-seems-ridiculous-that"
+    },
+    {
+      "text": "Automakers failed security the moment their cars connected to the internet.",
+      "author": "NooneAtAll5",
+      "author_slug": "nooneatall5",
+      "source": "Hacker News — Unlocking any car from X brand in most of the world",
+      "source_url": "https://news.ycombinator.com/item?id=50419215",
+      "categories": [
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "cars",
+        "internet-of-things",
+        "hot-take"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "One-liner with a clean thesis — blunt, quotable, and immediately debatable.",
+      "id": "nooneatall5-automakers-failed-security-the"
+    },
+    {
+      "text": "Outlook.com has quietly dropped emails from certain domains/IPs for years, even with SPF/DKIM/DMARC all properly set up and no history of spam. They accept the email just fine according to the logs — but it still doesn't end up in the recipient's mailbox.",
+      "author": "codethief",
+      "author_slug": "codethief",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "suffering",
+        "unix"
+      ],
+      "tags": [
+        "email",
+        "self-hosting",
+        "outlook",
+        "deliverability"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Perfect self-horror for anyone who's run their own mail server — the silent-drop detail is the painful punchline.",
+      "id": "codethief-outlookcom-has-quietly-dropped"
+    },
+    {
+      "text": "There's too much risk involved with scams disguised as legitimate services because the developers couldn't be bothered to add 1 or 2 DNS records.",
+      "author": "himata4113",
+      "author_slug": "himata4113",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "email",
+        "dns",
+        "dmarc",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Dry, practical wisdom — 'couldn't be bothered to add 1 or 2 DNS records' is a great shaming-the-lazy line.",
+      "id": "himata4113-theres-too-much-risk"
+    },
+    {
+      "text": "Sounds like something every mail sender should have done already. Good for Microsoft customers, and I don't care one bit for the lazy people who have to late-patch now.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "email",
+        "dmarc",
+        "hot-take",
+        "no-sympathy"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Unapologetically spicy take with zero sympathy for late adopters — guaranteed to start an argument.",
+      "id": "stephbook-sounds-like-something-every"
     }
   ]
 }

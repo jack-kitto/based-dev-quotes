@@ -1,6 +1,6 @@
 {
   "tag": "c",
-  "count": 2,
+  "count": 3,
   "quotes": [
     {
       "id": "torvalds-c-plus-plus",
@@ -35,6 +35,28 @@
       "spiciness": 3,
       "id": "based-rust-is-what-happens",
       "source": "Community sourced"
+    },
+    {
+      "text": "C is not low level. You won't learn how memory is allocated by inspecting malloc() any more than you'd learn how characters are printed to the screen by reading printf(). You only learn about the thin or heavy wrapper that C is responsible for — the real magic is happening in the kernel and the device firmware.",
+      "author": "TZubiri",
+      "author_slug": "tzubiri",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "c",
+        "memory",
+        "abstractions",
+        "low-level",
+        "unix"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Classic anti-abstraction wisdom — ‘C is not low level’ is a spicy, quotable thesis; fixed capitalization and paragraph flow without changing voice.",
+      "id": "tzubiri-c-is-not-low"
     }
   ]
 }

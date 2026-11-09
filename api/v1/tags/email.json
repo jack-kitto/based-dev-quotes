@@ -1,6 +1,6 @@
 {
   "tag": "email",
-  "count": 7,
+  "count": 10,
   "quotes": [
     {
       "id": "meetings-email",
@@ -118,6 +118,69 @@
       "spiciness": 2,
       "id": "based-your-onboarding-email-sequence",
       "source": "Community sourced"
+    },
+    {
+      "text": "Outlook.com has quietly dropped emails from certain domains/IPs for years, even with SPF/DKIM/DMARC all properly set up and no history of spam. They accept the email just fine according to the logs — but it still doesn't end up in the recipient's mailbox.",
+      "author": "codethief",
+      "author_slug": "codethief",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "suffering",
+        "unix"
+      ],
+      "tags": [
+        "email",
+        "self-hosting",
+        "outlook",
+        "deliverability"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Perfect self-horror for anyone who's run their own mail server — the silent-drop detail is the painful punchline.",
+      "id": "codethief-outlookcom-has-quietly-dropped"
+    },
+    {
+      "text": "There's too much risk involved with scams disguised as legitimate services because the developers couldn't be bothered to add 1 or 2 DNS records.",
+      "author": "himata4113",
+      "author_slug": "himata4113",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "email",
+        "dns",
+        "dmarc",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Dry, practical wisdom — 'couldn't be bothered to add 1 or 2 DNS records' is a great shaming-the-lazy line.",
+      "id": "himata4113-theres-too-much-risk"
+    },
+    {
+      "text": "Sounds like something every mail sender should have done already. Good for Microsoft customers, and I don't care one bit for the lazy people who have to late-patch now.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "email",
+        "dmarc",
+        "hot-take",
+        "no-sympathy"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Unapologetically spicy take with zero sympathy for late adopters — guaranteed to start an argument.",
+      "id": "stephbook-sounds-like-something-every"
     }
   ]
 }

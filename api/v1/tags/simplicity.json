@@ -1,6 +1,6 @@
 {
   "tag": "simplicity",
-  "count": 70,
+  "count": 71,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -1194,6 +1194,27 @@
       "spiciness": 2,
       "id": "based-your-indie-business-should-1071",
       "source": "Community sourced"
+    },
+    {
+      "text": "There's too much risk involved with scams disguised as legitimate services because the developers couldn't be bothered to add 1 or 2 DNS records.",
+      "author": "himata4113",
+      "author_slug": "himata4113",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "email",
+        "dns",
+        "dmarc",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Dry, practical wisdom — 'couldn't be bothered to add 1 or 2 DNS records' is a great shaming-the-lazy line.",
+      "id": "himata4113-theres-too-much-risk"
     }
   ]
 }

@@ -1,17 +1,19 @@
 {
-  "text": "If you can't test it, you can't ship it. If you can't ship it, you can't charge for it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "grug-type-system",
+  "text": "grug very impressed with type systems when young grug. type systems shiny and wonderful. then grug mass mass if/else on union type and mass mass casting everywhere and grug not mass impressed anymore.",
+  "author": "The Grug Brained Developer",
+  "author_slug": "grug",
+  "source": "The Grug Brained Developer",
+  "source_url": "https://grugbrain.dev/",
   "categories": [
-    "engineering"
+    "grug",
+    "shitpost"
   ],
   "tags": [
-    "testing",
-    "shipping"
+    "types",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-if-you-cant-test",
-  "source": "Community sourced",
+  "grug_level": 5,
+  "spiciness": 3,
   "_date": "2026-11-09"
 }

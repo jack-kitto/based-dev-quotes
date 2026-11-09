@@ -1,0 +1,27 @@
+{
+  "tag": "internet-of-things",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Automakers failed security the moment their cars connected to the internet.",
+      "author": "NooneAtAll5",
+      "author_slug": "nooneatall5",
+      "source": "Hacker News — Unlocking any car from X brand in most of the world",
+      "source_url": "https://news.ycombinator.com/item?id=50419215",
+      "categories": [
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "cars",
+        "internet-of-things",
+        "hot-take"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "One-liner with a clean thesis — blunt, quotable, and immediately debatable.",
+      "id": "nooneatall5-automakers-failed-security-the"
+    }
+  ]
+}

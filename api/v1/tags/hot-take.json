@@ -1,0 +1,48 @@
+{
+  "tag": "hot-take",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Automakers failed security the moment their cars connected to the internet.",
+      "author": "NooneAtAll5",
+      "author_slug": "nooneatall5",
+      "source": "Hacker News — Unlocking any car from X brand in most of the world",
+      "source_url": "https://news.ycombinator.com/item?id=50419215",
+      "categories": [
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "security",
+        "cars",
+        "internet-of-things",
+        "hot-take"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "One-liner with a clean thesis — blunt, quotable, and immediately debatable.",
+      "id": "nooneatall5-automakers-failed-security-the"
+    },
+    {
+      "text": "Sounds like something every mail sender should have done already. Good for Microsoft customers, and I don't care one bit for the lazy people who have to late-patch now.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "email",
+        "dmarc",
+        "hot-take",
+        "no-sympathy"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Unapologetically spicy take with zero sympathy for late adopters — guaranteed to start an argument.",
+      "id": "stephbook-sounds-like-something-every"
+    }
+  ]
+}

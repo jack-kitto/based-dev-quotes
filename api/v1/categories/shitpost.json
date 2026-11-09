@@ -1,6 +1,6 @@
 {
   "category": "shitpost",
-  "count": 59,
+  "count": 61,
   "quotes": [
     {
       "id": "grug-type-system",
@@ -1044,6 +1044,47 @@
       "spiciness": 1,
       "id": "it-crowd-have-you-tried-turning",
       "source": "Community sourced"
+    },
+    {
+      "text": "I refuse to read articles with provably wrong/clickbait titles.",
+      "author": "jkahrs595",
+      "author_slug": "jkahrs595",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "clickbait",
+        "reading",
+        "principles"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy one-liner with a deadpan absolutism that reads well out of context.",
+      "id": "jkahrs595-i-refuse-to-read"
+    },
+    {
+      "text": "If the DRAM scarcity continues, not much.",
+      "author": "amelius",
+      "author_slug": "amelius",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "malloc",
+        "hardware",
+        "dram",
+        "economics"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry one-word-punchline answer to ‘what is malloc doing’; works perfectly standalone.",
+      "id": "amelius-if-the-dram-scarcity"
     }
   ]
 }

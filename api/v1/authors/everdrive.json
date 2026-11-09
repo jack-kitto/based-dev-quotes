@@ -1,0 +1,28 @@
+{
+  "author": "everdrive",
+  "slug": "everdrive",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "It seems ridiculous that there would be consumer demand to unlock a car from a phone in the first place. What is the point of all this infrastructure and complexity? So you can be just a little bit more lazy. This sort of tech is both a vulnerability and a waste of human resources and ingenuity.",
+      "author": "everdrive",
+      "author_slug": "everdrive",
+      "source": "Hacker News — Unlocking any car from X brand in most of the world",
+      "source_url": "https://news.ycombinator.com/item?id=50419215",
+      "categories": [
+        "complexity",
+        "grug"
+      ],
+      "tags": [
+        "complexity",
+        "cars",
+        "security",
+        "absurdity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy anti-complexity takedown — 'all this infrastructure so you can be a little more lazy' is a perfect grug-brained observation.",
+      "id": "everdrive-it-seems-ridiculous-that"
+    }
+  ]
+}

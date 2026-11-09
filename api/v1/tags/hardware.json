@@ -1,6 +1,6 @@
 {
   "tag": "hardware",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "text": "Hardware: the parts of a computer system that can be kicked.",
@@ -18,6 +18,27 @@
       "spiciness": 1,
       "id": "based-hardware-the-parts-of",
       "source": "Community sourced"
+    },
+    {
+      "text": "If the DRAM scarcity continues, not much.",
+      "author": "amelius",
+      "author_slug": "amelius",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "malloc",
+        "hardware",
+        "dram",
+        "economics"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry one-word-punchline answer to ‘what is malloc doing’; works perfectly standalone.",
+      "id": "amelius-if-the-dram-scarcity"
     }
   ]
 }

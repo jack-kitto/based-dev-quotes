@@ -1,0 +1,26 @@
+{
+  "tag": "clickbait",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I refuse to read articles with provably wrong/clickbait titles.",
+      "author": "jkahrs595",
+      "author_slug": "jkahrs595",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "clickbait",
+        "reading",
+        "principles"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy one-liner with a deadpan absolutism that reads well out of context.",
+      "id": "jkahrs595-i-refuse-to-read"
+    }
+  ]
+}

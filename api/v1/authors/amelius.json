@@ -1,0 +1,28 @@
+{
+  "author": "amelius",
+  "slug": "amelius",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "If the DRAM scarcity continues, not much.",
+      "author": "amelius",
+      "author_slug": "amelius",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "malloc",
+        "hardware",
+        "dram",
+        "economics"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry one-word-punchline answer to ‘what is malloc doing’; works perfectly standalone.",
+      "id": "amelius-if-the-dram-scarcity"
+    }
+  ]
+}

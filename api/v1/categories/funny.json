@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 67,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,89 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "I refuse to read articles with provably wrong/clickbait titles.",
+      "author": "jkahrs595",
+      "author_slug": "jkahrs595",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "clickbait",
+        "reading",
+        "principles"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Pithy one-liner with a deadpan absolutism that reads well out of context.",
+      "id": "jkahrs595-i-refuse-to-read"
+    },
+    {
+      "text": "If the DRAM scarcity continues, not much.",
+      "author": "amelius",
+      "author_slug": "amelius",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "malloc",
+        "hardware",
+        "dram",
+        "economics"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Dry one-word-punchline answer to ‘what is malloc doing’; works perfectly standalone.",
+      "id": "amelius-if-the-dram-scarcity"
+    },
+    {
+      "text": "There's too much risk involved with scams disguised as legitimate services because the developers couldn't be bothered to add 1 or 2 DNS records.",
+      "author": "himata4113",
+      "author_slug": "himata4113",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "email",
+        "dns",
+        "dmarc",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Dry, practical wisdom — 'couldn't be bothered to add 1 or 2 DNS records' is a great shaming-the-lazy line.",
+      "id": "himata4113-theres-too-much-risk"
+    },
+    {
+      "text": "Sounds like something every mail sender should have done already. Good for Microsoft customers, and I don't care one bit for the lazy people who have to late-patch now.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "email",
+        "dmarc",
+        "hot-take",
+        "no-sympathy"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Unapologetically spicy take with zero sympathy for late adopters — guaranteed to start an argument.",
+      "id": "stephbook-sounds-like-something-every"
     }
   ]
 }

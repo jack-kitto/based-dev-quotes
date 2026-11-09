@@ -1,0 +1,27 @@
+{
+  "tag": "enshittification",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "There are far too many “machines for turning commons into tragedies” running amok for there to be any significant creation of commons in the future. The machines are in a race to the bottom: they cannot prevent themselves from harvesting too early and too aggressively for any commons that does somehow get created anyway to survive.",
+      "author": "fwlr",
+      "author_slug": "fwlr",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "commons",
+        "platforms",
+        "enshittification",
+        "web"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "“Machines for turning commons into tragedies” is a genuinely sharp, memorable phrase; trimmed the bulleted reasoning into one clean second sentence.",
+      "id": "fwlr-there-are-far-too"
+    }
+  ]
+}

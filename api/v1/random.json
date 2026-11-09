@@ -1,17 +1,18 @@
 {
-  "text": "The best way to learn is to fail. The second best is to learn from someone else's failure.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+  "author": "Bill Gates",
+  "author_slug": "gates",
   "categories": [
+    "engineering",
     "wisdom"
   ],
   "tags": [
-    "failure",
-    "learning"
+    "metrics",
+    "quality"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-way-to-852",
+  "spiciness": 1,
+  "id": "gates-measuring-programming-progress-by",
   "source": "Community sourced",
-  "_generated_at": "2026-11-09T04:57:04.345591+00:00"
+  "_generated_at": "2026-11-09T14:54:48.642739+00:00"
 }

@@ -1,0 +1,27 @@
+{
+  "tag": "no-sympathy",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Sounds like something every mail sender should have done already. Good for Microsoft customers, and I don't care one bit for the lazy people who have to late-patch now.",
+      "author": "stephbook",
+      "author_slug": "stephbook",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "funny",
+        "career"
+      ],
+      "tags": [
+        "email",
+        "dmarc",
+        "hot-take",
+        "no-sympathy"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Unapologetically spicy take with zero sympathy for late adopters — guaranteed to start an argument.",
+      "id": "stephbook-sounds-like-something-every"
+    }
+  ]
+}

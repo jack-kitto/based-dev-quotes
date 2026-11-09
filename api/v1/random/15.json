@@ -1,18 +1,18 @@
 {
-  "id": "backend-dev-css",
-  "text": "Backend developers when they have to center a div: 'Maybe I chose the wrong career.'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "id": "atwood-any-application",
+  "text": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+  "author": "Jeff Atwood",
+  "author_slug": "atwood",
+  "source": "Atwood's Law, 2007",
   "categories": [
     "funny",
-    "shitpost"
+    "tools"
   ],
   "tags": [
-    "css",
-    "frontend",
-    "centering"
+    "javascript",
+    "inevitability",
+    "classic"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2
 }

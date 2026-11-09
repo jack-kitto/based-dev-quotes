@@ -1,8 +1,12 @@
 {
-  "total": 98,
+  "total": 108,
   "authors": {
     "abelson": {
       "name": "Harold Abelson",
+      "count": 1
+    },
+    "amelius": {
+      "name": "amelius",
       "count": 1
     },
     "atwood": {
@@ -57,6 +61,10 @@
       "name": "Winston Churchill",
       "count": 2
     },
+    "codethief": {
+      "name": "codethief",
+      "count": 1
+    },
     "confucius": {
       "name": "Confucius",
       "count": 1
@@ -75,6 +83,10 @@
     },
     "coveyou": {
       "name": "Robert R. Coveyou",
+      "count": 1
+    },
+    "cubefox": {
+      "name": "cubefox",
       "count": 1
     },
     "davinci": {
@@ -113,6 +125,10 @@
       "name": "Albert Einstein",
       "count": 4
     },
+    "everdrive": {
+      "name": "everdrive",
+      "count": 1
+    },
     "feathers": {
       "name": "Michael Feathers",
       "count": 1
@@ -127,6 +143,10 @@
     },
     "fowler": {
       "name": "Martin Fowler",
+      "count": 1
+    },
+    "fwlr": {
+      "name": "fwlr",
       "count": 1
     },
     "gabriel": {
@@ -156,6 +176,10 @@
     "hickey": {
       "name": "Rich Hickey",
       "count": 4
+    },
+    "himata4113": {
+      "name": "himata4113",
+      "count": 1
     },
     "hoare": {
       "name": "C.A.R. Hoare",
@@ -200,6 +224,10 @@
     "jeffries": {
       "name": "Ron Jeffries / XP",
       "count": 2
+    },
+    "jkahrs595": {
+      "name": "jkahrs595",
+      "count": 1
     },
     "jobs": {
       "name": "Steve Jobs",
@@ -273,6 +301,10 @@
       "name": "Cal Newport",
       "count": 1
     },
+    "nooneatall5": {
+      "name": "NooneAtAll5",
+      "count": 1
+    },
     "norvig": {
       "name": "Peter Norvig",
       "count": 1
@@ -341,6 +373,10 @@
       "name": "Joel Spolsky",
       "count": 2
     },
+    "stephbook": {
+      "name": "stephbook",
+      "count": 1
+    },
     "stroustrup": {
       "name": "Bjarne Stroustrup",
       "count": 1
@@ -363,6 +399,10 @@
     },
     "tracy": {
       "name": "Warren Tracy",
+      "count": 1
+    },
+    "tzubiri": {
+      "name": "TZubiri",
       "count": 1
     },
     "unknown": {

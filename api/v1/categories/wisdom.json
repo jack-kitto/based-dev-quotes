@@ -1,6 +1,6 @@
 {
   "category": "wisdom",
-  "count": 176,
+  "count": 180,
   "quotes": [
     {
       "id": "grug-refactor",
@@ -3031,6 +3031,91 @@
       "spiciness": 1,
       "id": "einstein-the-best-design-is",
       "source": "Community sourced"
+    },
+    {
+      "text": "There are far too many “machines for turning commons into tragedies” running amok for there to be any significant creation of commons in the future. The machines are in a race to the bottom: they cannot prevent themselves from harvesting too early and too aggressively for any commons that does somehow get created anyway to survive.",
+      "author": "fwlr",
+      "author_slug": "fwlr",
+      "source": "Hacker News — Humans will never again create a project like Wikipedia",
+      "source_url": "https://news.ycombinator.com/item?id=50424704",
+      "categories": [
+        "wisdom",
+        "indie-hacker"
+      ],
+      "tags": [
+        "commons",
+        "platforms",
+        "enshittification",
+        "web"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "“Machines for turning commons into tragedies” is a genuinely sharp, memorable phrase; trimmed the bulleted reasoning into one clean second sentence.",
+      "id": "fwlr-there-are-far-too"
+    },
+    {
+      "text": "C is not low level. You won't learn how memory is allocated by inspecting malloc() any more than you'd learn how characters are printed to the screen by reading printf(). You only learn about the thin or heavy wrapper that C is responsible for — the real magic is happening in the kernel and the device firmware.",
+      "author": "TZubiri",
+      "author_slug": "tzubiri",
+      "source": "Hacker News — What is malloc doing, anyway?",
+      "source_url": "https://news.ycombinator.com/item?id=50424157",
+      "categories": [
+        "grug",
+        "wisdom"
+      ],
+      "tags": [
+        "c",
+        "memory",
+        "abstractions",
+        "low-level",
+        "unix"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Classic anti-abstraction wisdom — ‘C is not low level’ is a spicy, quotable thesis; fixed capitalization and paragraph flow without changing voice.",
+      "id": "tzubiri-c-is-not-low"
+    },
+    {
+      "text": "They hardly compare against the conventional next-token-prediction objective, which suggests they don't beat it. Machine learning papers often tend to focus exclusively on the positives without mentioning the bad aspects.",
+      "author": "cubefox",
+      "author_slug": "cubefox",
+      "source": "Hacker News — Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "source_url": "https://news.ycombinator.com/item?id=50422168",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "ml-research",
+        "benchmarking",
+        "skepticism",
+        "papers"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Sharp read-the-rooms observation about what researchers *don't* benchmark — the missing comparison is the tell. Works standalone as a general truth about hype papers.",
+      "id": "cubefox-they-hardly-compare-against"
+    },
+    {
+      "text": "There's too much risk involved with scams disguised as legitimate services because the developers couldn't be bothered to add 1 or 2 DNS records.",
+      "author": "himata4113",
+      "author_slug": "himata4113",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "email",
+        "dns",
+        "dmarc",
+        "simplicity"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Dry, practical wisdom — 'couldn't be bothered to add 1 or 2 DNS records' is a great shaming-the-lazy line.",
+      "id": "himata4113-theres-too-much-risk"
     }
   ]
 }

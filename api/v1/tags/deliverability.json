@@ -1,0 +1,27 @@
+{
+  "tag": "deliverability",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Outlook.com has quietly dropped emails from certain domains/IPs for years, even with SPF/DKIM/DMARC all properly set up and no history of spam. They accept the email just fine according to the logs — but it still doesn't end up in the recipient's mailbox.",
+      "author": "codethief",
+      "author_slug": "codethief",
+      "source": "Hacker News — Outlook.com is rejecting email from domains without DMARC",
+      "source_url": "https://news.ycombinator.com/item?id=50416158",
+      "categories": [
+        "suffering",
+        "unix"
+      ],
+      "tags": [
+        "email",
+        "self-hosting",
+        "outlook",
+        "deliverability"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Perfect self-horror for anyone who's run their own mail server — the silent-drop detail is the painful punchline.",
+      "id": "codethief-outlookcom-has-quietly-dropped"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 836,
   "tags": {
     "10x": {
       "count": 2
@@ -12,6 +12,12 @@
     },
     "abstraction": {
       "count": 10
+    },
+    "abstractions": {
+      "count": 1
+    },
+    "absurdity": {
+      "count": 1
     },
     "accessibility": {
       "count": 1
@@ -136,6 +142,9 @@
     "behavior": {
       "count": 3
     },
+    "benchmarking": {
+      "count": 1
+    },
     "bet": {
       "count": 2
     },
@@ -227,7 +236,7 @@
       "count": 2
     },
     "c": {
-      "count": 2
+      "count": 3
     },
     "cache": {
       "count": 1
@@ -251,6 +260,9 @@
       "count": 6
     },
     "cargo-cult": {
+      "count": 2
+    },
+    "cars": {
       "count": 2
     },
     "cash": {
@@ -316,6 +328,9 @@
     "cli": {
       "count": 1
     },
+    "clickbait": {
+      "count": 1
+    },
     "clients": {
       "count": 3
     },
@@ -355,6 +370,9 @@
     "commits": {
       "count": 1
     },
+    "commons": {
+      "count": 1
+    },
     "communication": {
       "count": 1
     },
@@ -377,7 +395,7 @@
       "count": 1
     },
     "complexity": {
-      "count": 20
+      "count": 21
     },
     "compliance": {
       "count": 1
@@ -568,6 +586,9 @@
     "deletion": {
       "count": 6
     },
+    "deliverability": {
+      "count": 1
+    },
     "demo": {
       "count": 3
     },
@@ -640,8 +661,11 @@
     "distribution": {
       "count": 4
     },
+    "dmarc": {
+      "count": 2
+    },
     "dns": {
-      "count": 1
+      "count": 2
     },
     "docker": {
       "count": 5
@@ -653,6 +677,9 @@
       "count": 7
     },
     "doubt": {
+      "count": 1
+    },
+    "dram": {
       "count": 1
     },
     "duplication": {
@@ -668,7 +695,7 @@
       "count": 1
     },
     "economics": {
-      "count": 1
+      "count": 2
     },
     "edge-cases": {
       "count": 2
@@ -680,7 +707,7 @@
       "count": 1
     },
     "email": {
-      "count": 7
+      "count": 10
     },
     "empathy": {
       "count": 1
@@ -707,6 +734,9 @@
       "count": 1
     },
     "enjoyment": {
+      "count": 1
+    },
+    "enshittification": {
       "count": 1
     },
     "enterprise": {
@@ -947,7 +977,7 @@
       "count": 1
     },
     "hardware": {
-      "count": 1
+      "count": 2
     },
     "hat-wearing": {
       "count": 1
@@ -987,6 +1017,9 @@
     },
     "honesty": {
       "count": 5
+    },
+    "hot-take": {
+      "count": 2
     },
     "humans": {
       "count": 1
@@ -1085,6 +1118,9 @@
       "count": 1
     },
     "internet": {
+      "count": 1
+    },
+    "internet-of-things": {
       "count": 1
     },
     "intrinsic-motivation": {
@@ -1219,6 +1255,9 @@
     "logic": {
       "count": 1
     },
+    "low-level": {
+      "count": 1
+    },
     "luck": {
       "count": 1
     },
@@ -1230,6 +1269,9 @@
     },
     "maintenance": {
       "count": 6
+    },
+    "malloc": {
+      "count": 1
     },
     "management": {
       "count": 4
@@ -1262,7 +1304,7 @@
       "count": 1
     },
     "memory": {
-      "count": 1
+      "count": 2
     },
     "mental-health": {
       "count": 1
@@ -1298,6 +1340,9 @@
       "count": 9
     },
     "mistakes": {
+      "count": 1
+    },
+    "ml-research": {
       "count": 1
     },
     "moat": {
@@ -1387,6 +1432,9 @@
     "niche": {
       "count": 1
     },
+    "no-sympathy": {
+      "count": 1
+    },
     "node-modules": {
       "count": 1
     },
@@ -1465,6 +1513,9 @@
     "outcomes": {
       "count": 2
     },
+    "outlook": {
+      "count": 1
+    },
     "output": {
       "count": 1
     },
@@ -1482,6 +1533,9 @@
     },
     "pain": {
       "count": 3
+    },
+    "papers": {
+      "count": 1
     },
     "paradox": {
       "count": 1
@@ -1558,6 +1612,9 @@
     "platform": {
       "count": 2
     },
+    "platforms": {
+      "count": 1
+    },
     "pmf": {
       "count": 2
     },
@@ -1619,6 +1676,9 @@
       "count": 17
     },
     "pride": {
+      "count": 1
+    },
+    "principles": {
       "count": 1
     },
     "print-statements": {
@@ -1742,7 +1802,7 @@
       "count": 2
     },
     "reading": {
-      "count": 2
+      "count": 3
     },
     "readme": {
       "count": 2
@@ -1946,7 +2006,7 @@
       "count": 2
     },
     "security": {
-      "count": 7
+      "count": 9
     },
     "self-awareness": {
       "count": 1
@@ -1958,6 +2018,9 @@
       "count": 1
     },
     "self-explanatory": {
+      "count": 1
+    },
+    "self-hosting": {
       "count": 1
     },
     "self-imposed": {
@@ -2021,7 +2084,7 @@
       "count": 1
     },
     "simplicity": {
-      "count": 70
+      "count": 71
     },
     "simplification": {
       "count": 3
@@ -2033,6 +2096,9 @@
       "count": 1
     },
     "skeleton": {
+      "count": 1
+    },
+    "skepticism": {
       "count": 1
     },
     "sketching": {
@@ -2303,7 +2369,7 @@
       "count": 1
     },
     "unix": {
-      "count": 1
+      "count": 2
     },
     "upsell": {
       "count": 1
@@ -2394,6 +2460,9 @@
     },
     "wealth": {
       "count": 3
+    },
+    "web": {
+      "count": 1
     },
     "webhooks": {
       "count": 2
