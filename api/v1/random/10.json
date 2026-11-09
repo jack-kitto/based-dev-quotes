@@ -1,19 +1,18 @@
 {
-  "id": "spolsky-rewrite",
-  "text": "The single worst strategic mistake that any software company can make: rewrite the code from scratch.",
-  "author": "Joel Spolsky",
-  "author_slug": "spolsky",
-  "source": "Things You Should Never Do, Part I, 2000",
+  "id": "eagleson-code",
+  "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+  "author": "Eagleson",
+  "author_slug": "eagleson",
+  "source": "Eagleson's Law",
   "categories": [
-    "wisdom",
+    "funny",
     "suffering"
   ],
   "tags": [
-    "rewrite",
     "legacy-code",
-    "strategy",
-    "classic"
+    "memory",
+    "past-self"
   ],
   "grug_level": 4,
-  "spiciness": 3
+  "spiciness": 1
 }

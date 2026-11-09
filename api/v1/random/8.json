@@ -1,16 +1,16 @@
 {
-  "text": "Your business model should be so simple that a stranger could understand it in 30 seconds. If not, simplify.",
+  "text": "The best moat is a product so good that switching feels like a downgrade.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "business"
   ],
   "tags": [
-    "business-model",
-    "simplicity"
+    "moat",
+    "switching-cost"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-business-model-should",
+  "id": "based-the-best-moat-is",
   "source": "Community sourced"
 }

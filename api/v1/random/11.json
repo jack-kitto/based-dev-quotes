@@ -1,17 +1,17 @@
 {
-  "text": "Your FAQ page is a list of your product's failures. Fix the underlying issues and delete the FAQ.",
+  "text": "Your hero section doesn't need a video background. Nobody is on your landing page for the cinematography.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "design",
+    "marketing"
   ],
   "tags": [
-    "faq",
-    "ux"
+    "hero",
+    "video"
   ],
   "grug_level": 4,
   "spiciness": 3,
-  "id": "based-your-faq-page-is",
+  "id": "based-your-hero-section-doesnt",
   "source": "Community sourced"
 }

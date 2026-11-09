@@ -1,20 +1,16 @@
 {
-  "id": "ai-replace-devs",
-  "text": "AI will replace programmers the same way escalators replaced stairs. They didn't. There are just more floors now.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter, 2023",
+  "text": "Your startup is a bet on yourself. Bet big.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "career",
-    "shitpost"
+    "entrepreneur"
   ],
   "tags": [
-    "ai",
-    "replacement",
-    "jobs",
-    "automation"
+    "bet",
+    "confidence"
   ],
   "grug_level": 3,
-  "spiciness": 3
+  "spiciness": 2,
+  "id": "based-your-startup-is-a",
+  "source": "Community sourced"
 }
