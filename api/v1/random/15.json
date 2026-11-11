@@ -1,18 +1,18 @@
 {
-  "id": "spolsky-leaky-abstractions",
-  "text": "All non-trivial abstractions, to some degree, are leaky.",
-  "author": "Joel Spolsky",
-  "author_slug": "spolsky",
-  "source": "The Law of Leaky Abstractions, 2002",
+  "id": "eagleson-code",
+  "text": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+  "author": "Eagleson",
+  "author_slug": "eagleson",
+  "source": "Eagleson's Law",
   "categories": [
-    "wisdom",
-    "complexity"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "abstraction",
-    "leaky",
-    "classic"
+    "legacy-code",
+    "memory",
+    "past-self"
   ],
-  "grug_level": 3,
+  "grug_level": 4,
   "spiciness": 1
 }

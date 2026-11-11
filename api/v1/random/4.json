@@ -1,16 +1,17 @@
 {
-  "text": "The problem with Object-Oriented Programming is that it was invented by academics, and everything they do is overcomplicated.",
+  "text": "The best entrepreneurs are the ones who can fail gracefully and come back stronger.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "oop",
-    "opinion"
+    "failure",
+    "resilience"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-problem-with-objectoriented",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-entrepreneurs-are-856",
   "source": "Community sourced"
 }

@@ -1,17 +1,17 @@
 {
-  "text": "Your most valuable product feedback comes from the users who almost left but stayed. Find out why they stayed.",
+  "text": "Every failed product teaches you something that no successful product could.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "business",
+    "indie-hacker"
   ],
   "tags": [
-    "retention",
-    "insight"
+    "failure",
+    "learning"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-most-valuable-product",
+  "id": "based-every-failed-product-teaches",
   "source": "Community sourced"
 }
