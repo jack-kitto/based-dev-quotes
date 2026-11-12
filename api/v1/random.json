@@ -1,17 +1,17 @@
 {
-  "text": "Your online presence is your resume. Keep it updated and keep it real.",
+  "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "design"
   ],
   "tags": [
-    "online-presence",
-    "resume"
+    "forms",
+    "conversion"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-online-presence-is",
+  "id": "based-a-form-with-3",
   "source": "Community sourced",
-  "_generated_at": "2026-11-11T04:58:36.105994+00:00"
+  "_generated_at": "2026-11-12T06:01:07.668468+00:00"
 }

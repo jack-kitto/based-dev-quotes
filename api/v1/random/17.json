@@ -1,18 +1,16 @@
 {
-  "id": "kernighan-debugging",
-  "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
-  "author": "Brian Kernighan",
-  "author_slug": "kernighan",
-  "source": "The Elements of Programming Style, 1978",
+  "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "debugging",
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "debugging",
-    "cleverness",
-    "classic"
+    "failure",
+    "planning"
   ],
   "grug_level": 3,
-  "spiciness": 1
+  "spiciness": 2,
+  "id": "based-the-best-way-to-858",
+  "source": "Community sourced"
 }

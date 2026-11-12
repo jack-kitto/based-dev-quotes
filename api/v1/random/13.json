@@ -1,17 +1,16 @@
 {
-  "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+  "text": "The best business book is the one that makes you stop reading and start building.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "devops"
+    "business"
   ],
   "tags": [
-    "deployment",
-    "complexity"
+    "books",
+    "action"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-if-you-need-a-232",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-business-book",
   "source": "Community sourced"
 }
