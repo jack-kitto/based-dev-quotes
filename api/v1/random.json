@@ -1,17 +1,17 @@
 {
-  "text": "A form with 3 fields converts at 70%. A form with 7 fields converts at 40%. Choose your fields wisely.",
+  "text": "Your stack trace is your best friend. Read it. Understand it. It's trying to help you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "engineering"
   ],
   "tags": [
-    "forms",
-    "conversion"
+    "stack-trace",
+    "debugging"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-a-form-with-3",
+  "id": "based-your-stack-trace-is",
   "source": "Community sourced",
-  "_generated_at": "2026-11-12T06:01:07.668468+00:00"
+  "_generated_at": "2026-11-13T05:25:46.809460+00:00"
 }

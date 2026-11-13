@@ -1,17 +1,16 @@
 {
-  "text": "Burnout isn't caused by working too hard. It's caused by working too hard on things that don't matter.",
+  "text": "Your product's design should be consistent enough that users don't have to re-learn it on every page.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity",
-    "wisdom"
+    "design"
   ],
   "tags": [
-    "burnout",
-    "meaning"
+    "consistency",
+    "ux"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-burnout-isnt-caused-by",
+  "id": "based-your-products-design-should",
   "source": "Community sourced"
 }

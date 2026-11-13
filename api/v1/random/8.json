@@ -1,17 +1,16 @@
 {
-  "text": "Your first product should embarrass you. If it doesn't ship fast enough, it's too polished.",
+  "text": "Side projects are the best way to learn. Main projects are the best way to earn. You need both.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "shipping"
+    "indie-hacker"
   ],
   "tags": [
-    "mvp",
-    "shipping"
+    "learning",
+    "earning"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-first-product-should",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-side-projects-are-the",
   "source": "Community sourced"
 }

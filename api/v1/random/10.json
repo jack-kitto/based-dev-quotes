@@ -1,17 +1,18 @@
 {
-  "text": "Less is more.",
-  "author": "Ludwig Mies van der Rohe",
-  "author_slug": "mies",
+  "id": "date-time-horror",
+  "text": "If you think you understand time zones, you don't understand time zones.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Falsehoods Programmers Believe About Time",
   "categories": [
-    "design",
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "minimalism",
-    "classic"
+    "timezones",
+    "datetime",
+    "falsehoods"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "mies-less-is-more",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }

@@ -1,16 +1,16 @@
 {
-  "text": "The best business book is the one that makes you stop reading and start building.",
+  "text": "The best API design is one where the next endpoint is exactly where you'd expect it to be.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "books",
-    "action"
+    "api",
+    "intuition"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-business-book",
+  "id": "based-the-best-api-design",
   "source": "Community sourced"
 }

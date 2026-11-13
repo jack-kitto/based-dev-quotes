@@ -1,16 +1,16 @@
 {
-  "text": "The best way to handle failure is to expect it. Plan for it. Learn from it. Move on.",
+  "text": "The best features are the ones you don't build. Every feature adds maintenance burden.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "product"
   ],
   "tags": [
-    "failure",
-    "planning"
+    "features",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-858",
+  "id": "based-the-best-features-are",
   "source": "Community sourced"
 }

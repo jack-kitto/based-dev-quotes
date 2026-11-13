@@ -1,16 +1,16 @@
 {
-  "text": "The biggest lie in SaaS: 'We'll add that feature.' You won't. You'll ship what you have and hope nobody notices.",
+  "text": "The best way to improve a product is to remove features, not add them.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "product"
   ],
   "tags": [
-    "feature-requests",
-    "reality"
+    "removal",
+    "improvement"
   ],
-  "grug_level": 4,
-  "spiciness": 4,
-  "id": "based-the-biggest-lie-in",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-way-to-912",
   "source": "Community sourced"
 }

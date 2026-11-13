@@ -1,16 +1,16 @@
 {
-  "text": "Parkinson's Law: work expands to fill the time available. Set shorter deadlines.",
-  "author": "C. Northcote Parkinson",
-  "author_slug": "parkinson",
+  "text": "Your pricing should be a no-brainer. If someone has to think about it, it's too complicated.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "productivity"
+    "business"
   ],
   "tags": [
-    "parkinsons-law",
-    "deadlines"
+    "pricing",
+    "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "parkinson-parkinsons-law-work-expands",
+  "id": "based-your-pricing-should-be",
   "source": "Community sourced"
 }
