@@ -1,17 +1,17 @@
 {
-  "text": "The most important user is the one who's about to leave. Build for them first.",
+  "text": "Growth hacking is just marketing with a better haircut.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "marketing",
+    "shitpost"
   ],
   "tags": [
-    "churn",
-    "retention"
+    "growth-hacking",
+    "marketing"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-most-important-user",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-growth-hacking-is-just",
   "source": "Community sourced"
 }

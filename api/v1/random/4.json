@@ -1,16 +1,16 @@
 {
-  "text": "Animations should clarify, not decorate. If an animation doesn't help the user understand what changed, delete it.",
+  "text": "Content marketing is just storytelling for people who are afraid to ask for the sale.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "marketing"
   ],
   "tags": [
-    "animation",
-    "ux"
+    "content-marketing",
+    "sales"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-animations-should-clarify-not",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-content-marketing-is-just",
   "source": "Community sourced"
 }

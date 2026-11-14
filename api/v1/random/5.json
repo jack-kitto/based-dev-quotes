@@ -1,17 +1,16 @@
 {
-  "text": "The most important property of a program is whether it accomplishes the intention of its user.",
-  "author": "C.A.R. Hoare",
-  "author_slug": "hoare",
+  "text": "The best way to validate an idea is to charge for it before it exists. If nobody pays, you've saved months.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "indie-hacker"
   ],
   "tags": [
-    "intention",
-    "purpose"
+    "validation",
+    "preselling"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "hoare-the-most-important-property",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-way-to-670",
   "source": "Community sourced"
 }
