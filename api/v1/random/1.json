@@ -1,17 +1,16 @@
 {
-  "text": "Data is the new oil. But like oil, it's useless until you refine it.",
+  "text": "Caching is the answer to everything until it's the source of everything that's broken.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
     "engineering"
   ],
   "tags": [
-    "data",
-    "value"
+    "caching",
+    "invalidation"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-data-is-the-new",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-caching-is-the-answer",
   "source": "Community sourced"
 }
