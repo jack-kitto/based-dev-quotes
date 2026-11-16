@@ -1,6 +1,6 @@
 {
   "category": "debugging",
-  "count": 16,
+  "count": 18,
   "quotes": [
     {
       "id": "grug-closures",
@@ -292,6 +292,48 @@
       ],
       "grug_level": 5,
       "spiciness": 1
+    },
+    {
+      "text": "I never really loved how extensions have to put their interfaces in the website's DOM if they want to work with the page's elements. In the password manager scenario, it could leak what accounts you have to the website itself, if the page is looking for new DOM elements.",
+      "author": "ByteOfWood",
+      "author_slug": "byteofwood",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "debugging"
+      ],
+      "tags": [
+        "browser-extensions",
+        "dom",
+        "security",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clear, concrete critique of an architectural smell — extensions forced into page DOM creates leaky abstraction. Works standalone.",
+      "id": "byteofwood-i-never-really-loved"
+    },
+    {
+      "text": "\"Proof is checked in Lean\" is kinda similar to assuming your code works just because it compiles. Sure, the proof is valid, but does it prove what you set out to prove?",
+      "author": "wodenokoto",
+      "author_slug": "wodenokoto",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "formal-verification",
+        "compiles",
+        "correctness",
+        "proofs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Great analogy between 'it compiles' and 'it's proven' — collapses both into the same grug insight.",
+      "id": "wodenokoto-proof-is-checked-in"
     }
   ]
 }

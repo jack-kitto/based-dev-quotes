@@ -1,0 +1,27 @@
+{
+  "tag": "vendor-lock-in",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I bought a used Rigol scope with the I2C decoder disabled. Tried to contact Rigol North America for a license quote — they never responded. I'm looking forward to software that makes it the decent tool it should have been.",
+      "author": "elevation",
+      "author_slug": "elevation",
+      "source": "Hacker News — OOS – an open operating system for the Rigol Scopes",
+      "source_url": "https://news.ycombinator.com/item?id=50490159",
+      "categories": [
+        "suffering",
+        "tools"
+      ],
+      "tags": [
+        "hardware",
+        "vendor-lock-in",
+        "scopes",
+        "licensing"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Perfect encapsulation of hardware you own having features paywalled by a vendor who won't even sell you the key.",
+      "id": "elevation-i-bought-a-used"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "category": "wisdom",
-  "count": 176,
+  "count": 183,
   "quotes": [
     {
       "id": "grug-refactor",
@@ -3031,6 +3031,156 @@
       "spiciness": 1,
       "id": "einstein-the-best-design-is",
       "source": "Community sourced"
+    },
+    {
+      "text": "I understand why folks railed against web extension lockdowns that blocked directly editing page content, but this is a great example of why it's a powder keg.",
+      "author": "afavour",
+      "author_slug": "afavour",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "browser-extensions",
+        "security",
+        "tradeoffs",
+        "platform-design"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Balanced but firm take on a contentious platform debate — 'powder keg' gives it teeth.",
+      "id": "afavour-i-understand-why-folks"
+    },
+    {
+      "text": "Apple didn't miss the AI wave. They knew most of the new startups and new products will end up as one new feature in their ecosystem once the hype is down.",
+      "author": "kelzier15",
+      "author_slug": "kelzier15",
+      "source": "Hacker News — What's Next for Nvidia?",
+      "source_url": "https://news.ycombinator.com/item?id=50512235",
+      "categories": [
+        "wisdom",
+        "founder"
+      ],
+      "tags": [
+        "ai-hype",
+        "platforms",
+        "strategy",
+        "startups"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Cynical but genuinely sharp read on why incumbents let hype cycles burn out — memorable and debatable.",
+      "id": "kelzier15-apple-didnt-miss-the"
+    },
+    {
+      "text": "Globally unique human-friendly names are more trouble than they're worth. Sooner or later their referential integrity falls to corruption or neglect. We'd be better off with cryptographic hashes on the wire and user-configurable pet names in the UI.",
+      "author": "__MatrixMan__",
+      "author_slug": "matrixman",
+      "source": "Hacker News — Old Bitly links are being hijacked",
+      "source_url": "https://news.ycombinator.com/item?id=50511395",
+      "categories": [
+        "grug",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "naming",
+        "urls",
+        "identity",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Strong anti-complexity take on a real design tradeoff — fixed typos, kept the argument intact.",
+      "id": "matrixman-globally-unique-humanfriendly-names"
+    },
+    {
+      "text": "\"Proof is checked in Lean\" is kinda similar to assuming your code works just because it compiles. Sure, the proof is valid, but does it prove what you set out to prove?",
+      "author": "wodenokoto",
+      "author_slug": "wodenokoto",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "formal-verification",
+        "compiles",
+        "correctness",
+        "proofs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Great analogy between 'it compiles' and 'it's proven' — collapses both into the same grug insight.",
+      "id": "wodenokoto-proof-is-checked-in"
+    },
+    {
+      "text": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+      "author": "Donald Knuth",
+      "author_slug": "donald-knuth",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "knuth",
+        "proofs",
+        "correctness",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Classic Knuth line, timeless and perfectly quotable — surfaced in a modern Lean thread.",
+      "id": "donald-knuth-beware-of-bugs-in"
+    },
+    {
+      "text": "Asking the same entity to write the proof checkers as well as the proofs is not good practice. This is just like an auditing company also writing the original financial statements.",
+      "author": "129298467",
+      "author_slug": "129298467",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "trust",
+        "verification",
+        "llm",
+        "separation-of-duties"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp independence-of-checker critique with a perfect real-world analogy.",
+      "id": "129298467-asking-the-same-entity"
+    },
+    {
+      "text": "With Mapbox or Google Maps I wouldn't even have considered building this game. Protomaps made it a no-brainer.",
+      "author": "thatslast",
+      "author_slug": "thatslast",
+      "source": "Hacker News — Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source_url": "https://news.ycombinator.com/item?id=50509837",
+      "categories": [
+        "indie-hacker",
+        "tools",
+        "wisdom"
+      ],
+      "tags": [
+        "platform-costs",
+        "side-projects",
+        "self-hosting",
+        "maps",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Crisp, standalone point about how cloud pricing gateskeep ideas — the rest of the comment was context/fluff about the game itself.",
+      "id": "thatslast-with-mapbox-or-google"
     }
   ]
 }

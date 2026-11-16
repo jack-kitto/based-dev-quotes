@@ -1,8 +1,20 @@
 {
-  "total": 98,
+  "total": 113,
   "authors": {
+    "129298467": {
+      "name": "129298467",
+      "count": 1
+    },
     "abelson": {
       "name": "Harold Abelson",
+      "count": 1
+    },
+    "afavour": {
+      "name": "afavour",
+      "count": 1
+    },
+    "akersten": {
+      "name": "akersten",
       "count": 1
     },
     "atwood": {
@@ -36,6 +48,10 @@
     "brooks": {
       "name": "Fred Brooks",
       "count": 2
+    },
+    "byteofwood": {
+      "name": "ByteOfWood",
+      "count": 1
     },
     "cantrill": {
       "name": "Bryan Cantrill",
@@ -77,6 +93,10 @@
       "name": "Robert R. Coveyou",
       "count": 1
     },
+    "cowlevel": {
+      "name": "cowlevel",
+      "count": 1
+    },
     "davinci": {
       "name": "Leonardo da Vinci",
       "count": 2
@@ -91,6 +111,10 @@
     },
     "disney": {
       "name": "Walt Disney",
+      "count": 1
+    },
+    "donald-knuth": {
+      "name": "Donald Knuth",
       "count": 1
     },
     "drucker": {
@@ -112,6 +136,10 @@
     "einstein": {
       "name": "Albert Einstein",
       "count": 4
+    },
+    "elevation": {
+      "name": "elevation",
+      "count": 1
     },
     "feathers": {
       "name": "Michael Feathers",
@@ -151,6 +179,10 @@
     },
     "gwern": {
       "name": "Gwern Branwen",
+      "count": 1
+    },
+    "hauntingseaweed": {
+      "name": "hauntingseaweed",
       "count": 1
     },
     "hickey": {
@@ -209,6 +241,14 @@
       "name": "John Johnson",
       "count": 1
     },
+    "jonhohle": {
+      "name": "jonhohle",
+      "count": 1
+    },
+    "kelzier15": {
+      "name": "kelzier15",
+      "count": 1
+    },
     "kernighan": {
       "name": "Brian Kernighan",
       "count": 2
@@ -240,6 +280,10 @@
     "martin": {
       "name": "Robert C. Martin (Uncle Bob)",
       "count": 2
+    },
+    "matrixman": {
+      "name": "__MatrixMan__",
+      "count": 1
     },
     "maxwell": {
       "name": "John C. Maxwell",
@@ -325,6 +369,10 @@
       "name": "Vidal Sassoon",
       "count": 1
     },
+    "silisili": {
+      "name": "silisili",
+      "count": 1
+    },
     "simpson": {
       "name": "Homer Simpson",
       "count": 1
@@ -347,6 +395,10 @@
     },
     "tanenbaum": {
       "name": "Andrew S. Tanenbaum",
+      "count": 1
+    },
+    "thatslast": {
+      "name": "thatslast",
       "count": 1
     },
     "thompson": {
@@ -375,6 +427,14 @@
     },
     "wall": {
       "name": "Larry Wall",
+      "count": 1
+    },
+    "wasdx": {
+      "name": "WASDx",
+      "count": 1
+    },
+    "wodenokoto": {
+      "name": "wodenokoto",
       "count": 1
     },
     "wulf": {

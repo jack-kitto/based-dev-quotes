@@ -1,16 +1,16 @@
 {
-  "text": "The best businesses solve a painful problem. The best solutions make the problem disappear, not just tolerable.",
+  "text": "If you don't have a type system, your tests are your type system. If you have both, you're just being thorough.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering"
   ],
   "tags": [
-    "problem-solving",
-    "pain"
+    "types",
+    "testing"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-businesses-solve-508",
+  "id": "based-if-you-dont-have",
   "source": "Community sourced"
 }

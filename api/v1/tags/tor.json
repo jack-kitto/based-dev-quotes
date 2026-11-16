@@ -1,0 +1,27 @@
+{
+  "tag": "tor",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I tried to load the release notes for Tor, on Tor's website, through Tor, and received a 403 error because Tor blocks Tor. Not a good sign.",
+      "author": "cowlevel",
+      "author_slug": "cowlevel",
+      "source": "Hacker News — Tor Project Issues Rapid-Response DoS-Defense Fix",
+      "source_url": "https://news.ycombinator.com/item?id=50512441",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "tor",
+        "irony",
+        "blocking",
+        "ops"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Perfect self-referential irony — short, punchy, instantly recognizable dev humor.",
+      "id": "cowlevel-i-tried-to-load"
+    }
+  ]
+}

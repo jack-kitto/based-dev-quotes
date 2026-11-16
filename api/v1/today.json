@@ -1,18 +1,19 @@
 {
-  "text": "Controlling complexity is the essence of computer programming.",
-  "author": "Brian Kernighan",
-  "author_slug": "kernighan",
+  "id": "date-time-horror",
+  "text": "If you think you understand time zones, you don't understand time zones.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Falsehoods Programmers Believe About Time",
   "categories": [
-    "engineering",
-    "wisdom"
+    "funny",
+    "suffering"
   ],
   "tags": [
-    "complexity",
-    "essence"
+    "timezones",
+    "datetime",
+    "falsehoods"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "kernighan-controlling-complexity-is-the",
-  "source": "Community sourced",
+  "grug_level": 4,
+  "spiciness": 2,
   "_date": "2026-11-16"
 }

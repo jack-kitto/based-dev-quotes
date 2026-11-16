@@ -1,0 +1,27 @@
+{
+  "tag": "side-project",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The biggest surprise to me is that a URL shortener makes enough money to have a Trust and Safety team. I assumed it was just a side project a person or two ran.",
+      "author": "silisili",
+      "author_slug": "silisili",
+      "source": "Hacker News — Old Bitly links are being hijacked",
+      "source_url": "https://news.ycombinator.com/item?id=50511395",
+      "categories": [
+        "funny",
+        "indie-hacker"
+      ],
+      "tags": [
+        "url-shortener",
+        "bitly",
+        "side-project",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Genuinely funny observation about how much infrastructure hides behind 'simple' products.",
+      "id": "silisili-the-biggest-surprise-to"
+    }
+  ]
+}

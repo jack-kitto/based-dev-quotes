@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 68,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,110 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "By installing an ad blocker, you've just given websites a unique fingerprint to reliably track you.",
+      "author": "jonhohle",
+      "author_slug": "jonhohle",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "irony",
+        "adblock",
+        "fingerprinting",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Converted the rhetorical question into a statement. The irony is punchy and memorable — solving a problem creating its opposite.",
+      "id": "jonhohle-by-installing-an-ad"
+    },
+    {
+      "text": "Warning: the website downloads more than a gigabyte of videos before you even start watching anything.",
+      "author": "WASDx",
+      "author_slug": "wasdx",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "web-bloat",
+        "performance",
+        "frontend"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Dry, factual delivery makes the web-bloat absurdity land — pure grug fuel.",
+      "id": "wasdx-warning-the-website-downloads"
+    },
+    {
+      "text": "The biggest surprise to me is that a URL shortener makes enough money to have a Trust and Safety team. I assumed it was just a side project a person or two ran.",
+      "author": "silisili",
+      "author_slug": "silisili",
+      "source": "Hacker News — Old Bitly links are being hijacked",
+      "source_url": "https://news.ycombinator.com/item?id=50511395",
+      "categories": [
+        "funny",
+        "indie-hacker"
+      ],
+      "tags": [
+        "url-shortener",
+        "bitly",
+        "side-project",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Genuinely funny observation about how much infrastructure hides behind 'simple' products.",
+      "id": "silisili-the-biggest-surprise-to"
+    },
+    {
+      "text": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+      "author": "Donald Knuth",
+      "author_slug": "donald-knuth",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "wisdom",
+        "funny"
+      ],
+      "tags": [
+        "knuth",
+        "proofs",
+        "correctness",
+        "classic"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Classic Knuth line, timeless and perfectly quotable — surfaced in a modern Lean thread.",
+      "id": "donald-knuth-beware-of-bugs-in"
+    },
+    {
+      "text": "I tried to load the release notes for Tor, on Tor's website, through Tor, and received a 403 error because Tor blocks Tor. Not a good sign.",
+      "author": "cowlevel",
+      "author_slug": "cowlevel",
+      "source": "Hacker News — Tor Project Issues Rapid-Response DoS-Defense Fix",
+      "source_url": "https://news.ycombinator.com/item?id=50512441",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "tor",
+        "irony",
+        "blocking",
+        "ops"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Perfect self-referential irony — short, punchy, instantly recognizable dev humor.",
+      "id": "cowlevel-i-tried-to-load"
     }
   ]
 }

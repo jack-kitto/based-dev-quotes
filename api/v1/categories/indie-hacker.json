@@ -1,6 +1,6 @@
 {
   "category": "indie-hacker",
-  "count": 128,
+  "count": 130,
   "quotes": [
     {
       "id": "hoffman-embarrassed",
@@ -2114,6 +2114,50 @@
       "spiciness": 2,
       "id": "based-your-indie-project-is-1075",
       "source": "Community sourced"
+    },
+    {
+      "text": "The biggest surprise to me is that a URL shortener makes enough money to have a Trust and Safety team. I assumed it was just a side project a person or two ran.",
+      "author": "silisili",
+      "author_slug": "silisili",
+      "source": "Hacker News — Old Bitly links are being hijacked",
+      "source_url": "https://news.ycombinator.com/item?id=50511395",
+      "categories": [
+        "funny",
+        "indie-hacker"
+      ],
+      "tags": [
+        "url-shortener",
+        "bitly",
+        "side-project",
+        "business"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Genuinely funny observation about how much infrastructure hides behind 'simple' products.",
+      "id": "silisili-the-biggest-surprise-to"
+    },
+    {
+      "text": "With Mapbox or Google Maps I wouldn't even have considered building this game. Protomaps made it a no-brainer.",
+      "author": "thatslast",
+      "author_slug": "thatslast",
+      "source": "Hacker News — Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source_url": "https://news.ycombinator.com/item?id=50509837",
+      "categories": [
+        "indie-hacker",
+        "tools",
+        "wisdom"
+      ],
+      "tags": [
+        "platform-costs",
+        "side-projects",
+        "self-hosting",
+        "maps",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Crisp, standalone point about how cloud pricing gateskeep ideas — the rest of the comment was context/fluff about the game itself.",
+      "id": "thatslast-with-mapbox-or-google"
     }
   ]
 }

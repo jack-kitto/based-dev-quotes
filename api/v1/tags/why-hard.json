@@ -1,0 +1,27 @@
+{
+  "tag": "why-hard",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "This seems totally solvable by the create-rule element living in the browser chrome instead of the website DOM. Why aren't we doing that?",
+      "author": "akersten",
+      "author_slug": "akersten",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "browser-extensions",
+        "architecture",
+        "why-hard"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Classic grug move: pointing at the obvious simple fix and asking why nobody did it. Rhetorical question earns its keep.",
+      "id": "akersten-this-seems-totally-solvable"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "category": "suffering",
-  "count": 28,
+  "count": 30,
   "quotes": [
     {
       "id": "brooks-mythical-man-month",
@@ -521,6 +521,48 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "I bought a used Rigol scope with the I2C decoder disabled. Tried to contact Rigol North America for a license quote — they never responded. I'm looking forward to software that makes it the decent tool it should have been.",
+      "author": "elevation",
+      "author_slug": "elevation",
+      "source": "Hacker News — OOS – an open operating system for the Rigol Scopes",
+      "source_url": "https://news.ycombinator.com/item?id=50490159",
+      "categories": [
+        "suffering",
+        "tools"
+      ],
+      "tags": [
+        "hardware",
+        "vendor-lock-in",
+        "scopes",
+        "licensing"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Perfect encapsulation of hardware you own having features paywalled by a vendor who won't even sell you the key.",
+      "id": "elevation-i-bought-a-used"
+    },
+    {
+      "text": "I tried to load the release notes for Tor, on Tor's website, through Tor, and received a 403 error because Tor blocks Tor. Not a good sign.",
+      "author": "cowlevel",
+      "author_slug": "cowlevel",
+      "source": "Hacker News — Tor Project Issues Rapid-Response DoS-Defense Fix",
+      "source_url": "https://news.ycombinator.com/item?id=50512441",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "tor",
+        "irony",
+        "blocking",
+        "ops"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Perfect self-referential irony — short, punchy, instantly recognizable dev humor.",
+      "id": "cowlevel-i-tried-to-load"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "tag": "privacy",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "By installing an ad blocker, you've just given websites a unique fingerprint to reliably track you.",
+      "author": "jonhohle",
+      "author_slug": "jonhohle",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "irony",
+        "adblock",
+        "fingerprinting",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Converted the rhetorical question into a statement. The irony is punchy and memorable — solving a problem creating its opposite.",
+      "id": "jonhohle-by-installing-an-ad"
+    }
+  ]
+}

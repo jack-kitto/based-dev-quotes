@@ -1,6 +1,6 @@
 {
   "category": "tools",
-  "count": 6,
+  "count": 8,
   "quotes": [
     {
       "id": "torvalds-c-plus-plus",
@@ -112,6 +112,50 @@
       ],
       "grug_level": 4,
       "spiciness": 4
+    },
+    {
+      "text": "I bought a used Rigol scope with the I2C decoder disabled. Tried to contact Rigol North America for a license quote — they never responded. I'm looking forward to software that makes it the decent tool it should have been.",
+      "author": "elevation",
+      "author_slug": "elevation",
+      "source": "Hacker News — OOS – an open operating system for the Rigol Scopes",
+      "source_url": "https://news.ycombinator.com/item?id=50490159",
+      "categories": [
+        "suffering",
+        "tools"
+      ],
+      "tags": [
+        "hardware",
+        "vendor-lock-in",
+        "scopes",
+        "licensing"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Perfect encapsulation of hardware you own having features paywalled by a vendor who won't even sell you the key.",
+      "id": "elevation-i-bought-a-used"
+    },
+    {
+      "text": "With Mapbox or Google Maps I wouldn't even have considered building this game. Protomaps made it a no-brainer.",
+      "author": "thatslast",
+      "author_slug": "thatslast",
+      "source": "Hacker News — Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source_url": "https://news.ycombinator.com/item?id=50509837",
+      "categories": [
+        "indie-hacker",
+        "tools",
+        "wisdom"
+      ],
+      "tags": [
+        "platform-costs",
+        "side-projects",
+        "self-hosting",
+        "maps",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Crisp, standalone point about how cloud pricing gateskeep ideas — the rest of the comment was context/fluff about the game itself.",
+      "id": "thatslast-with-mapbox-or-google"
     }
   ]
 }

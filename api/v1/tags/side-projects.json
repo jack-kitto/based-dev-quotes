@@ -1,6 +1,6 @@
 {
   "tag": "side-projects",
-  "count": 3,
+  "count": 4,
   "quotes": [
     {
       "text": "Side projects are the best career insurance. They prove you can build things, not just talk about them.",
@@ -50,6 +50,29 @@
       "spiciness": 2,
       "id": "based-your-side-project-is-768",
       "source": "Community sourced"
+    },
+    {
+      "text": "With Mapbox or Google Maps I wouldn't even have considered building this game. Protomaps made it a no-brainer.",
+      "author": "thatslast",
+      "author_slug": "thatslast",
+      "source": "Hacker News — Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source_url": "https://news.ycombinator.com/item?id=50509837",
+      "categories": [
+        "indie-hacker",
+        "tools",
+        "wisdom"
+      ],
+      "tags": [
+        "platform-costs",
+        "side-projects",
+        "self-hosting",
+        "maps",
+        "indie-hacking"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Crisp, standalone point about how cloud pricing gateskeep ideas — the rest of the comment was context/fluff about the game itself.",
+      "id": "thatslast-with-mapbox-or-google"
     }
   ]
 }

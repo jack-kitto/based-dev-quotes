@@ -1,0 +1,48 @@
+{
+  "tag": "llm",
+  "count": 2,
+  "quotes": [
+    {
+      "text": "Anthropic deserves to go bankrupt for trying to ban open-weight/open-source competition. I hope their IPO flops.",
+      "author": "hauntingseaweed",
+      "author_slug": "hauntingseaweed",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "open-source",
+        "llm",
+        "hot-take",
+        "ai-politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5,
+      "extraction_note": "Thermonuclear but clean one-liner take on the open-weight wars — exactly the kind of unfiltered dev opinion the API wants.",
+      "id": "hauntingseaweed-anthropic-deserves-to-go"
+    },
+    {
+      "text": "Asking the same entity to write the proof checkers as well as the proofs is not good practice. This is just like an auditing company also writing the original financial statements.",
+      "author": "129298467",
+      "author_slug": "129298467",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "trust",
+        "verification",
+        "llm",
+        "separation-of-duties"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp independence-of-checker critique with a perfect real-world analogy.",
+      "id": "129298467-asking-the-same-entity"
+    }
+  ]
+}

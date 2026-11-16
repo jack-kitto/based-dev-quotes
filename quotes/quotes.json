@@ -17847,5 +17847,322 @@
     "spiciness": 2,
     "id": "based-your-indie-project-is-1075",
     "source": "Community sourced"
+  },
+  {
+    "text": "I never really loved how extensions have to put their interfaces in the website's DOM if they want to work with the page's elements. In the password manager scenario, it could leak what accounts you have to the website itself, if the page is looking for new DOM elements.",
+    "author": "ByteOfWood",
+    "author_slug": "byteofwood",
+    "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+    "source_url": "https://news.ycombinator.com/item?id=50513160",
+    "categories": [
+      "complexity",
+      "debugging"
+    ],
+    "tags": [
+      "browser-extensions",
+      "dom",
+      "security",
+      "architecture"
+    ],
+    "grug_level": 3,
+    "spiciness": 2,
+    "extraction_note": "Clear, concrete critique of an architectural smell — extensions forced into page DOM creates leaky abstraction. Works standalone.",
+    "id": "byteofwood-i-never-really-loved"
+  },
+  {
+    "text": "By installing an ad blocker, you've just given websites a unique fingerprint to reliably track you.",
+    "author": "jonhohle",
+    "author_slug": "jonhohle",
+    "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+    "source_url": "https://news.ycombinator.com/item?id=50513160",
+    "categories": [
+      "complexity",
+      "funny"
+    ],
+    "tags": [
+      "irony",
+      "adblock",
+      "fingerprinting",
+      "privacy"
+    ],
+    "grug_level": 4,
+    "spiciness": 4,
+    "extraction_note": "Converted the rhetorical question into a statement. The irony is punchy and memorable — solving a problem creating its opposite.",
+    "id": "jonhohle-by-installing-an-ad"
+  },
+  {
+    "text": "This seems totally solvable by the create-rule element living in the browser chrome instead of the website DOM. Why aren't we doing that?",
+    "author": "akersten",
+    "author_slug": "akersten",
+    "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+    "source_url": "https://news.ycombinator.com/item?id=50513160",
+    "categories": [
+      "grug",
+      "complexity"
+    ],
+    "tags": [
+      "simplicity",
+      "browser-extensions",
+      "architecture",
+      "why-hard"
+    ],
+    "grug_level": 4,
+    "spiciness": 2,
+    "extraction_note": "Classic grug move: pointing at the obvious simple fix and asking why nobody did it. Rhetorical question earns its keep.",
+    "id": "akersten-this-seems-totally-solvable"
+  },
+  {
+    "text": "I understand why folks railed against web extension lockdowns that blocked directly editing page content, but this is a great example of why it's a powder keg.",
+    "author": "afavour",
+    "author_slug": "afavour",
+    "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+    "source_url": "https://news.ycombinator.com/item?id=50513160",
+    "categories": [
+      "wisdom",
+      "complexity"
+    ],
+    "tags": [
+      "browser-extensions",
+      "security",
+      "tradeoffs",
+      "platform-design"
+    ],
+    "grug_level": 3,
+    "spiciness": 3,
+    "extraction_note": "Balanced but firm take on a contentious platform debate — 'powder keg' gives it teeth.",
+    "id": "afavour-i-understand-why-folks"
+  },
+  {
+    "text": "I bought a used Rigol scope with the I2C decoder disabled. Tried to contact Rigol North America for a license quote — they never responded. I'm looking forward to software that makes it the decent tool it should have been.",
+    "author": "elevation",
+    "author_slug": "elevation",
+    "source": "Hacker News — OOS – an open operating system for the Rigol Scopes",
+    "source_url": "https://news.ycombinator.com/item?id=50490159",
+    "categories": [
+      "suffering",
+      "tools"
+    ],
+    "tags": [
+      "hardware",
+      "vendor-lock-in",
+      "scopes",
+      "licensing"
+    ],
+    "grug_level": 3,
+    "spiciness": 3,
+    "extraction_note": "Perfect encapsulation of hardware you own having features paywalled by a vendor who won't even sell you the key.",
+    "id": "elevation-i-bought-a-used"
+  },
+  {
+    "text": "Anthropic deserves to go bankrupt for trying to ban open-weight/open-source competition. I hope their IPO flops.",
+    "author": "hauntingseaweed",
+    "author_slug": "hauntingseaweed",
+    "source": "Hacker News — Qwen4-Max",
+    "source_url": "https://news.ycombinator.com/item?id=50513215",
+    "categories": [
+      "shitpost",
+      "complexity"
+    ],
+    "tags": [
+      "open-source",
+      "llm",
+      "hot-take",
+      "ai-politics"
+    ],
+    "grug_level": 4,
+    "spiciness": 5,
+    "extraction_note": "Thermonuclear but clean one-liner take on the open-weight wars — exactly the kind of unfiltered dev opinion the API wants.",
+    "id": "hauntingseaweed-anthropic-deserves-to-go"
+  },
+  {
+    "text": "Warning: the website downloads more than a gigabyte of videos before you even start watching anything.",
+    "author": "WASDx",
+    "author_slug": "wasdx",
+    "source": "Hacker News — Qwen4-Max",
+    "source_url": "https://news.ycombinator.com/item?id=50513215",
+    "categories": [
+      "funny",
+      "complexity"
+    ],
+    "tags": [
+      "web-bloat",
+      "performance",
+      "frontend"
+    ],
+    "grug_level": 4,
+    "spiciness": 2,
+    "extraction_note": "Dry, factual delivery makes the web-bloat absurdity land — pure grug fuel.",
+    "id": "wasdx-warning-the-website-downloads"
+  },
+  {
+    "text": "Apple didn't miss the AI wave. They knew most of the new startups and new products will end up as one new feature in their ecosystem once the hype is down.",
+    "author": "kelzier15",
+    "author_slug": "kelzier15",
+    "source": "Hacker News — What's Next for Nvidia?",
+    "source_url": "https://news.ycombinator.com/item?id=50512235",
+    "categories": [
+      "wisdom",
+      "founder"
+    ],
+    "tags": [
+      "ai-hype",
+      "platforms",
+      "strategy",
+      "startups"
+    ],
+    "grug_level": 3,
+    "spiciness": 4,
+    "extraction_note": "Cynical but genuinely sharp read on why incumbents let hype cycles burn out — memorable and debatable.",
+    "id": "kelzier15-apple-didnt-miss-the"
+  },
+  {
+    "text": "The biggest surprise to me is that a URL shortener makes enough money to have a Trust and Safety team. I assumed it was just a side project a person or two ran.",
+    "author": "silisili",
+    "author_slug": "silisili",
+    "source": "Hacker News — Old Bitly links are being hijacked",
+    "source_url": "https://news.ycombinator.com/item?id=50511395",
+    "categories": [
+      "funny",
+      "indie-hacker"
+    ],
+    "tags": [
+      "url-shortener",
+      "bitly",
+      "side-project",
+      "business"
+    ],
+    "grug_level": 3,
+    "spiciness": 2,
+    "extraction_note": "Genuinely funny observation about how much infrastructure hides behind 'simple' products.",
+    "id": "silisili-the-biggest-surprise-to"
+  },
+  {
+    "text": "Globally unique human-friendly names are more trouble than they're worth. Sooner or later their referential integrity falls to corruption or neglect. We'd be better off with cryptographic hashes on the wire and user-configurable pet names in the UI.",
+    "author": "__MatrixMan__",
+    "author_slug": "matrixman",
+    "source": "Hacker News — Old Bitly links are being hijacked",
+    "source_url": "https://news.ycombinator.com/item?id=50511395",
+    "categories": [
+      "grug",
+      "wisdom",
+      "complexity"
+    ],
+    "tags": [
+      "naming",
+      "urls",
+      "identity",
+      "simplicity"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Strong anti-complexity take on a real design tradeoff — fixed typos, kept the argument intact.",
+    "id": "matrixman-globally-unique-humanfriendly-names"
+  },
+  {
+    "text": "\"Proof is checked in Lean\" is kinda similar to assuming your code works just because it compiles. Sure, the proof is valid, but does it prove what you set out to prove?",
+    "author": "wodenokoto",
+    "author_slug": "wodenokoto",
+    "source": "Hacker News — \"...and the proof is checked in Lean\"",
+    "source_url": "https://news.ycombinator.com/item?id=50515058",
+    "categories": [
+      "wisdom",
+      "debugging"
+    ],
+    "tags": [
+      "formal-verification",
+      "compiles",
+      "correctness",
+      "proofs"
+    ],
+    "grug_level": 4,
+    "spiciness": 3,
+    "extraction_note": "Great analogy between 'it compiles' and 'it's proven' — collapses both into the same grug insight.",
+    "id": "wodenokoto-proof-is-checked-in"
+  },
+  {
+    "text": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+    "author": "Donald Knuth",
+    "author_slug": "donald-knuth",
+    "source": "Hacker News — \"...and the proof is checked in Lean\"",
+    "source_url": "https://news.ycombinator.com/item?id=50515058",
+    "categories": [
+      "wisdom",
+      "funny"
+    ],
+    "tags": [
+      "knuth",
+      "proofs",
+      "correctness",
+      "classic"
+    ],
+    "grug_level": 4,
+    "spiciness": 2,
+    "extraction_note": "Classic Knuth line, timeless and perfectly quotable — surfaced in a modern Lean thread.",
+    "id": "donald-knuth-beware-of-bugs-in"
+  },
+  {
+    "text": "Asking the same entity to write the proof checkers as well as the proofs is not good practice. This is just like an auditing company also writing the original financial statements.",
+    "author": "129298467",
+    "author_slug": "129298467",
+    "source": "Hacker News — \"...and the proof is checked in Lean\"",
+    "source_url": "https://news.ycombinator.com/item?id=50515058",
+    "categories": [
+      "complexity",
+      "wisdom"
+    ],
+    "tags": [
+      "trust",
+      "verification",
+      "llm",
+      "separation-of-duties"
+    ],
+    "grug_level": 3,
+    "spiciness": 4,
+    "extraction_note": "Sharp independence-of-checker critique with a perfect real-world analogy.",
+    "id": "129298467-asking-the-same-entity"
+  },
+  {
+    "text": "I tried to load the release notes for Tor, on Tor's website, through Tor, and received a 403 error because Tor blocks Tor. Not a good sign.",
+    "author": "cowlevel",
+    "author_slug": "cowlevel",
+    "source": "Hacker News — Tor Project Issues Rapid-Response DoS-Defense Fix",
+    "source_url": "https://news.ycombinator.com/item?id=50512441",
+    "categories": [
+      "funny",
+      "suffering"
+    ],
+    "tags": [
+      "tor",
+      "irony",
+      "blocking",
+      "ops"
+    ],
+    "grug_level": 2,
+    "spiciness": 3,
+    "extraction_note": "Perfect self-referential irony — short, punchy, instantly recognizable dev humor.",
+    "id": "cowlevel-i-tried-to-load"
+  },
+  {
+    "text": "With Mapbox or Google Maps I wouldn't even have considered building this game. Protomaps made it a no-brainer.",
+    "author": "thatslast",
+    "author_slug": "thatslast",
+    "source": "Hacker News — Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "source_url": "https://news.ycombinator.com/item?id=50509837",
+    "categories": [
+      "indie-hacker",
+      "tools",
+      "wisdom"
+    ],
+    "tags": [
+      "platform-costs",
+      "side-projects",
+      "self-hosting",
+      "maps",
+      "indie-hacking"
+    ],
+    "grug_level": 3,
+    "spiciness": 2,
+    "extraction_note": "Crisp, standalone point about how cloud pricing gateskeep ideas — the rest of the comment was context/fluff about the game itself.",
+    "id": "thatslast-with-mapbox-or-google"
   }
 ]

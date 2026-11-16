@@ -1,0 +1,27 @@
+{
+  "tag": "ai-politics",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Anthropic deserves to go bankrupt for trying to ban open-weight/open-source competition. I hope their IPO flops.",
+      "author": "hauntingseaweed",
+      "author_slug": "hauntingseaweed",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "open-source",
+        "llm",
+        "hot-take",
+        "ai-politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5,
+      "extraction_note": "Thermonuclear but clean one-liner take on the open-weight wars — exactly the kind of unfiltered dev opinion the API wants.",
+      "id": "hauntingseaweed-anthropic-deserves-to-go"
+    }
+  ]
+}

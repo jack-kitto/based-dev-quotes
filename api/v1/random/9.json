@@ -1,16 +1,17 @@
 {
-  "text": "Your customer's success is your success. Align incentives and everyone wins.",
+  "text": "Your logging should tell a story. If your logs are noise, your monitoring is useless.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "customer-success",
-    "incentives"
+    "logging",
+    "monitoring"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-customers-success-is",
+  "id": "based-your-logging-should-tell",
   "source": "Community sourced"
 }

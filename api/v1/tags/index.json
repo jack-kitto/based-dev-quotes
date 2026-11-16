@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 848,
   "tags": {
     "10x": {
       "count": 2
@@ -31,6 +31,9 @@
     "activity": {
       "count": 1
     },
+    "adblock": {
+      "count": 1
+    },
     "advantage": {
       "count": 4
     },
@@ -57,6 +60,12 @@
     },
     "ai": {
       "count": 2
+    },
+    "ai-hype": {
+      "count": 1
+    },
+    "ai-politics": {
+      "count": 1
     },
     "alerting": {
       "count": 1
@@ -89,7 +98,7 @@
       "count": 1
     },
     "architecture": {
-      "count": 8
+      "count": 10
     },
     "asset": {
       "count": 1
@@ -145,10 +154,16 @@
     "binary": {
       "count": 2
     },
+    "bitly": {
+      "count": 1
+    },
     "blame": {
       "count": 2
     },
     "blockchain": {
+      "count": 1
+    },
+    "blocking": {
       "count": 1
     },
     "blog": {
@@ -193,6 +208,9 @@
     "breathing-room": {
       "count": 1
     },
+    "browser-extensions": {
+      "count": 3
+    },
     "brute-force": {
       "count": 1
     },
@@ -215,7 +233,7 @@
       "count": 3
     },
     "business": {
-      "count": 2
+      "count": 3
     },
     "business-model": {
       "count": 5
@@ -305,7 +323,7 @@
       "count": 18
     },
     "classic": {
-      "count": 37
+      "count": 38
     },
     "clean-code": {
       "count": 3
@@ -368,6 +386,9 @@
       "count": 9
     },
     "competitive-advantage": {
+      "count": 1
+    },
+    "compiles": {
       "count": 1
     },
     "complaints": {
@@ -456,6 +477,9 @@
     },
     "corporate": {
       "count": 1
+    },
+    "correctness": {
+      "count": 2
     },
     "cost": {
       "count": 1
@@ -652,6 +676,9 @@
     "dogfooding": {
       "count": 7
     },
+    "dom": {
+      "count": 1
+    },
     "doubt": {
       "count": 1
     },
@@ -805,6 +832,9 @@
     "financial-model": {
       "count": 1
     },
+    "fingerprinting": {
+      "count": 1
+    },
     "finishing": {
       "count": 2
     },
@@ -830,6 +860,9 @@
       "count": 37
     },
     "forces": {
+      "count": 1
+    },
+    "formal-verification": {
       "count": 1
     },
     "forms": {
@@ -866,7 +899,7 @@
       "count": 3
     },
     "frontend": {
-      "count": 3
+      "count": 4
     },
     "full-stack": {
       "count": 1
@@ -947,7 +980,7 @@
       "count": 1
     },
     "hardware": {
-      "count": 1
+      "count": 2
     },
     "hat-wearing": {
       "count": 1
@@ -988,6 +1021,9 @@
     "honesty": {
       "count": 5
     },
+    "hot-take": {
+      "count": 1
+    },
     "humans": {
       "count": 1
     },
@@ -1016,7 +1052,7 @@
       "count": 4
     },
     "identity": {
-      "count": 1
+      "count": 2
     },
     "idiots": {
       "count": 1
@@ -1046,6 +1082,9 @@
       "count": 2
     },
     "indentation": {
+      "count": 1
+    },
+    "indie-hacking": {
       "count": 1
     },
     "indirection": {
@@ -1103,7 +1142,7 @@
       "count": 4
     },
     "irony": {
-      "count": 3
+      "count": 5
     },
     "isolation": {
       "count": 1
@@ -1136,6 +1175,9 @@
       "count": 1
     },
     "knowledge-sharing": {
+      "count": 1
+    },
+    "knuth": {
       "count": 1
     },
     "kubernetes": {
@@ -1195,6 +1237,9 @@
     "libraries": {
       "count": 2
     },
+    "licensing": {
+      "count": 1
+    },
     "lifestyle": {
       "count": 5
     },
@@ -1203,6 +1248,9 @@
     },
     "listening": {
       "count": 5
+    },
+    "llm": {
+      "count": 2
     },
     "loading": {
       "count": 2
@@ -1233,6 +1281,9 @@
     },
     "management": {
       "count": 4
+    },
+    "maps": {
+      "count": 1
     },
     "margin": {
       "count": 1
@@ -1361,7 +1412,7 @@
       "count": 5
     },
     "naming": {
-      "count": 3
+      "count": 4
     },
     "native": {
       "count": 1
@@ -1448,13 +1499,16 @@
       "count": 2
     },
     "open-source": {
-      "count": 2
+      "count": 3
     },
     "opinion": {
       "count": 2
     },
     "opportunity": {
       "count": 2
+    },
+    "ops": {
+      "count": 1
     },
     "optimization": {
       "count": 7
@@ -1523,7 +1577,7 @@
       "count": 2
     },
     "performance": {
-      "count": 5
+      "count": 6
     },
     "perl": {
       "count": 1
@@ -1557,6 +1611,15 @@
     },
     "platform": {
       "count": 2
+    },
+    "platform-costs": {
+      "count": 1
+    },
+    "platform-design": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
     },
     "pmf": {
       "count": 2
@@ -1630,6 +1693,9 @@
     "prioritization": {
       "count": 4
     },
+    "privacy": {
+      "count": 1
+    },
     "proactive": {
       "count": 10
     },
@@ -1692,6 +1758,9 @@
     },
     "promotion": {
       "count": 1
+    },
+    "proofs": {
+      "count": 2
     },
     "protection": {
       "count": 2
@@ -1936,6 +2005,9 @@
     "scope-creep": {
       "count": 1
     },
+    "scopes": {
+      "count": 1
+    },
     "scrum": {
       "count": 1
     },
@@ -1946,7 +2018,7 @@
       "count": 2
     },
     "security": {
-      "count": 7
+      "count": 9
     },
     "self-awareness": {
       "count": 1
@@ -1958,6 +2030,9 @@
       "count": 1
     },
     "self-explanatory": {
+      "count": 1
+    },
+    "self-hosting": {
       "count": 1
     },
     "self-imposed": {
@@ -1980,6 +2055,9 @@
     },
     "seo": {
       "count": 3
+    },
+    "separation-of-duties": {
+      "count": 1
     },
     "servers": {
       "count": 1
@@ -2014,14 +2092,17 @@
     "showing": {
       "count": 1
     },
+    "side-project": {
+      "count": 1
+    },
     "side-projects": {
-      "count": 3
+      "count": 4
     },
     "silver-bullet": {
       "count": 1
     },
     "simplicity": {
-      "count": 70
+      "count": 72
     },
     "simplification": {
       "count": 3
@@ -2117,7 +2198,7 @@
       "count": 2
     },
     "startups": {
-      "count": 7
+      "count": 8
     },
     "state": {
       "count": 1
@@ -2135,7 +2216,7 @@
       "count": 3
     },
     "strategy": {
-      "count": 1
+      "count": 2
     },
     "stress": {
       "count": 1
@@ -2257,6 +2338,12 @@
     "tooltips": {
       "count": 1
     },
+    "tor": {
+      "count": 1
+    },
+    "tradeoffs": {
+      "count": 1
+    },
     "tradition": {
       "count": 1
     },
@@ -2273,7 +2360,7 @@
       "count": 1
     },
     "trust": {
-      "count": 7
+      "count": 8
     },
     "truth": {
       "count": 2
@@ -2309,6 +2396,12 @@
       "count": 1
     },
     "uptime": {
+      "count": 1
+    },
+    "url-shortener": {
+      "count": 1
+    },
+    "urls": {
       "count": 1
     },
     "usability": {
@@ -2362,6 +2455,12 @@
     "velocity": {
       "count": 4
     },
+    "vendor-lock-in": {
+      "count": 1
+    },
+    "verification": {
+      "count": 1
+    },
     "version-control": {
       "count": 2
     },
@@ -2395,6 +2494,9 @@
     "wealth": {
       "count": 3
     },
+    "web-bloat": {
+      "count": 1
+    },
     "webhooks": {
       "count": 2
     },
@@ -2403,6 +2505,9 @@
     },
     "whitespace": {
       "count": 3
+    },
+    "why-hard": {
+      "count": 1
     },
     "wireframe": {
       "count": 1

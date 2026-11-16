@@ -1,0 +1,27 @@
+{
+  "tag": "tradeoffs",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I understand why folks railed against web extension lockdowns that blocked directly editing page content, but this is a great example of why it's a powder keg.",
+      "author": "afavour",
+      "author_slug": "afavour",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "browser-extensions",
+        "security",
+        "tradeoffs",
+        "platform-design"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Balanced but firm take on a contentious platform debate — 'powder keg' gives it teeth.",
+      "id": "afavour-i-understand-why-folks"
+    }
+  ]
+}

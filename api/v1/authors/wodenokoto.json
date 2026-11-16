@@ -1,0 +1,28 @@
+{
+  "author": "wodenokoto",
+  "slug": "wodenokoto",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "\"Proof is checked in Lean\" is kinda similar to assuming your code works just because it compiles. Sure, the proof is valid, but does it prove what you set out to prove?",
+      "author": "wodenokoto",
+      "author_slug": "wodenokoto",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "wisdom",
+        "debugging"
+      ],
+      "tags": [
+        "formal-verification",
+        "compiles",
+        "correctness",
+        "proofs"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Great analogy between 'it compiles' and 'it's proven' — collapses both into the same grug insight.",
+      "id": "wodenokoto-proof-is-checked-in"
+    }
+  ]
+}

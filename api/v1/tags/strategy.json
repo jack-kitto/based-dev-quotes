@@ -1,6 +1,6 @@
 {
   "tag": "strategy",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "id": "spolsky-rewrite",
@@ -20,6 +20,27 @@
       ],
       "grug_level": 4,
       "spiciness": 3
+    },
+    {
+      "text": "Apple didn't miss the AI wave. They knew most of the new startups and new products will end up as one new feature in their ecosystem once the hype is down.",
+      "author": "kelzier15",
+      "author_slug": "kelzier15",
+      "source": "Hacker News — What's Next for Nvidia?",
+      "source_url": "https://news.ycombinator.com/item?id=50512235",
+      "categories": [
+        "wisdom",
+        "founder"
+      ],
+      "tags": [
+        "ai-hype",
+        "platforms",
+        "strategy",
+        "startups"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Cynical but genuinely sharp read on why incumbents let hype cycles burn out — memorable and debatable.",
+      "id": "kelzier15-apple-didnt-miss-the"
     }
   ]
 }

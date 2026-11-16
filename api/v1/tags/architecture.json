@@ -1,6 +1,6 @@
 {
   "tag": "architecture",
-  "count": 8,
+  "count": 10,
   "quotes": [
     {
       "id": "grug-microservices",
@@ -135,6 +135,48 @@
       "spiciness": 2,
       "id": "based-the-best-way-to-623",
       "source": "Community sourced"
+    },
+    {
+      "text": "I never really loved how extensions have to put their interfaces in the website's DOM if they want to work with the page's elements. In the password manager scenario, it could leak what accounts you have to the website itself, if the page is looking for new DOM elements.",
+      "author": "ByteOfWood",
+      "author_slug": "byteofwood",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "debugging"
+      ],
+      "tags": [
+        "browser-extensions",
+        "dom",
+        "security",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clear, concrete critique of an architectural smell — extensions forced into page DOM creates leaky abstraction. Works standalone.",
+      "id": "byteofwood-i-never-really-loved"
+    },
+    {
+      "text": "This seems totally solvable by the create-rule element living in the browser chrome instead of the website DOM. Why aren't we doing that?",
+      "author": "akersten",
+      "author_slug": "akersten",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "browser-extensions",
+        "architecture",
+        "why-hard"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Classic grug move: pointing at the obvious simple fix and asking why nobody did it. Rhetorical question earns its keep.",
+      "id": "akersten-this-seems-totally-solvable"
     }
   ]
 }

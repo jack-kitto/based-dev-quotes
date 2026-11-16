@@ -1,6 +1,6 @@
 {
   "category": "complexity",
-  "count": 19,
+  "count": 27,
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -351,6 +351,174 @@
       ],
       "grug_level": 5,
       "spiciness": 3
+    },
+    {
+      "text": "I never really loved how extensions have to put their interfaces in the website's DOM if they want to work with the page's elements. In the password manager scenario, it could leak what accounts you have to the website itself, if the page is looking for new DOM elements.",
+      "author": "ByteOfWood",
+      "author_slug": "byteofwood",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "debugging"
+      ],
+      "tags": [
+        "browser-extensions",
+        "dom",
+        "security",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clear, concrete critique of an architectural smell — extensions forced into page DOM creates leaky abstraction. Works standalone.",
+      "id": "byteofwood-i-never-really-loved"
+    },
+    {
+      "text": "By installing an ad blocker, you've just given websites a unique fingerprint to reliably track you.",
+      "author": "jonhohle",
+      "author_slug": "jonhohle",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "funny"
+      ],
+      "tags": [
+        "irony",
+        "adblock",
+        "fingerprinting",
+        "privacy"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Converted the rhetorical question into a statement. The irony is punchy and memorable — solving a problem creating its opposite.",
+      "id": "jonhohle-by-installing-an-ad"
+    },
+    {
+      "text": "This seems totally solvable by the create-rule element living in the browser chrome instead of the website DOM. Why aren't we doing that?",
+      "author": "akersten",
+      "author_slug": "akersten",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "grug",
+        "complexity"
+      ],
+      "tags": [
+        "simplicity",
+        "browser-extensions",
+        "architecture",
+        "why-hard"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Classic grug move: pointing at the obvious simple fix and asking why nobody did it. Rhetorical question earns its keep.",
+      "id": "akersten-this-seems-totally-solvable"
+    },
+    {
+      "text": "I understand why folks railed against web extension lockdowns that blocked directly editing page content, but this is a great example of why it's a powder keg.",
+      "author": "afavour",
+      "author_slug": "afavour",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "browser-extensions",
+        "security",
+        "tradeoffs",
+        "platform-design"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Balanced but firm take on a contentious platform debate — 'powder keg' gives it teeth.",
+      "id": "afavour-i-understand-why-folks"
+    },
+    {
+      "text": "Anthropic deserves to go bankrupt for trying to ban open-weight/open-source competition. I hope their IPO flops.",
+      "author": "hauntingseaweed",
+      "author_slug": "hauntingseaweed",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "shitpost",
+        "complexity"
+      ],
+      "tags": [
+        "open-source",
+        "llm",
+        "hot-take",
+        "ai-politics"
+      ],
+      "grug_level": 4,
+      "spiciness": 5,
+      "extraction_note": "Thermonuclear but clean one-liner take on the open-weight wars — exactly the kind of unfiltered dev opinion the API wants.",
+      "id": "hauntingseaweed-anthropic-deserves-to-go"
+    },
+    {
+      "text": "Warning: the website downloads more than a gigabyte of videos before you even start watching anything.",
+      "author": "WASDx",
+      "author_slug": "wasdx",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "web-bloat",
+        "performance",
+        "frontend"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Dry, factual delivery makes the web-bloat absurdity land — pure grug fuel.",
+      "id": "wasdx-warning-the-website-downloads"
+    },
+    {
+      "text": "Globally unique human-friendly names are more trouble than they're worth. Sooner or later their referential integrity falls to corruption or neglect. We'd be better off with cryptographic hashes on the wire and user-configurable pet names in the UI.",
+      "author": "__MatrixMan__",
+      "author_slug": "matrixman",
+      "source": "Hacker News — Old Bitly links are being hijacked",
+      "source_url": "https://news.ycombinator.com/item?id=50511395",
+      "categories": [
+        "grug",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "naming",
+        "urls",
+        "identity",
+        "simplicity"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Strong anti-complexity take on a real design tradeoff — fixed typos, kept the argument intact.",
+      "id": "matrixman-globally-unique-humanfriendly-names"
+    },
+    {
+      "text": "Asking the same entity to write the proof checkers as well as the proofs is not good practice. This is just like an auditing company also writing the original financial statements.",
+      "author": "129298467",
+      "author_slug": "129298467",
+      "source": "Hacker News — \"...and the proof is checked in Lean\"",
+      "source_url": "https://news.ycombinator.com/item?id=50515058",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "trust",
+        "verification",
+        "llm",
+        "separation-of-duties"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Sharp independence-of-checker critique with a perfect real-world analogy.",
+      "id": "129298467-asking-the-same-entity"
     }
   ]
 }

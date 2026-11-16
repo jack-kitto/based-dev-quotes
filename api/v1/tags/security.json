@@ -1,6 +1,6 @@
 {
   "tag": "security",
-  "count": 7,
+  "count": 9,
   "quotes": [
     {
       "id": "thompson-cant-trust",
@@ -114,6 +114,48 @@
       "spiciness": 3,
       "id": "based-the-most-dangerous-thing",
       "source": "Community sourced"
+    },
+    {
+      "text": "I never really loved how extensions have to put their interfaces in the website's DOM if they want to work with the page's elements. In the password manager scenario, it could leak what accounts you have to the website itself, if the page is looking for new DOM elements.",
+      "author": "ByteOfWood",
+      "author_slug": "byteofwood",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "complexity",
+        "debugging"
+      ],
+      "tags": [
+        "browser-extensions",
+        "dom",
+        "security",
+        "architecture"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clear, concrete critique of an architectural smell — extensions forced into page DOM creates leaky abstraction. Works standalone.",
+      "id": "byteofwood-i-never-really-loved"
+    },
+    {
+      "text": "I understand why folks railed against web extension lockdowns that blocked directly editing page content, but this is a great example of why it's a powder keg.",
+      "author": "afavour",
+      "author_slug": "afavour",
+      "source": "Hacker News — Universal XSS in uBlock Origin from website-driven element picker",
+      "source_url": "https://news.ycombinator.com/item?id=50513160",
+      "categories": [
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "browser-extensions",
+        "security",
+        "tradeoffs",
+        "platform-design"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Balanced but firm take on a contentious platform debate — 'powder keg' gives it teeth.",
+      "id": "afavour-i-understand-why-folks"
     }
   ]
 }

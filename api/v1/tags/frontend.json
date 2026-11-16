@@ -1,6 +1,6 @@
 {
   "tag": "frontend",
-  "count": 3,
+  "count": 4,
   "quotes": [
     {
       "id": "backend-dev-css",
@@ -54,6 +54,26 @@
       "spiciness": 3,
       "id": "based-graphql-is-what-happens",
       "source": "Community sourced"
+    },
+    {
+      "text": "Warning: the website downloads more than a gigabyte of videos before you even start watching anything.",
+      "author": "WASDx",
+      "author_slug": "wasdx",
+      "source": "Hacker News — Qwen4-Max",
+      "source_url": "https://news.ycombinator.com/item?id=50513215",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "web-bloat",
+        "performance",
+        "frontend"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Dry, factual delivery makes the web-bloat absurdity land — pure grug fuel.",
+      "id": "wasdx-warning-the-website-downloads"
     }
   ]
 }
