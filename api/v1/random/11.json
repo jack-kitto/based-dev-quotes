@@ -1,16 +1,19 @@
 {
-  "text": "Your leadership is defined by the decisions you make when nobody's watching.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "two-hard-things",
+  "text": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+  "author": "Unknown (based on Phil Karlton)",
+  "author_slug": "unknown",
+  "source": "Programming folklore / internet",
   "categories": [
-    "business"
+    "funny",
+    "shitpost"
   ],
   "tags": [
-    "leadership",
-    "integrity"
+    "cache",
+    "naming",
+    "off-by-one",
+    "classic"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-leadership-is-defined",
-  "source": "Community sourced"
+  "spiciness": 1
 }
