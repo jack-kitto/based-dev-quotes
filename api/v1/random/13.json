@@ -1,17 +1,16 @@
 {
-  "text": "The user interface is the product. Everything behind it is infrastructure nobody asked for.",
+  "text": "Churn is the tax you pay for not making your product indispensable.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design",
-    "product"
+    "saas"
   ],
   "tags": [
-    "ui",
-    "ux"
+    "churn",
+    "retention"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-the-user-interface-is",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-churn-is-the-tax",
   "source": "Community sourced"
 }
