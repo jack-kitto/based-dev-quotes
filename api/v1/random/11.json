@@ -1,16 +1,16 @@
 {
-  "text": "If it takes less than 2 minutes, do it now. If it takes less than 2 hours, do it today. If it takes longer, schedule it and then don't schedule it.",
+  "text": "White space isn't wasted space. It's breathing room for your content.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "productivity"
+    "design"
   ],
   "tags": [
-    "gtd",
-    "execution"
+    "whitespace",
+    "breathing-room"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-if-it-takes-less",
+  "spiciness": 1,
+  "id": "based-white-space-isnt-wasted",
   "source": "Community sourced"
 }

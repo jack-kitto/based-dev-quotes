@@ -1,19 +1,18 @@
 {
-  "id": "java-sufficiently-smart",
-  "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
-  "author": "Bjarne Stroustrup",
-  "author_slug": "stroustrup",
-  "source": "The Design and Evolution of C++",
+  "id": "impostor-syndrome-real",
+  "text": "Impostor syndrome: where you're mass mass worried you're a fraud, surrounded by mass mass people who also think they're frauds.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
     "funny",
-    "wisdom",
-    "tools"
+    "career"
   ],
   "tags": [
-    "languages",
-    "complaints",
-    "classic"
+    "impostor-syndrome",
+    "feelings",
+    "industry"
   ],
-  "grug_level": 2,
-  "spiciness": 2
+  "grug_level": 4,
+  "spiciness": 1
 }

@@ -1,17 +1,16 @@
 {
-  "text": "Controlling complexity is the essence of computer programming.",
-  "author": "Brian Kernighan",
-  "author_slug": "kernighan",
+  "text": "Your focus is a finite resource. Spend it on what matters.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "productivity"
   ],
   "tags": [
-    "complexity",
-    "essence"
+    "focus",
+    "resource"
   ],
   "grug_level": 3,
   "spiciness": 1,
-  "id": "kernighan-controlling-complexity-is-the",
+  "id": "based-your-focus-is-a",
   "source": "Community sourced"
 }

@@ -1,16 +1,19 @@
 {
-  "text": "In the middle of difficulty lies opportunity.",
-  "author": "Albert Einstein",
-  "author_slug": "einstein",
+  "id": "feature-request-vs-bug",
+  "text": "A bug becomes a feature the moment a customer depends on it.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Software engineering folklore",
   "categories": [
+    "funny",
     "wisdom"
   ],
   "tags": [
-    "difficulty",
-    "opportunity"
+    "bugs",
+    "features",
+    "customers",
+    "backwards-compatibility"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "einstein-in-the-middle-of",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 2
 }
