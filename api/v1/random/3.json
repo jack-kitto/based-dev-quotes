@@ -1,16 +1,18 @@
 {
-  "text": "Your best ideas come from the intersection of different fields. Read widely. Connect dots.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "revenue-vanity-profit-sanity",
+  "text": "Revenue is vanity, profit is sanity, cash is reality.",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Business proverb",
   "categories": [
-    "business"
+    "founder",
+    "indie-hacker"
   ],
   "tags": [
-    "ideas",
-    "reading"
+    "revenue",
+    "profit",
+    "cash-flow"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-best-ideas-come",
-  "source": "Community sourced"
+  "spiciness": 1
 }

@@ -1,18 +1,17 @@
 {
-  "text": "The purpose of software engineering is to control complexity, not to create it.",
-  "author": "Barbara Liskov",
-  "author_slug": "liskov",
+  "text": "The best database is the one you know best. Not the one that's trending on Hacker News.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "engineering",
-    "wisdom"
+    "engineering"
   ],
   "tags": [
-    "complexity",
-    "control"
+    "database",
+    "pragmatism"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "liskov-the-purpose-of-software",
+  "spiciness": 3,
+  "id": "based-the-best-database-is",
   "source": "Community sourced",
-  "_generated_at": "2026-11-18T06:12:47.780505+00:00"
+  "_generated_at": "2026-11-19T06:14:39.064723+00:00"
 }

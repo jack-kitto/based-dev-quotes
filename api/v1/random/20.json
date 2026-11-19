@@ -1,18 +1,17 @@
 {
-  "id": "feature-request-vs-bug",
-  "text": "A bug becomes a feature the moment a customer depends on it.",
+  "id": "money-printer",
+  "text": "Never interrupt your enemy when he is making a mistake. Also applies to production systems on a Friday.",
   "author": "Unknown",
   "author_slug": "unknown",
-  "source": "Software engineering folklore",
+  "source": "Dev Twitter (loosely based on Napoleon)",
   "categories": [
     "funny",
-    "wisdom"
+    "suffering"
   ],
   "tags": [
-    "bugs",
-    "features",
-    "customers",
-    "backwards-compatibility"
+    "production",
+    "friday",
+    "deployments"
   ],
   "grug_level": 4,
   "spiciness": 2

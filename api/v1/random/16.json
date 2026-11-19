@@ -1,19 +1,17 @@
 {
-  "id": "saas-idea-validation",
-  "text": "Your SaaS idea is probably a spreadsheet. Ship the spreadsheet first.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Indie hacker Twitter",
+  "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+  "author": "Mark Zuckerberg",
+  "author_slug": "zuckerberg",
   "categories": [
-    "indie-hacker",
-    "shipping"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "saas",
-    "mvp",
-    "spreadsheet",
-    "validation"
+    "risk",
+    "innovation"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "zuckerberg-the-biggest-risk-is",
+  "source": "Community sourced"
 }

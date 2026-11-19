@@ -1,16 +1,16 @@
 {
-  "text": "White space isn't wasted space. It's breathing room for your content.",
+  "text": "Your team's velocity is a reflection of your leadership. If they're slow, look in the mirror.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "business"
   ],
   "tags": [
-    "whitespace",
-    "breathing-room"
+    "velocity",
+    "leadership"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-white-space-isnt-wasted",
+  "spiciness": 3,
+  "id": "based-your-teams-velocity-is",
   "source": "Community sourced"
 }

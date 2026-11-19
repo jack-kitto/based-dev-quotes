@@ -1,16 +1,16 @@
 {
-  "text": "Every SaaS goes through the same phases: 'We'll keep it simple' → 'We need an enterprise tier' → 'What is a microservice?'",
+  "text": "Your product's 'power users' are your best evangelists. Make them look smart and they'll sell for you.",
   "author": "based",
   "author_slug": "based",
   "categories": [
     "saas"
   ],
   "tags": [
-    "complexity",
-    "enterprise"
+    "power-users",
+    "evangelism"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-every-saas-goes-through",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-products-power-users",
   "source": "Community sourced"
 }
