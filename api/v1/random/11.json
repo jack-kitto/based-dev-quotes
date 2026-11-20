@@ -1,16 +1,16 @@
 {
-  "text": "Your team's velocity is a reflection of your leadership. If they're slow, look in the mirror.",
+  "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "indie-hacker"
   ],
   "tags": [
-    "velocity",
-    "leadership"
+    "pricing",
+    "validation"
   ],
   "grug_level": 3,
   "spiciness": 3,
-  "id": "based-your-teams-velocity-is",
+  "id": "based-building-a-tool-youd",
   "source": "Community sourced"
 }
