@@ -1,16 +1,17 @@
 {
-  "text": "Your SaaS should work so well that users forget it exists. That's the ultimate compliment.",
+  "text": "Time management is really just priority management. If everything is a priority, nothing is.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas"
+    "productivity",
+    "wisdom"
   ],
   "tags": [
-    "seamlessness",
-    "ux"
+    "priorities",
+    "focus"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-saas-should-work",
+  "id": "based-time-management-is-really",
   "source": "Community sourced"
 }

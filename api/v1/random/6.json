@@ -1,17 +1,17 @@
 {
-  "text": "Your users are smarter than you think. Stop holding their hand. Give them tools and get out of the way.",
+  "text": "There's no place like 127.0.0.1.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "users",
-    "product"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "empowerment",
-    "simplicity"
+    "localhost",
+    "home"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-users-are-smarter",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-theres-no-place-like",
   "source": "Community sourced"
 }

@@ -1,19 +1,16 @@
 {
-  "id": "git-commit-messages",
-  "text": "Day 1: 'Implement user authentication system with JWT tokens'\nDay 47: 'fix'\nDay 48: 'fix fix'\nDay 49: 'please work'",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter / every git log ever",
+  "text": "Your indie business is only as good as its worst user experience. Fix the leaks.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "funny",
-    "suffering"
+    "indie-hacker"
   ],
   "tags": [
-    "git",
-    "commits",
-    "entropy",
-    "discipline"
+    "ux",
+    "quality"
   ],
-  "grug_level": 5,
-  "spiciness": 1
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-your-indie-business-is",
+  "source": "Community sourced"
 }

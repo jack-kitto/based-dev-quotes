@@ -1,17 +1,18 @@
 {
-  "text": "Code reviews aren't about finding bugs. They're about spreading knowledge and maintaining standards.",
+  "text": "Your product's biggest flaw is the one your users complain about most. Fix that first.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "users",
+    "product"
   ],
   "tags": [
-    "code-review",
-    "knowledge-sharing"
+    "feedback",
+    "prioritization"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-code-reviews-arent-about",
+  "id": "based-your-products-biggest-flaw",
   "source": "Community sourced",
-  "_date": "2026-11-20"
+  "_date": "2026-11-21"
 }

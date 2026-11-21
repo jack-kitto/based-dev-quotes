@@ -1,16 +1,17 @@
 {
-  "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
+  "text": "Revenue doesn't lie. Everything else might.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "business",
+    "wisdom"
   ],
   "tags": [
-    "pricing",
-    "validation"
+    "revenue",
+    "truth"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-building-a-tool-youd",
+  "spiciness": 2,
+  "id": "based-revenue-doesnt-lie-everything",
   "source": "Community sourced"
 }
