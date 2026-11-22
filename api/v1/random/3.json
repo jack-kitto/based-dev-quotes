@@ -1,16 +1,16 @@
 {
-  "text": "Your happiest customers are your best marketing channel. Make them happy.",
+  "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
-  ],
-  "tags": [
-    "customers",
     "marketing"
   ],
+  "tags": [
+    "metrics",
+    "revenue"
+  ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-happiest-customers-are",
+  "spiciness": 3,
+  "id": "based-every-marketing-metric-is",
   "source": "Community sourced"
 }

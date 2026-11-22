@@ -1,16 +1,17 @@
 {
-  "text": "Legacy code is just code that nobody has the courage to delete yet.",
+  "text": "A SQL query walks into a bar, sees two tables, and asks: 'Can I JOIN you?'",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering"
+    "engineering",
+    "shitpost"
   ],
   "tags": [
-    "legacy",
-    "courage"
+    "sql",
+    "jokes"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-legacy-code-is-just",
+  "grug_level": 2,
+  "spiciness": 1,
+  "id": "based-a-sql-query-walks",
   "source": "Community sourced"
 }
