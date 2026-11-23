@@ -1,16 +1,17 @@
 {
-  "text": "Every marketing metric is a proxy for the one that actually matters: revenue. If you can't tie it to revenue, it's decoration.",
+  "text": "The best SaaS onboarding is no onboarding. The product should explain itself.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "marketing"
+    "saas",
+    "product"
   ],
   "tags": [
-    "metrics",
-    "revenue"
+    "onboarding",
+    "self-explanatory"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-every-marketing-metric-is",
+  "spiciness": 2,
+  "id": "based-the-best-saas-onboarding",
   "source": "Community sourced"
 }
