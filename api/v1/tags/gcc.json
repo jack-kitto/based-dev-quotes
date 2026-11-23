@@ -1,0 +1,26 @@
+{
+  "tag": "gcc",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I don't think GCC is doing something special — try -O0, I suspect -O3 is optimizing out the subtraction.",
+      "author": "glitchc",
+      "author_slug": "glitchc",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "debugging"
+      ],
+      "tags": [
+        "compilers",
+        "optimization",
+        "gcc",
+        "undefined-behavior"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Compact debugging folklore — the always-try--O0 wisdom every systems dev learns the hard way.",
+      "id": "glitchc-i-dont-think-gcc"
+    }
+  ]
+}

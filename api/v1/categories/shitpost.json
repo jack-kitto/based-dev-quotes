@@ -1,6 +1,6 @@
 {
   "category": "shitpost",
-  "count": 59,
+  "count": 62,
   "quotes": [
     {
       "id": "grug-type-system",
@@ -1044,6 +1044,70 @@
       "spiciness": 1,
       "id": "it-crowd-have-you-tried-turning",
       "source": "Community sourced"
+    },
+    {
+      "text": "One is a mathematical construct, the other is a dog?",
+      "author": "jojogeo",
+      "author_slug": "jojogeo",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "pointer",
+        "pun",
+        "integers",
+        "dog"
+      ],
+      "grug_level": 1,
+      "spiciness": 1,
+      "extraction_note": "Works standalone as a dad-joke punchline — Pointer is literally a dog breed.",
+      "id": "jojogeo-one-is-a-mathematical"
+    },
+    {
+      "text": "Makes me wonder if the next frontier is going to be something like \"the OS is shipped encrypted with keys that only exist in hardware, and all the CPU knows how to do is decrypt blocks and put them in the i-cache where it will not let you look at them\" — to prevent you from doing anything with the OS executables other than running them.",
+      "author": "pcwalton",
+      "author_slug": "pcwalton",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "shitpost",
+        "complexity",
+        "unix"
+      ],
+      "tags": [
+        "drm",
+        "hardware-lock-in",
+        "dystopia",
+        "apple"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Darkly funny extrapolation of where vendor lock-in is heading — vivid imagery and genuinely unsettling once you think about it.",
+      "id": "pcwalton-makes-me-wonder-if"
+    },
+    {
+      "text": "Congrats, you designed the 50th high level language nobody cares about!",
+      "author": "Bluebirt",
+      "author_slug": "bluebirt",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "language-design",
+        "new-lang",
+        "hype",
+        "snark"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Salty, universally recognizable jab at the endless parade of new languages — spicy but every dev has thought it.",
+      "id": "bluebirt-congrats-you-designed-the"
     }
   ]
 }

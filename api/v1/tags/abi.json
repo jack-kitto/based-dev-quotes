@@ -1,0 +1,27 @@
+{
+  "tag": "abi",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "macOS, like Windows and unlike Linux, doesn't have a stable syscall interface. Apps are instead required to dynamically link with libraries shipped with your system, which change in lockstep with the syscalls.",
+      "author": "miki123211",
+      "author_slug": "miki123211",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "unix",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "abi",
+        "macos",
+        "linux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clean, factual insight that quietly indicts the 'walled garden' design — a good reminder that Linux's stable syscall ABI is a gift, not a given.",
+      "id": "miki123211-macos-like-windows-and"
+    }
+  ]
+}

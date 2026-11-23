@@ -1,6 +1,6 @@
 {
   "category": "suffering",
-  "count": 28,
+  "count": 30,
   "quotes": [
     {
       "id": "brooks-mythical-man-month",
@@ -521,6 +521,48 @@
       ],
       "grug_level": 4,
       "spiciness": 1
+    },
+    {
+      "text": "I've been doing meaningless version bumps — no real changes, or no changes that applied to Gentoo — just so our packages don't get reported as \"outdated.\" It's a hassle and it sucks, but it saves people from worrying.",
+      "author": "hypfer",
+      "author_slug": "hypfer",
+      "source": "Hacker News — The next circle of security hell",
+      "source_url": "https://news.ycombinator.com/item?id=50610334",
+      "categories": [
+        "suffering",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "versioning",
+        "dependency-hell",
+        "release-hygiene",
+        "packaging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Confession about fake version bumps to appease ecosystem dashboards — very real, self-deprecating, and exposes a broken industry dynamic.",
+      "id": "hypfer-ive-been-doing-meaningless"
+    },
+    {
+      "text": "Sometimes I feel like I'm an okay programmer, and then I see stuff like this, and reality sinks in again.",
+      "author": "parthdesai",
+      "author_slug": "parthdesai",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "humility",
+        "dev-life"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Relatable imposter-syndrome beat, trimmed of conversational fluff; works standalone as a dev emotional state quote.",
+      "id": "parthdesai-sometimes-i-feel-like"
     }
   ]
 }

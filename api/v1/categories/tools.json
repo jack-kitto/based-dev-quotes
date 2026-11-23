@@ -1,6 +1,6 @@
 {
   "category": "tools",
-  "count": 6,
+  "count": 8,
   "quotes": [
     {
       "id": "torvalds-c-plus-plus",
@@ -112,6 +112,49 @@
       ],
       "grug_level": 4,
       "spiciness": 4
+    },
+    {
+      "text": "We pointed AI coding agents at WPT and asked them to fill in missing functionality. They made lots of small fixes, and those added up.",
+      "author": "Ladybird Team",
+      "author_slug": "ladybird-team",
+      "source": "Hacker News — Ladybird Is Now in Alpha (via simonw)",
+      "source_url": "https://news.ycombinator.com/item?id=50614249",
+      "categories": [
+        "shipping",
+        "tools"
+      ],
+      "tags": [
+        "ai-agents",
+        "small-fixes",
+        "tests",
+        "compounding"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Pithy real-world observation on how agents actually help: not magic, just a flood of tiny fixes that compound. Good antidote to both AI hype and AI doom.",
+      "id": "ladybird-team-we-pointed-ai-coding"
+    },
+    {
+      "text": "Windows is great at the NT kernel — performance, drivers, security model — but Win32 and the UI layer above it is just mediocre. Linux is great at the tools — 'everything is a file', composable command-line programs. Therefore the reverse of this project might be the best outcome.",
+      "author": "londons_explore",
+      "author_slug": "londons-explore",
+      "source": "Hacker News — Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "source_url": "https://news.ycombinator.com/item?id=50610743",
+      "categories": [
+        "unix",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "linux",
+        "windows",
+        "abstraction",
+        "layers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Sharp layered take: keep the good bottom of each stack, throw away the mediocre top. Slightly spicy because it implies both platforms are half-built.",
+      "id": "londons-explore-windows-is-great-at"
     }
   ]
 }

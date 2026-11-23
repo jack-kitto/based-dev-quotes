@@ -1,0 +1,27 @@
+{
+  "tag": "new-lang",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Congrats, you designed the 50th high level language nobody cares about!",
+      "author": "Bluebirt",
+      "author_slug": "bluebirt",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "language-design",
+        "new-lang",
+        "hype",
+        "snark"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Salty, universally recognizable jab at the endless parade of new languages — spicy but every dev has thought it.",
+      "id": "bluebirt-congrats-you-designed-the"
+    }
+  ]
+}

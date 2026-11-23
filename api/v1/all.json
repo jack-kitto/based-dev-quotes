@@ -1,6 +1,6 @@
 {
-  "total": 1076,
-  "generated_at": "2026-11-23T06:05:28.236324+00:00",
+  "total": 1090,
+  "generated_at": "2026-11-23T17:01:14.773955+00:00",
   "quotes": [
     {
       "id": "grug-complexity-bad",
@@ -17850,6 +17850,301 @@
       "spiciness": 2,
       "id": "based-your-indie-project-is-1075",
       "source": "Community sourced"
+    },
+    {
+      "text": "Ladybird ditching a bunch of self-developed libraries for production-grade ones (like SQLite or Skia) helped them immensely improve their browser. But I can't help but feel nostalgic at the original hacker spirit of LB+SerenityOS.",
+      "author": "kvuj",
+      "author_slug": "kvuj",
+      "source": "Hacker News — Ladybird Is Now in Alpha",
+      "source_url": "https://news.ycombinator.com/item?id=50614249",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "build-vs-buy",
+        "boring-technology",
+        "scope",
+        "browser"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Clean build-vs-buy insight: swapping your clever hand-rolled things for boring production-grade libs is what actually ships. The nostalgia clause keeps it human.",
+      "id": "kvuj-ladybird-ditching-a-bunch"
+    },
+    {
+      "text": "We pointed AI coding agents at WPT and asked them to fill in missing functionality. They made lots of small fixes, and those added up.",
+      "author": "Ladybird Team",
+      "author_slug": "ladybird-team",
+      "source": "Hacker News — Ladybird Is Now in Alpha (via simonw)",
+      "source_url": "https://news.ycombinator.com/item?id=50614249",
+      "categories": [
+        "shipping",
+        "tools"
+      ],
+      "tags": [
+        "ai-agents",
+        "small-fixes",
+        "tests",
+        "compounding"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Pithy real-world observation on how agents actually help: not magic, just a flood of tiny fixes that compound. Good antidote to both AI hype and AI doom.",
+      "id": "ladybird-team-we-pointed-ai-coding"
+    },
+    {
+      "text": "Windows is great at the NT kernel — performance, drivers, security model — but Win32 and the UI layer above it is just mediocre. Linux is great at the tools — 'everything is a file', composable command-line programs. Therefore the reverse of this project might be the best outcome.",
+      "author": "londons_explore",
+      "author_slug": "londons-explore",
+      "source": "Hacker News — Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "source_url": "https://news.ycombinator.com/item?id=50610743",
+      "categories": [
+        "unix",
+        "wisdom",
+        "tools"
+      ],
+      "tags": [
+        "linux",
+        "windows",
+        "abstraction",
+        "layers"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Sharp layered take: keep the good bottom of each stack, throw away the mediocre top. Slightly spicy because it implies both platforms are half-built.",
+      "id": "londons-explore-windows-is-great-at"
+    },
+    {
+      "text": "Pointers have provenance, integers don't.",
+      "author": "bryanlarsen",
+      "author_slug": "bryanlarsen",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "wisdom",
+        "unix"
+      ],
+      "tags": [
+        "pointers",
+        "memory",
+        "c",
+        "programming-model"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Dense one-liner that captures a genuinely subtle CS distinction — perfect length, instantly memorable.",
+      "id": "bryanlarsen-pointers-have-provenance-integers"
+    },
+    {
+      "text": "One is a mathematical construct, the other is a dog?",
+      "author": "jojogeo",
+      "author_slug": "jojogeo",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "pointer",
+        "pun",
+        "integers",
+        "dog"
+      ],
+      "grug_level": 1,
+      "spiciness": 1,
+      "extraction_note": "Works standalone as a dad-joke punchline — Pointer is literally a dog breed.",
+      "id": "jojogeo-one-is-a-mathematical"
+    },
+    {
+      "text": "The number of vulnerabilities has not increased, only our ability to identify and report them.",
+      "author": "14113",
+      "author_slug": "14113",
+      "source": "Hacker News — The next circle of security hell",
+      "source_url": "https://news.ycombinator.com/item?id=50610334",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "security",
+        "vulnerabilities",
+        "legacy-code",
+        "measurement"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Contrarian security take that reframes a scary headline — the classic 'old code, better eyes' insight, trimmed to the core.",
+      "id": "14113-the-number-of-vulnerabilities"
+    },
+    {
+      "text": "I don't think GCC is doing something special — try -O0, I suspect -O3 is optimizing out the subtraction.",
+      "author": "glitchc",
+      "author_slug": "glitchc",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "debugging"
+      ],
+      "tags": [
+        "compilers",
+        "optimization",
+        "gcc",
+        "undefined-behavior"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Compact debugging folklore — the always-try--O0 wisdom every systems dev learns the hard way.",
+      "id": "glitchc-i-dont-think-gcc"
+    },
+    {
+      "text": "I've been doing meaningless version bumps — no real changes, or no changes that applied to Gentoo — just so our packages don't get reported as \"outdated.\" It's a hassle and it sucks, but it saves people from worrying.",
+      "author": "hypfer",
+      "author_slug": "hypfer",
+      "source": "Hacker News — The next circle of security hell",
+      "source_url": "https://news.ycombinator.com/item?id=50610334",
+      "categories": [
+        "suffering",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "versioning",
+        "dependency-hell",
+        "release-hygiene",
+        "packaging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Confession about fake version bumps to appease ecosystem dashboards — very real, self-deprecating, and exposes a broken industry dynamic.",
+      "id": "hypfer-ive-been-doing-meaningless"
+    },
+    {
+      "text": "Software is no longer a moat.",
+      "author": "internet2000",
+      "author_slug": "internet2000",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "wisdom",
+        "career",
+        "founder"
+      ],
+      "tags": [
+        "moat",
+        "ai",
+        "strategy",
+        "software"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Terse, spicy strategic claim buried in a longer comment — the kind of line founders argue about at 2am.",
+      "id": "internet2000-software-is-no-longer"
+    },
+    {
+      "text": "macOS, like Windows and unlike Linux, doesn't have a stable syscall interface. Apps are instead required to dynamically link with libraries shipped with your system, which change in lockstep with the syscalls.",
+      "author": "miki123211",
+      "author_slug": "miki123211",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "unix",
+        "complexity"
+      ],
+      "tags": [
+        "abstraction",
+        "abi",
+        "macos",
+        "linux"
+      ],
+      "grug_level": 3,
+      "spiciness": 2,
+      "extraction_note": "Clean, factual insight that quietly indicts the 'walled garden' design — a good reminder that Linux's stable syscall ABI is a gift, not a given.",
+      "id": "miki123211-macos-like-windows-and"
+    },
+    {
+      "text": "Makes me wonder if the next frontier is going to be something like \"the OS is shipped encrypted with keys that only exist in hardware, and all the CPU knows how to do is decrypt blocks and put them in the i-cache where it will not let you look at them\" — to prevent you from doing anything with the OS executables other than running them.",
+      "author": "pcwalton",
+      "author_slug": "pcwalton",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "shitpost",
+        "complexity",
+        "unix"
+      ],
+      "tags": [
+        "drm",
+        "hardware-lock-in",
+        "dystopia",
+        "apple"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Darkly funny extrapolation of where vendor lock-in is heading — vivid imagery and genuinely unsettling once you think about it.",
+      "id": "pcwalton-makes-me-wonder-if"
+    },
+    {
+      "text": "Any sufficiently advanced language will eventually get a HLS synthesis DSL.",
+      "author": "phendrenad2",
+      "author_slug": "phendrenad2",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "hls",
+        "fpga",
+        "language-design",
+        "parody"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Clean Clarke's-law parody about language bloat — standalone, punchy, and relevant to anyone who's watched yet another DSL emerge.",
+      "id": "phendrenad2-any-sufficiently-advanced-language"
+    },
+    {
+      "text": "Congrats, you designed the 50th high level language nobody cares about!",
+      "author": "Bluebirt",
+      "author_slug": "bluebirt",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "language-design",
+        "new-lang",
+        "hype",
+        "snark"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Salty, universally recognizable jab at the endless parade of new languages — spicy but every dev has thought it.",
+      "id": "bluebirt-congrats-you-designed-the"
+    },
+    {
+      "text": "Sometimes I feel like I'm an okay programmer, and then I see stuff like this, and reality sinks in again.",
+      "author": "parthdesai",
+      "author_slug": "parthdesai",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "humility",
+        "dev-life"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Relatable imposter-syndrome beat, trimmed of conversational fluff; works standalone as a dev emotional state quote.",
+      "id": "parthdesai-sometimes-i-feel-like"
     }
   ]
 }

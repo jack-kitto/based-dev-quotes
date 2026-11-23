@@ -1,6 +1,10 @@
 {
-  "total": 98,
+  "total": 112,
   "authors": {
+    "14113": {
+      "name": "14113",
+      "count": 1
+    },
     "abelson": {
       "name": "Harold Abelson",
       "count": 1
@@ -29,6 +33,10 @@
       "name": "Jonathan Blow",
       "count": 3
     },
+    "bluebirt": {
+      "name": "Bluebirt",
+      "count": 1
+    },
     "booch": {
       "name": "Grady Booch",
       "count": 1
@@ -36,6 +44,10 @@
     "brooks": {
       "name": "Fred Brooks",
       "count": 2
+    },
+    "bryanlarsen": {
+      "name": "bryanlarsen",
+      "count": 1
     },
     "cantrill": {
       "name": "Bryan Cantrill",
@@ -137,6 +149,10 @@
       "name": "Bill Gates",
       "count": 2
     },
+    "glitchc": {
+      "name": "glitchc",
+      "count": 1
+    },
     "gossage": {
       "name": "Howard Gossage",
       "count": 1
@@ -181,6 +197,14 @@
       "name": "Arianna Huffington",
       "count": 1
     },
+    "hypfer": {
+      "name": "hypfer",
+      "count": 1
+    },
+    "internet2000": {
+      "name": "internet2000",
+      "count": 1
+    },
     "it-crowd": {
       "name": "Roy (IT Crowd)",
       "count": 1
@@ -209,12 +233,24 @@
       "name": "John Johnson",
       "count": 1
     },
+    "jojogeo": {
+      "name": "jojogeo",
+      "count": 1
+    },
     "kernighan": {
       "name": "Brian Kernighan",
       "count": 2
     },
     "knuth": {
       "name": "Donald Knuth",
+      "count": 1
+    },
+    "kvuj": {
+      "name": "kvuj",
+      "count": 1
+    },
+    "ladybird-team": {
+      "name": "Ladybird Team",
       "count": 1
     },
     "lampson": {
@@ -231,6 +267,10 @@
     },
     "liskov": {
       "name": "Barbara Liskov",
+      "count": 1
+    },
+    "londons-explore": {
+      "name": "londons_explore",
       "count": 1
     },
     "marclou": {
@@ -261,6 +301,10 @@
       "name": "Ludwig Mies van der Rohe",
       "count": 1
     },
+    "miki123211": {
+      "name": "miki123211",
+      "count": 1
+    },
     "muratori": {
       "name": "Casey Muratori",
       "count": 1
@@ -281,9 +325,17 @@
       "name": "C. Northcote Parkinson",
       "count": 1
     },
+    "parthdesai": {
+      "name": "parthdesai",
+      "count": 1
+    },
     "patio11": {
       "name": "Patrick McKenzie (patio11)",
       "count": 2
+    },
+    "pcwalton": {
+      "name": "pcwalton",
+      "count": 1
     },
     "penn": {
       "name": "William Penn",
@@ -296,6 +348,10 @@
     "perlis": {
       "name": "Alan Perlis",
       "count": 3
+    },
+    "phendrenad2": {
+      "name": "phendrenad2",
+      "count": 1
     },
     "pike": {
       "name": "Rob Pike",

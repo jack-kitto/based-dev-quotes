@@ -1,0 +1,29 @@
+{
+  "author": "hypfer",
+  "slug": "hypfer",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "I've been doing meaningless version bumps — no real changes, or no changes that applied to Gentoo — just so our packages don't get reported as \"outdated.\" It's a hassle and it sucks, but it saves people from worrying.",
+      "author": "hypfer",
+      "author_slug": "hypfer",
+      "source": "Hacker News — The next circle of security hell",
+      "source_url": "https://news.ycombinator.com/item?id=50610334",
+      "categories": [
+        "suffering",
+        "wisdom",
+        "complexity"
+      ],
+      "tags": [
+        "versioning",
+        "dependency-hell",
+        "release-hygiene",
+        "packaging"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Confession about fake version bumps to appease ecosystem dashboards — very real, self-deprecating, and exposes a broken industry dynamic.",
+      "id": "hypfer-ive-been-doing-meaningless"
+    }
+  ]
+}

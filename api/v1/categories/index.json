@@ -5,13 +5,13 @@
       "count": 216
     },
     "career": {
-      "count": 8
+      "count": 9
     },
     "complexity": {
-      "count": 19
+      "count": 24
     },
     "debugging": {
-      "count": 16
+      "count": 17
     },
     "design": {
       "count": 86
@@ -26,10 +26,10 @@
       "count": 33
     },
     "founder": {
-      "count": 9
+      "count": 10
     },
     "funny": {
-      "count": 63
+      "count": 67
     },
     "grug": {
       "count": 8
@@ -50,25 +50,25 @@
       "count": 96
     },
     "shipping": {
-      "count": 20
+      "count": 21
     },
     "shitpost": {
-      "count": 59
+      "count": 62
     },
     "suffering": {
-      "count": 28
+      "count": 30
     },
     "tools": {
-      "count": 6
+      "count": 8
     },
     "unix": {
-      "count": 2
+      "count": 6
     },
     "users": {
       "count": 47
     },
     "wisdom": {
-      "count": 176
+      "count": 182
     }
   }
 }

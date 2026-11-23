@@ -1,17 +1,16 @@
 {
-  "text": "The best customer success strategy is to build a product so good that customers never need help.",
+  "text": "The best way to validate your indie project is to pre-sell it. If nobody pays, save yourself the build.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "saas"
+    "indie-hacker"
   ],
   "tags": [
-    "customer-success",
-    "product"
+    "validation",
+    "preselling"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-customer-success",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-the-best-way-to-773",
   "source": "Community sourced"
 }

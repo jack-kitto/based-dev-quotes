@@ -1,0 +1,27 @@
+{
+  "author": "parthdesai",
+  "slug": "parthdesai",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Sometimes I feel like I'm an okay programmer, and then I see stuff like this, and reality sinks in again.",
+      "author": "parthdesai",
+      "author_slug": "parthdesai",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "humility",
+        "dev-life"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Relatable imposter-syndrome beat, trimmed of conversational fluff; works standalone as a dev emotional state quote.",
+      "id": "parthdesai-sometimes-i-feel-like"
+    }
+  ]
+}

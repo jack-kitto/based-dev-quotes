@@ -1,0 +1,27 @@
+{
+  "tag": "fpga",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Any sufficiently advanced language will eventually get a HLS synthesis DSL.",
+      "author": "phendrenad2",
+      "author_slug": "phendrenad2",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "hls",
+        "fpga",
+        "language-design",
+        "parody"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Clean Clarke's-law parody about language bloat — standalone, punchy, and relevant to anyone who's watched yet another DSL emerge.",
+      "id": "phendrenad2-any-sufficiently-advanced-language"
+    }
+  ]
+}

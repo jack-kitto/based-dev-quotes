@@ -1,5 +1,5 @@
 {
-  "total": 813,
+  "total": 849,
   "tags": {
     "10x": {
       "count": 2
@@ -10,8 +10,11 @@
     "ab-testing": {
       "count": 3
     },
+    "abi": {
+      "count": 1
+    },
     "abstraction": {
-      "count": 10
+      "count": 12
     },
     "accessibility": {
       "count": 1
@@ -56,7 +59,10 @@
       "count": 2
     },
     "ai": {
-      "count": 2
+      "count": 3
+    },
+    "ai-agents": {
+      "count": 1
     },
     "alerting": {
       "count": 1
@@ -78,6 +84,9 @@
     },
     "api": {
       "count": 9
+    },
+    "apple": {
+      "count": 1
     },
     "application": {
       "count": 1
@@ -172,6 +181,9 @@
     "boring-code": {
       "count": 1
     },
+    "boring-technology": {
+      "count": 1
+    },
     "bottleneck": {
       "count": 1
     },
@@ -193,6 +205,9 @@
     "breathing-room": {
       "count": 1
     },
+    "browser": {
+      "count": 1
+    },
     "brute-force": {
       "count": 1
     },
@@ -207,6 +222,9 @@
     },
     "build-in-public": {
       "count": 2
+    },
+    "build-vs-buy": {
+      "count": 1
     },
     "building": {
       "count": 2
@@ -227,7 +245,7 @@
       "count": 2
     },
     "c": {
-      "count": 2
+      "count": 3
     },
     "cache": {
       "count": 1
@@ -370,6 +388,9 @@
     "competitive-advantage": {
       "count": 1
     },
+    "compilers": {
+      "count": 1
+    },
     "complaints": {
       "count": 1
     },
@@ -386,7 +407,7 @@
       "count": 1
     },
     "compounding": {
-      "count": 5
+      "count": 6
     },
     "computers": {
       "count": 1
@@ -580,6 +601,9 @@
     "dependencies": {
       "count": 4
     },
+    "dependency-hell": {
+      "count": 1
+    },
     "deployment": {
       "count": 10
     },
@@ -599,6 +623,9 @@
       "count": 1
     },
     "detective": {
+      "count": 1
+    },
+    "dev-life": {
       "count": 1
     },
     "developer-experience": {
@@ -649,13 +676,22 @@
     "documentation": {
       "count": 8
     },
+    "dog": {
+      "count": 1
+    },
     "dogfooding": {
       "count": 7
     },
     "doubt": {
       "count": 1
     },
+    "drm": {
+      "count": 1
+    },
     "duplication": {
+      "count": 1
+    },
+    "dystopia": {
       "count": 1
     },
     "early-decisions": {
@@ -838,6 +874,9 @@
     "foundation": {
       "count": 2
     },
+    "fpga": {
+      "count": 1
+    },
     "fragility": {
       "count": 1
     },
@@ -901,6 +940,9 @@
     "future-self": {
       "count": 2
     },
+    "gcc": {
+      "count": 1
+    },
     "git": {
       "count": 7
     },
@@ -949,6 +991,9 @@
     "hardware": {
       "count": 1
     },
+    "hardware-lock-in": {
+      "count": 1
+    },
     "hat-wearing": {
       "count": 1
     },
@@ -979,6 +1024,9 @@
     "hiring": {
       "count": 6
     },
+    "hls": {
+      "count": 1
+    },
     "home": {
       "count": 1
     },
@@ -992,7 +1040,7 @@
       "count": 1
     },
     "humility": {
-      "count": 4
+      "count": 5
     },
     "humor": {
       "count": 8
@@ -1001,7 +1049,7 @@
       "count": 3
     },
     "hype": {
-      "count": 1
+      "count": 2
     },
     "i18n": {
       "count": 1
@@ -1025,7 +1073,7 @@
       "count": 2
     },
     "imposter-syndrome": {
-      "count": 1
+      "count": 2
     },
     "impostor-syndrome": {
       "count": 1
@@ -1071,6 +1119,9 @@
     },
     "insight": {
       "count": 4
+    },
+    "integers": {
+      "count": 1
     },
     "integrations": {
       "count": 6
@@ -1144,6 +1195,9 @@
     "landing-page": {
       "count": 7
     },
+    "language-design": {
+      "count": 2
+    },
     "languages": {
       "count": 4
     },
@@ -1157,7 +1211,7 @@
       "count": 1
     },
     "layers": {
-      "count": 2
+      "count": 3
     },
     "laziness": {
       "count": 2
@@ -1181,7 +1235,7 @@
       "count": 4
     },
     "legacy-code": {
-      "count": 4
+      "count": 5
     },
     "less-code": {
       "count": 2
@@ -1200,6 +1254,9 @@
     },
     "linkedin": {
       "count": 1
+    },
+    "linux": {
+      "count": 2
     },
     "listening": {
       "count": 5
@@ -1223,6 +1280,9 @@
       "count": 1
     },
     "machine-learning": {
+      "count": 1
+    },
+    "macos": {
       "count": 1
     },
     "maintainability": {
@@ -1255,6 +1315,9 @@
     "meaning": {
       "count": 2
     },
+    "measurement": {
+      "count": 1
+    },
     "meetings": {
       "count": 5
     },
@@ -1262,7 +1325,7 @@
       "count": 1
     },
     "memory": {
-      "count": 1
+      "count": 2
     },
     "mental-health": {
       "count": 1
@@ -1301,7 +1364,7 @@
       "count": 1
     },
     "moat": {
-      "count": 7
+      "count": 8
     },
     "mobile": {
       "count": 4
@@ -1377,6 +1440,9 @@
     },
     "networking": {
       "count": 3
+    },
+    "new-lang": {
+      "count": 1
     },
     "new-users": {
       "count": 1
@@ -1457,7 +1523,7 @@
       "count": 2
     },
     "optimization": {
-      "count": 7
+      "count": 8
     },
     "organic": {
       "count": 1
@@ -1480,6 +1546,9 @@
     "pacing": {
       "count": 1
     },
+    "packaging": {
+      "count": 1
+    },
     "pain": {
       "count": 3
     },
@@ -1490,6 +1559,9 @@
       "count": 1
     },
     "parkinsons-law": {
+      "count": 1
+    },
+    "parody": {
       "count": 1
     },
     "partnerships": {
@@ -1560,6 +1632,12 @@
     },
     "pmf": {
       "count": 2
+    },
+    "pointer": {
+      "count": 1
+    },
+    "pointers": {
+      "count": 1
     },
     "politics": {
       "count": 1
@@ -1678,6 +1756,9 @@
     "programming": {
       "count": 1
     },
+    "programming-model": {
+      "count": 1
+    },
     "progress": {
       "count": 1
     },
@@ -1697,6 +1778,9 @@
       "count": 2
     },
     "prototyping": {
+      "count": 1
+    },
+    "pun": {
       "count": 1
     },
     "purpose": {
@@ -1787,6 +1871,9 @@
       "count": 1
     },
     "relationships": {
+      "count": 1
+    },
+    "release-hygiene": {
       "count": 1
     },
     "reliability": {
@@ -1931,7 +2018,7 @@
       "count": 1
     },
     "scope": {
-      "count": 1
+      "count": 2
     },
     "scope-creep": {
       "count": 1
@@ -1946,7 +2033,7 @@
       "count": 2
     },
     "security": {
-      "count": 7
+      "count": 8
     },
     "self-awareness": {
       "count": 1
@@ -2056,7 +2143,13 @@
     "small": {
       "count": 1
     },
+    "small-fixes": {
+      "count": 1
+    },
     "small-steps": {
+      "count": 1
+    },
+    "snark": {
       "count": 1
     },
     "social-media": {
@@ -2064,6 +2157,9 @@
     },
     "social-proof": {
       "count": 2
+    },
+    "software": {
+      "count": 1
     },
     "software-crisis": {
       "count": 1
@@ -2135,7 +2231,7 @@
       "count": 3
     },
     "strategy": {
-      "count": 1
+      "count": 2
     },
     "stress": {
       "count": 1
@@ -2211,6 +2307,9 @@
     },
     "testing": {
       "count": 13
+    },
+    "tests": {
+      "count": 1
     },
     "theory": {
       "count": 1
@@ -2293,6 +2392,9 @@
     "uncertainty": {
       "count": 2
     },
+    "undefined-behavior": {
+      "count": 1
+    },
     "understanding": {
       "count": 7
     },
@@ -2366,7 +2468,7 @@
       "count": 2
     },
     "versioning": {
-      "count": 1
+      "count": 2
     },
     "video": {
       "count": 1
@@ -2381,6 +2483,9 @@
       "count": 1
     },
     "vision": {
+      "count": 1
+    },
+    "vulnerabilities": {
       "count": 1
     },
     "vulnerability": {
@@ -2403,6 +2508,9 @@
     },
     "whitespace": {
       "count": 3
+    },
+    "windows": {
+      "count": 1
     },
     "wireframe": {
       "count": 1

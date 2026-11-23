@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "count": 63,
+  "count": 67,
   "quotes": [
     {
       "id": "salomon-30-hours",
@@ -1160,6 +1160,89 @@
       ],
       "grug_level": 4,
       "spiciness": 2
+    },
+    {
+      "text": "One is a mathematical construct, the other is a dog?",
+      "author": "jojogeo",
+      "author_slug": "jojogeo",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "pointer",
+        "pun",
+        "integers",
+        "dog"
+      ],
+      "grug_level": 1,
+      "spiciness": 1,
+      "extraction_note": "Works standalone as a dad-joke punchline — Pointer is literally a dog breed.",
+      "id": "jojogeo-one-is-a-mathematical"
+    },
+    {
+      "text": "Any sufficiently advanced language will eventually get a HLS synthesis DSL.",
+      "author": "phendrenad2",
+      "author_slug": "phendrenad2",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "complexity"
+      ],
+      "tags": [
+        "hls",
+        "fpga",
+        "language-design",
+        "parody"
+      ],
+      "grug_level": 3,
+      "spiciness": 3,
+      "extraction_note": "Clean Clarke's-law parody about language bloat — standalone, punchy, and relevant to anyone who's watched yet another DSL emerge.",
+      "id": "phendrenad2-any-sufficiently-advanced-language"
+    },
+    {
+      "text": "Congrats, you designed the 50th high level language nobody cares about!",
+      "author": "Bluebirt",
+      "author_slug": "bluebirt",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "language-design",
+        "new-lang",
+        "hype",
+        "snark"
+      ],
+      "grug_level": 4,
+      "spiciness": 4,
+      "extraction_note": "Salty, universally recognizable jab at the endless parade of new languages — spicy but every dev has thought it.",
+      "id": "bluebirt-congrats-you-designed-the"
+    },
+    {
+      "text": "Sometimes I feel like I'm an okay programmer, and then I see stuff like this, and reality sinks in again.",
+      "author": "parthdesai",
+      "author_slug": "parthdesai",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "humility",
+        "dev-life"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Relatable imposter-syndrome beat, trimmed of conversational fluff; works standalone as a dev emotional state quote.",
+      "id": "parthdesai-sometimes-i-feel-like"
     }
   ]
 }

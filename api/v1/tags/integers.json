@@ -1,0 +1,27 @@
+{
+  "tag": "integers",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "One is a mathematical construct, the other is a dog?",
+      "author": "jojogeo",
+      "author_slug": "jojogeo",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "funny",
+        "shitpost"
+      ],
+      "tags": [
+        "pointer",
+        "pun",
+        "integers",
+        "dog"
+      ],
+      "grug_level": 1,
+      "spiciness": 1,
+      "extraction_note": "Works standalone as a dad-joke punchline — Pointer is literally a dog breed.",
+      "id": "jojogeo-one-is-a-mathematical"
+    }
+  ]
+}

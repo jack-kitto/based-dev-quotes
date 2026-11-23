@@ -1,6 +1,6 @@
 {
   "tag": "imposter-syndrome",
-  "count": 1,
+  "count": 2,
   "quotes": [
     {
       "text": "Imposter syndrome means you're in the right room. If you're the smartest person in the room, you're in the wrong room.",
@@ -17,6 +17,26 @@
       "spiciness": 2,
       "id": "based-imposter-syndrome-means-youre",
       "source": "Community sourced"
+    },
+    {
+      "text": "Sometimes I feel like I'm an okay programmer, and then I see stuff like this, and reality sinks in again.",
+      "author": "parthdesai",
+      "author_slug": "parthdesai",
+      "source": "Hacker News — Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "source_url": "https://news.ycombinator.com/item?id=50584526",
+      "categories": [
+        "funny",
+        "suffering"
+      ],
+      "tags": [
+        "imposter-syndrome",
+        "humility",
+        "dev-life"
+      ],
+      "grug_level": 2,
+      "spiciness": 1,
+      "extraction_note": "Relatable imposter-syndrome beat, trimmed of conversational fluff; works standalone as a dev emotional state quote.",
+      "id": "parthdesai-sometimes-i-feel-like"
     }
   ]
 }

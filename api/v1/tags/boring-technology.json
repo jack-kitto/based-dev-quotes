@@ -1,0 +1,27 @@
+{
+  "tag": "boring-technology",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Ladybird ditching a bunch of self-developed libraries for production-grade ones (like SQLite or Skia) helped them immensely improve their browser. But I can't help but feel nostalgic at the original hacker spirit of LB+SerenityOS.",
+      "author": "kvuj",
+      "author_slug": "kvuj",
+      "source": "Hacker News — Ladybird Is Now in Alpha",
+      "source_url": "https://news.ycombinator.com/item?id=50614249",
+      "categories": [
+        "complexity",
+        "wisdom"
+      ],
+      "tags": [
+        "build-vs-buy",
+        "boring-technology",
+        "scope",
+        "browser"
+      ],
+      "grug_level": 4,
+      "spiciness": 2,
+      "extraction_note": "Clean build-vs-buy insight: swapping your clever hand-rolled things for boring production-grade libs is what actually ships. The nostalgia clause keeps it human.",
+      "id": "kvuj-ladybird-ditching-a-bunch"
+    }
+  ]
+}

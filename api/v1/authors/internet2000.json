@@ -1,0 +1,29 @@
+{
+  "author": "internet2000",
+  "slug": "internet2000",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Software is no longer a moat.",
+      "author": "internet2000",
+      "author_slug": "internet2000",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "wisdom",
+        "career",
+        "founder"
+      ],
+      "tags": [
+        "moat",
+        "ai",
+        "strategy",
+        "software"
+      ],
+      "grug_level": 2,
+      "spiciness": 4,
+      "extraction_note": "Terse, spicy strategic claim buried in a longer comment — the kind of line founders argue about at 2am.",
+      "id": "internet2000-software-is-no-longer"
+    }
+  ]
+}

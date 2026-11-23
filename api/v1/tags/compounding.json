@@ -1,6 +1,6 @@
 {
   "tag": "compounding",
-  "count": 5,
+  "count": 6,
   "quotes": [
     {
       "text": "Compounding works for businesses the same way it works for interest. Small, consistent improvements beat moonshot pivots every time.",
@@ -82,6 +82,27 @@
       "spiciness": 2,
       "id": "based-the-best-habits-are-928",
       "source": "Community sourced"
+    },
+    {
+      "text": "We pointed AI coding agents at WPT and asked them to fill in missing functionality. They made lots of small fixes, and those added up.",
+      "author": "Ladybird Team",
+      "author_slug": "ladybird-team",
+      "source": "Hacker News — Ladybird Is Now in Alpha (via simonw)",
+      "source_url": "https://news.ycombinator.com/item?id=50614249",
+      "categories": [
+        "shipping",
+        "tools"
+      ],
+      "tags": [
+        "ai-agents",
+        "small-fixes",
+        "tests",
+        "compounding"
+      ],
+      "grug_level": 2,
+      "spiciness": 2,
+      "extraction_note": "Pithy real-world observation on how agents actually help: not magic, just a flood of tiny fixes that compound. Good antidote to both AI hype and AI doom.",
+      "id": "ladybird-team-we-pointed-ai-coding"
     }
   ]
 }

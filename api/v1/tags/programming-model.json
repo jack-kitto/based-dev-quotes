@@ -1,0 +1,27 @@
+{
+  "tag": "programming-model",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Pointers have provenance, integers don't.",
+      "author": "bryanlarsen",
+      "author_slug": "bryanlarsen",
+      "source": "Hacker News — What's the difference between an integer and a pointer? (2018)",
+      "source_url": "https://news.ycombinator.com/item?id=50587286",
+      "categories": [
+        "wisdom",
+        "unix"
+      ],
+      "tags": [
+        "pointers",
+        "memory",
+        "c",
+        "programming-model"
+      ],
+      "grug_level": 2,
+      "spiciness": 3,
+      "extraction_note": "Dense one-liner that captures a genuinely subtle CS distinction — perfect length, instantly memorable.",
+      "id": "bryanlarsen-pointers-have-provenance-integers"
+    }
+  ]
+}

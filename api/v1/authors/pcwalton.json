@@ -1,0 +1,29 @@
+{
+  "author": "pcwalton",
+  "slug": "pcwalton",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "Makes me wonder if the next frontier is going to be something like \"the OS is shipped encrypted with keys that only exist in hardware, and all the CPU knows how to do is decrypt blocks and put them in the i-cache where it will not let you look at them\" — to prevent you from doing anything with the OS executables other than running them.",
+      "author": "pcwalton",
+      "author_slug": "pcwalton",
+      "source": "Hacker News — XNU Linux: Full OS X GUI Userspace on Linux",
+      "source_url": "https://news.ycombinator.com/item?id=50607261",
+      "categories": [
+        "shitpost",
+        "complexity",
+        "unix"
+      ],
+      "tags": [
+        "drm",
+        "hardware-lock-in",
+        "dystopia",
+        "apple"
+      ],
+      "grug_level": 3,
+      "spiciness": 4,
+      "extraction_note": "Darkly funny extrapolation of where vendor lock-in is heading — vivid imagery and genuinely unsettling once you think about it.",
+      "id": "pcwalton-makes-me-wonder-if"
+    }
+  ]
+}

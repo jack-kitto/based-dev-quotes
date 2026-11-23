@@ -1,0 +1,26 @@
+{
+  "tag": "measurement",
+  "count": 1,
+  "quotes": [
+    {
+      "text": "The number of vulnerabilities has not increased, only our ability to identify and report them.",
+      "author": "14113",
+      "author_slug": "14113",
+      "source": "Hacker News — The next circle of security hell",
+      "source_url": "https://news.ycombinator.com/item?id=50610334",
+      "categories": [
+        "wisdom"
+      ],
+      "tags": [
+        "security",
+        "vulnerabilities",
+        "legacy-code",
+        "measurement"
+      ],
+      "grug_level": 4,
+      "spiciness": 3,
+      "extraction_note": "Contrarian security take that reframes a scary headline — the classic 'old code, better eyes' insight, trimmed to the core.",
+      "id": "14113-the-number-of-vulnerabilities"
+    }
+  ]
+}

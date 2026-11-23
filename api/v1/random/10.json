@@ -1,16 +1,16 @@
 {
-  "text": "Your first paying customer is worth more than your next 100 signups. Treat them like royalty.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Growth is never by mere chance; it is the result of forces working together.",
+  "author": "James Cash Penney",
+  "author_slug": "penney",
   "categories": [
-    "indie-hacker"
+    "business"
   ],
   "tags": [
-    "customers",
-    "appreciation"
+    "growth",
+    "forces"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-first-paying-customer",
+  "spiciness": 1,
+  "id": "penney-growth-is-never-by",
   "source": "Community sourced"
 }
