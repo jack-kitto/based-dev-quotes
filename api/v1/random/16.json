@@ -1,17 +1,17 @@
 {
-  "text": "Vision without execution is hallucination.",
-  "author": "Thomas Edison",
-  "author_slug": "edison",
+  "text": "Your tech stack matters less than your distribution. A mediocre product with great distribution beats a great product with no distribution.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business",
-    "wisdom"
+    "saas",
+    "marketing"
   ],
   "tags": [
-    "execution",
-    "vision"
+    "distribution",
+    "product"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "edison-vision-without-execution-is",
+  "spiciness": 2,
+  "id": "based-your-tech-stack-matters",
   "source": "Community sourced"
 }

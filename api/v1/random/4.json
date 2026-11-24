@@ -1,16 +1,17 @@
 {
-  "text": "Simplicity is not about absence. It's about presence of the right things.",
+  "text": "Your product's settings page is a maze if it doesn't have a search function. Add search.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "design",
+    "product"
   ],
   "tags": [
-    "simplicity",
-    "intention"
+    "settings",
+    "navigation"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-simplicity-is-not-about",
+  "id": "based-your-products-settings-page",
   "source": "Community sourced"
 }

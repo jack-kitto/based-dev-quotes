@@ -1,17 +1,17 @@
 {
-  "text": "The best time to check in with a customer is when things are going well. Not just when they're not.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "The art of being wise is the art of knowing what to overlook.",
+  "author": "William James",
+  "author_slug": "james",
   "categories": [
-    "business"
+    "wisdom"
   ],
   "tags": [
-    "customers",
-    "proactive"
+    "simplicity",
+    "wisdom"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-time-to-1021",
+  "spiciness": 1,
+  "id": "james-the-art-of-being",
   "source": "Community sourced",
-  "_generated_at": "2026-11-23T06:05:28.236324+00:00"
+  "_generated_at": "2026-11-24T08:44:01.455168+00:00"
 }

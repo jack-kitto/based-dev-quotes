@@ -1,16 +1,16 @@
 {
-  "text": "Building a tool you'd pay for is easy. Getting others to pay for it is hard. The gap between these is where indie hackers live.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "A leader is one who knows the way, goes the way, and shows the way.",
+  "author": "John C. Maxwell",
+  "author_slug": "maxwell",
   "categories": [
-    "indie-hacker"
+    "business"
   ],
   "tags": [
-    "pricing",
-    "validation"
+    "leadership",
+    "example"
   ],
   "grug_level": 3,
-  "spiciness": 3,
-  "id": "based-building-a-tool-youd",
+  "spiciness": 1,
+  "id": "maxwell-a-leader-is-one",
   "source": "Community sourced"
 }
