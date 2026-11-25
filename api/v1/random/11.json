@@ -1,19 +1,16 @@
 {
-  "id": "select-star-production",
-  "text": "Everybody gangsta until someone runs SELECT * FROM users in production with no WHERE clause.",
-  "author": "Unknown",
-  "author_slug": "unknown",
-  "source": "Dev Twitter",
+  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "author": "Winston Churchill",
+  "author_slug": "churchill",
   "categories": [
-    "funny",
-    "suffering"
+    "wisdom"
   ],
   "tags": [
-    "sql",
-    "production",
-    "database",
-    "fear"
+    "courage",
+    "persistence"
   ],
-  "grug_level": 5,
-  "spiciness": 3
+  "grug_level": 3,
+  "spiciness": 1,
+  "id": "churchill-success-is-not-final",
+  "source": "Community sourced"
 }

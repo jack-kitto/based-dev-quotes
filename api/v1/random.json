@@ -1,17 +1,17 @@
 {
-  "text": "The art of being wise is the art of knowing what to overlook.",
-  "author": "William James",
-  "author_slug": "james",
+  "text": "The best sales pitch is a product demo that sells itself.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "business"
   ],
   "tags": [
-    "simplicity",
-    "wisdom"
+    "sales",
+    "demo"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "james-the-art-of-being",
+  "spiciness": 2,
+  "id": "based-the-best-sales-pitch",
   "source": "Community sourced",
-  "_generated_at": "2026-11-24T08:44:01.455168+00:00"
+  "_generated_at": "2026-11-25T07:18:22.972088+00:00"
 }

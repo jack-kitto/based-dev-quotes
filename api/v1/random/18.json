@@ -1,16 +1,17 @@
 {
-  "text": "A leader is one who knows the way, goes the way, and shows the way.",
-  "author": "John C. Maxwell",
-  "author_slug": "maxwell",
+  "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "business",
+    "entrepreneur"
   ],
   "tags": [
-    "leadership",
-    "example"
+    "passive-income",
+    "leverage"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "maxwell-a-leader-is-one",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-your-business-should-make",
   "source": "Community sourced"
 }
