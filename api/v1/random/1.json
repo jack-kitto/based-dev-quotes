@@ -1,17 +1,18 @@
 {
-  "text": "Your product should be so intuitive that the first-time user experience feels like coming home.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "full-stack-pain",
+  "text": "'Full-stack developer' is just a polite way of saying 'we couldn't afford to hire two people.'",
+  "author": "Unknown",
+  "author_slug": "unknown",
+  "source": "Dev Twitter",
   "categories": [
-    "users",
-    "product"
+    "funny",
+    "career"
   ],
   "tags": [
-    "ux",
-    "first-impression"
+    "full-stack",
+    "hiring",
+    "startups"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-your-product-should-be-683",
-  "source": "Community sourced"
+  "grug_level": 4,
+  "spiciness": 3
 }

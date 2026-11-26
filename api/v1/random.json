@@ -1,17 +1,17 @@
 {
-  "text": "The best sales pitch is a product demo that sells itself.",
-  "author": "based",
-  "author_slug": "based",
+  "text": "Without data, you're just another person with an opinion.",
+  "author": "W. Edwards Deming",
+  "author_slug": "deming",
   "categories": [
-    "business"
+    "wisdom"
   ],
   "tags": [
-    "sales",
-    "demo"
+    "data",
+    "evidence"
   ],
   "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-sales-pitch",
+  "spiciness": 1,
+  "id": "deming-without-data-youre-just",
   "source": "Community sourced",
-  "_generated_at": "2026-11-25T07:18:22.972088+00:00"
+  "_generated_at": "2026-11-26T07:07:21.655146+00:00"
 }

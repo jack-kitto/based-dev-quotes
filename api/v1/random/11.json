@@ -1,16 +1,17 @@
 {
-  "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "author": "Winston Churchill",
-  "author_slug": "churchill",
+  "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom"
+    "saas",
+    "engineering"
   ],
   "tags": [
-    "courage",
-    "persistence"
+    "api",
+    "distribution"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "churchill-success-is-not-final",
+  "spiciness": 2,
+  "id": "based-apifirst-isnt-a-technical",
   "source": "Community sourced"
 }

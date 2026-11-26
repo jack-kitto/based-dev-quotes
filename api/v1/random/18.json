@@ -1,17 +1,16 @@
 {
-  "text": "Your business should make money while you sleep. If it doesn't, you haven't built a business — you've built a job.",
+  "text": "The best content marketing doesn't feel like marketing. It feels like a helpful conversation.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business",
-    "entrepreneur"
+    "marketing"
   ],
   "tags": [
-    "passive-income",
-    "leverage"
+    "content",
+    "conversation"
   ],
-  "grug_level": 4,
-  "spiciness": 3,
-  "id": "based-your-business-should-make",
+  "grug_level": 3,
+  "spiciness": 2,
+  "id": "based-the-best-content-marketing",
   "source": "Community sourced"
 }
