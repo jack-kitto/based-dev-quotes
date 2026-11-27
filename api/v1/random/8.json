@@ -1,16 +1,16 @@
 {
-  "text": "Your first year in business is survival. Your second year is learning. Your third year is growth.",
+  "text": "Every database query should have an index. Every index should have a reason. Every reason should be tested.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "indie-hacker"
+    "engineering"
   ],
   "tags": [
-    "timeline",
-    "expectations"
+    "database",
+    "performance"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-your-first-year-in",
+  "id": "based-every-database-query-should",
   "source": "Community sourced"
 }

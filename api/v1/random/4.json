@@ -1,17 +1,16 @@
 {
-  "text": "Simplicity is the ultimate sophistication.",
-  "author": "Leonardo da Vinci",
-  "author_slug": "davinci",
+  "text": "Every time you write a comment explaining 'why', a senior dev somewhere nods. Every time you write a comment explaining 'what', a senior dev somewhere drinks.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "wisdom",
-    "design"
+    "engineering"
   ],
   "tags": [
-    "simplicity",
-    "classic"
+    "comments",
+    "documentation"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "davinci-simplicity-is-the-ultimate",
+  "grug_level": 3,
+  "spiciness": 3,
+  "id": "based-every-time-you-write",
   "source": "Community sourced"
 }

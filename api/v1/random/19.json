@@ -1,17 +1,16 @@
 {
-  "text": "Why do Java developers wear glasses? Because they can't C#.",
+  "text": "Technical debt is what you call it when you want to feel sophisticated about procrastinating.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "engineering",
-    "shitpost"
+    "engineering"
   ],
   "tags": [
-    "java",
-    "csharp"
+    "tech-debt",
+    "procrastination"
   ],
-  "grug_level": 2,
-  "spiciness": 1,
-  "id": "based-why-do-java-developers",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-technical-debt-is-what",
   "source": "Community sourced"
 }

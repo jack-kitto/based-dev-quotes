@@ -1,17 +1,16 @@
 {
-  "text": "API-first isn't a technical decision. It's a business decision. It means your product can live everywhere.",
+  "text": "Ship weekly or don't ship at all. The gap between weekly and quarterly is the gap between learning and guessing.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "saas",
-    "engineering"
+    "indie-hacker"
   ],
   "tags": [
-    "api",
-    "distribution"
+    "shipping",
+    "velocity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-apifirst-isnt-a-technical",
+  "id": "based-ship-weekly-or-dont",
   "source": "Community sourced"
 }

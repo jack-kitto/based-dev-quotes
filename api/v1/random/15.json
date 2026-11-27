@@ -1,16 +1,17 @@
 {
-  "text": "A startup is a human institution designed to create something new under conditions of extreme uncertainty.",
-  "author": "Eric Ries",
-  "author_slug": "ries",
+  "text": "If you need a PhD to understand your deployment pipeline, you've built a research project, not a product.",
+  "author": "based",
+  "author_slug": "based",
   "categories": [
-    "business"
+    "engineering",
+    "devops"
   ],
   "tags": [
-    "startup",
-    "uncertainty"
+    "deployment",
+    "complexity"
   ],
-  "grug_level": 3,
-  "spiciness": 1,
-  "id": "ries-a-startup-is-a",
+  "grug_level": 4,
+  "spiciness": 3,
+  "id": "based-if-you-need-a-232",
   "source": "Community sourced"
 }
