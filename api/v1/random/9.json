@@ -1,16 +1,18 @@
 {
-  "text": "The best moat is a product so good that switching feels like a downgrade.",
+  "text": "The lean startup method is just the scientific method for people who failed biology.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "business"
+    "business",
+    "entrepreneur",
+    "shitpost"
   ],
   "tags": [
-    "moat",
-    "switching-cost"
+    "lean-startup",
+    "methodology"
   ],
-  "grug_level": 3,
-  "spiciness": 2,
-  "id": "based-the-best-moat-is",
+  "grug_level": 4,
+  "spiciness": 4,
+  "id": "based-the-lean-startup-method",
   "source": "Community sourced"
 }

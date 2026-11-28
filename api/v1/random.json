@@ -1,17 +1,18 @@
 {
-  "text": "The best way to improve your product's design is to remove things, not add them.",
+  "text": "The best color palette for a SaaS is your brand color plus gray. Everything else is decoration.",
   "author": "based",
   "author_slug": "based",
   "categories": [
-    "design"
+    "design",
+    "saas"
   ],
   "tags": [
-    "removal",
+    "color",
     "simplicity"
   ],
   "grug_level": 3,
   "spiciness": 2,
-  "id": "based-the-best-way-to-748",
+  "id": "based-the-best-color-palette",
   "source": "Community sourced",
-  "_generated_at": "2026-11-27T07:02:32.104490+00:00"
+  "_generated_at": "2026-11-28T06:37:06.381369+00:00"
 }

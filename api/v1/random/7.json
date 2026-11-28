@@ -1,16 +1,17 @@
 {
-  "text": "Rest is not the opposite of work. It's the foundation of it.",
-  "author": "based",
-  "author_slug": "based",
+  "id": "perlis-optimization",
+  "text": "Optimization hinders evolution. Everything should be built top-down, except the first time.",
+  "author": "Alan Perlis",
+  "author_slug": "perlis",
+  "source": "Epigrams on Programming, 1982",
   "categories": [
-    "productivity"
+    "wisdom"
   ],
   "tags": [
-    "rest",
-    "work"
+    "optimization",
+    "evolution",
+    "design"
   ],
   "grug_level": 3,
-  "spiciness": 1,
-  "id": "based-rest-is-not-the",
-  "source": "Community sourced"
+  "spiciness": 2
 }
